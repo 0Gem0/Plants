@@ -1,0 +1,10 @@
+Keracyanin Chloride
+(2R,3R,4R,5R,6S)-2-[[(2R,3S,4S,5R,6S)-6-[2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromenylium-3-yl]oxy-3,4,5-trihydroxyoxan-2-yl]methoxy]-6-methyloxane-3,4,5-triol;chloride
+CHEMBL592218
+29231
+CHEBI:16726
+C27H30O15.ClH
+595.17
+InChI=1S/C27H30O15.ClH/c1-9-19(32)21(34)23(36)26(39-9)38-8-18-20(33)22(35)24(37)27(42-18)41-17-7-12-14(30)5-11(28)6-16(12)40-25(17)10-2-3-13(29)15(31)4-10;/h2-7,9,18-24,26-27,32-37H,8H2,1H3,(H3-,28,29,30,31);1H/t9-,18+,19-,20+,21+,22-,23+,24+,26+,27+;/m0./s1
+ADZHXBNWNZIHIX-XYGAWYNKSA-N
+Oc1cc(O)c2c(c1)[o+]c(c(c2)O[C@@H]1O[C@H](CO[C@@H]2O[C@@H](C)[C@@H]([C@H]([C@H]2O)O)O)[C@H]([C@@H]([C@H]1O)O)O)c1ccc(c(c1)[O-])O.Cl

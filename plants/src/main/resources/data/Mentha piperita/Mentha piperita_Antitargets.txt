@@ -1,0 +1,56 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.060	COMP1072	
+ATPase inhibitor	0.370	COMP1072	(0.165 COMP1976) (0.138 COMP1975)
+Acetylcholine M1 receptor antagonist	0.129	COMP1072	
+Acetylcholinesterase inhibitor	0.452	COMP1975	(0.262 COMP1976)
+Aconitate hydratase inhibitor	0.056	COMP1072	
+Acyl-CoA dehydrogenase inhibitor	0.049	COMP1072	
+Adenylate cyclase inhibitor	0.116	COMP1072	
+Adenylate kinase inhibitor	0.100	COMP1072	
+Alcohol dehydrogenase inhibitor	0.122	COMP1975	
+Alkaline phosphatase inhibitor	0.319	COMP1975	
+Androgen agonist	0.111	COMP1072	
+Androgen antagonist	0.159	COMP1976	(0.113 COMP1975) (0.101 COMP1072)
+Arginase inhibitor	0.037	COMP1975	(0.033 COMP1072)
+Argininosuccinate synthase inhibitor	0.051	COMP1072	
+Aryl hydrocarbon receptor agonist	0.543	COMP1975	(0.145 COMP1976)
+Butyrylcholinesterase inhibitor	0.247	COMP1975	(0.086 COMP1976)
+CYP1A2 inhibitor	0.919	COMP1975	(0.227 COMP1976)
+CYP2C9 inhibitor	0.509	COMP1975	
+CYP3A4 inhibitor	0.344	COMP1975	(0.338 COMP1976)
+Ca2+-transporting ATPase inhibitor	0.192	COMP1072	(0.142 COMP1975) (0.140 COMP1976)
+Calcium channel L-type blocker	0.123	COMP1072	
+Cyclooxygenase 1 inhibitor	0.211	COMP1975	
+Cyclooxygenase 2 inhibitor	0.202	COMP1975	(0.149 COMP1976)
+Cyclooxygenase inhibitor	0.233	COMP1975	(0.144 COMP1976)
+Cystathionine beta-synthase inhibitor	0.817	COMP1975	(0.136 COMP1976) (0.101 COMP1072)
+DNA polymerase beta inhibitor	0.389	COMP1975	
+DOPA decarboxylase inhibitor	0.210	COMP1975	
+Dopamine D2 agonist	0.039	COMP1975	
+Electron transport complex I inhibitor	0.628	COMP1976	(0.194 COMP1975)
+Estrogen agonist	0.195	COMP1975	
+GABA aminotransferase inhibitor	0.082	COMP1975	
+GRP78 expression inhibitor	0.021	COMP1072	
+Glucose-6-phosphate isomerase inhibitor	0.056	COMP1072	(0.049 COMP1976)
+HMG CoA reductase inhibitor	0.075	COMP1072	
+Heat shock protein 70 antagonist	0.204	COMP1975	(0.132 COMP1976)
+Hexokinase inhibitor	0.125	COMP1975	
+MAO A inhibitor	0.570	COMP1975	(0.108 COMP1976)
+MAO inhibitor	0.531	COMP1975	(0.150 COMP1976)
+Na+ K+ transporting ATPase inhibitor	0.118	COMP1072	(0.099 COMP1976) (0.092 COMP1975)
+Opioid kappa receptor agonist	0.179	COMP1072	
+Opioid mu receptor agonist	0.048	COMP1072	
+Peroxidase inhibitor	0.648	COMP1975	(0.144 COMP1976)
+Phosphodiesterase 4D inhibitor	0.099	COMP1975	
+Phosphofructokinase-1 inhibitor	0.081	COMP1072	(0.063 COMP1976)
+Phospholipase A2 inhibitor	0.130	COMP1975	
+Phospholipase C inhibitor	0.213	COMP1072	(0.144 COMP1975)
+Prostaglandin F2 alpha agonist	0.045	COMP1072	
+Pyruvate kinase inhibitor	0.483	COMP1975	
+Succinate dehydrogenase inhibitor	0.229	COMP1975	(0.152 COMP1072)
+Superoxide dismutase inhibitor	0.588	COMP1975	
+Topoisomerase I inhibitor	0.239	COMP1975	(0.122 COMP1976)
+Topoisomerase II alpha inhibitor	0.366	COMP1975	
+Triose-phosphate isomerase inhibitor	0.132	COMP1072	
+Tyrosine 3 hydroxylase inhibitor	0.334	COMP1975	(0.206 COMP1072) (0.205 COMP1976)
+UDP-glucose 4-epimerase inhibitor	0.157	COMP1072	(0.089 COMP1975)

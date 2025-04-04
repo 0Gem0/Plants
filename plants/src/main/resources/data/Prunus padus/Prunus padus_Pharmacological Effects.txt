@@ -1,0 +1,256 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.494	COMP271	
+Acetylcholine release stimulant	0.121	COMP2437	(0.118 COMP271)
+Actinic keratosis treatment	0.383	COMP77	(0.181 COMP271)
+Acute respiratory distress syndrome (ARDS) treatment	0.152	COMP77	
+Age-related macular degeneration treatment	0.227	COMP271	(0.178 COMP77)
+Alzheimer's disease treatment	0.428	COMP77	
+Amyotrophic lateral sclerosis treatment	0.685	COMP77	
+Anabolic	0.213	COMP77	(0.138 COMP271)
+Analeptic	0.762	COMP77	(0.485 COMP271) (0.173 COMP2437)
+Andropause treatment	0.080	COMP77	
+Anesthetic	0.828	COMP77	(0.192 COMP271)
+Anesthetic general	0.807	COMP77	(0.411 COMP271) (0.188 COMP2437)
+Anesthetic inhalation	0.065	COMP77	(0.061 COMP271)
+Anesthetic local	0.180	COMP271	(0.136 COMP77)
+Angiogenesis inhibitor	0.245	COMP2437	
+Angiogenesis stimulant	0.361	COMP77	(0.292 COMP271)
+Antiacne	0.560	COMP77	(0.216 COMP271)
+Antialcoholic	0.285	COMP77	(0.174 COMP271)
+Antiallergic	0.269	COMP271	
+Antiamyloidogenic	0.460	COMP271	(0.333 COMP2437)
+Antianemic	0.266	COMP271	(0.144 COMP2437)
+Antianginal	0.139	COMP271	
+Antianorexic	0.161	COMP271	
+Antiarthritic	0.304	COMP271	
+Antibacterial	0.465	COMP77	(0.437 COMP271) (0.320 COMP2437)
+Antibiotic	0.097	COMP271	(0.084 COMP77)
+Antibiotic Anthracycline-like	0.023	COMP271	
+Antibiotic Naphthyridine-like	0.028	COMP271	
+Antibiotic Quinolone-like	0.021	COMP271	(0.019 COMP2437)
+Antibiotic Trimethoprim-like	0.019	COMP271	
+Anticataract	0.809	COMP77	
+Anticholelithogenic	0.293	COMP77	(0.183 COMP271)
+Antidiabetic	0.633	COMP77	(0.368 COMP271)
+Antidiabetic (type 1)	0.251	COMP77	
+Antidiabetic (type 2)	0.364	COMP77	(0.256 COMP271)
+Antidiabetic symptomatic	0.304	COMP77	(0.288 COMP271) (0.201 COMP2437)
+Antidiarrheal	0.239	COMP77	(0.231 COMP271) (0.183 COMP2437)
+Antidote	0.313	COMP271	(0.126 COMP2437)
+Antidote. heavy metal	0.183	COMP271	(0.069 COMP2437)
+Antidote. mercury	0.136	COMP271	
+Antidote. organophosphates	0.088	COMP2437	(0.083 COMP271)
+Antieczematic	0.221	COMP271	(0.144 COMP77)
+Antiepileptic	0.577	COMP77	
+Antifungal	0.544	COMP77	(0.195 COMP271) (0.182 COMP2437)
+Antifungal (Aspergillus)	0.147	COMP271	(0.097 COMP2437)
+Antifungal (Cryptococcus)	0.133	COMP77	
+Antifungal (Pneumocystis)	0.273	COMP271	(0.164 COMP2437)
+Antifungal enhancer	0.298	COMP77	(0.252 COMP271) (0.216 COMP2437)
+Antiglaucomic	0.197	COMP271	
+Antihelmintic	0.183	COMP77	(0.175 COMP271)
+Antihelmintic (Fasciola)	0.152	COMP271	
+Antihelmintic (Nematodes)	0.242	COMP271	
+Antihelmintic (Trematoda)	0.175	COMP271	(0.147 COMP2437)
+Antihemophilic	0.087	COMP271	(0.081 COMP2437)
+Antihemorrhagic	0.188	COMP271	(0.172 COMP77) (0.134 COMP2437)
+Antihypercholesterolemic	0.974	COMP77	(0.592 COMP271) (0.165 COMP2437)
+Antihyperlipoproteinemic	0.932	COMP77	(0.379 COMP271)
+Antihypermotility	0.097	COMP271	
+Antihypertensive	0.473	COMP77	(0.215 COMP271)
+Antihypertriglyceridemic	0.471	COMP271	(0.270 COMP77)
+Antihypotensive	0.421	COMP271	(0.286 COMP2437) (0.192 COMP77)
+Antihypoxic	0.438	COMP271	(0.225 COMP2437) (0.180 COMP77)
+Antiinfertility. female	0.527	COMP77	(0.111 COMP271)
+Antiinflammatory	0.848	COMP77	(0.445 COMP271)
+Antiischemic	0.237	COMP271	
+Antileukemic	0.721	COMP2437	(0.433 COMP77) (0.388 COMP271)
+Antimitotic	0.514	COMP2437	(0.389 COMP271)
+Antimutagenic	0.795	COMP271	(0.400 COMP2437)
+Antimycobacterial	0.182	COMP271	
+Antimycoplasmal	0.106	COMP271	(0.056 COMP2437)
+Antineoplastic (bladder cancer)	0.539	COMP2437	
+Antineoplastic (bone cancer)	0.253	COMP2437	(0.183 COMP271) (0.172 COMP77)
+Antineoplastic (brain cancer)	0.434	COMP2437	(0.344 COMP77) (0.329 COMP271)
+Antineoplastic (breast cancer)	0.655	COMP2437	(0.613 COMP77) (0.412 COMP271)
+Antineoplastic (carcinoma)	0.404	COMP2437	(0.149 COMP271)
+Antineoplastic (cervical cancer)	0.670	COMP2437	(0.312 COMP77) (0.284 COMP271)
+Antineoplastic (colon cancer)	0.764	COMP2437	(0.271 COMP77) (0.253 COMP271)
+Antineoplastic (colorectal cancer)	0.769	COMP2437	(0.285 COMP77) (0.276 COMP271)
+Antineoplastic (endocrine cancer)	0.341	COMP77	(0.300 COMP2437) (0.290 COMP271)
+Antineoplastic (gastric cancer)	0.431	COMP2437	(0.164 COMP271)
+Antineoplastic (glioblastoma multiforme)	0.561	COMP2437	(0.323 COMP77) (0.228 COMP271)
+Antineoplastic (glioma)	0.563	COMP2437	(0.375 COMP77) (0.243 COMP271)
+Antineoplastic (liver cancer)	0.512	COMP77	(0.404 COMP2437) (0.294 COMP271)
+Antineoplastic (lung cancer)	0.738	COMP2437	(0.488 COMP77) (0.318 COMP271)
+Antineoplastic (lymphocytic leukemia)	0.425	COMP2437	(0.203 COMP271)
+Antineoplastic (lymphoma)	0.363	COMP77	(0.267 COMP2437) (0.196 COMP271)
+Antineoplastic (melanoma)	0.629	COMP2437	(0.451 COMP77) (0.303 COMP271)
+Antineoplastic (multiple myeloma)	0.341	COMP2437	(0.302 COMP77) (0.212 COMP271)
+Antineoplastic (myeloid leukemia)	0.251	COMP2437	
+Antineoplastic (non-small cell lung cancer)	0.729	COMP2437	(0.286 COMP271) (0.161 COMP77)
+Antineoplastic (osteosarcoma)	0.388	COMP2437	(0.329 COMP271)
+Antineoplastic (ovarian cancer)	0.581	COMP2437	(0.479 COMP77) (0.283 COMP271)
+Antineoplastic (pancreatic cancer)	0.527	COMP77	(0.400 COMP2437) (0.275 COMP271)
+Antineoplastic (renal cancer)	0.428	COMP2437	(0.389 COMP77) (0.250 COMP271)
+Antineoplastic (sarcoma)	0.406	COMP2437	(0.333 COMP77) (0.286 COMP271)
+Antineoplastic (small cell lung cancer)	0.468	COMP2437	(0.312 COMP271)
+Antineoplastic (solid tumors)	0.555	COMP2437	
+Antineoplastic (squamous cell carcinoma)	0.372	COMP2437	(0.228 COMP271)
+Antineoplastic (uterine cancer)	0.198	COMP2437	(0.182 COMP271)
+Antineoplastic alkaloid	0.212	COMP2437	(0.150 COMP77) (0.086 COMP271)
+Antineoplastic antibiotic	0.165	COMP77	(0.088 COMP2437)
+Antineoplastic antimetabolite	0.144	COMP271	
+Antineoplastic enhancer	0.287	COMP2437	(0.215 COMP77) (0.182 COMP271)
+Antineoplastic. alkylator	0.269	COMP77	(0.131 COMP271) (0.127 COMP2437)
+Antiobesity	0.380	COMP77	
+Antiosteoporotic	0.802	COMP77	
+Antioxidant	0.537	COMP271	(0.413 COMP77) (0.355 COMP2437)
+Antiparasitic	0.207	COMP271	(0.169 COMP2437) (0.167 COMP77)
+Antiparkinsonian. rigidity relieving	0.490	COMP77	(0.277 COMP271) (0.192 COMP2437)
+Antiparkinsonian. tremor relieving	0.288	COMP271	(0.151 COMP2437)
+Antiprotozoal	0.417	COMP2437	
+Antiprotozoal (Amoeba)	0.142	COMP2437	(0.112 COMP271)
+Antiprotozoal (Babesia)	0.116	COMP2437	
+Antiprotozoal (Coccidial)	0.245	COMP2437	(0.174 COMP271)
+Antiprotozoal (Leishmania)	0.239	COMP77	(0.216 COMP271) (0.209 COMP2437)
+Antiprotozoal (Plasmodium)	0.455	COMP2437	
+Antiprotozoal (Toxoplasma)	0.137	COMP271	
+Antiprotozoal (Trichomonas)	0.135	COMP2437	(0.117 COMP271)
+Antipruritic	0.229	COMP77	
+Antipruritic. allergic	0.699	COMP77	(0.514 COMP271) (0.256 COMP2437)
+Antipruritic. non-allergic	0.509	COMP77	(0.341 COMP271)
+Antipsoriatic	0.656	COMP77	(0.187 COMP271)
+Antipyretic	0.618	COMP271	(0.349 COMP77) (0.218 COMP2437)
+Antirickettsial	0.269	COMP271	(0.192 COMP2437)
+Antischistosomal	0.130	COMP271	
+Antiseptic	0.752	COMP271	(0.303 COMP2437)
+Antispirochetal	0.232	COMP271	
+Antithrombocytopenic	0.162	COMP271	
+Antithrombotic	0.419	COMP271	
+Antitreponemal	0.098	COMP271	(0.076 COMP77)
+Antituberculosic	0.177	COMP271	
+Antitussive	0.192	COMP271	
+Antiulcerative	0.282	COMP77	(0.241 COMP271)
+Antiviral (HIV)	0.267	COMP77	(0.175 COMP271)
+Antiviral (Hepatitis B)	0.132	COMP77	(0.098 COMP271)
+Antiviral (Hepatitis C)	0.171	COMP271	(0.149 COMP2437)
+Antiviral (Hepatitis)	0.189	COMP271	(0.165 COMP2437)
+Antiviral (Herpes)	0.307	COMP77	(0.130 COMP2437) (0.126 COMP271)
+Antiviral (Influenza A)	0.380	COMP77	(0.211 COMP271)
+Antiviral (Influenza B)	0.194	COMP271	(0.106 COMP2437)
+Antiviral (Influenza)	0.376	COMP77	(0.314 COMP271)
+Antiviral (Parainfluenza)	0.137	COMP271	
+Antiviral (Rhinovirus)	0.085	COMP271	
+Antiviral (Trachoma)	0.112	COMP271	(0.088 COMP2437)
+Apoptosis agonist	0.814	COMP77	(0.623 COMP2437) (0.542 COMP271)
+Apoptosis antagonist	0.622	COMP77	(0.393 COMP271) (0.203 COMP2437)
+Atherosclerosis treatment	0.643	COMP77	(0.280 COMP271)
+Autism spectrum disorders treatment	0.721	COMP77	
+Bone diseases treatment	0.827	COMP77	
+Bone formation stimulant	0.259	COMP77	(0.133 COMP271)
+Bronchodilator	0.165	COMP271	
+Cardioprotectant	0.454	COMP271	(0.318 COMP2437) (0.256 COMP77)
+Cardiovascular analeptic	0.688	COMP271	(0.271 COMP2437) (0.181 COMP77)
+Cell adhesion inhibitor	0.122	COMP271	
+Cell wall synthesis inhibitor	0.200	COMP271	
+Chemopreventive	0.872	COMP77	(0.466 COMP271) (0.235 COMP2437)
+Chemoprotective	0.790	COMP77	(0.493 COMP271) (0.323 COMP2437)
+Choleretic	0.396	COMP77	(0.351 COMP271)
+Cholesterol absorption inhibitor	0.203	COMP77	(0.042 COMP271)
+Cholesterol synthesis inhibitor	0.806	COMP77	(0.322 COMP271)
+Coagulant	0.178	COMP271	(0.127 COMP2437)
+Contraceptive	0.532	COMP77	
+Contraceptive female	0.469	COMP77	(0.148 COMP271) (0.137 COMP2437)
+Contraceptive male	0.276	COMP77	
+Cushing's syndrome treatment	0.149	COMP77	
+Cystic fibrosis treatment	0.144	COMP271	
+Cytostatic	0.540	COMP2437	(0.500 COMP271) (0.284 COMP77)
+DNA intercalator	0.319	COMP2437	
+DNA synthesis inhibitor	0.319	COMP271	(0.294 COMP2437)
+Dementia treatment	0.114	COMP271	
+Diabetic nephropathy treatment	0.237	COMP77	(0.185 COMP271)
+Diabetic retinopathy treatment	0.358	COMP77	
+Diuretic	0.531	COMP77	(0.149 COMP271)
+Endometrios treatment	0.311	COMP77	(0.093 COMP271)
+Expectorant	0.388	COMP271	(0.132 COMP2437) (0.112 COMP77)
+Gastric antisecretory	0.111	COMP271	
+Gastritis treatment	0.190	COMP271	(0.139 COMP2437)
+Gout treatment	0.322	COMP271	
+Growth stimulant	0.209	COMP77	(0.125 COMP271)
+HDL-cholesterol increasing	0.155	COMP271	(0.135 COMP77)
+Hair growth stimulant	0.855	COMP77	(0.206 COMP271)
+Hemostatic	0.198	COMP271	
+Hepatic disorders treatment	0.793	COMP77	(0.378 COMP271)
+Hepatoprotectant	0.564	COMP77	(0.289 COMP271) (0.185 COMP2437)
+Hypercalcemia treatment	0.230	COMP77	
+Hyperparathyroidism treatment	0.249	COMP77	(0.154 COMP271)
+Hypogonadism treatment	0.063	COMP77	
+Hypolipemic	0.640	COMP77	(0.195 COMP271)
+Immunomodulator	0.583	COMP77	
+Immunostimulant	0.601	COMP77	(0.231 COMP271)
+Immunosuppressant	0.603	COMP77	(0.282 COMP271)
+Inflammatory Bowel disease treatment	0.614	COMP77	
+Insulin sensitizer	0.278	COMP271	(0.153 COMP77)
+Keratolytic	0.488	COMP271	(0.076 COMP2437)
+Leukotriene synthesis inhibitor	0.114	COMP271	
+Lipoprotein disorders treatment	0.774	COMP77	(0.258 COMP271)
+Liver cirrhosis treatment	0.386	COMP77	
+Liver fibrosis treatment	0.365	COMP77	(0.137 COMP271)
+Male reproductive disfunction treatment	0.320	COMP77	
+Menstruation disorders treatment	0.161	COMP77	
+Metabolic disease treatment	0.578	COMP77	
+Movement disorders treatment	0.200	COMP271	
+Mucolytic	0.322	COMP271	(0.113 COMP2437) (0.102 COMP77)
+Muscle relaxant	0.407	COMP77	(0.178 COMP271)
+Muscular dystrophy treatment	0.291	COMP77	(0.239 COMP271) (0.154 COMP2437)
+Myasthenia Gravis treatment	0.102	COMP271	
+Myocardial infarction treatment	0.341	COMP77	(0.274 COMP271)
+Myocardial ischemia treatment	0.150	COMP271	
+Narcotic antagonist	0.095	COMP271	(0.077 COMP2437)
+Neuropathy treatment	0.206	COMP77	(0.194 COMP271)
+Neutropenia treatment	0.127	COMP77	
+Non-steroidal antiinflammatory agent	0.368	COMP271	(0.214 COMP2437)
+Paget's disease treatment	0.171	COMP77	(0.126 COMP271)
+Pancreatic disorders treatment	0.119	COMP271	
+Phobic disorders treatment	0.208	COMP271	(0.162 COMP2437)
+Photosensitizer	0.169	COMP271	(0.162 COMP2437)
+Platelet aggregation inhibitor	0.169	COMP2437	(0.161 COMP271)
+Platelet antagonist	0.171	COMP271	
+Postcoital contraceptive	0.089	COMP77	(0.073 COMP271)
+Postmenopausal disorders treatment	0.248	COMP77	
+Posttraumatic stress disorder treatment	0.098	COMP77	
+Premenstrual syndrome treatment	0.115	COMP77	
+Proliferative diseases treatment	0.817	COMP77	(0.387 COMP271) (0.268 COMP2437)
+Prostate cancer treatment	0.610	COMP2437	(0.594 COMP77) (0.368 COMP271)
+Prostate disorders treatment	0.551	COMP77	(0.198 COMP271)
+Prostatic (benign) hyperplasia treatment	0.725	COMP77	(0.146 COMP271)
+Psychosexual dysfunction treatment	0.408	COMP77	(0.119 COMP271)
+Psychostimulant	0.204	COMP77	(0.186 COMP271) (0.171 COMP2437)
+Radioprotector	0.561	COMP271	(0.452 COMP77) (0.190 COMP2437)
+Radiosensitizer	0.423	COMP2437	(0.407 COMP271)
+Raynaud's phenomenon treatment	0.210	COMP271	
+Renal disease treatment	0.480	COMP77	
+Renal failure treatment	0.182	COMP271	
+Respiratory analeptic	0.873	COMP77	(0.602 COMP271) (0.209 COMP2437)
+Restless leg syndrome treatment	0.090	COMP271	
+Retinoprotector	0.687	COMP77	(0.129 COMP271)
+Septic shock treatment	0.155	COMP271	
+Skeletal muscle relaxant	0.235	COMP77	(0.193 COMP271)
+Skin whitener	0.374	COMP271	(0.202 COMP77) (0.194 COMP2437)
+Sleep disorders treatment	0.158	COMP77	
+Spasmolytic	0.385	COMP2437	(0.384 COMP271) (0.182 COMP77)
+Stroke treatment	0.252	COMP77	(0.237 COMP271)
+Thrombolytic	0.182	COMP271	(0.142 COMP77)
+Tocolytic	0.097	COMP271	(0.082 COMP2437)
+Tourette's syndrome treatment	0.097	COMP271	
+Tumour necrosis factor alpha release inhibitor	0.306	COMP271	(0.216 COMP77) (0.187 COMP2437)
+Uric acid excretion stimulant	0.258	COMP271	
+Uterine relaxant	0.078	COMP271	
+Uterine stimulant	0.184	COMP271	(0.148 COMP2437) (0.130 COMP77)
+Vascular (periferal) disease treatment	0.279	COMP77	(0.272 COMP271)
+Vascular dementia treatment	0.109	COMP271	
+Vasodilator	0.312	COMP271	(0.159 COMP2437)
+Vasodilator. coronary	0.493	COMP271	(0.348 COMP2437)
+Vasodilator. peripheral	0.593	COMP271	(0.283 COMP2437)
+Wound healing agent	0.322	COMP77	(0.151 COMP271)

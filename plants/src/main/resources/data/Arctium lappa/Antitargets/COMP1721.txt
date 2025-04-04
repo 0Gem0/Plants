@@ -1,0 +1,53 @@
+0,574  0,004  Phospholipase C inhibitor
+0,478  0,015  Superoxide dismutase inhibitor
+0,457  0,014  Peroxidase inhibitor
+0,458  0,035  CYP2C9 inhibitor
+0,410  0,007  Tyrosine 3 hydroxylase inhibitor
+0,393  0,037  CYP2D6 inhibitor
+0,346  0,005  Estrogen agonist
+0,369  0,043  CYP3A4 inhibitor
+0,289  0,015  Phospholipase A2 inhibitor
+0,263  0,018  Succinate dehydrogenase inhibitor
+0,213  0,023  Adenylate cyclase inhibitor
+0,208  0,023  Cystathionine beta-synthase inhibitor
+0,189  0,009  DOPA decarboxylase inhibitor
+0,181  0,011  Electron transport complex I inhibitor
+0,170  0,013  Ca2+-transporting ATPase inhibitor
+0,160  0,026  UDP-glucose 4-epimerase inhibitor
+0,152  0,025  Adenylate kinase inhibitor
+0,179  0,058  ATPase inhibitor
+0,130  0,015  Phenylalanine 4-hydroxylase inhibitor
+0,138  0,024  Triose-phosphate isomerase inhibitor
+0,133  0,022  Phosphofructokinase-1 inhibitor
+0,117  0,018  GABA aminotransferase inhibitor
+0,103  0,005  Glucocorticoid antagonist
+0,112  0,014  Acyl-CoA dehydrogenase inhibitor
+0,124  0,031  Androgen antagonist
+0,146  0,054  Heat shock protein 70 antagonist
+0,158  0,067  Acetylcholine M1 receptor antagonist
+0,157  0,071  Hexokinase inhibitor
+0,091  0,017  Cannabinoid CB2 receptor antagonist
+0,089  0,019  Androgen agonist
+0,098  0,031  Glutamate dehydrogenase inhibitor
+0,076  0,012  Beta 2 adrenoreceptor agonist
+0,069  0,018  Alpha-mannosidase inhibitor
+0,069  0,019  Aconitate hydratase inhibitor
+0,090  0,041  Na+ K+ transporting ATPase inhibitor
+0,053  0,004  Glucocorticoid agonist
+0,061  0,018  Glucose-6-phosphate isomerase inhibitor
+0,084  0,045  Catalase inhibitor
+0,069  0,031  Argininosuccinate synthase inhibitor
+0,075  0,038  Opioid delta receptor antagonist
+0,184  0,149  CYP1A2 inhibitor
+0,068  0,036  Cannabinoid CB1 receptor antagonist
+0,089  0,065  Alcohol dehydrogenase inhibitor
+0,053  0,033  Beta 2 adrenoreceptor antagonist
+0,073  0,054  Alpha 2a adrenoreceptor antagonist
+0,041  0,023  Retinoic acid alpha receptor agonist
+0,027  0,011  Prostaglandin F2 alpha agonist
+0,036  0,022  Fumarate hydratase inhibitor
+0,058  0,044  Acetylcholine M3 receptor antagonist
+0,054  0,044  Dopamine uptake inhibitor
+0,026  0,018  Thyroid hormone agonist
+0,044  0,037  Aminopeptidase N inhibitor
+

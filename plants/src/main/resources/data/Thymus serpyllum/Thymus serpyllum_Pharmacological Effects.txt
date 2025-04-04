@@ -1,0 +1,264 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.691	COMP179	(0.409 COMP19) (0.250 COMP198)
+Acetylcholine release stimulant	0.103	COMP179	(0.097 COMP198)
+Actinic keratosis treatment	0.254	COMP179	(0.251 COMP19) (0.167 COMP198)
+Age-related macular degeneration treatment	0.211	COMP179	
+Alzheimer's disease treatment	0.449	COMP198	(0.381 COMP180) (0.287 COMP19)
+Anabolic	0.171	COMP19	(0.149 COMP198) (0.147 COMP179)
+Analeptic	0.792	COMP19	(0.582 COMP179) (0.320 COMP198) (0.249 COMP180)
+Analgesic	0.410	COMP19	
+Analgesic. opioid	0.072	COMP19	
+Andropause treatment	0.211	COMP19	
+Anesthetic	0.452	COMP179	(0.186 COMP19)
+Anesthetic general	0.620	COMP179	(0.245 COMP19) (0.162 COMP180) (0.149 COMP198)
+Anesthetic inhalation	0.074	COMP19	(0.068 COMP179) (0.053 COMP198)
+Anesthetic local	0.282	COMP179	(0.101 COMP19)
+Angiogenesis inhibitor	0.252	COMP180	(0.209 COMP198)
+Angiogenesis stimulant	0.354	COMP198	(0.315 COMP180) (0.308 COMP19) (0.285 COMP179)
+Antiacne	0.416	COMP19	(0.194 COMP179)
+Antialcoholic	0.290	COMP19	(0.228 COMP198)
+Antiallergic	0.416	COMP19	(0.361 COMP180)
+Antiamyloidogenic	0.604	COMP180	(0.511 COMP198) (0.323 COMP179) (0.152 COMP19)
+Antianemic	0.186	COMP179	(0.117 COMP198)
+Antianorexic	0.164	COMP179	
+Antiasthmatic	0.642	COMP19	
+Antibacterial	0.479	COMP198	(0.423 COMP180) (0.398 COMP19) (0.363 COMP179)
+Antibiotic	0.128	COMP19	(0.085 COMP198) (0.080 COMP179)
+Antibiotic Anthracycline-like	0.022	COMP198	(0.020 COMP179)
+Antibiotic Glycopeptide-like	0.086	COMP198	
+Antibiotic Tetracycline-like	0.017	COMP198	
+Anticataract	0.166	COMP198	(0.111 COMP179) (0.097 COMP180)
+Anticholelithogenic	0.173	COMP179	(0.122 COMP19) (0.106 COMP198)
+Anticonvulsant	0.361	COMP19	
+Antidiabetic	0.460	COMP19	(0.423 COMP198) (0.338 COMP179) (0.259 COMP180)
+Antidiabetic (type 2)	0.214	COMP179	(0.203 COMP19)
+Antidiabetic symptomatic	0.355	COMP198	(0.333 COMP180)
+Antidiarrheal	0.229	COMP179	(0.169 COMP198) (0.143 COMP180)
+Antidote	0.349	COMP198	(0.238 COMP180) (0.182 COMP179) (0.138 COMP19)
+Antidote. heavy metal	0.183	COMP198	(0.068 COMP180) (0.063 COMP179)
+Antidote. mercury	0.153	COMP179	(0.152 COMP198) (0.137 COMP19)
+Antidote. organophosphates	0.098	COMP179	(0.088 COMP198) (0.084 COMP19)
+Antieczematic	0.226	COMP179	
+Antieczematic atopic	0.255	COMP19	
+Antiemphysemic	0.072	COMP179	
+Antiepileptic	0.346	COMP19	(0.176 COMP179)
+Antifungal	0.528	COMP19	(0.394 COMP198) (0.360 COMP179) (0.309 COMP180)
+Antifungal (Aspergillus)	0.199	COMP19	(0.166 COMP179) (0.116 COMP198) (0.097 COMP180)
+Antifungal (Candida)	0.110	COMP179	(0.095 COMP19)
+Antifungal (Cryptococcus)	0.221	COMP19	(0.156 COMP179) (0.151 COMP198)
+Antifungal (Pneumocystis)	0.157	COMP180	(0.145 COMP179) (0.140 COMP198) (0.116 COMP19)
+Antifungal enhancer	0.321	COMP19	(0.287 COMP179) (0.275 COMP198) (0.187 COMP180)
+Antiglaucomic	0.293	COMP19	(0.180 COMP179)
+Antihelmintic	0.467	COMP179	(0.395 COMP19) (0.371 COMP198) (0.299 COMP180)
+Antihelmintic (Fasciola)	0.180	COMP179	(0.178 COMP198)
+Antihelmintic (Nematodes)	0.416	COMP179	(0.259 COMP198) (0.177 COMP19)
+Antihelmintic (Trematoda)	0.511	COMP198	(0.487 COMP180) (0.152 COMP179)
+Antihemophilic	0.091	COMP179	
+Antihemorrhagic	0.573	COMP198	(0.442 COMP180) (0.180 COMP179)
+Antihypercholesterolemic	0.617	COMP198	(0.586 COMP179) (0.470 COMP180) (0.367 COMP19)
+Antihyperlipoproteinemic	0.292	COMP179	(0.261 COMP198) (0.259 COMP19) (0.119 COMP180)
+Antihypermotility	0.101	COMP179	
+Antihypertriglyceridemic	0.539	COMP198	(0.523 COMP180) (0.327 COMP179) (0.286 COMP19)
+Antihypotensive	0.417	COMP198	(0.342 COMP180) (0.337 COMP179) (0.277 COMP19)
+Antihypoxic	0.632	COMP198	(0.574 COMP180) (0.439 COMP179) (0.357 COMP19)
+Antiinfertility. female	0.094	COMP19	
+Antiinflammatory	0.820	COMP19	(0.666 COMP198) (0.653 COMP180) (0.542 COMP179)
+Antiischemic	0.221	COMP180	(0.201 COMP198)
+Antiischemic. cerebral	0.219	COMP198	
+Antileprosy	0.127	COMP179	
+Antileukemic	0.789	COMP180	(0.609 COMP198) (0.478 COMP19) (0.344 COMP179)
+Antimitotic	0.619	COMP180	(0.191 COMP198)
+Antimutagenic	0.950	COMP180	(0.908 COMP198) (0.329 COMP179) (0.177 COMP19)
+Antimycobacterial	0.291	COMP198	(0.198 COMP179) (0.195 COMP180)
+Antimycoplasmal	0.111	COMP179	(0.085 COMP198) (0.072 COMP19)
+Antineoplastic (bladder cancer)	0.444	COMP198	(0.322 COMP180)
+Antineoplastic (bone cancer)	0.292	COMP180	(0.187 COMP198) (0.163 COMP179)
+Antineoplastic (brain cancer)	0.563	COMP180	(0.420 COMP198) (0.270 COMP19) (0.257 COMP179)
+Antineoplastic (breast cancer)	0.834	COMP180	(0.729 COMP198) (0.342 COMP179) (0.313 COMP19)
+Antineoplastic (carcinoma)	0.572	COMP180	(0.281 COMP198)
+Antineoplastic (cervical cancer)	0.745	COMP180	(0.599 COMP198) (0.263 COMP179)
+Antineoplastic (colon cancer)	0.733	COMP180	(0.551 COMP198) (0.216 COMP179)
+Antineoplastic (colorectal cancer)	0.741	COMP180	(0.565 COMP198) (0.231 COMP179)
+Antineoplastic (endocrine cancer)	0.385	COMP179	(0.261 COMP198) (0.211 COMP180)
+Antineoplastic (gastric cancer)	0.514	COMP180	(0.342 COMP198)
+Antineoplastic (glioblastoma multiforme)	0.546	COMP180	(0.338 COMP198) (0.151 COMP19) (0.146 COMP179)
+Antineoplastic (glioma)	0.596	COMP180	(0.456 COMP198) (0.218 COMP19) (0.181 COMP179)
+Antineoplastic (liver cancer)	0.444	COMP180	(0.382 COMP198) (0.216 COMP179) (0.194 COMP19)
+Antineoplastic (lung cancer)	0.806	COMP180	(0.653 COMP198) (0.240 COMP179)
+Antineoplastic (lymphocytic leukemia)	0.378	COMP180	(0.221 COMP198)
+Antineoplastic (lymphoma)	0.390	COMP19	(0.369 COMP180) (0.174 COMP198)
+Antineoplastic (melanoma)	0.647	COMP180	(0.503 COMP198) (0.305 COMP179/COMP19)
+Antineoplastic (multiple myeloma)	0.423	COMP180	(0.297 COMP198) (0.247 COMP179) (0.239 COMP19)
+Antineoplastic (myeloid leukemia)	0.387	COMP19	
+Antineoplastic (non-Hodgkin's lymphoma)	0.305	COMP19	
+Antineoplastic (non-small cell lung cancer)	0.701	COMP180	(0.379 COMP198) (0.371 COMP19) (0.305 COMP179)
+Antineoplastic (osteosarcoma)	0.544	COMP180	(0.519 COMP198) (0.224 COMP179)
+Antineoplastic (ovarian cancer)	0.595	COMP180	(0.411 COMP198) (0.277 COMP179/COMP19)
+Antineoplastic (pancreatic cancer)	0.496	COMP180	(0.413 COMP198) (0.311 COMP19) (0.281 COMP179)
+Antineoplastic (renal cancer)	0.413	COMP180	(0.329 COMP198) (0.210 COMP19)
+Antineoplastic (sarcoma)	0.471	COMP180	(0.357 COMP179) (0.345 COMP198)
+Antineoplastic (small cell lung cancer)	0.437	COMP180	(0.377 COMP198) (0.299 COMP179)
+Antineoplastic (solid tumors)	0.504	COMP19	(0.375 COMP179) (0.270 COMP180)
+Antineoplastic (squamous cell carcinoma)	0.581	COMP180	(0.351 COMP198)
+Antineoplastic (uterine cancer)	0.299	COMP198	(0.246 COMP180) (0.138 COMP179)
+Antineoplastic antibiotic	0.184	COMP19	(0.172 COMP198) (0.145 COMP180) (0.086 COMP179)
+Antineoplastic antimetabolite	0.129	COMP179	
+Antineoplastic enhancer	0.577	COMP198	(0.493 COMP180) (0.249 COMP19)
+Antineoplastic. alkylator	0.175	COMP179	(0.109 COMP198)
+Antineurogenic pain	0.206	COMP179	
+Antiobesity	0.433	COMP19	
+Antiosteoporotic	0.546	COMP198	(0.515 COMP19) (0.336 COMP180) (0.279 COMP179)
+Antioxidant	0.872	COMP180	(0.830 COMP198) (0.501 COMP179) (0.211 COMP19)
+Antiparasitic	0.487	COMP179	(0.396 COMP19) (0.390 COMP198) (0.292 COMP180)
+Antiparkinsonian	0.341	COMP180	(0.272 COMP198)
+Antiparkinsonian. rigidity relieving	0.368	COMP19	(0.347 COMP179)
+Antiparkinsonian. tremor relieving	0.223	COMP179	(0.161 COMP19) (0.128 COMP198)
+Antiprotozoal	0.379	COMP198	(0.377 COMP180) (0.228 COMP179)
+Antiprotozoal (Amoeba)	0.175	COMP179	(0.110 COMP198)
+Antiprotozoal (Babesia)	0.125	COMP198	(0.103 COMP179)
+Antiprotozoal (Coccidial)	0.376	COMP198	(0.211 COMP179) (0.173 COMP180) (0.154 COMP19)
+Antiprotozoal (Leishmania)	0.585	COMP198	(0.555 COMP180) (0.188 COMP179)
+Antiprotozoal (Plasmodium)	0.305	COMP180	(0.289 COMP198) (0.210 COMP179)
+Antiprotozoal (Toxoplasma)	0.135	COMP179	(0.106 COMP19/COMP198) (0.094 COMP180)
+Antiprotozoal (Trichomonas)	0.191	COMP198	(0.151 COMP179)
+Antiprotozoal (Trypanosoma)	0.354	COMP198	(0.310 COMP180) (0.206 COMP179)
+Antipruritic	0.188	COMP19	(0.160 COMP179)
+Antipruritic. allergic	0.539	COMP179	(0.527 COMP198) (0.512 COMP180) (0.450 COMP19)
+Antipruritic. non-allergic	0.426	COMP179	(0.264 COMP19) (0.207 COMP198) (0.180 COMP180)
+Antipsoriatic	0.689	COMP19	
+Antipyretic	0.521	COMP179	(0.382 COMP198) (0.353 COMP180) (0.317 COMP19)
+Antirickettsial	0.241	COMP198	(0.225 COMP179) (0.200 COMP19) (0.164 COMP180)
+Antiseptic	0.810	COMP179	(0.683 COMP180) (0.676 COMP19) (0.538 COMP198)
+Antismoking	0.112	COMP19	
+Antispirochetal	0.169	COMP198	(0.124 COMP179) (0.108 COMP19)
+Antithrombotic	0.401	COMP19	(0.329 COMP180) (0.291 COMP198) (0.252 COMP179)
+Antitreponemal	0.100	COMP179	(0.083 COMP198) (0.072 COMP180)
+Antituberculosic	0.269	COMP198	(0.196 COMP180) (0.187 COMP179)
+Antitussive	0.312	COMP19	(0.215 COMP198) (0.191 COMP180) (0.131 COMP179)
+Antiulcerative	0.269	COMP180	(0.265 COMP179) (0.245 COMP198) (0.207 COMP19)
+Antiviral (HIV)	0.251	COMP179	(0.197 COMP180) (0.178 COMP19)
+Antiviral (Hepatitis A)	0.115	COMP198	(0.095 COMP180)
+Antiviral (Hepatitis C)	0.174	COMP198	(0.150 COMP19) (0.134 COMP180)
+Antiviral (Hepatitis)	0.196	COMP198	(0.161 COMP180) (0.152 COMP19)
+Antiviral (Herpes)	0.183	COMP198	(0.155 COMP180) (0.151 COMP179) (0.141 COMP19)
+Antiviral (Influenza A)	0.276	COMP198	(0.268 COMP180) (0.237 COMP19) (0.202 COMP179)
+Antiviral (Influenza B)	0.204	COMP198	(0.145 COMP180) (0.143 COMP179) (0.135 COMP19)
+Antiviral (Influenza)	0.344	COMP180	(0.339 COMP198) (0.217 COMP19) (0.205 COMP179)
+Antiviral (Papilloma)	0.141	COMP179	(0.132 COMP198)
+Antiviral (Parainfluenza)	0.078	COMP179	(0.069 COMP19) (0.058 COMP198)
+Antiviral (Poxvirus)	0.097	COMP19	
+Antiviral (Rhinovirus)	0.127	COMP198	(0.107 COMP19) (0.089 COMP179)
+Antiviral (Trachoma)	0.078	COMP179/COMP198	
+Anxiolytic	0.176	COMP19	
+Apoptosis agonist	0.888	COMP180	(0.821 COMP198) (0.616 COMP19) (0.527 COMP179)
+Apoptosis antagonist	0.534	COMP198	(0.531 COMP180) (0.408 COMP179)
+Atherosclerosis treatment	0.578	COMP19	(0.239 COMP179)
+Autism spectrum disorders treatment	0.205	COMP19	
+Autoimmune disorders treatment	0.558	COMP19	
+Bone diseases treatment	0.550	COMP19	(0.543 COMP198) (0.365 COMP180) (0.307 COMP179)
+Bone formation stimulant	0.278	COMP180	(0.256 COMP198) (0.122 COMP19)
+Bronchodilator	0.127	COMP180	(0.105 COMP179)
+CNS active muscle relaxant	0.286	COMP19	(0.172 COMP179)
+Cachexia treatment	0.291	COMP19	
+Cardioprotectant	0.760	COMP198	(0.743 COMP180) (0.560 COMP19) (0.383 COMP179)
+Cardiovascular analeptic	0.572	COMP179	(0.532 COMP198) (0.511 COMP19) (0.363 COMP180)
+Cell wall synthesis inhibitor	0.230	COMP19	(0.189 COMP198) (0.124 COMP179)
+Chemopreventive	0.775	COMP180	(0.593 COMP198) (0.370 COMP19) (0.368 COMP179)
+Chemoprotective	0.863	COMP180	(0.766 COMP198) (0.577 COMP179) (0.429 COMP19)
+Choleretic	0.416	COMP19	(0.242 COMP198) (0.230 COMP179) (0.174 COMP180)
+Cholesterol absorption inhibitor	0.052	COMP198	(0.044 COMP179)
+Cholesterol synthesis inhibitor	0.265	COMP19	(0.255 COMP179) (0.204 COMP198) (0.123 COMP180)
+Coagulant	0.214	COMP198	(0.205 COMP179) (0.147 COMP180) (0.115 COMP19)
+Constipation treatment	0.130	COMP19	
+Contraceptive	0.433	COMP19	(0.169 COMP198) (0.110 COMP180)
+Contraceptive female	0.214	COMP19	(0.157 COMP179) (0.138 COMP180) (0.136 COMP198)
+Contraceptive male	0.110	COMP19	
+Cystic fibrosis treatment	0.159	COMP179	(0.134 COMP198)
+Cytostatic	0.704	COMP180	(0.583 COMP198) (0.262 COMP19) (0.212 COMP179)
+DNA intercalator	0.162	COMP180	(0.123 COMP198)
+DNA synthesis inhibitor	0.288	COMP19	(0.257 COMP198) (0.231 COMP179)
+Dementia treatment	0.192	COMP198	(0.152 COMP180) (0.150 COMP179)
+Diuretic	0.142	COMP179	(0.134 COMP198)
+Endometrios treatment	0.126	COMP198	(0.124 COMP19)
+Expectorant	0.514	COMP19	(0.229 COMP180) (0.160 COMP179) (0.141 COMP198)
+Gastric antisecretory	0.120	COMP179	(0.096 COMP19)
+Gastritis treatment	0.491	COMP180	(0.384 COMP198) (0.147 COMP179)
+Gaucher disease treatment	0.075	COMP19	(0.063 COMP179)
+Gout treatment	0.427	COMP198	(0.401 COMP180) (0.105 COMP179)
+Growth stimulant	0.132	COMP179	(0.116 COMP198) (0.115 COMP19)
+HDL-cholesterol increasing	0.184	COMP179	(0.178 COMP19)
+Hair growth stimulant	0.416	COMP19	(0.205 COMP179) (0.114 COMP198)
+Hemostatic	0.251	COMP180	(0.203 COMP198) (0.132 COMP179)
+Hepatic disorders treatment	0.548	COMP19	(0.475 COMP180) (0.456 COMP198) (0.358 COMP179)
+Hepatoprotectant	0.503	COMP180	(0.449 COMP198) (0.277 COMP19) (0.227 COMP179)
+Hypercalcemia treatment	0.072	COMP179	(0.068 COMP19)
+Hyperparathyroidism treatment	0.181	COMP179	(0.081 COMP19)
+Hypogonadism treatment	0.094	COMP19	
+Hypolipemic	0.533	COMP179	(0.197 COMP19)
+Immunomodulator	0.391	COMP19	
+Immunostimulant	0.284	COMP198	(0.220 COMP179) (0.218 COMP19) (0.185 COMP180)
+Immunosuppressant	0.608	COMP19	(0.371 COMP179) (0.275 COMP180) (0.244 COMP198)
+Inflammatory Bowel disease treatment	0.511	COMP19	
+Insulin sensitizer	0.254	COMP198	(0.205 COMP180) (0.202 COMP179)
+Keratolytic	0.217	COMP198	(0.210 COMP179) (0.145 COMP180) (0.079 COMP19)
+Leukotriene synthesis inhibitor	0.110	COMP198	(0.099 COMP180) (0.068 COMP179)
+Lipoprotein disorders treatment	0.584	COMP179	(0.274 COMP19) (0.167 COMP198)
+Liver fibrosis treatment	0.219	COMP19	
+Macular degeneration treatment	0.254	COMP19	
+Menstruation disorders treatment	0.155	COMP19	
+Metabolic disease treatment	0.610	COMP19	
+Movement disorders treatment	0.246	COMP179	(0.148 COMP198) (0.135 COMP19)
+Mucolytic	0.366	COMP19	(0.170 COMP179) (0.160 COMP180) (0.153 COMP198)
+Multiple sclerosis treatment	0.521	COMP19	
+Muscle relaxant	0.184	COMP19	(0.142 COMP179) (0.132 COMP198) (0.121 COMP180)
+Muscular dystrophy treatment	0.190	COMP179	(0.166 COMP198) (0.162 COMP19)
+Myocardial infarction treatment	0.512	COMP19	(0.285 COMP198) (0.272 COMP180) (0.178 COMP179)
+Narcotic antagonist	0.170	COMP19	(0.105 COMP198) (0.084 COMP179)
+Neuropathy treatment	0.124	COMP179	
+Non-steroidal antiinflammatory agent	0.465	COMP19	(0.365 COMP180) (0.351 COMP179) (0.306 COMP198)
+Obsessive-compulsive disorder treatment	0.083	COMP19	
+Paget's disease treatment	0.190	COMP19	(0.140 COMP179) (0.102 COMP198)
+Phobic disorders treatment	0.204	COMP198	(0.178 COMP179) (0.171 COMP180) (0.150 COMP19)
+Photosensitizer	0.220	COMP198	(0.170 COMP179) (0.117 COMP180) (0.104 COMP19)
+Postcoital contraceptive	0.097	COMP180/COMP19	(0.096 COMP198) (0.076 COMP179)
+Postmenopausal disorders treatment	0.329	COMP198	(0.087 COMP180)
+Posttraumatic stress disorder treatment	0.101	COMP179	
+Proliferative diseases treatment	0.661	COMP180	(0.590 COMP198) (0.404 COMP19) (0.369 COMP179)
+Prostate cancer treatment	0.789	COMP180	(0.593 COMP198) (0.321 COMP19) (0.284 COMP179)
+Prostate disorders treatment	0.258	COMP19	(0.201 COMP179)
+Prostatic (benign) hyperplasia treatment	0.260	COMP19	
+Psychosexual dysfunction treatment	0.227	COMP198	(0.114 COMP19)
+Psychostimulant	0.507	COMP19	(0.245 COMP198)
+Radioprotector	0.584	COMP198	(0.545 COMP180) (0.485 COMP179)
+Radiosensitizer	0.426	COMP198	(0.402 COMP180) (0.255 COMP179)
+Raynaud's phenomenon treatment	0.211	COMP179	(0.176 COMP19)
+Renal disease treatment	0.183	COMP179	
+Respiratory analeptic	0.845	COMP19	(0.653 COMP179) (0.370 COMP198) (0.224 COMP180)
+Restless leg syndrome treatment	0.088	COMP19	(0.087 COMP198)
+Retinopathy treatment	0.124	COMP180	
+Retinoprotector	0.193	COMP179	(0.159 COMP198) (0.141 COMP19)
+Rheumatoid arthritis treatment	0.607	COMP19	
+Sepsis treatment	0.304	COMP19	
+Shock treatment	0.136	COMP19	(0.115 COMP179)
+Skeletal muscle relaxant	0.137	COMP179	(0.129 COMP19) (0.122 COMP180) (0.119 COMP198)
+Skin whitener	0.681	COMP198	(0.626 COMP180) (0.408 COMP179)
+Sleep apnea treatment	0.083	COMP179	
+Sleep disorders treatment	0.153	COMP19	
+Spasmolytic	0.548	COMP19	(0.523 COMP180) (0.505 COMP198) (0.354 COMP179)
+Stroke treatment	0.315	COMP198	(0.224 COMP180) (0.204 COMP179)
+Systemic lupus erythematosus treatment	0.464	COMP19	
+T cell inhibitor	0.091	COMP198	(0.078 COMP19)
+Thrombolytic	0.125	COMP198	
+Tocolytic	0.128	COMP179	
+Tourette's syndrome treatment	0.132	COMP179	(0.105 COMP19)
+Transplant rejection treatment	0.270	COMP19	
+Tumour necrosis factor alpha release inhibitor	0.567	COMP180	(0.437 COMP19) (0.394 COMP198)
+Uric acid excretion stimulant	0.336	COMP198	(0.240 COMP180) (0.106 COMP179)
+Uterine relaxant	0.100	COMP179	
+Uterine stimulant	0.219	COMP179	(0.162 COMP19) (0.161 COMP198)
+Vascular (periferal) disease treatment	0.532	COMP180	(0.488 COMP198) (0.236 COMP179/COMP19)
+Vascular dementia treatment	0.185	COMP198	(0.146 COMP180) (0.145 COMP179)
+Vasodilator	0.541	COMP180	(0.446 COMP198)
+Vasodilator. coronary	0.623	COMP180	(0.487 COMP198) (0.320 COMP179)
+Vasodilator. peripheral	0.531	COMP179	(0.235 COMP198) (0.211 COMP19)
+Wound healing agent	0.234	COMP179	

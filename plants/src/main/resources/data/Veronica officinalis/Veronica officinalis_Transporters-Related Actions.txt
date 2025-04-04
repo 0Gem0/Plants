@@ -1,0 +1,12 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake inhibitor	0.082	COMP581	(0.072 COMP585) (0.070 COMP576) (0.058 COMP580)
+5 Hydroxytryptamine uptake stimulant	0.226	COMP579	(0.198 COMP582) (0.196 COMP578)
+Adrenaline uptake inhibitor	0.064	COMP581	
+Dopamine transporter inhibitor	0.092	COMP576	(0.086 COMP585) (0.084 COMP581) (0.074 COMP580) (0.045 COMP579) (0.044 COMP582)
+Dopamine uptake inhibitor	0.164	COMP576	(0.135 COMP581) (0.134 COMP585) (0.126 COMP580)
+Electron transport complex I inhibitor	0.097	COMP578	
+P-glycoprotein inhibitor	0.426	COMP585	(0.295 COMP580) (0.262 COMP576) (0.256 COMP577) (0.235 COMP581) (0.189 COMP578) (0.183 COMP584) (0.174 COMP579) (0.158 COMP582)
+Sodium/bile acid cotransporter inhibitor	0.450	COMP583	(0.441 COMP584) (0.407 COMP582) (0.394 COMP579) (0.320 COMP578)
+Sodium/hydrogen exchanger 5 inhibitor	0.086	COMP576	
+Vesicle monoamine transporter inhibitor	0.045	COMP580	(0.041 COMP576) (0.038 COMP585) (0.036 COMP581)
+Vesicular acetylcholine transporter inhibitor	0.023	COMP576	(0.018 COMP582)

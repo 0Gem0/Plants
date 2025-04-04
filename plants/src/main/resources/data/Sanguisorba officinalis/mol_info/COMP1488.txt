@@ -1,0 +1,10 @@
+2, 3-(S)-Hexahydroxydiphenoyl-D-glucose
+(10R,13R,14R,15S)-3,4,5,11,14,20,21,22-octahydroxy-13-(hydroxymethyl)-9,12,16-trioxatetracyclo[16.4.0.02,7.010,15]docosa-1(22),2,4,6,18,20-hexaene-8,17-dione
+CHEMBL458193
+14035453
+None
+C20H18O14
+482.07
+InChI=1S/C20H18O14/c21-3-8-13(26)16-17(20(31)32-8)34-19(30)5-2-7(23)12(25)15(28)10(5)9-4(18(29)33-16)1-6(22)11(24)14(9)27/h1-2,8,13,16-17,20-28,31H,3H2/t8-,13-,16+,17-,20?/m1/s1
+GEAGRKQCZVLNAU-NNIZZFLASA-N
+OC[C@H]1OC(O)[C@H]2[C@H]([C@@H]1O)OC(=O)c1cc(O)c(c(c1c1c(C(=O)O2)cc(O)c(c1O)O)O)O

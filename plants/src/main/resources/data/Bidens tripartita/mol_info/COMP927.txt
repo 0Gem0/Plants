@@ -1,0 +1,10 @@
+Betulinic Acid
+(1R,3aS,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-9-hydroxy-5a,5b,8,8,11a-pentamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysene-3a-carboxylic acid
+CHEMBL269277
+64971
+CHEBI:3087
+C30H48O3
+456.36
+InChI=1S/C30H48O3/c1-18(2)19-10-15-30(25(32)33)17-16-28(6)20(24(19)30)8-9-22-27(5)13-12-23(31)26(3,4)21(27)11-14-29(22,28)7/h19-24,31H,1,8-17H2,2-7H3,(H,32,33)/t19-,20+,21-,22+,23-,24+,27-,28+,29+,30-/m0/s1
+QGJZLNKBHJESQX-FZFNOLFKSA-N
+CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]1CC[C@H]3[C@@]([C@]1(C)CC2)(C)CC[C@@H]1[C@]3(C)CC[C@@H](C1(C)C)O)C(=O)O

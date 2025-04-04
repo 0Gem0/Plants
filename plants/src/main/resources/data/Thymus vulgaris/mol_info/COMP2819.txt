@@ -1,0 +1,10 @@
+3,4,5-Trihydroxy-Benzoic Acid (2R,3R,4R,2'r,3'r)-3,5,7,5',7'-Pentahydroxy-2,2'-Bis-(3,4,5-Trihydroxy-Phenyl)-3,4,3',4'-Tetrahydro-2H,2'h-[4,8']Bichromenyl-3'-Yl Ester
+[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-8-[(2R,3R,4R)-3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-4-yl]-3,4-dihydro-2H-chromen-3-yl] 3,4,5-trihydroxybenzoate
+CHEMBL161077
+467305
+CHEBI:68142
+C37H30O18
+762.14
+InChI=1S/C37H30O18/c38-14-7-17(40)27-25(8-14)53-35(12-3-21(44)31(49)22(45)4-12)33(51)29(27)28-18(41)10-16(39)15-9-26(54-37(52)13-5-23(46)32(50)24(47)6-13)34(55-36(15)28)11-1-19(42)30(48)20(43)2-11/h1-8,10,26,29,33-35,38-51H,9H2/t26-,29-,33-,34-,35-/m1/s1
+JSBXKZFDEDBAQA-WUFIRYPCSA-N
+Oc1cc(O)c2c(c1)O[C@@H]([C@@H]([C@H]2c1c(O)cc(c2c1O[C@@H]([C@@H](C2)OC(=O)c1cc(O)c(c(c1)O)O)c1cc(O)c(c(c1)O)O)O)O)c1cc(O)c(c(c1)O)O

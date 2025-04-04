@@ -1,0 +1,10 @@
+(4S,4Ar,5S,8Ar)-3,4A,5-Trimethyl-5,6,7,8,8A,9-Hexahydro-4H-Benzo[F][1]Benzofuran-4-Ol
+(4S,4aR,5S,8aR)-3,4a,5-trimethyl-5,6,7,8,8a,9-hexahydro-4H-benzo[f][1]benzofuran-4-ol
+CHEMBL1993259
+383983
+None
+C15H22O2
+234.16
+InChI=1S/C15H22O2/c1-9-8-17-12-7-11-6-4-5-10(2)15(11,3)14(16)13(9)12/h8,10-11,14,16H,4-7H2,1-3H3/t10-,11+,14+,15+/m0/s1
+ANKFPIBCTISOBX-RBDSIQFVSA-N
+Cc1coc2c1[C@@H](O)[C@]1([C@@H](C2)CCC[C@@H]1C)C

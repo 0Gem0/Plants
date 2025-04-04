@@ -1,0 +1,173 @@
+Name	Activation_Prob	Compound	Another_Probs
+3C-like protease (Human coronavirus) inhibitor	0.134	COMP977	
+5 Hydroxytryptamine release inhibitor	0.371	COMP977	
+5 Hydroxytryptamine uptake stimulant	0.316	COMP977	(0.228 COMP978)
+5-Alpha-reductase 2 inhibitor	0.018	COMP977	
+5-Alpha-reductase inhibitor	0.056	COMP977	
+ABCA1 expression enhancer	0.127	COMP977	(0.103 COMP978)
+AMP-activated protein kinase stimulant	0.181	COMP977	(0.103 COMP978)
+ATP citrate lysase inhibitor	0.035	COMP977	
+ATPase (Vacuolar H+) inhibitor	0.089	COMP978	
+ATPase inhibitor	0.171	COMP978	(0.146 COMP977)
+Acetyl-CoA carboxylase inhibitor	0.050	COMP977	(0.042 COMP978)
+Acetyl-CoA transferase 2 inhibitor	0.058	COMP978	(0.057 COMP977)
+Aconitate hydratase inhibitor	0.064	COMP977	
+Adenine nucleotide translocase inhibitor	0.058	COMP977	
+Adenylate cyclase inhibitor	0.122	COMP977	
+Adenylate cyclase stimulant	0.162	COMP977	(0.150 COMP978)
+Adenylate kinase inhibitor	0.093	COMP977	
+Alcohol oxidase inhibitor	0.061	COMP977	
+Aldehyde oxidase inhibitor	0.199	COMP977	
+Alpha-N-acetylglucosaminidase inhibitor	0.245	COMP977	
+Anabolic	0.157	COMP977	(0.140 COMP978)
+Analgesic	0.507	COMP977	(0.425 COMP978)
+Androgen agonist	0.065	COMP977/COMP978	
+Anesthetic general	0.257	COMP978	(0.182 COMP977)
+Anesthetic local	0.112	COMP978	
+Angiogenesis stimulant	0.217	COMP977	(0.215 COMP978)
+Antibacterial	0.372	COMP977	(0.251 COMP978)
+Antiinflammatory	0.853	COMP977	(0.828 COMP978)
+Antineoplastic alkaloid	0.097	COMP978	
+Antineoplastic antibiotic	0.227	COMP977	(0.226 COMP978)
+Antiobesity	0.223	COMP977	
+Antioxidant	0.291	COMP978	(0.290 COMP977)
+Antithrombotic	0.393	COMP977	(0.333 COMP978)
+Apoptosis agonist	0.484	COMP978	(0.471 COMP977)
+Apoptosis antagonist	0.282	COMP978	(0.279 COMP977)
+Arachidonic acid antagonist	0.247	COMP977	(0.245 COMP978)
+Argininosuccinate synthase inhibitor	0.052	COMP977	
+Bronchodilator	0.177	COMP978	(0.176 COMP977)
+CC chemokine 6 receptor antagonist	0.125	COMP977	
+CF transmembrane conductance regulator agonist	0.160	COMP978	(0.141 COMP977)
+Ca2+-transporting ATPase inhibitor	0.163	COMP977	(0.138 COMP978)
+Calcium channel L-type activator	0.482	COMP978	
+Calcium channel activator	0.365	COMP978	(0.228 COMP977)
+Caspase 3 stimulant	0.336	COMP978	(0.288 COMP977)
+Caspase 9 stimulant	0.501	COMP978	(0.431 COMP977)
+Cholesterol antagonist	0.510	COMP977	(0.476 COMP978)
+Cholesterol ester transfer protein antagonist	0.036	COMP977	(0.035 COMP978)
+Cholesterol esterase inhibitor	0.090	COMP978	(0.081 COMP977)
+Cholesterol synthesis inhibitor	0.354	COMP977	(0.329 COMP978)
+Cyclic AMP phosphodiesterase inhibitor	0.154	COMP977	(0.152 COMP978)
+Cyclooxygenase 3 inhibitor	0.152	COMP978	(0.150 COMP977)
+Cyclophilin D inhibitor	0.620	COMP977	(0.497 COMP978)
+DNA polymerase I inhibitor	0.201	COMP978	(0.195 COMP977)
+DNA synthesis inhibitor	0.265	COMP977	(0.205 COMP978)
+DOPA decarboxylase inhibitor	0.103	COMP978	(0.096 COMP977)
+Electron transport complex I inhibitor	0.101	COMP978	
+Expectorant	0.137	COMP977	(0.114 COMP978)
+Farnesoid X receptor agonist	0.110	COMP977	(0.082 COMP978)
+Farnesoid X receptor antagonist	0.141	COMP977	(0.126 COMP978)
+Free radical scavenger	0.166	COMP978	(0.159 COMP977)
+GABA C receptor agonist	0.113	COMP977	
+GABA aminotransferase inhibitor	0.070	COMP977	
+Gastrin inhibitor	0.281	COMP977	(0.248 COMP978)
+Glutamate (mGluR3) agonist	0.039	COMP977	
+Glutamate (mGluR3) antagonist	0.037	COMP977	
+Glutamate (mGluR6) antagonist	0.095	COMP977	(0.085 COMP978)
+Glutamate (mGluR8) antagonist	0.036	COMP977	
+Glutamate dehydrogenase inhibitor	0.072	COMP977	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.214	COMP977	(0.194 COMP978)
+Glycine receptor agonist	0.117	COMP977	(0.077 COMP978)
+Glycine receptor antagonist	0.097	COMP977	(0.090 COMP978)
+Guanylate cyclase inhibitor	0.040	COMP977	
+HMG CoA reductase inhibitor	0.033	COMP977	(0.031 COMP978)
+Heat shock protein 70 antagonist	0.132	COMP978	
+Heme oxygenase stimulant	0.057	COMP978	
+Heparanase inhibitor	0.056	COMP977	
+Hepatoprotectant	0.263	COMP978	(0.255 COMP977)
+Histamine release inhibitor	0.390	COMP977	
+Hypoglycemic	0.406	COMP977	(0.337 COMP978)
+Hypolipemic	0.407	COMP977	(0.357 COMP978)
+Immunosuppressant	0.372	COMP977	(0.356 COMP978)
+Insulin secretagoues	0.298	COMP977	(0.218 COMP978)
+Insulin sensitizer	0.179	COMP977	(0.148 COMP978)
+Interferon gamma antagonist	0.298	COMP978	(0.285 COMP977)
+Interleukin 2 agonist	0.251	COMP977	(0.196 COMP978)
+Interleukin 5 antagonist	0.078	COMP977/COMP978	
+Interleukin 6 antagonist	0.148	COMP978	
+Interleukin agonist	0.188	COMP977	
+Kainate receptor agonist	0.040	COMP977	
+Keratolytic	0.180	COMP977	(0.115 COMP978)
+Leukotriene B4 antagonist	0.056	COMP977	
+Leukotriene C antagonist	0.056	COMP977	
+Leukotriene antagonist	0.068	COMP977	
+Lipid peroxidase inhibitor	0.133	COMP978	(0.126 COMP977)
+Lipocortins synthesis agonist	0.069	COMP977/COMP978	
+Lipocortins synthesis antagonist	0.355	COMP977	(0.334 COMP978)
+Melanin inhibitor	0.303	COMP978	(0.241 COMP977)
+Microtubule formation inhibitor	0.267	COMP978	(0.258 COMP977)
+Microtubule stabilization	0.066	COMP977	(0.065 COMP978)
+Monophenol monooxygenase inhibitor	0.095	COMP977	
+Mucolytic	0.144	COMP977	(0.110 COMP978)
+NADH dehydrogenase inhibitor	0.081	COMP977	
+Na+ K+ transporting ATPase inhibitor	0.115	COMP977/COMP978	
+Neuraminidase (Influenza A) inhibitor	0.047	COMP977	
+Neuraminidase (influenza) inhibitor	0.069	COMP977	
+Neuraminidase inhibitor	0.063	COMP977	
+Neurotrophic factor enhancer	0.229	COMP977	(0.184 COMP978)
+Nitric oxide antagonist	0.417	COMP978	(0.408 COMP977)
+Non-steroidal antiinflammatory agent	0.245	COMP977	(0.239 COMP978)
+Ornithine decarboxylase inhibitor	0.150	COMP977	(0.139 COMP978)
+P-glycoprotein inhibitor	0.279	COMP978	(0.235 COMP977)
+Peptidyltransferase inhibitor	0.182	COMP977	
+Phosphofructokinase-1 inhibitor	0.069	COMP977	
+Phospholipase C inhibitor	0.246	COMP977	(0.187 COMP978)
+Photosensitizer	0.119	COMP978	
+Plasminogen activator inhibitor antagonist	0.128	COMP977	(0.068 COMP978)
+Potassium channel Kv1.3 blocker	0.042	COMP978	
+Pregnane X receptor antagonist	0.068	COMP977	(0.066 COMP978)
+Prostaglandin F2 alpha antagonist	0.059	COMP977	
+Prostaglandin agonist	0.029	COMP977	
+Protein 50S ribosomal subunit inhibitor	0.050	COMP977	(0.048 COMP978)
+Protein kinase stimulant	0.401	COMP978	(0.364 COMP977)
+Protein-tyrosine phosphatase 1B inhibitor	0.269	COMP977	(0.229 COMP978)
+Protein-tyrosine phosphatase inhibitor	0.302	COMP977	(0.251 COMP978)
+Purinergic P2X1 antagonist	0.054	COMP977	
+RNA-directed RNA polymerase stimulant	0.035	COMP977	(0.034 COMP978)
+Retinoic acid alpha receptor agonist	0.070	COMP977	(0.049 COMP978)
+Retinoic acid alpha receptor antagonist	0.031	COMP977	
+Retinoic acid beta receptor agonist	0.027	COMP977	
+Retinoic acid beta receptor antagonist	0.015	COMP977	
+Retinoic acid gamma receptor agonist	0.031	COMP977	(0.023 COMP978)
+Retinoic acid receptor agonist	0.041	COMP977	(0.025 COMP978)
+Retinoic acid receptor antagonist	0.028	COMP977	
+Retinoic acid receptor gamma antagonist	0.015	COMP977	
+Retinoid X alpha receptor agonist	0.064	COMP977	
+Retinoid X alpha receptor antagonist	0.033	COMP977	
+Retinoid X beta receptor agonist	0.034	COMP977	
+Retinoid X beta receptor antagonist	0.021	COMP977	
+Retinoid X gamma receptor agonist	0.040	COMP977	
+Retinoid X gamma receptor antagonist	0.032	COMP977	
+Retinoid X receptor agonist	0.079	COMP977	
+Retinoid X receptor antagonist	0.037	COMP977	
+Ryanodine receptor antagonist	0.062	COMP977	(0.058 COMP978)
+Sigma receptor agonist	0.278	COMP978	(0.200 COMP977)
+Sodium/bile acid cotransporter inhibitor	0.363	COMP977	(0.352 COMP978)
+Spasmolytic	0.280	COMP978	(0.259 COMP977)
+Succinate dehydrogenase inhibitor	0.163	COMP977	
+Superoxide dismutase inhibitor	0.168	COMP977	
+TRPA1 agonist	0.146	COMP978	(0.112 COMP977)
+Telomerase stimulant	0.019	COMP977	
+Thrombolytic	0.222	COMP977	(0.177 COMP978)
+Thromboxane A2 antagonist	0.047	COMP977	
+Thromboxane antagonist	0.046	COMP977	
+Toll-Like receptor 4 antagonist	0.116	COMP978	
+Toll-Like receptor 7 agonist	0.400	COMP977	(0.352 COMP978)
+Toll-Like receptor agonist	0.394	COMP977	(0.347 COMP978)
+Transcription factor AP-1 inhibitor	0.062	COMP978	(0.056 COMP977)
+Transcription factor NF kappa B inhibitor	0.598	COMP978	(0.559 COMP977)
+Transcription factor NF kappa B stimulant	0.140	COMP978	(0.123 COMP977)
+Triose-phosphate isomerase inhibitor	0.101	COMP977	
+Tubulin agonist	0.071	COMP977	(0.068 COMP978)
+Tumour necrosis factor alpha release inhibitor	0.232	COMP978	(0.188 COMP977)
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.112	COMP977	
+UDP-glucose 4-epimerase inhibitor	0.104	COMP977	
+Uric acid excretion stimulant	0.149	COMP977	(0.082 COMP978)
+Vanilloid 1 agonist	0.137	COMP978	(0.128 COMP977)
+Vanilloid 2 antagonist	0.327	COMP977	(0.323 COMP978)
+Vanilloid agonist	0.206	COMP977	(0.197 COMP978)
+Vasodilator	0.363	COMP978	(0.280 COMP977)
+Vasodilator. coronary	0.344	COMP978	(0.259 COMP977)
+Vasodilator. peripheral	0.442	COMP978	(0.334 COMP977)
+Xanthine oxidase inhibitor	0.187	COMP977	(0.133 COMP978)

@@ -1,0 +1,11 @@
+Name	Activation_Prob	Compound	Another_Probs
+AR expression inhibitor	0.725	COMP743	
+CTGF expression inhibitor	0.515	COMP743	
+GRP78 expression inhibitor	0.025	COMP743	
+ICAM1 expression inhibitor	0.587	COMP743	
+NOS2 expression inhibitor	0.957	COMP743	
+NOS3 expression enhancer	0.698	COMP743	
+NOS3 expression inhibitor	0.817	COMP743	
+TNF expression inhibitor	0.927	COMP743	
+VCAM1 expression inhibitor	0.654	COMP743	
+VEGF expression inhibitor	0.182	COMP743	

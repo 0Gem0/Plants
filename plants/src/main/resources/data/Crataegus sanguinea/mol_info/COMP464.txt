@@ -1,0 +1,10 @@
+Trichothecolone
+(1S,2R,7R,9R,11R,12S)-11-hydroxy-1,2,5-trimethylspiro[8-oxatricyclo[7.2.1.02,7]dodec-5-ene-12,2'-oxirane]-4-one
+CHEMBL481642
+12444504
+None
+C15H20O4
+264.14
+InChI=1S/C15H20O4/c1-8-4-11-13(2,6-9(8)16)14(3)10(17)5-12(19-11)15(14)7-18-15/h4,10-12,17H,5-7H2,1-3H3/t10-,11-,12-,13+,14-,15+/m1/s1
+BURHPZJXARNGQY-LACSLYJWSA-N
+CC1=C[C@H]2O[C@@H]3C[C@H]([C@]([C@]2(CC1=O)C)([C@@]13CO1)C)O

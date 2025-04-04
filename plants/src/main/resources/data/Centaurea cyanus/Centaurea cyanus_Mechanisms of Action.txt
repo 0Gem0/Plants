@@ -1,0 +1,287 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.481	COMP566	
+15-Lipoxygenase inhibitor	0.558	COMP566	
+5 Hydroxytryptamine 1 agonist	0.103	COMP566	
+5 Hydroxytryptamine 1B agonist	0.072	COMP566	
+5 Hydroxytryptamine 1B antagonist	0.058	COMP566	
+5 Hydroxytryptamine 1D antagonist	0.072	COMP566	
+5 Hydroxytryptamine 1E antagonist	0.659	COMP566	
+5 Hydroxytryptamine 1F antagonist	0.074	COMP566	
+5 Hydroxytryptamine 2A agonist	0.106	COMP566	
+5 Hydroxytryptamine 3E antagonist	0.215	COMP566	
+5 Hydroxytryptamine 5 antagonist	0.117	COMP566	
+5 Hydroxytryptamine 5A antagonist	0.119	COMP566	
+5 Hydroxytryptamine 7 agonist	0.066	COMP566	
+5 Hydroxytryptamine release stimulant	0.623	COMP566	(0.198 COMP567)
+5-Lipoxygenase inhibitor	0.132	COMP566	
+AMP-activated protein kinase stimulant	0.096	COMP566	
+ATPase (Vacuolar H+) inhibitor	0.102	COMP566	(0.082 COMP567)
+ATPase inhibitor	0.175	COMP567	(0.157 COMP566)
+Acetylcholine release stimulant	0.127	COMP566	
+Acetylcholinesterase inhibitor	0.211	COMP567	(0.209 COMP566)
+Adenosine A1 receptor agonist	0.026	COMP567	
+Adenylate cyclase inhibitor	0.187	COMP566	(0.117 COMP567)
+Adenylate cyclase stimulant	0.214	COMP566	(0.141 COMP567)
+Adrenaline agonist	0.112	COMP566	
+Alkaline phosphatase inhibitor	0.119	COMP566	
+Alkylator	0.173	COMP567	
+Alpha 2b adrenoreceptor antagonist	0.148	COMP566	
+Alpha 2c adrenoreceptor antagonist	0.162	COMP566	
+Alpha tubulin antagonist	0.072	COMP566	
+Alpha-N-acetylglucosaminidase inhibitor	0.385	COMP567	
+Alpha-mannosidase inhibitor	0.165	COMP567	
+Amylase inhibitor	0.425	COMP567	(0.181 COMP566)
+Amyloid beta aggregation inhibitor	0.656	COMP566	(0.276 COMP567)
+Amyloid beta precursor protein antagonist	0.163	COMP566	
+Anabolic	0.103	COMP567	
+Analgesic	0.443	COMP567	
+Angiogenesis inhibitor	0.499	COMP567	(0.195 COMP566)
+Angiogenesis stimulant	0.831	COMP567	(0.283 COMP566)
+Antiamyloidogenic	0.656	COMP566	
+Antibacterial	0.708	COMP567	(0.222 COMP566)
+Antibiotic Aminoglycoside-like	0.106	COMP567	
+Antibiotic Anthracycline-like	0.026	COMP567	
+Antibiotic Macrolide-like	0.018	COMP567	
+Antibiotic Tetracycline-like	0.016	COMP567	
+Antiinflammatory	0.976	COMP567	
+Antimitotic	0.262	COMP566	
+Antineoplastic alkaloid	0.100	COMP566	
+Antineoplastic antibiotic	0.531	COMP567	
+Antiobesity	0.471	COMP567	
+Antioxidant	0.938	COMP567	(0.476 COMP566)
+Antithrombotic	0.642	COMP567	(0.205 COMP566)
+Apoptosis agonist	0.706	COMP567	(0.501 COMP566)
+Apoptosis antagonist	0.953	COMP567	(0.378 COMP566)
+Aryl hydrocarbon receptor agonist	0.178	COMP566	
+Aryl hydrocarbon receptor antagonist	0.073	COMP566	
+Beta 1 adrenoreceptor antagonist	0.092	COMP566	
+Beta 2 adrenoreceptor agonist	0.071	COMP566	
+Beta 2 adrenoreceptor antagonist	0.076	COMP566	
+Beta 3 adrenoreceptor antagonist	0.144	COMP566	
+Beta adrenoreceptor agonist	0.047	COMP566	
+Beta adrenoreceptor antagonist	0.106	COMP566	
+Beta glucuronidase inhibitor	0.244	COMP567	(0.164 COMP566)
+Beta tubulin antagonist	0.119	COMP566	
+Bombesin 1 receptor agonist	0.078	COMP566	
+Bombesin 1 receptor antagonist	0.053	COMP566	
+Bombesin 2 receptor antagonist	0.097	COMP566	
+Bombesin antagonist	0.053	COMP566	
+Breast cancer-resistant protein inhibitor	0.225	COMP566	
+Bronchodilator	0.128	COMP566	
+Butyrylcholinesterase inhibitor	0.207	COMP566	
+CC chemokine 6 receptor antagonist	0.128	COMP567	
+CDC25B inhibitor	0.080	COMP566	
+CF transmembrane conductance regulator agonist	0.143	COMP566	
+Ca2+-transporting ATPase inhibitor	0.189	COMP567	
+Ca2+/calmodulin-dependent kinase I alpha inhibitor	0.174	COMP566	
+Ca2+/calmodulin-dependent kinase II alpha inhibitor	0.272	COMP566	
+Calcium channel L-type activator	0.408	COMP566	
+Calcium channel activator	0.288	COMP566	
+Calpain inhibitor	0.221	COMP566	
+Carbonic anhydrase III inhibitor	0.172	COMP566	
+Carbonic anhydrase V inhibitor	0.069	COMP566	
+Carbonic anhydrase VA inhibitor	0.077	COMP566	
+Carbonic anhydrase VI inhibitor	0.173	COMP566	
+Carbonic anhydrase XIII inhibitor	0.078	COMP566	
+Carbonic anhydrase XV inhibitor	0.109	COMP566	
+Caspase 3 stimulant	0.448	COMP567	(0.325 COMP566)
+Caspase 9 stimulant	0.796	COMP567	(0.766 COMP566)
+Chelator	0.224	COMP566	
+Cholecystokinin A antagonist	0.055	COMP566	
+Cholecystokinin antagonist	0.050	COMP566	
+Cholesterol antagonist	0.671	COMP567	
+Cholinergic	0.178	COMP567	(0.157 COMP566)
+Cyclooxygenase 2 inhibitor	0.219	COMP567	
+Cyclooxygenase 3 inhibitor	0.150	COMP567	(0.105 COMP566)
+Cyclooxygenase inhibitor	0.262	COMP567	
+Cyclophilin D inhibitor	0.900	COMP567	
+DNA damaging	0.320	COMP566	(0.188 COMP567)
+DNA directed DNA polymerase inhibitor	0.240	COMP566	
+DNA intercalator	0.145	COMP567	
+DNA methylase inhibitor	0.578	COMP566	
+DNA methyltransferase I inhibitor	0.582	COMP566	
+DNA polymerase I inhibitor	0.155	COMP567	(0.124 COMP566)
+DNA polymerase beta inhibitor	0.292	COMP566	
+DNA repair enzyme inhibitor	0.134	COMP567	
+DNA synthesis inhibitor	0.493	COMP567	
+DOPA decarboxylase inhibitor	0.110	COMP566	
+Death-associated protein kinase 2 inhibitor	0.149	COMP566	
+Dopamine D2 agonist	0.043	COMP566	
+Dopamine D3 antagonist	0.071	COMP566	
+Dual specificity phosphatase inhibitor	0.139	COMP566	
+Electron transport complex I inhibitor	0.097	COMP566	
+ErbB-1 antagonist	0.202	COMP566	
+Estrogen antagonist	0.122	COMP566	
+Estrogen receptor beta antagonist	0.099	COMP566	
+Expectorant	0.231	COMP567	
+Factor III inhibitor	0.051	COMP566	
+Falcipain 2 inhibitor	0.133	COMP566	
+Falcipain 3 inhibitor	0.138	COMP566	
+Falcipain inhibitor	0.135	COMP566	
+Follicle-stimulating hormone agonist	0.029	COMP566	
+Follicle-stimulating hormone antagonist	0.025	COMP566	
+Free radical scavenger	0.657	COMP567	(0.518 COMP566)
+GABA B receptor agonist	0.108	COMP566	
+GABA C receptor rho-2 antagonist	0.138	COMP566	
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.282	COMP566	
+Glucose-6-phosphate isomerase inhibitor	0.140	COMP567	
+Glucose-6-phosphate translocase inhibitor	0.080	COMP567	(0.067 COMP566)
+Glutamate release inhibitor	0.104	COMP567	
+Glycine receptor antagonist	0.119	COMP567	
+Growth hormone agonist	0.166	COMP566	
+Growth hormone release inhibitor	0.037	COMP566	
+HIV-1 integrase (3'-Processing) inhibitor	0.127	COMP566	
+HIV-1 integrase (Strand Transfer) inhibitor	0.083	COMP566	
+HIV-1 integrase inhibitor	0.090	COMP566	
+Heat shock protein 70 antagonist	0.250	COMP566	
+Heme oxygenase stimulant	0.057	COMP566	
+Hepatoprotectant	0.780	COMP567	(0.158 COMP566)
+Hexokinase inhibitor	0.140	COMP567	
+Histamine release inhibitor	0.337	COMP566	
+Histone deacetylase 1 inhibitor	0.024	COMP566	
+Histone deacetylase 10 inhibitor	0.034	COMP566	
+Histone deacetylase 11 inhibitor	0.042	COMP566	
+Histone deacetylase 2 inhibitor	0.041	COMP566	
+Histone deacetylase 4 inhibitor	0.028	COMP566	
+Histone deacetylase 5 inhibitor	0.076	COMP566	
+Histone deacetylase 7 inhibitor	0.138	COMP566	
+Histone deacetylase 8 inhibitor	0.154	COMP566	
+Histone deacetylase 9 inhibitor	0.136	COMP566	
+Histone deacetylase SIRT1 inhibitor	0.130	COMP566	
+Histone deacetylase class I inhibitor	0.108	COMP566	
+Histone deacetylase class II inhibitor	0.034	COMP566	
+Histone deacetylase class III inhibitor	0.095	COMP566	
+Histone deacetylase class IIa inhibitor	0.051	COMP566	
+Histone deacetylase class IV inhibitor	0.042	COMP566	
+Histone deacetylase inhibitor	0.172	COMP566	
+Hypoglycemic	0.656	COMP567	(0.204 COMP566)
+Hypolipemic	0.238	COMP567	
+ICAM 1 antagonist	0.034	COMP566	
+Immunomodulator	0.637	COMP567	
+Immunostimulant	0.470	COMP567	(0.154 COMP566)
+Immunosuppressant	0.612	COMP567	(0.201 COMP566)
+Insulin sensitizer	0.226	COMP566	
+Insulysin inhibitor	0.432	COMP566	
+Integrin alphaLbeta2 antagonist	0.012	COMP566	
+Interferon agonist	0.086	COMP567	
+Interferon gamma antagonist	0.333	COMP567	(0.134 COMP566)
+Interferon inducer	0.072	COMP567	
+Interleukin 1 antagonist	0.145	COMP566	
+Interleukin 12 antagonist	0.111	COMP566	
+Interleukin 1b antagonist	0.103	COMP566	
+Interleukin 2 agonist	0.433	COMP567	
+Interleukin 4 antagonist	0.129	COMP566	
+Interleukin 6 antagonist	0.190	COMP567	
+Interleukin agonist	0.226	COMP567	
+Interleukin antagonist	0.439	COMP566	
+Keratolytic	0.159	COMP566	
+Lipid peroxidase inhibitor	0.321	COMP567	(0.239 COMP566)
+Lipocortins synthesis agonist	0.067	COMP567	
+Lipocortins synthesis antagonist	0.210	COMP567	(0.170 COMP566)
+Lipoxygenase inhibitor	0.398	COMP566	
+M18 aspartyl aminopeptidase inhibitor	0.247	COMP566	
+MAO A inhibitor	0.172	COMP566	
+MAO B inhibitor	0.117	COMP566	
+MAO inhibitor	0.208	COMP566	
+MAP3K7 inhibitor	0.071	COMP566	
+Macrophage migration inhibitory factor inhibitor	0.079	COMP566	
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.093	COMP567	
+Mannosidase inhibitor	0.140	COMP567	
+Matrix metalloproteinase 1 inhibitor	0.060	COMP566	
+Matrix metalloproteinase inhibitor	0.060	COMP566	
+Mediator release inhibitor	0.174	COMP566	
+Melanin inhibitor	0.533	COMP566	(0.495 COMP567)
+Melanocortin 1 antagonist	0.037	COMP566	
+Melatonin 1 agonist	0.123	COMP566	
+Melatonin 1 antagonist	0.061	COMP566	
+Melatonin 2 agonist	0.137	COMP566	
+Melatonin 2 antagonist	0.022	COMP566	
+Melatonin agonist	0.183	COMP566	
+Melatonin antagonist	0.092	COMP566	
+Metalloproteinase-2 inhibitor	0.108	COMP566	
+Metalloproteinase-9 inhibitor	0.120	COMP566	
+Microtubule formation inhibitor	0.155	COMP567	
+Microtubule stabilization	0.051	COMP567	
+Monophenol monooxygenase inhibitor	0.411	COMP566	(0.177 COMP567)
+Motilin receptor agonist	0.022	COMP567	
+Mucolytic	0.140	COMP567	
+Myeloperoxidase inhibitor	0.437	COMP566	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.077	COMP566	
+NADH dehydrogenase inhibitor	0.150	COMP567	
+NOS3 expression enhancer	0.314	COMP567	(0.214 COMP566)
+Na+ K+ transporting ATPase inhibitor	0.146	COMP567	
+Neuropeptide Y2 antagonist	0.236	COMP566	
+Neurotensin receptor agonist	0.232	COMP566	
+Neurotrophic factor	0.158	COMP566	
+Neurotrophic factor enhancer	0.244	COMP567	
+Nitric oxide antagonist	0.748	COMP567	(0.221 COMP566)
+Nitric-oxide synthase stimulant	0.289	COMP566	(0.185 COMP567)
+P-glycoprotein inhibitor	0.333	COMP567	(0.155 COMP566)
+Peptidyltransferase inhibitor	0.378	COMP567	(0.263 COMP566)
+Peroxidase inhibitor	0.268	COMP566	
+Phenylalanine 4-hydroxylase inhibitor	0.092	COMP566	
+Phosphodiesterase 6D inhibitor	0.114	COMP566	(0.102 COMP567)
+Phosphofructokinase-1 inhibitor	0.213	COMP567	
+Phospholipase A2 inhibitor	0.141	COMP566	
+Photosensitizer	0.171	COMP567	
+Platelet adhesion inhibitor	0.255	COMP566	(0.153 COMP567)
+Potassium channel (ATP-sensitive) blocker	0.063	COMP566	
+Prolactin inhibitor	0.187	COMP566	
+Prostaglandin EP2 antagonist	0.205	COMP567	(0.083 COMP566)
+Proteasome inhibitor	0.113	COMP566	
+Protein 30S ribosomal subunit inhibitor	0.096	COMP567	
+Protein 50S ribosomal subunit inhibitor	0.138	COMP567	
+Protein kinase C delta inhibitor	0.084	COMP566	
+Protein kinase C gamma inhibitor	0.120	COMP566	
+Protein kinase stimulant	0.382	COMP567	(0.110 COMP566)
+Protein-tyrosine phosphatase 1B inhibitor	0.180	COMP567	(0.096 COMP566)
+Protein-tyrosine phosphatase inhibitor	0.228	COMP567	(0.129 COMP566)
+Psychostimulant	0.190	COMP566	
+Pyruvate kinase inhibitor	0.202	COMP566	
+Selectin antagonist	0.369	COMP567	(0.062 COMP566)
+Sigma receptor agonist	0.394	COMP566	
+Sirtuin 1 inhibitor	0.071	COMP566	
+Sodium/bile acid cotransporter inhibitor	0.285	COMP566	
+Sodium/glucose cotransporter 2 inhibitor	0.098	COMP567	
+Sodium/glucose cotransporter inhibitor	0.081	COMP567	
+Somatostatin 1 agonist	0.098	COMP566	
+Somatostatin 1 antagonist	0.034	COMP566	
+Spasmolytic	0.185	COMP566	
+Succinate dehydrogenase inhibitor	0.149	COMP566	
+Superoxide dismutase inhibitor	0.364	COMP566	
+T cell inhibitor	0.085	COMP567	
+TRPA1 agonist	0.151	COMP566	
+Telomerase stimulant	0.038	COMP567	
+Thioredoxin glutathione reductase inhibitor	0.258	COMP567	(0.204 COMP566)
+Thioredoxin inhibitor	0.106	COMP567	(0.092 COMP566)
+Thrombolytic	0.121	COMP566	
+Toll-Like receptor 2 antagonist	0.319	COMP566	
+Toll-Like receptor 4 agonist	0.037	COMP567	
+Toll-Like receptor 4 antagonist	0.239	COMP567	(0.101 COMP566)
+Topoisomerase I inhibitor	0.330	COMP567	(0.094 COMP566)
+Topoisomerase II alpha inhibitor	0.218	COMP567	(0.082 COMP566)
+Topoisomerase II inhibitor	0.267	COMP567	(0.098 COMP566)
+Transcription factor AP-1 inhibitor	0.061	COMP567	
+Transcription factor NF kappa B inhibitor	0.849	COMP567	(0.549 COMP566)
+Transcription factor NF kappa B stimulant	0.172	COMP567	
+Transcription factor STAT inhibitor	0.312	COMP566	
+Transcription factor STAT3 inhibitor	0.306	COMP566	
+Transcription factor STAT6 inhibitor	0.114	COMP566	
+Transcription factor inhibitor	0.235	COMP566	
+Triose-phosphate isomerase inhibitor	0.187	COMP567	
+Tubulin antagonist	0.287	COMP566	
+Tumour necrosis factor alpha release inhibitor	0.280	COMP567	(0.210 COMP566)
+Tumour necrosis factor antagonist	0.189	COMP566	
+Tyrosine 3 hydroxylase inhibitor	0.298	COMP566	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.098	COMP567	
+UDP-glucose 4-epimerase inhibitor	0.306	COMP567	
+Urease inhibitor	0.104	COMP566	
+Urotensin II agonist	0.029	COMP566	
+Vanilloid 1 agonist	0.220	COMP566	(0.142 COMP567)
+Vanilloid 2 antagonist	0.062	COMP566	
+Vanilloid agonist	0.141	COMP566	
+Vanilloid antagonist	0.080	COMP566	
+Vasodilator	0.245	COMP567	(0.168 COMP566)
+Vasodilator. coronary	0.426	COMP567	(0.307 COMP566)
+Vasodilator. peripheral	0.425	COMP566	
+Xanthine oxidase inhibitor	0.119	COMP566	

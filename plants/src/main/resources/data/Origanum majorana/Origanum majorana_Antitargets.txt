@@ -1,0 +1,60 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine 2A agonist	0.071	COMP101	
+ATPase inhibitor	0.224	COMP1740/COMP1741	(0.218 COMP101)
+Acetylcholine M1 receptor agonist	0.053	COMP1740/COMP1741	
+Acetylcholine M1 receptor antagonist	0.184	COMP1740/COMP1741	
+Acetylcholine M2 receptor agonist	0.085	COMP1740/COMP1741	
+Acetylcholine M2 receptor antagonist	0.256	COMP1740/COMP1741	
+Acetylcholine M3 receptor agonist	0.167	COMP1740/COMP1741	
+Acetylcholinesterase inhibitor	0.151	COMP101	
+Adenylate cyclase inhibitor	0.138	COMP101	
+Adenylate kinase inhibitor	0.104	COMP101	
+Alkaline phosphatase inhibitor	0.247	COMP101	
+Alpha 2a adrenoreceptor antagonist	0.140	COMP1740/COMP1741	(0.114 COMP101)
+Alpha 2b adrenoreceptor agonist	0.026	COMP101	
+Androgen agonist	0.063	COMP101	
+Androgen antagonist	0.115	COMP101	
+Beta 1 adrenoreceptor antagonist	0.097	COMP101	
+Beta 2 adrenoreceptor agonist	0.066	COMP101	
+Beta 2 adrenoreceptor antagonist	0.090	COMP101	
+Butyrylcholinesterase inhibitor	0.099	COMP101	
+CYP1A2 inhibitor	0.413	COMP101	
+CYP2C9 inhibitor	0.411	COMP1740/COMP1741	(0.363 COMP101)
+CYP2D6 inhibitor	0.539	COMP1740/COMP1741	(0.196 COMP101)
+CYP3A4 inhibitor	0.380	COMP1740/COMP1741	(0.329 COMP101)
+Ca2+-transporting ATPase inhibitor	0.152	COMP101	
+Calcium channel L-type blocker	0.103	COMP1740/COMP1741	(0.073 COMP101)
+Cyclooxygenase 1 inhibitor	0.231	COMP101	
+Cyclooxygenase 2 inhibitor	0.122	COMP101	
+Cyclooxygenase inhibitor	0.164	COMP101	
+Cystathionine beta-synthase inhibitor	0.288	COMP101	
+DNA polymerase beta inhibitor	0.326	COMP101	
+DOPA decarboxylase inhibitor	0.179	COMP101	
+Diamine oxidase inhibitor	0.040	COMP101	
+Dihydrofolate reductase inhibitor	0.058	COMP101	
+Electron transport complex I inhibitor	0.193	COMP101	
+Estrogen agonist	0.082	COMP101	
+GABA aminotransferase inhibitor	0.161	COMP101	
+Glucose-6-phosphate isomerase inhibitor	0.044	COMP101	
+Glutamate dehydrogenase inhibitor	0.069	COMP101	
+Heat shock protein 70 antagonist	0.190	COMP101	
+MAO A inhibitor	0.252	COMP101	
+MAO inhibitor	0.220	COMP101	
+Na+ K+ transporting ATPase inhibitor	0.096	COMP101	
+Opioid kappa receptor agonist	0.042	COMP1740/COMP1741	
+Peroxidase inhibitor	0.355	COMP101	
+Phenylalanine 4-hydroxylase inhibitor	0.160	COMP101	
+Phosphodiesterase 4D inhibitor	0.231	COMP101	
+Phosphofructokinase-1 inhibitor	0.096	COMP101	
+Phosphoglycerate kinase inhibitor	0.042	COMP101	
+Phospholipase A2 inhibitor	0.180	COMP101	
+Phospholipase C inhibitor	0.229	COMP101	
+Prostaglandin F2 alpha agonist	0.023	COMP101	
+Pyruvate kinase inhibitor	0.361	COMP101	
+Succinate dehydrogenase inhibitor	0.341	COMP101	
+Superoxide dismutase inhibitor	0.678	COMP101	
+Topoisomerase I inhibitor	0.121	COMP101	
+Topoisomerase II alpha inhibitor	0.143	COMP101	
+Triose-phosphate isomerase inhibitor	0.094	COMP101	
+Tyrosine 3 hydroxylase inhibitor	0.418	COMP101	
+UDP-glucose 4-epimerase inhibitor	0.091	COMP101	

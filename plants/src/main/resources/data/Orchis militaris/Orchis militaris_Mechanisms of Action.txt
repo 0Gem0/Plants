@@ -1,0 +1,256 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.255	COMP3169	
+15-Lipoxygenase inhibitor	0.535	COMP3169	
+2.3-Oxidosqualene-lanosterol cyclase inhibitor	0.037	COMP3169	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.110	COMP3169	
+5 Hydroxytryptamine 3E antagonist	0.193	COMP3169	
+5 Hydroxytryptamine release inhibitor	0.289	COMP3169	
+5 Hydroxytryptamine release stimulant	0.195	COMP3169	
+5-Lipoxygenase inhibitor	0.310	COMP3169	
+ABCA1 expression enhancer	0.114	COMP3169	
+ATPase (Vacuolar H+) inhibitor	0.108	COMP3169	
+ATPase inhibitor	0.208	COMP3169	
+Acetylcholine release stimulant	0.122	COMP3169	
+Aconitate hydratase inhibitor	0.050	COMP3169	
+Adenylate cyclase stimulant	0.148	COMP3169	
+Aldehyde dehydrogenase inhibitor	0.183	COMP3169	
+Aldehyde oxidase inhibitor	0.163	COMP3169	
+Aldose reductase inhibitor	0.047	COMP3169	
+Alkylator	0.113	COMP3169	
+Alpha-N-acetylglucosaminidase inhibitor	0.145	COMP3169	
+Amylase inhibitor	0.318	COMP3169	
+Amyloid beta aggregation inhibitor	0.498	COMP3169	
+Amyloid beta precursor protein antagonist	0.241	COMP3169	
+Anabolic	0.105	COMP3169	
+Anesthetic general	0.249	COMP3169	
+Anesthetic local	0.177	COMP3169	
+Angiogenesis stimulant	0.216	COMP3169	
+Antiamyloidogenic	0.308	COMP3169	
+Antibacterial	0.400	COMP3169	
+Antiinflammatory	0.590	COMP3169	
+Antimitotic	0.143	COMP3169	
+Antineoplastic antibiotic	0.080	COMP3169	
+Antioxidant	0.645	COMP3169	
+Antithrombotic	0.470	COMP3169	
+Apoptosis agonist	0.720	COMP3169	
+Apoptosis antagonist	0.504	COMP3169	
+Arachidonic acid antagonist	0.226	COMP3169	
+Aryl hydrocarbon receptor agonist	0.262	COMP3169	
+Beta amyloid protein antagonist	0.115	COMP3169	
+Beta glucuronidase inhibitor	0.147	COMP3169	
+Bone formation stimulant	0.141	COMP3169	
+Breast cancer-resistant protein inhibitor	0.155	COMP3169	
+Butyrylcholinesterase inhibitor	0.083	COMP3169	
+CD45 antagonist	0.052	COMP3169	
+CDC25B inhibitor	0.060	COMP3169	
+Ca2+-transporting ATPase inhibitor	0.151	COMP3169	
+Calcium antagonist	0.226	COMP3169	
+Calcium channel L-type activator	0.284	COMP3169	
+Calcium channel L-type blocker	0.069	COMP3169	
+Calcium channel activator	0.333	COMP3169	
+Calcium channel blocker	0.160	COMP3169	
+Calcium-independent phospholipase A2 inhibitor	0.038	COMP3169	
+Carbonic anhydrase III inhibitor	0.170	COMP3169	
+Carbonic anhydrase V inhibitor	0.107	COMP3169	
+Carbonic anhydrase VA inhibitor	0.103	COMP3169	
+Carbonic anhydrase VB inhibitor	0.094	COMP3169	
+Carbonic anhydrase VI inhibitor	0.189	COMP3169	
+Carbonic anhydrase VII inhibitor	0.094	COMP3169	
+Carbonic anhydrase XIII inhibitor	0.405	COMP3169	
+Carbonic anhydrase XIV inhibitor	0.085	COMP3169	
+Carbonic anhydrase XV inhibitor	0.093	COMP3169	
+Caspase 3 inhibitor	0.125	COMP3169	
+Caspase 3 stimulant	0.430	COMP3169	
+Caspase 9 stimulant	0.822	COMP3169	
+Catalase inhibitor	0.164	COMP3169	
+Cathepsin H inhibitor	0.106	COMP3169	
+Cell adhesion inhibitor	0.107	COMP3169	
+Cell adhesion molecule inhibitor	0.070	COMP3169	
+Chelator	0.105	COMP3169	
+Cholesterol antagonist	0.628	COMP3169	
+Cholesterol synthesis inhibitor	0.252	COMP3169	
+Cyclic AMP phosphodiesterase inhibitor	0.151	COMP3169	
+Cyclooxygenase 1 inhibitor	0.175	COMP3169	
+Cyclooxygenase 2 inhibitor	0.120	COMP3169	
+Cyclooxygenase 3 inhibitor	0.184	COMP3169	
+Cyclooxygenase inhibitor	0.152	COMP3169	
+Cyclophilin D inhibitor	0.415	COMP3169	
+Cystathionine beta-synthase inhibitor	0.242	COMP3169	
+Cytokine production stimulant	0.051	COMP3169	
+DNA damaging	0.302	COMP3169	
+DNA methylase inhibitor	0.243	COMP3169	
+DNA methyltransferase I inhibitor	0.272	COMP3169	
+DNA polymerase I inhibitor	0.176	COMP3169	
+DNA synthesis inhibitor	0.216	COMP3169	
+DOPA decarboxylase inhibitor	0.099	COMP3169	
+Dihydroorotase inhibitor	0.067	COMP3169	
+Electron transport complex I inhibitor	0.107	COMP3169	
+Estrogen antagonist	0.120	COMP3169	
+Estrogen receptor alpha antagonist	0.076	COMP3169	
+Expectorant	0.190	COMP3169	
+Factor III inhibitor	0.060	COMP3169	
+Falcipain 2 inhibitor	0.096	COMP3169	
+Falcipain inhibitor	0.096	COMP3169	
+Farnesoid X receptor agonist	0.084	COMP3169	
+Farnesoid X receptor antagonist	0.132	COMP3169	
+Farnesyltransferase inhibitor	0.042	COMP3169	
+Free radical scavenger	0.572	COMP3169	
+Fumarate hydratase inhibitor	0.049	COMP3169	
+GABA C receptor rho-2 antagonist	0.139	COMP3169	
+GABA C receptor rho-3 antagonist	0.250	COMP3169	
+GABA aminotransferase inhibitor	0.076	COMP3169	
+Gastric antisecretory	0.335	COMP3169	
+Gastrin inhibitor	0.224	COMP3169	
+Glucose-6-phosphate isomerase inhibitor	0.043	COMP3169	
+Glucose-6-phosphate translocase inhibitor	0.100	COMP3169	
+Glutamate release inhibitor	0.105	COMP3169	
+Glutathione S-transferase inhibitor	0.191	COMP3169	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.152	COMP3169	
+Glycine receptor agonist	0.075	COMP3169	
+Granulocyte macrophage colony stimulating factor agonist	0.121	COMP3169	
+HIV-1 integrase (3'-Processing) inhibitor	0.169	COMP3169	
+HIV-1 integrase (Strand Transfer) inhibitor	0.144	COMP3169	
+HIV-1 integrase inhibitor	0.076	COMP3169	
+HIV-1 reverse transcriptase inhibitor	0.066	COMP3169	
+HMG CoA reductase inhibitor	0.039	COMP3169	
+Heat shock protein 70 antagonist	0.179	COMP3169	
+Heme oxygenase stimulant	0.066	COMP3169	
+Hepatoprotectant	0.289	COMP3169	
+Histamine release inhibitor	0.322	COMP3169	
+Histidine decarboxylase inhibitor	0.091	COMP3169	
+Histone acetyltransferase inhibitor	0.165	COMP3169	
+Histone deacetylase SIRT1 stimulant	0.092	COMP3169	
+Histone deacetylase stimulant	0.092	COMP3169	
+Human rhinovirus A protease inhibitor	0.058	COMP3169	
+Hypoglycemic	0.555	COMP3169	
+Hypolipemic	0.442	COMP3169	
+ICAM 1 antagonist	0.026	COMP3169	
+Immunostimulant	0.253	COMP3169	
+Immunosuppressant	0.434	COMP3169	
+Insulin secretagoues	0.124	COMP3169	
+Insulin sensitizer	0.397	COMP3169	
+Insulysin inhibitor	0.270	COMP3169	
+Interferon gamma antagonist	0.340	COMP3169	
+Interleukin 1 antagonist	0.147	COMP3169	
+Interleukin 1b antagonist	0.187	COMP3169	
+Interleukin 5 antagonist	0.082	COMP3169	
+Isoleucine-tRNA ligase inhibitor	0.024	COMP3169	
+Kainate receptor agonist	0.047	COMP3169	
+Keratolytic	0.149	COMP3169	
+LFA antagonist	0.028	COMP3169	
+Leukotriene B4 antagonist	0.116	COMP3169	
+Leukotriene B4 receptor 1 antagonist	0.034	COMP3169	
+Leukotriene C antagonist	0.073	COMP3169	
+Leukotriene C4 antagonist	0.048	COMP3169	
+Leukotriene antagonist	0.173	COMP3169	
+Leukotriene synthesis inhibitor	0.112	COMP3169	
+Lipase inhibitor	0.084	COMP3169	
+Lipid peroxidase inhibitor	0.459	COMP3169	
+Lipoxygenase inhibitor	0.697	COMP3169	
+MAO A inhibitor	0.324	COMP3169	
+MAO B inhibitor	0.392	COMP3169	
+MAO inhibitor	0.463	COMP3169	
+Macrophage migration inhibitory factor inhibitor	0.075	COMP3169	
+Matrix metalloproteinase 1 inhibitor	0.050	COMP3169	
+Matrix metalloproteinase inhibitor	0.065	COMP3169	
+Mediator release inhibitor	0.428	COMP3169	
+Melanin inhibitor	0.485	COMP3169	
+Methionyl aminopeptidase 1 inhibitor	0.033	COMP3169	
+Microtubule formation inhibitor	0.165	COMP3169	
+Monophenol monooxygenase inhibitor	0.432	COMP3169	
+Mucolytic	0.138	COMP3169	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.119	COMP3169	
+NMDA receptor agonist	0.059	COMP3169	
+NMDA receptor glycine site agonist	0.082	COMP3169	
+NOS3 expression enhancer	0.336	COMP3169	
+Na+ K+ transporting ATPase inhibitor	0.109	COMP3169	
+Neuraminidase inhibitor	0.063	COMP3169	
+Neuropeptide Y2 antagonist	0.195	COMP3169	
+Neurotrophic factor enhancer	0.146	COMP3169	
+Nicotinic acid receptor agonist	0.032	COMP3169	
+Nitric oxide antagonist	0.448	COMP3169	
+Nitric oxide donor	0.080	COMP3169	
+Nitric-oxide synthase stimulant	0.179	COMP3169	
+Non-steroidal antiinflammatory agent	0.255	COMP3169	
+Ornithine decarboxylase inhibitor	0.197	COMP3169	
+P-glycoprotein inhibitor	0.468	COMP3169	
+Peptidyltransferase inhibitor	0.249	COMP3169	
+Peroxisome proliferator-activated receptor alpha agonist	0.188	COMP3169	
+Peroxisome proliferator-activated receptor alpha antagonist	0.064	COMP3169	
+Peroxisome proliferator-activated receptor delta agonist	0.079	COMP3169	
+Peroxisome proliferator-activated receptor delta antagonist	0.032	COMP3169	
+Peroxisome proliferator-activated receptor gamma agonist	0.200	COMP3169	
+Peroxisome proliferator-activated receptor gamma antagonist	0.100	COMP3169	
+Phosphodiesterase 6D inhibitor	0.108	COMP3169	
+Phospholipase A2 inhibitor	0.331	COMP3169	
+Phospholipase C inhibitor	0.206	COMP3169	
+Photosensitizer	0.235	COMP3169	
+Platelet adhesion inhibitor	0.364	COMP3169	
+Platelet antagonist	0.299	COMP3169	
+Potassium channel Kv1.3 blocker	0.086	COMP3169	
+Pregnane X receptor antagonist	0.060	COMP3169	
+Prolactin inhibitor	0.088	COMP3169	
+Prostaglandin E2 agonist	0.032	COMP3169	
+Prostaglandin EP2 agonist	0.037	COMP3169	
+Prostaglandin EP2 antagonist	0.095	COMP3169	
+Prostaglandin EP3 antagonist	0.037	COMP3169	
+Prostaglandin F2 alpha agonist	0.030	COMP3169	
+Prostaglandin agonist	0.079	COMP3169	
+Prostaglandin dehydrogenase inhibitor	0.217	COMP3169	
+Prostaglandin-E synthase inhibitor	0.094	COMP3169	
+Protease 3C (Human rhinovirus) inhibitor	0.110	COMP3169	
+Proteasome inhibitor	0.108	COMP3169	
+Protein kinase stimulant	0.388	COMP3169	
+Protein-tyrosine phosphatase 1B inhibitor	0.299	COMP3169	
+Protein-tyrosine phosphatase inhibitor	0.327	COMP3169	
+Pyruvate kinase inhibitor	0.141	COMP3169	
+Retinoic acid alpha receptor agonist	0.053	COMP3169	
+Retinoic acid alpha receptor antagonist	0.024	COMP3169	
+Retinoic acid beta receptor agonist	0.020	COMP3169	
+Retinoic acid gamma receptor agonist	0.025	COMP3169	
+Retinoic acid receptor agonist	0.069	COMP3169	
+Retinoic acid receptor antagonist	0.020	COMP3169	
+Retinoid X alpha receptor agonist	0.127	COMP3169	
+Retinoid X alpha receptor antagonist	0.054	COMP3169	
+Retinoid X beta receptor agonist	0.019	COMP3169	
+Retinoid X beta receptor antagonist	0.025	COMP3169	
+Retinoid X gamma receptor agonist	0.020	COMP3169	
+Retinoid X gamma receptor antagonist	0.032	COMP3169	
+Retinoid X receptor agonist	0.118	COMP3169	
+Retinoid X receptor antagonist	0.064	COMP3169	
+Sigma receptor agonist	0.122	COMP3169	
+Sirtuin 1 inhibitor	0.101	COMP3169	
+Spasmolytic	0.398	COMP3169	
+Sphingosine 1-phosphate receptor 4 antagonist	0.112	COMP3169	
+Squalene epoxidase inhibitor	0.168	COMP3169	
+Squalene synthetase inhibitor	0.090	COMP3169	
+Succinate dehydrogenase inhibitor	0.234	COMP3169	
+Superoxide dismutase inhibitor	0.468	COMP3169	
+TRPA1 agonist	0.161	COMP3169	
+TRPA1 antagonist	0.084	COMP3169	
+TRPM8 blocker	0.034	COMP3169	
+Thiol protease inhibitor	0.123	COMP3169	
+Thioredoxin inhibitor	0.141	COMP3169	
+Thioredoxin reductase inhibitor	0.172	COMP3169	
+Thromboxane synthase inhibitor	0.059	COMP3169	
+Toll-Like receptor 2 antagonist	0.145	COMP3169	
+Toll-Like receptor 4 antagonist	0.213	COMP3169	
+Transcription factor AP-1 inhibitor	0.063	COMP3169	
+Transcription factor NF kappa B inhibitor	0.627	COMP3169	
+Transcription factor NF kappa B stimulant	0.086	COMP3169	
+Transcription factor RelA inhibitor	0.064	COMP3169	
+Transcription factor STAT inhibitor	0.334	COMP3169	
+Transcription factor STAT3 inhibitor	0.390	COMP3169	
+Transcription factor inhibitor	0.264	COMP3169	
+Tubulin antagonist	0.180	COMP3169	
+Tumour necrosis factor alpha release inhibitor	0.327	COMP3169	
+Tumour necrosis factor antagonist	0.138	COMP3169	
+Tyrosine 3 hydroxylase inhibitor	0.221	COMP3169	
+Uric acid excretion stimulant	0.108	COMP3169	
+Vanilloid 1 agonist	0.193	COMP3169	
+Vanilloid agonist	0.085	COMP3169	
+Vasodilator	0.407	COMP3169	
+Vasodilator. coronary	0.440	COMP3169	
+Vasodilator. peripheral	0.571	COMP3169	
+Xanthine dehydrogenase inhibitor	0.150	COMP3169	
+Xanthine oxidase inhibitor	0.293	COMP3169	

@@ -1,0 +1,17 @@
+Name	Activation_Prob	Compound	Another_Probs
+ATPase inhibitor	0.214	COMP956	(0.155 COMP967)
+Acetylcholinesterase inhibitor	0.120	COMP967	(0.108 COMP956)
+Aconitate hydratase inhibitor	0.050	COMP967	
+Acyl-CoA dehydrogenase inhibitor	0.054	COMP967	
+Androgen agonist	0.090	COMP956	(0.064 COMP967)
+Androgen antagonist	0.169	COMP956	
+Ca2+-transporting ATPase inhibitor	0.171	COMP967	(0.170 COMP956)
+Cyclooxygenase 2 inhibitor	0.195	COMP967	(0.140 COMP956)
+Cyclooxygenase inhibitor	0.178	COMP967	(0.123 COMP956)
+Estrogen agonist	0.100	COMP956	(0.075 COMP967)
+Glucose-6-phosphate isomerase inhibitor	0.049	COMP967	
+HMG CoA reductase inhibitor	0.032	COMP956	
+Na+ K+ transporting ATPase inhibitor	0.136	COMP967	(0.128 COMP956)
+Opioid kappa receptor agonist	0.049	COMP967	
+Phosphofructokinase-1 inhibitor	0.097	COMP967	
+Succinate dehydrogenase inhibitor	0.162	COMP967	

@@ -1,0 +1,32 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acetylcholinesterase inhibitor	0.168	COMP135	
+Alcohol dehydrogenase inhibitor	0.089	COMP135	
+Alkaline phosphatase inhibitor	0.118	COMP135	
+Androgen antagonist	0.107	COMP135	(0.104 COMP3015)
+Argininosuccinate synthase inhibitor	0.052	COMP3015	
+CYP1A2 inhibitor	0.306	COMP135	
+CYP2C9 inhibitor	0.451	COMP135	(0.323 COMP3015)
+CYP2D6 inhibitor	0.241	COMP135	
+Ca2+-transporting ATPase inhibitor	0.180	COMP135	(0.166 COMP3015)
+Cyclooxygenase 1 inhibitor	0.376	COMP3015	(0.304 COMP135)
+Cyclooxygenase 2 inhibitor	0.154	COMP135	
+Cyclooxygenase inhibitor	0.228	COMP135	(0.223 COMP3015)
+Cystathionine beta-synthase inhibitor	0.377	COMP135	(0.238 COMP3015)
+DNA polymerase beta inhibitor	0.231	COMP135	
+DOPA decarboxylase inhibitor	0.127	COMP135	
+Electron transport complex I inhibitor	0.185	COMP135	(0.129 COMP3015)
+GABA aminotransferase inhibitor	0.075	COMP135	
+Glucose-6-phosphate isomerase inhibitor	0.046	COMP135	
+Heat shock protein 70 antagonist	0.134	COMP135	
+MAO A inhibitor	0.145	COMP135	(0.081 COMP3015)
+MAO inhibitor	0.199	COMP135	(0.098 COMP3015)
+Na+ K+ transporting ATPase inhibitor	0.070	COMP3015	(0.068 COMP135)
+Peroxidase inhibitor	0.330	COMP135	
+Phosphofructokinase-1 inhibitor	0.069	COMP135	
+Phospholipase A2 inhibitor	0.394	COMP135	(0.361 COMP3015)
+Phospholipase C inhibitor	0.189	COMP135	(0.187 COMP3015)
+Pyruvate kinase inhibitor	0.199	COMP135	
+Succinate dehydrogenase inhibitor	0.383	COMP135	(0.287 COMP3015)
+Superoxide dismutase inhibitor	0.579	COMP135	(0.263 COMP3015)
+Tyrosine 3 hydroxylase inhibitor	0.324	COMP135	(0.228 COMP3015)
+UDP-glucose 4-epimerase inhibitor	0.104	COMP135	

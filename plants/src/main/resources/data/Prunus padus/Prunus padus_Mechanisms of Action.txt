@@ -1,0 +1,583 @@
+Name	Activation_Prob	Compound	Another_Probs
+1-Alkyl-2-acetylglycerophosphocholine esterase inhibitor	0.037	COMP271	
+1-Deoxy-D-xylulose-5-phosphate reductoisomerase inhibitor	0.013	COMP271	
+1.3-Beta-glucan synthase inhibitor	0.035	COMP77	
+11-Beta-hydroxysteroid dehydrogenase 1 inhibitor	0.042	COMP77	
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.102	COMP77	
+12-Lipoxygenase inhibitor	0.482	COMP271	(0.324 COMP2437)
+15-Lipoxygenase inhibitor	0.491	COMP271	(0.368 COMP2437)
+2.3-Oxidosqualene-lanosterol cyclase inhibitor	0.203	COMP77	
+3 Beta-hydroxy-delta 5-steroid dehydrogenase inhibitor	0.021	COMP77	
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.105	COMP271	(0.069 COMP77)
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.148	COMP271	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.207	COMP271	
+3C-like protease (Human coronavirus) inhibitor	0.270	COMP271	(0.144 COMP2437)
+5 Hydroxytryptamine 1E antagonist	0.218	COMP2437	(0.208 COMP271)
+5 Hydroxytryptamine 5A antagonist	0.056	COMP2437	
+5 Hydroxytryptamine 7 agonist	0.051	COMP2437	
+5 Hydroxytryptamine release inhibitor	0.633	COMP271	(0.340 COMP2437)
+5 Hydroxytryptamine release stimulant	0.557	COMP2437	(0.369 COMP271) (0.276 COMP77)
+5 Hydroxytryptamine uptake stimulant	0.591	COMP271	(0.308 COMP2437)
+5-Alpha-reductase 1 inhibitor	0.560	COMP77	
+5-Alpha-reductase 2 inhibitor	0.588	COMP77	(0.021 COMP271)
+5-Alpha-reductase inhibitor	0.554	COMP77	(0.059 COMP271)
+5-Lipoxygenase inhibitor	0.256	COMP271	(0.111 COMP2437)
+ABCA1 expression enhancer	0.362	COMP77	(0.128 COMP271)
+AICAR transformylase inhibitor	0.044	COMP271	
+AMP-activated protein kinase stimulant	0.224	COMP271	(0.208 COMP77) (0.089 COMP2437)
+ATP citrate lysase inhibitor	0.049	COMP271	
+ATPase (Vacuolar H+) inhibitor	0.119	COMP271	
+ATPase inhibitor	0.242	COMP271	(0.151 COMP2437)
+Acetyl-CoA transferase inhibitor	0.061	COMP77	
+Acetylcholine M5 receptor agonist	0.083	COMP2437	
+Acetylcholine release stimulant	0.121	COMP2437	(0.118 COMP271)
+Acetylcholinesterase inhibitor	0.196	COMP2437	
+Aconitate hydratase inhibitor	0.172	COMP271	
+Activin receptor-like kinase 2 inhibitor	0.131	COMP2437	
+Acyl-CoA dehydrogenase inhibitor	0.126	COMP271	
+Adenine nucleotide translocase inhibitor	0.120	COMP271	
+Adenosine deaminase inhibitor	0.059	COMP271	
+Adenosine uptake inhibitor	0.033	COMP2437	
+Adenylate cyclase inhibitor	0.159	COMP271	
+Adenylate cyclase stimulant	0.195	COMP271	(0.129 COMP2437)
+Adenylate kinase inhibitor	0.218	COMP271	
+Adrenaline agonist	0.130	COMP271	
+Alcohol dehydrogenase inhibitor	0.259	COMP271	
+Alcohol oxidase inhibitor	0.767	COMP271	
+Aldehyde dehydrogenase inhibitor	0.289	COMP271	(0.157 COMP2437) (0.125 COMP77)
+Aldehyde oxidase inhibitor	0.933	COMP271	(0.635 COMP2437)
+Aldose reductase inhibitor	0.088	COMP271	(0.056 COMP2437)
+Aldosterone antagonist	0.149	COMP77	
+Alkaline phosphatase inhibitor	0.282	COMP271	
+Alkylator	0.375	COMP2437	(0.155 COMP271) (0.122 COMP77)
+Alpha 2 adrenoreceptor antagonist	0.075	COMP2437	
+Alpha 2a adrenoreceptor antagonist	0.068	COMP2437	
+Alpha 2b adrenoreceptor antagonist	0.129	COMP2437	
+Alpha 2c adrenoreceptor antagonist	0.103	COMP2437	
+Alpha tubulin antagonist	0.225	COMP2437	(0.183 COMP271)
+Alpha-N-acetylglucosaminidase inhibitor	0.584	COMP271	
+Alpha-mannosidase inhibitor	0.063	COMP271	
+Aminopeptidase B inhibitor	0.161	COMP271	
+Aminopeptidase I inhibitor	0.105	COMP271	
+Amylase inhibitor	0.584	COMP77	(0.461 COMP271) (0.136 COMP2437)
+Amyloid beta aggregation inhibitor	0.477	COMP271	(0.446 COMP2437)
+Amyloid beta precursor protein antagonist	0.276	COMP271	(0.151 COMP2437)
+Anabolic	0.213	COMP77	(0.138 COMP271)
+Androgen agonist	0.450	COMP77	
+Androgen antagonist	0.667	COMP77	
+Anesthetic general	0.807	COMP77	(0.411 COMP271) (0.188 COMP2437)
+Anesthetic local	0.180	COMP271	(0.136 COMP77)
+Angiogenesis inhibitor	0.245	COMP2437	
+Angiogenesis stimulant	0.361	COMP77	(0.292 COMP271)
+Antiamyloidogenic	0.460	COMP271	(0.333 COMP2437)
+Antibacterial	0.465	COMP77	(0.437 COMP271) (0.320 COMP2437)
+Antibiotic Anthracycline-like	0.023	COMP271	
+Antiinflammatory	0.848	COMP77	(0.445 COMP271)
+Antimitotic	0.514	COMP2437	(0.389 COMP271)
+Antineoplastic alkaloid	0.212	COMP2437	(0.150 COMP77) (0.086 COMP271)
+Antineoplastic antibiotic	0.165	COMP77	(0.088 COMP2437)
+Antiobesity	0.380	COMP77	
+Antioxidant	0.537	COMP271	(0.413 COMP77) (0.355 COMP2437)
+Antipruritic	0.229	COMP77	
+Antithrombotic	0.419	COMP271	
+Apoptosis agonist	0.814	COMP77	(0.623 COMP2437) (0.542 COMP271)
+Apoptosis antagonist	0.622	COMP77	(0.393 COMP271) (0.203 COMP2437)
+Arachidonic acid antagonist	0.294	COMP77	(0.226 COMP271) (0.143 COMP2437)
+Arginase inhibitor	0.039	COMP271	
+Argininosuccinate synthase inhibitor	0.126	COMP271	
+Aromatase inhibitor	0.230	COMP77	
+Aryl hydrocarbon receptor agonist	0.490	COMP2437	(0.332 COMP271)
+Autotaxin inhibitor	0.054	COMP271	
+Bcl-xL inhibitor	0.062	COMP271	
+Beta 1 adrenoreceptor agonist	0.034	COMP271	
+Beta 1 adrenoreceptor antagonist	0.077	COMP271	
+Beta 2 adrenoreceptor agonist	0.069	COMP271	
+Beta 2 adrenoreceptor antagonist	0.061	COMP271	
+Beta 3 adrenoreceptor antagonist	0.096	COMP271	
+Beta adrenoreceptor agonist	0.053	COMP271	
+Beta adrenoreceptor antagonist	0.096	COMP271	
+Beta amyloid protein antagonist	0.123	COMP271	
+Beta glucuronidase inhibitor	0.223	COMP271	(0.138 COMP2437)
+Beta tubulin antagonist	0.285	COMP2437	(0.201 COMP271)
+Biliverdin reductase inhibitor	0.183	COMP271	
+Bombesin 2 receptor antagonist	0.045	COMP271	
+Bone formation stimulant	0.259	COMP77	(0.133 COMP271)
+Botulinum neurotoxin type A inhibitor	0.061	COMP77	
+Breast cancer-resistant protein inhibitor	0.217	COMP271	(0.142 COMP2437)
+Bromodomain-containing protein 2 inhibitor	0.096	COMP2437	
+Bronchodilator	0.165	COMP271	
+Butyrylcholinesterase inhibitor	0.092	COMP2437	
+CC chemokine 6 receptor antagonist	0.141	COMP271	
+CD45 antagonist	0.097	COMP271	
+CDC-like kinase 3 inhibitor	0.108	COMP2437	
+CDC25A inhibitor	0.330	COMP77	(0.116 COMP271) (0.091 COMP2437)
+CDC25B inhibitor	0.160	COMP77	(0.104 COMP271) (0.073 COMP2437)
+CF transmembrane conductance regulator agonist	0.182	COMP271	(0.150 COMP2437)
+CF transmembrane conductance regulator antagonist	0.046	COMP271	
+CYP24 inhibitor	0.060	COMP77	
+Ca2+-transporting ATPase inhibitor	0.198	COMP271	(0.155 COMP2437)
+Ca2+/calmodulin-dependent kinase II alpha inhibitor	0.355	COMP2437	
+Calcium antagonist	0.128	COMP271	(0.076 COMP2437)
+Calcium channel L-type activator	0.468	COMP2437	(0.460 COMP271)
+Calcium channel L-type blocker	0.082	COMP271	
+Calcium channel P-type blocker	0.087	COMP271	(0.062 COMP2437)
+Calcium channel activator	0.449	COMP271	(0.397 COMP2437) (0.269 COMP77)
+Calcium-independent phospholipase A2 inhibitor	0.035	COMP271	
+Calcium-sensing receptor agonist	0.038	COMP271	
+Calpain inhibitor	0.164	COMP271	
+Carbonic anhydrase II inhibitor	0.047	COMP271	
+Carbonic anhydrase III inhibitor	0.434	COMP271	(0.127 COMP2437)
+Carbonic anhydrase V inhibitor	0.183	COMP271	
+Carbonic anhydrase VA inhibitor	0.162	COMP271	
+Carbonic anhydrase VB inhibitor	0.151	COMP271	
+Carbonic anhydrase VI inhibitor	0.410	COMP271	
+Carbonic anhydrase VII inhibitor	0.110	COMP271	
+Carbonic anhydrase VIII inhibitor	0.020	COMP271	
+Carbonic anhydrase X inhibitor	0.020	COMP271	
+Carbonic anhydrase XII inhibitor	0.048	COMP271	
+Carbonic anhydrase XIII inhibitor	0.374	COMP271	
+Carbonic anhydrase XIV inhibitor	0.223	COMP271	
+Carbonic anhydrase XV inhibitor	0.444	COMP271	
+Carbonic anhydrase inhibitor	0.060	COMP271	
+Carnitine palmitoyltransferase 1 inhibitor	0.047	COMP271	
+Carnitine palmitoyltransferase 1A inhibitor	0.027	COMP271	
+Carnitine palmitoyltransferase 1B inhibitor	0.071	COMP271	
+Carnitine palmitoyltransferase inhibitor	0.047	COMP271	
+Caspase 3 inhibitor	0.136	COMP271	
+Caspase 3 stimulant	0.437	COMP271	(0.363 COMP77) (0.325 COMP2437)
+Caspase 7 inhibitor	0.097	COMP2437	
+Caspase 9 stimulant	0.854	COMP2437	(0.754 COMP77) (0.688 COMP271)
+Catalase inhibitor	0.205	COMP271	
+Catenin beta inhibitor	0.197	COMP271	(0.139 COMP2437)
+Cathepsin G inhibitor	0.099	COMP271	
+Cathepsin H inhibitor	0.134	COMP271	
+Cathepsin L2 inhibitor	0.308	COMP2437	
+Cell adhesion inhibitor	0.122	COMP271	
+Cell wall synthesis inhibitor	0.200	COMP271	
+Ceramide glucosyltransferase inhibitor	0.046	COMP77	
+Chelator	0.285	COMP271	(0.113 COMP2437)
+Cholesterol antagonist	0.955	COMP77	(0.680 COMP271) (0.214 COMP2437)
+Cholesterol ester transfer protein antagonist	0.046	COMP271	
+Cholesterol synthesis inhibitor	0.806	COMP77	(0.322 COMP271)
+Cholinergic	0.172	COMP2437	
+Collagenase 3 inhibitor	0.057	COMP271	
+Corticosteroid-like	0.046	COMP77	
+Creatine kinase inhibitor	0.308	COMP271	(0.155 COMP2437)
+Cyclic AMP phosphodiesterase inhibitor	0.417	COMP271	(0.315 COMP2437)
+Cyclin B3 inhibitor	0.074	COMP2437	
+Cyclin D1 inhibitor	0.128	COMP2437	
+Cyclooxygenase 1 inhibitor	0.181	COMP271	(0.131 COMP2437)
+Cyclooxygenase 2 inhibitor	0.103	COMP271	
+Cyclooxygenase 3 inhibitor	0.283	COMP271	(0.122 COMP77)
+Cyclooxygenase inhibitor	0.136	COMP271	(0.113 COMP2437)
+Cyclophilin D inhibitor	0.633	COMP77	(0.368 COMP271)
+Cystathionine beta-synthase inhibitor	0.573	COMP271	(0.331 COMP2437)
+Cytidine deaminase inhibitor	0.215	COMP271	
+Cytokine production inhibitor	0.130	COMP2437	(0.125 COMP271)
+D-Ala-D-Ala ligase inhibitor	0.191	COMP271	(0.108 COMP2437)
+DNA damaging	0.553	COMP2437	(0.279 COMP271) (0.194 COMP77)
+DNA directed DNA polymerase inhibitor	0.431	COMP271	
+DNA gyrase subunit A inhibitor	0.046	COMP271	(0.039 COMP2437)
+DNA helicase inhibitor	0.070	COMP271	
+DNA intercalator	0.319	COMP2437	
+DNA methylase inhibitor	0.445	COMP271	(0.279 COMP2437)
+DNA methyltransferase I inhibitor	0.475	COMP271	(0.288 COMP2437)
+DNA polymerase I inhibitor	0.506	COMP77	(0.236 COMP271)
+DNA polymerase beta inhibitor	0.444	COMP271	
+DNA repair enzyme inhibitor	0.145	COMP271	(0.144 COMP2437)
+DNA synthesis inhibitor	0.319	COMP271	(0.294 COMP2437)
+DOPA decarboxylase inhibitor	0.273	COMP271	(0.113 COMP2437)
+Dihydrofolate reductase inhibitor	0.050	COMP271	
+Dihydroorotase inhibitor	0.088	COMP271	
+Dihydroorotate dehydrogenase inhibitor	0.087	COMP271	
+Dihydroorotate oxidase inhibitor	0.093	COMP271	
+Dihydropteroate synthase inhibitor	0.085	COMP271	
+Diuretic	0.531	COMP77	(0.149 COMP271)
+Dopamine D1 agonist	0.025	COMP271	(0.020 COMP2437)
+Dopamine D1 antagonist	0.101	COMP2437	
+Dopamine D2 agonist	0.040	COMP2437	
+Dopamine D5 agonist	0.074	COMP271	
+Dopamine D5 antagonist	0.063	COMP2437	
+Dopamine agonist	0.057	COMP2437	
+Dopamine beta hydroxylase inhibitor	0.067	COMP271	
+Dual specificity phosphatase 3 inhibitor	0.376	COMP271	(0.233 COMP2437)
+Dual specificity phosphatase inhibitor	0.376	COMP271	(0.230 COMP2437)
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.213	COMP2437	(0.207 COMP271)
+Dyrk kinase inhibitor	0.199	COMP2437	(0.187 COMP271)
+Egl nine homolog 1 inhibitor	0.019	COMP271	
+Egl nine homolog 3 inhibitor	0.017	COMP271	
+Electrolyte absorption antagonist	0.166	COMP271	
+Electron transport complex I inhibitor	0.159	COMP271	(0.116 COMP2437)
+Endothelin B receptor antagonist	0.017	COMP271	
+Enoyl-[acyl-carrier-protein] reductase inhibitor	0.064	COMP271	
+EphB2 antagonist	0.243	COMP77	
+ErbB-1 antagonist	0.220	COMP2437	
+Estradiol 17 beta-dehydrogenase 1 inhibitor	0.021	COMP271	
+Estrogen agonist	0.302	COMP77	(0.051 COMP271)
+Estrogen antagonist	0.202	COMP77	(0.130 COMP271) (0.109 COMP2437)
+Estrogen receptor alpha antagonist	0.142	COMP77	(0.088 COMP271) (0.073 COMP2437)
+Estrogen receptor beta antagonist	0.142	COMP77	(0.118 COMP271) (0.103 COMP2437)
+Estrogen-related receptor alpha antagonist	0.043	COMP271	
+Estrogen-related receptor gamma antagonist	0.031	COMP271	
+Estrone sulfatase inhibitor	0.057	COMP77	
+Expectorant	0.388	COMP271	(0.132 COMP2437) (0.112 COMP77)
+Factor III inhibitor	0.089	COMP271	
+Factor V inhibitor	0.095	COMP271	
+Falcipain 3 inhibitor	0.150	COMP271	
+Farnesoid X receptor agonist	0.128	COMP77	(0.068 COMP271)
+Farnesoid X receptor antagonist	0.438	COMP77	(0.213 COMP271)
+Fatty acid synthase inhibitor	0.056	COMP2437/COMP271	
+Ferrochelatase inhibitor	0.275	COMP271	
+Focal adhesion kinase 2 inhibitor	0.225	COMP2437	
+Free fatty acid receptor 1 antagonist	0.044	COMP271	
+Free radical scavenger	0.565	COMP271	(0.387 COMP2437) (0.213 COMP77)
+Fructose-1.6-bisphosphatase inhibitor	0.050	COMP271	
+Fumarate hydratase inhibitor	0.065	COMP271	
+GABA B receptor agonist	0.219	COMP271	
+GABA C receptor agonist	0.369	COMP271	
+GABA C receptor antagonist	0.160	COMP271	(0.092 COMP2437)
+GABA C receptor rho-1 antagonist	0.171	COMP271	(0.118 COMP2437)
+GABA C receptor rho-2 antagonist	0.253	COMP2437	(0.214 COMP271)
+GABA C receptor rho-3 antagonist	0.510	COMP2437	(0.360 COMP271)
+GABA aminotransferase inhibitor	0.261	COMP271	
+GABA receptor agonist	0.092	COMP2437	
+GABA uptake inhibitor	0.057	COMP271	
+Gastric antisecretory	0.111	COMP271	
+Gastrin inhibitor	0.275	COMP271	(0.245 COMP2437) (0.226 COMP77)
+Glucagon-like peptide 1 receptor antagonist	0.036	COMP271	
+Glucocorticoid agonist	0.049	COMP77	
+Glucocorticoid antagonist	0.106	COMP77	
+Glucose-6-phosphate dehydrogenase inhibitor	0.103	COMP77	
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.651	COMP2437	(0.518 COMP271)
+Glucose-6-phosphate isomerase inhibitor	0.060	COMP271	
+Glucose-6-phosphate translocase inhibitor	0.110	COMP271	
+Glutamate (mGluR group III) agonist	0.063	COMP271	
+Glutamate (mGluR group III) antagonist	0.063	COMP271	
+Glutamate (mGluR3) agonist	0.081	COMP271	
+Glutamate (mGluR3) antagonist	0.074	COMP271	
+Glutamate (mGluR4) antagonist	0.047	COMP271	
+Glutamate (mGluR6) agonist	0.026	COMP271	
+Glutamate (mGluR6) antagonist	0.109	COMP271	
+Glutamate (mGluR7) antagonist	0.117	COMP2437	(0.111 COMP271)
+Glutamate (mGluR8) agonist	0.086	COMP271	
+Glutamate (mGluR8) antagonist	0.041	COMP271	
+Glutamate decarboxylase inhibitor	0.456	COMP271	
+Glutamate dehydrogenase inhibitor	0.180	COMP271	
+Glutamate release inhibitor	0.124	COMP271	
+Glutathione S-transferase inhibitor	0.136	COMP271	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.417	COMP271	(0.305 COMP2437)
+Glycine receptor agonist	0.403	COMP77	(0.155 COMP271)
+Glycine receptor antagonist	0.234	COMP77	(0.098 COMP2437) (0.084 COMP271)
+Granulocyte macrophage colony stimulating factor agonist	0.191	COMP271	(0.124 COMP2437)
+Growth factor agonist	0.457	COMP77	
+Guanylate cyclase inhibitor	0.070	COMP271	
+HCV NS5B polymerase inhibitor	0.053	COMP271	
+HIV-1 integrase (3'-Processing) inhibitor	0.298	COMP271	(0.087 COMP2437)
+HIV-1 integrase (Overall Integration) inhibitor	0.242	COMP271	(0.087 COMP2437)
+HIV-1 integrase (Strand Transfer) inhibitor	0.266	COMP271	(0.092 COMP2437) (0.085 COMP77)
+HIV-1 integrase inhibitor	0.150	COMP271	(0.125 COMP2437)
+HIV-1 protease inhibitor	0.045	COMP77	
+HMG CoA reductase inhibitor	0.073	COMP77	
+Heat shock protein 70 antagonist	0.250	COMP271	(0.164 COMP2437)
+Heat shock protein 90 alpha antagonist	0.241	COMP2437	(0.209 COMP271)
+Heat shock protein 90 antagonist	0.302	COMP2437	(0.173 COMP271)
+Heat shock protein 90 beta antagonist	0.137	COMP2437	(0.075 COMP271)
+Hedgehog signaling activator	0.314	COMP77	(0.028 COMP271)
+Hedgehog signaling inhibitor	0.577	COMP77	
+Heme oxygenase stimulant	0.068	COMP77	(0.066 COMP271)
+Hemostatic	0.198	COMP271	
+Heparanase inhibitor	0.077	COMP271	(0.054 COMP77)
+Hepatoprotectant	0.564	COMP77	(0.289 COMP271) (0.185 COMP2437)
+Hexokinase inhibitor	0.300	COMP271	(0.183 COMP2437)
+Histamine N-methyltransferase inhibitor	0.075	COMP271	
+Histamine release inhibitor	0.679	COMP271	(0.462 COMP2437)
+Histidine decarboxylase inhibitor	0.492	COMP271	(0.088 COMP2437)
+Histone acetyltransferase inhibitor	0.269	COMP271	
+Hypoglycemic	0.390	COMP271	(0.358 COMP77)
+Hypolipemic	0.640	COMP77	(0.195 COMP271)
+I kappa B kinase epsilon inhibitor	0.265	COMP271	(0.234 COMP2437)
+Ileal bile acid transport inhibitor	0.071	COMP77	(0.017 COMP271)
+Immunomodulator	0.583	COMP77	
+Immunostimulant	0.601	COMP77	(0.231 COMP271)
+Immunosuppressant	0.603	COMP77	(0.282 COMP271)
+Inducible nitric-oxide synthase inhibitor	0.170	COMP77	
+Inosine monophosphate dehydrogenase 2 inhibitor	0.038	COMP2437	
+Inosine monophosphate dehydrogenase inhibitor	0.057	COMP2437	
+Insulin like growth factor 3 antagonist	0.011	COMP271	
+Insulin secretagoues	0.198	COMP271	(0.174 COMP77)
+Insulin sensitizer	0.278	COMP271	(0.153 COMP77)
+Insulysin inhibitor	0.365	COMP271	(0.200 COMP2437)
+Interferon agonist	0.080	COMP77	
+Interferon gamma antagonist	0.576	COMP77	(0.322 COMP271) (0.161 COMP2437)
+Interferon inducer	0.075	COMP77	
+Interleukin 1 antagonist	0.143	COMP271	
+Interleukin 1 beta converting enzyme inhibitor	0.086	COMP271	
+Interleukin 12 antagonist	0.089	COMP271	
+Interleukin 1b antagonist	0.149	COMP271	
+Interleukin 2 agonist	0.540	COMP77	(0.234 COMP271)
+Interleukin 4 antagonist	0.266	COMP271	(0.108 COMP77)
+Interleukin 5 antagonist	0.095	COMP271	
+Interleukin 6 antagonist	0.176	COMP77	
+Interleukin 8 antagonist	0.135	COMP271	(0.133 COMP2437)
+Interleukin agonist	0.504	COMP77	(0.396 COMP271) (0.168 COMP2437)
+Interleukin antagonist	0.159	COMP271	
+Isoleucine-tRNA ligase inhibitor	0.021	COMP271	
+Kainate receptor agonist	0.057	COMP271	
+Kainate receptor antagonist	0.035	COMP271	
+Keratolytic	0.488	COMP271	(0.076 COMP2437)
+Kynurenine 3 monooxygenase inhibitor	0.058	COMP271	
+Lanosterol 14 alpha demethylase inhibitor	0.246	COMP77	
+Leukocyte elastase inhibitor	0.048	COMP271	
+Leukotriene B4 antagonist	0.133	COMP271	
+Leukotriene B4 receptor 1 antagonist	0.046	COMP271	
+Leukotriene B4 receptor 2 antagonist	0.032	COMP271	
+Leukotriene C antagonist	0.072	COMP271	
+Leukotriene C4 antagonist	0.046	COMP271	
+Leukotriene antagonist	0.143	COMP271	
+Leukotriene synthesis inhibitor	0.114	COMP271	
+Lipase inhibitor	0.073	COMP271	
+Lipid peroxidase inhibitor	0.309	COMP271	(0.188 COMP77) (0.167 COMP2437)
+Lipocortins synthesis agonist	0.120	COMP77	
+Lipocortins synthesis antagonist	0.503	COMP77	(0.235 COMP271) (0.141 COMP2437)
+Lipoxygenase inhibitor	0.467	COMP271	(0.317 COMP2437)
+Liver X receptor agonist	0.245	COMP77	
+Liver X receptor alpha agonist	0.627	COMP77	(0.058 COMP271)
+Liver X receptor antagonist	0.030	COMP77	
+Liver X receptor beta agonist	0.247	COMP77	
+Lysophosphatidic acid 1 receptor antagonist	0.041	COMP271	
+Lysophosphatidic acid 2 receptor antagonist	0.044	COMP271	
+Lysophosphatidic acid 3 receptor antagonist	0.078	COMP271	
+M17 leucyl aminopeptidase inhibitor	0.215	COMP271	
+M18 aspartyl aminopeptidase inhibitor	0.351	COMP271	
+MAO A inhibitor	0.295	COMP2437	
+MAO B inhibitor	0.122	COMP2437	
+MAO inhibitor	0.249	COMP2437	
+MAP kinase 1 inhibitor	0.246	COMP271	
+MAP kinase 7 inhibitor	0.087	COMP2437	
+MAP kinase kinase 2 inhibitor	0.141	COMP2437	
+MAP kinase kinase 4 inhibitor	0.127	COMP271	
+MAP kinase kinase 6 inhibitor	0.230	COMP2437	
+MAP kinase kinase 7 inhibitor	0.095	COMP271	
+MAP-kinase-activated kinase 5 inhibitor	0.245	COMP2437	
+MDM2 inhibitor	0.075	COMP271	
+Macrophage migration inhibitory factor inhibitor	0.385	COMP271	(0.088 COMP2437)
+Maillard reaction inhibitor	0.113	COMP271	(0.082 COMP2437)
+Mannitol 2-dehydrogenase inhibitor	0.010	COMP271	
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.050	COMP271	
+Mannose-6-phosphate isomerase inhibitor	0.329	COMP271	(0.239 COMP2437)
+Mannosidase inhibitor	0.059	COMP271	
+Mcl-1 antagonist	0.362	COMP271	(0.139 COMP2437)
+Mediator release inhibitor	0.234	COMP271	(0.157 COMP2437)
+Melanin inhibitor	0.386	COMP271	(0.312 COMP77) (0.142 COMP2437)
+Methionyl aminopeptidase 2 inhibitor	0.047	COMP271	
+Methylmalonyl-CoA mutase inhibitor	0.019	COMP271	
+Microtubule formation inhibitor	0.211	COMP271	(0.191 COMP77) (0.153 COMP2437)
+Microtubule stabilization	0.054	COMP77	
+Mineralocorticoid receptor antagonist	0.088	COMP77	
+Monophenol monooxygenase inhibitor	0.486	COMP271	(0.187 COMP2437) (0.100 COMP77)
+Mucolytic	0.322	COMP271	(0.113 COMP2437) (0.102 COMP77)
+Multidrug resistance-associated protein 1 inhibitor	0.172	COMP2437	(0.154 COMP271)
+Myeloperoxidase inhibitor	0.123	COMP271	(0.087 COMP2437)
+NAD(P)H dehydrogenase (quinone) inhibitor	0.269	COMP2437	(0.264 COMP271)
+NADH dehydrogenase inhibitor	0.302	COMP271	
+NADPH oxidase inhibitor	0.450	COMP2437	(0.394 COMP271)
+NMDA receptor agonist	0.080	COMP271	
+NMDA receptor glycine site agonist	0.088	COMP271	
+NMDA receptor subunit 3A antagonist	0.035	COMP271	
+NMDA receptor subunit 3B antagonist	0.048	COMP271	
+NOS3 expression enhancer	0.283	COMP271	(0.263 COMP77)
+Na+ K+ transporting ATPase inhibitor	0.184	COMP77	(0.082 COMP271)
+Nav1.8 sodium channel blocker	0.066	COMP271	
+Nerve growth factor antagonist	0.055	COMP271	
+Neuraminidase (Influenza A) inhibitor	0.071	COMP271	
+Neuraminidase (Influenza B) inhibitor	0.028	COMP271	
+Neuraminidase (influenza) inhibitor	0.163	COMP271	(0.061 COMP77)
+Neuraminidase inhibitor	0.142	COMP271	
+Neuropeptide Y1 antagonist	0.123	COMP271	
+Neurotensin receptor agonist	0.207	COMP271	(0.176 COMP2437)
+Neurotrophic factor	0.287	COMP77	(0.173 COMP271) (0.166 COMP2437)
+Neurotrophic factor enhancer	0.306	COMP271	(0.290 COMP77) (0.187 COMP2437)
+Nicotinic acid receptor 1 antagonist	0.024	COMP271	
+Nicotinic acid receptor 2 agonist	0.081	COMP271	
+Nicotinic acid receptor 2 antagonist	0.034	COMP271	
+Nicotinic acid receptor agonist	0.071	COMP271	
+Nitric oxide antagonist	0.473	COMP77	(0.293 COMP271) (0.192 COMP2437)
+Nitric oxide donor	0.081	COMP77	
+Nitric-oxide synthase stimulant	0.303	COMP271	
+Non-steroidal antiinflammatory agent	0.368	COMP271	(0.214 COMP2437)
+Ornithine carbamoyltransferase inhibitor	0.067	COMP271	
+Ornithine decarboxylase inhibitor	0.196	COMP271	(0.084 COMP77)
+P-glycoprotein inhibitor	0.293	COMP2437	(0.281 COMP271) (0.232 COMP77)
+Parathyroid hormone antagonist	0.098	COMP77	
+Peptidyltransferase inhibitor	0.227	COMP271	
+Peroxidase inhibitor	0.627	COMP271	(0.146 COMP2437)
+Peroxisome proliferator-activated receptor alpha agonist	0.082	COMP271	
+Peroxisome proliferator-activated receptor alpha antagonist	0.017	COMP271	
+Peroxisome proliferator-activated receptor delta agonist	0.034	COMP271	
+Peroxisome proliferator-activated receptor delta antagonist	0.032	COMP271	
+Peroxisome proliferator-activated receptor gamma agonist	0.095	COMP271	
+Peroxisome proliferator-activated receptor gamma antagonist	0.095	COMP271	
+Phenylalanine 4-hydroxylase inhibitor	0.312	COMP271	
+Phosphodiesterase 1C inhibitor	0.061	COMP271	
+Phosphodiesterase 4A inhibitor	0.076	COMP271	
+Phosphodiesterase 4B inhibitor	0.082	COMP271	
+Phosphodiesterase 4C inhibitor	0.048	COMP271	
+Phosphodiesterase 4D inhibitor	0.162	COMP271	
+Phosphodiesterase 6D inhibitor	0.115	COMP271	
+Phosphodiesterase I inhibitor	0.081	COMP271	
+Phosphodiesterase IV inhibitor	0.171	COMP271	
+Phosphodiesterase V inhibitor	0.069	COMP2437	
+Phosphodiesterase VI inhibitor	0.082	COMP2437	(0.076 COMP271)
+Phosphofructokinase-1 inhibitor	0.165	COMP271	
+Phosphoglycerate kinase inhibitor	0.082	COMP271	
+Phospholipase A2 inhibitor	0.268	COMP271	(0.125 COMP77)
+Phospholipase C inhibitor	0.590	COMP77	(0.349 COMP271)
+Phosphorylase inhibitor	0.068	COMP271	
+Photosensitizer	0.169	COMP271	(0.162 COMP2437)
+Plasminogen activator inhibitor antagonist	0.167	COMP271	
+Platelet activating factor alpha antagonist	0.119	COMP2437	
+Platelet activating factor antagonist	0.126	COMP2437	
+Platelet adhesion inhibitor	0.360	COMP77	(0.259 COMP271)
+Platelet aggregation inhibitor	0.169	COMP2437	(0.161 COMP271)
+Platelet antagonist	0.171	COMP271	
+Platelet growth factor antagonist	0.076	COMP2437	
+Polo-like kinase-1 inhibitor	0.089	COMP2437	(0.087 COMP271)
+Porphobilinogen synthase inhibitor	0.379	COMP271	
+Potassium channel (Ca-activated) activator	0.225	COMP271	
+Potassium channel Kv1.3 blocker	0.044	COMP271	
+Potassium channel intermediate-conductance Ca-activated blocker	0.060	COMP271	
+Potassium channel large-conductance Ca-activated activator	0.119	COMP271	
+Pregnane X receptor agonist	0.806	COMP77	
+Pregnane X receptor antagonist	0.094	COMP271	(0.057 COMP2437)
+Progesterone agonist	0.043	COMP77	
+Progesterone antagonist	0.128	COMP77	
+Prolactin inhibitor	0.146	COMP271	(0.129 COMP2437) (0.113 COMP77)
+Prostaglandin D2 agonist	0.027	COMP271	
+Prostaglandin E2 agonist	0.026	COMP271	
+Prostaglandin E2 antagonist	0.096	COMP271	
+Prostaglandin EP1 antagonist	0.031	COMP271	
+Prostaglandin EP2 agonist	0.030	COMP271	
+Prostaglandin EP2 antagonist	0.121	COMP271	
+Prostaglandin EP4 agonist	0.021	COMP271	
+Prostaglandin EP4 antagonist	0.039	COMP271	
+Prostaglandin F2 alpha antagonist	0.079	COMP271	
+Prostaglandin H2 antagonist	0.042	COMP271	
+Prostaglandin agonist	0.038	COMP271	
+Prostaglandin antagonist	0.054	COMP271	
+Prostaglandin dehydrogenase inhibitor	0.310	COMP271	
+Prostaglandin-E synthase inhibitor	0.069	COMP271	
+Protease inhibitor	0.111	COMP77	
+Proteasome inhibitor	0.125	COMP77	
+Protein kinase (CK2) alpha inhibitor	0.184	COMP271	
+Protein kinase (CK2) beta inhibitor	0.036	COMP271	
+Protein kinase (CK2) inhibitor	0.161	COMP271	
+Protein kinase C beta I inhibitor	0.035	COMP271	
+Protein kinase C beta inhibitor	0.087	COMP2437	(0.080 COMP271)
+Protein kinase C eta inhibitor	0.139	COMP2437	(0.088 COMP271)
+Protein kinase C gamma inhibitor	0.237	COMP2437	(0.199 COMP271)
+Protein kinase C mu inhibitor	0.107	COMP2437	
+Protein kinase C zeta inhibitor	0.325	COMP2437	(0.106 COMP271)
+Protein kinase stimulant	0.403	COMP77	(0.307 COMP271) (0.174 COMP2437)
+Protein-tyrosine phosphatase 1B inhibitor	0.249	COMP271	(0.243 COMP77)
+Protein-tyrosine phosphatase inhibitor	0.324	COMP271	(0.237 COMP77)
+Proto-oncogene tyrosine-protein kinase Fyn inhibitor	0.164	COMP2437	
+Protocollagen prolyl hydroxylase inhibitor	0.028	COMP271	
+Psychostimulant	0.204	COMP77	(0.186 COMP271) (0.171 COMP2437)
+Purinergic P2X1 antagonist	0.172	COMP271	
+Purinergic P2X2 antagonist	0.131	COMP271	
+Purinergic P2Y14 antagonist	0.047	COMP271	
+Pyruvate kinase inhibitor	0.536	COMP2437	(0.410 COMP271)
+RNA-directed RNA polymerase inhibitor	0.058	COMP271	
+RNA-directed RNA polymerase stimulant	0.298	COMP77	
+Retinoic acid alpha receptor agonist	0.086	COMP271	
+Retinoic acid alpha receptor antagonist	0.049	COMP271	
+Retinoic acid beta receptor agonist	0.040	COMP271	
+Retinoic acid beta receptor antagonist	0.034	COMP271	
+Retinoic acid gamma receptor agonist	0.035	COMP271	
+Retinoic acid receptor agonist	0.060	COMP271	
+Retinoic acid receptor antagonist	0.045	COMP271	
+Retinoic acid receptor gamma antagonist	0.030	COMP271	
+Retinoid X alpha receptor agonist	0.083	COMP271	
+Retinoid X alpha receptor antagonist	0.047	COMP271	
+Retinoid X beta receptor agonist	0.042	COMP271	
+Retinoid X beta receptor antagonist	0.026	COMP271	
+Retinoid X gamma receptor agonist	0.040	COMP271	
+Retinoid X gamma receptor antagonist	0.033	COMP271	
+Retinoid X receptor agonist	0.075	COMP271	
+Retinoid X receptor antagonist	0.056	COMP271	
+Ryanodine receptor antagonist	0.124	COMP271	(0.068 COMP2437)
+Selectin antagonist	0.081	COMP271	
+Sigma receptor agonist	0.348	COMP271	(0.147 COMP2437)
+Sodium/bile acid cotransporter inhibitor	0.573	COMP77	(0.388 COMP271) (0.244 COMP2437)
+Somatostatin 5 antagonist	0.035	COMP271	
+Spasmolytic	0.385	COMP2437	(0.384 COMP271) (0.182 COMP77)
+Sphingomyelinase inhibitor	0.131	COMP271	(0.106 COMP2437)
+Sphingosine 1-phosphate receptor 2 antagonist	0.182	COMP271	
+Sphingosine 1-phosphate receptor 3 antagonist	0.056	COMP271	
+Sphingosine 1-phosphate receptor 4 antagonist	0.142	COMP271	
+Sphingosine 1-phosphate receptor 5 antagonist	0.196	COMP271	
+Squalene epoxidase inhibitor	0.076	COMP271	
+Steroid 17-alpha-hydroxylase/17.20 lyase inhibitor	0.703	COMP77	
+Streptokinase A inhibitor	0.258	COMP271	
+Succinate dehydrogenase inhibitor	0.637	COMP271	(0.173 COMP2437)
+Superoxide dismutase inhibitor	0.790	COMP271	(0.244 COMP2437)
+TRPA1 agonist	0.210	COMP271	
+TRPM8 blocker	0.099	COMP271	
+Telomerase inhibitor	0.253	COMP2437	
+Telomerase stimulant	0.020	COMP77	
+Thiol protease inhibitor	0.129	COMP271	
+Thioredoxin glutathione reductase inhibitor	0.269	COMP271	
+Thioredoxin inhibitor	0.107	COMP271	
+Thioredoxin reductase inhibitor	0.099	COMP271	(0.083 COMP2437)
+Thrombolytic	0.182	COMP271	(0.142 COMP77)
+Thromboxane A2 antagonist	0.057	COMP271	
+Thromboxane antagonist	0.061	COMP271	
+Thromboxane synthase inhibitor	0.064	COMP271	
+Thyroid hormone agonist	0.028	COMP271	
+Thyroid hormone antagonist	0.258	COMP271	
+Thyroid hormone beta antagonist	0.236	COMP271	
+Toll-Like receptor 2 antagonist	0.286	COMP271	(0.188 COMP2437)
+Toll-Like receptor 4 agonist	0.029	COMP2437	
+Toll-Like receptor 4 antagonist	0.137	COMP271	(0.131 COMP77)
+Toll-Like receptor 9 antagonist	0.199	COMP2437	
+Toll-Like receptor antagonist	0.169	COMP2437	
+Topoisomerase I inhibitor	0.279	COMP2437	(0.150 COMP271)
+Topoisomerase II alpha inhibitor	0.228	COMP2437	(0.138 COMP271)
+Topoisomerase II beta inhibitor	0.144	COMP271	(0.089 COMP2437)
+Topoisomerase II inhibitor	0.457	COMP2437	(0.259 COMP271)
+Transcortin receptor antagonist	0.020	COMP77	
+Transcription factor AP-1 inhibitor	0.076	COMP271	
+Transcription factor NF kappa B inhibitor	0.739	COMP77	(0.569 COMP271) (0.354 COMP2437)
+Transcription factor NF kappa B stimulant	0.104	COMP271	(0.094 COMP77)
+Transcription factor RelA inhibitor	0.083	COMP271	(0.080 COMP2437)
+Transcription factor STAT inhibitor	0.343	COMP271	(0.195 COMP2437)
+Transcription factor STAT3 inhibitor	0.372	COMP271	(0.194 COMP2437)
+Transcription factor inhibitor	0.268	COMP271	
+Transforming growth factor beta 3 antagonist	0.081	COMP2437	
+Triose-phosphate isomerase inhibitor	0.282	COMP271	
+Tryptophan 5 hydroxylase inhibitor	0.038	COMP271	
+Tubulin agonist	0.038	COMP271	
+Tubulin antagonist	0.589	COMP2437	(0.400 COMP271)
+Tumour necrosis factor alpha release inhibitor	0.306	COMP271	(0.216 COMP77) (0.187 COMP2437)
+Tumour necrosis factor antagonist	0.273	COMP271	(0.162 COMP2437)
+Tyrosine 3 hydroxylase inhibitor	0.430	COMP271	(0.338 COMP2437)
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.308	COMP271	
+UDP-glucose 4-epimerase inhibitor	0.338	COMP271	
+Urate transporter 1 inhibitor	0.074	COMP271	
+Urease inhibitor	0.170	COMP271	(0.085 COMP2437)
+Uric acid excretion stimulant	0.258	COMP271	
+Uridine phosphorylase inhibitor	0.057	COMP271	
+Vanilloid 1 agonist	0.216	COMP271	(0.116 COMP77)
+Vanilloid 2 antagonist	0.083	COMP271	
+Vanilloid 3 antagonist	0.048	COMP271	
+Vanilloid agonist	0.154	COMP271	
+Vascular endothelial growth factor 3 antagonist	0.141	COMP2437	
+Vasodilator	0.312	COMP271	(0.159 COMP2437)
+Vasodilator. coronary	0.493	COMP271	(0.348 COMP2437)
+Vasodilator. peripheral	0.593	COMP271	(0.283 COMP2437)
+Vitamin D receptor agonist	0.117	COMP77	
+Vitamin D receptor antagonist	0.180	COMP77	
+Vitamin D-like	0.009	COMP77	
+Xanthine dehydrogenase inhibitor	0.244	COMP271	(0.080 COMP2437)
+Xanthine oxidase inhibitor	0.376	COMP271	(0.163 COMP2437)
+mTOR complex 2 inhibitor	0.081	COMP271	

@@ -1,0 +1,64 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine 1A agonist	0.129	COMP2397	
+5 Hydroxytryptamine 2C antagonist	0.072	COMP2396	
+5 Hydroxytryptamine uptake inhibitor	0.178	COMP2396	
+ATPase inhibitor	0.382	COMP2396	(0.182 COMP524)
+Acetylcholine M1 receptor agonist	0.047	COMP2396	
+Acetylcholine M1 receptor antagonist	0.471	COMP2396	(0.133 COMP524)
+Acetylcholine M2 receptor agonist	0.097	COMP2396	
+Acetylcholine M2 receptor antagonist	0.216	COMP2396	
+Acetylcholine M3 receptor agonist	0.173	COMP2396	(0.131 COMP2397)
+Acetylcholine M3 receptor antagonist	0.116	COMP2396	
+Aconitate hydratase inhibitor	0.095	COMP524	
+Acyl-CoA dehydrogenase inhibitor	0.149	COMP524	
+Adenosine deaminase inhibitor	0.050	COMP524	
+Adenylate kinase inhibitor	0.199	COMP524	
+Adrenaline uptake inhibitor	0.104	COMP2396	
+Aldosterone antagonist	0.069	COMP524	
+Alpha 1a adrenoreceptor antagonist	0.317	COMP2396	
+Alpha 1b adrenoreceptor antagonist	0.235	COMP2396	
+Alpha 2a adrenoreceptor antagonist	0.542	COMP2396	
+Alpha-mannosidase inhibitor	0.063	COMP524	
+Androgen agonist	0.058	COMP2396	
+Argininosuccinate synthase inhibitor	0.068	COMP524	
+Beta 2 adrenoreceptor agonist	0.060	COMP524	
+Butyrylcholinesterase inhibitor	0.149	COMP2397	(0.083 COMP2396)
+CYP1A2 inhibitor	0.196	COMP524	
+CYP2C9 inhibitor	0.389	COMP524	
+CYP2D6 inhibitor	0.534	COMP2396	(0.185 COMP524)
+CYP3A4 inhibitor	0.326	COMP524	(0.224 COMP2396)
+Ca2+-transporting ATPase inhibitor	0.192	COMP524	
+Calcium channel L-type blocker	0.106	COMP2396	
+Catalase inhibitor	0.142	COMP524	
+Cyclooxygenase 1 inhibitor	0.113	COMP524	
+Cystathionine beta-synthase inhibitor	0.147	COMP524	
+DOPA decarboxylase inhibitor	0.116	COMP524	
+Dopamine uptake inhibitor	0.229	COMP2396	
+Electron transport complex I inhibitor	0.419	COMP524	
+Fumarate hydratase inhibitor	0.069	COMP524	
+GABA aminotransferase inhibitor	0.071	COMP524	
+GABA transporter 1 inhibitor	0.015	COMP524	
+Glucose-6-phosphate isomerase inhibitor	0.098	COMP524	
+Glutamate dehydrogenase inhibitor	0.112	COMP524	
+HMG CoA reductase inhibitor	0.060	COMP524	
+MAO inhibitor	0.104	COMP524	
+Na+ K+ transporting ATPase inhibitor	0.130	COMP524	
+Opioid delta receptor agonist	0.067	COMP2397	
+Opioid delta receptor antagonist	0.293	COMP2397	
+Opioid kappa receptor agonist	0.193	COMP2397	(0.092 COMP2396)
+Opioid mu receptor agonist	0.444	COMP2397	
+Ornithine carbamoyltransferase inhibitor	0.084	COMP524	
+Peroxidase inhibitor	0.260	COMP524	
+Phenylalanine 4-hydroxylase inhibitor	0.099	COMP524	
+Phosphodiesterase inhibitor	0.119	COMP2396	
+Phosphofructokinase-1 inhibitor	0.173	COMP524	
+Phospholipase A2 inhibitor	0.296	COMP524	
+Phospholipase C inhibitor	0.192	COMP524	(0.151 COMP2396)
+Prostaglandin F2 alpha agonist	0.028	COMP524	
+Retinoic acid alpha receptor agonist	0.043	COMP524	
+Succinate dehydrogenase inhibitor	0.312	COMP524	
+Superoxide dismutase inhibitor	0.476	COMP524	
+Topoisomerase I inhibitor	0.118	COMP2396	
+Triose-phosphate isomerase inhibitor	0.193	COMP524	
+Tyrosine 3 hydroxylase inhibitor	0.311	COMP524	(0.246 COMP2397) (0.211 COMP2396)
+UDP-glucose 4-epimerase inhibitor	0.177	COMP524	

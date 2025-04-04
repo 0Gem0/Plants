@@ -1,0 +1,83 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.205	COMP282	
+5 Hydroxytryptamine 2A agonist	0.081	COMP525	
+5 Hydroxytryptamine 2B agonist	0.043	COMP525	
+ATPase inhibitor	0.373	COMP2079	(0.280 COMP525) (0.139 COMP780) (0.135 COMP48)
+Acetylcholinesterase inhibitor	0.464	COMP2080	(0.457 COMP48) (0.456 COMP780)
+Aconitate hydratase inhibitor	0.050	COMP525	
+Acyl-CoA dehydrogenase inhibitor	0.079	COMP2079	
+Adenosine A1 receptor agonist	0.042	COMP2079	
+Adenosine deaminase inhibitor	0.085	COMP2079	(0.064 COMP48) (0.045 COMP780) (0.044 COMP2080)
+Adenylate cyclase inhibitor	0.290	COMP2079	
+Adenylate kinase inhibitor	0.194	COMP2079	
+Alcohol dehydrogenase inhibitor	0.435	COMP48	(0.320 COMP780) (0.273 COMP2080) (0.260 COMP2079)
+Aldosterone antagonist	0.215	COMP282	
+Alkaline phosphatase inhibitor	0.421	COMP780	(0.416 COMP2080) (0.403 COMP48) (0.175 COMP2079) (0.152 COMP525)
+Alpha 2b adrenoreceptor agonist	0.021	COMP525	
+Alpha-mannosidase inhibitor	0.604	COMP2079	
+Androgen agonist	0.155	COMP282	(0.056 COMP525)
+Androgen antagonist	0.193	COMP48	(0.188 COMP282) (0.150 COMP780) (0.134 COMP2080) (0.095 COMP525)
+Arginase inhibitor	0.110	COMP48	(0.090 COMP2079) (0.073 COMP780) (0.066 COMP2080)
+Argininosuccinate synthase inhibitor	0.089	COMP2079	
+Aryl hydrocarbon receptor agonist	0.850	COMP780	(0.847 COMP2080) (0.809 COMP48) (0.316 COMP525)
+Beta 1 adrenoreceptor antagonist	0.049	COMP525	
+Butyrylcholinesterase inhibitor	0.286	COMP2080	(0.277 COMP48) (0.276 COMP780) (0.097 COMP525)
+CYP1A2 inhibitor	0.983	COMP780	(0.980 COMP2080) (0.945 COMP48) (0.265 COMP525)
+CYP2C9 inhibitor	0.657	COMP48	(0.650 COMP780) (0.647 COMP2080) (0.336 COMP525)
+CYP2D6 inhibitor	0.226	COMP525	
+CYP3A4 inhibitor	0.365	COMP780	(0.362 COMP2080) (0.359 COMP48) (0.218 COMP525)
+Ca2+-transporting ATPase inhibitor	0.180	COMP2079	(0.165 COMP525) (0.142 COMP48) (0.130 COMP2080/COMP780)
+Calcium channel L-type blocker	0.086	COMP525	
+Carbonic anhydrase I inhibitor	0.047	COMP2079	
+Carbonic anhydrase II inhibitor	0.051	COMP2079	
+Carbonic anhydrase inhibitor	0.078	COMP48	(0.073 COMP2079) (0.055 COMP780)
+Cyclooxygenase 1 inhibitor	0.271	COMP48	(0.249 COMP780) (0.247 COMP2080) (0.205 COMP525)
+Cyclooxygenase 2 inhibitor	0.217	COMP48	(0.201 COMP2080) (0.198 COMP780) (0.120 COMP525)
+Cyclooxygenase inhibitor	0.257	COMP48	(0.237 COMP2080) (0.233 COMP780) (0.170 COMP525)
+Cystathionine beta-synthase inhibitor	0.947	COMP48	(0.936 COMP780) (0.924 COMP2080) (0.359 COMP2079) (0.153 COMP525)
+DNA polymerase beta inhibitor	0.527	COMP2080	(0.516 COMP780) (0.466 COMP48) (0.269 COMP525)
+DOPA decarboxylase inhibitor	0.304	COMP48	(0.249 COMP780) (0.222 COMP2080) (0.105 COMP525) (0.095 COMP2079)
+Dihydrofolate reductase inhibitor	0.077	COMP525	
+Dopamine D2 agonist	0.052	COMP48	
+Electron transport complex I inhibitor	0.283	COMP2080	(0.255 COMP780) (0.195 COMP48) (0.163 COMP525)
+Estrogen agonist	0.368	COMP48	(0.263 COMP780) (0.184 COMP2080) (0.183 COMP2079) (0.128 COMP282)
+Fumarate hydratase inhibitor	0.050	COMP2079	
+GABA A receptor agonist	0.113	COMP525	
+GABA A receptor antagonist	0.058	COMP525	
+GABA aminotransferase inhibitor	0.174	COMP2079	(0.080 COMP525) (0.068 COMP48)
+GRP78 expression inhibitor	0.064	COMP2079	
+Glucocorticoid agonist	0.015	COMP282	
+Glucocorticoid antagonist	0.044	COMP282	
+Glucose-6-phosphate isomerase inhibitor	0.281	COMP2079	
+Glutamate dehydrogenase inhibitor	0.117	COMP2079	
+HMG CoA reductase inhibitor	0.041	COMP525	(0.033 COMP282)
+Heat shock protein 70 antagonist	0.283	COMP48	(0.279 COMP780) (0.260 COMP2080) (0.222 COMP2079) (0.158 COMP525)
+Hexokinase inhibitor	0.553	COMP2079	(0.166 COMP48) (0.149 COMP780) (0.143 COMP2080/COMP525)
+Hypoxanthine phosphoribosyltransferase inhibitor	0.048	COMP2079	
+MAO A inhibitor	0.705	COMP48	(0.696 COMP780) (0.693 COMP2080)
+MAO inhibitor	0.681	COMP48	(0.676 COMP2080) (0.662 COMP780) (0.097 COMP525)
+Na+ K+ transporting ATPase inhibitor	0.213	COMP282	(0.164 COMP2079) (0.105 COMP48) (0.091 COMP780) (0.086 COMP2080) (0.085 COMP525)
+Nav1.5 sodium channel blocker	0.121	COMP48	(0.105 COMP2080) (0.101 COMP2079/COMP780)
+Neuropeptide Y1 antagonist	0.135	COMP525	
+Ornithine carbamoyltransferase inhibitor	0.052	COMP2079	
+Peroxidase inhibitor	0.868	COMP48	(0.821 COMP780) (0.782 COMP2080) (0.211 COMP525) (0.154 COMP2079)
+Phenylalanine 4-hydroxylase inhibitor	0.073	COMP48	
+Phosphodiesterase 4D inhibitor	0.206	COMP780	(0.201 COMP2080) (0.114 COMP48)
+Phosphofructokinase-1 inhibitor	0.515	COMP2079	
+Phosphoglycerate kinase inhibitor	0.092	COMP2079	
+Phospholipase A2 inhibitor	0.162	COMP48	(0.143 COMP525) (0.142 COMP2080) (0.136 COMP780)
+Phospholipase C inhibitor	0.544	COMP282	(0.355 COMP2079) (0.193 COMP48) (0.176 COMP525) (0.158 COMP780) (0.149 COMP2080)
+Phosphorylase inhibitor	0.308	COMP2079	(0.208 COMP282)
+Pyruvate kinase inhibitor	0.585	COMP780	(0.580 COMP2080) (0.579 COMP48) (0.217 COMP525)
+Retinoic acid alpha receptor agonist	0.040	COMP48	
+S-adenosyl-L-homocysteine hydrolase inhibitor	0.015	COMP2079	
+Succinate dehydrogenase inhibitor	0.279	COMP48	(0.275 COMP2080/COMP780) (0.215 COMP525) (0.164 COMP2079)
+Superoxide dismutase inhibitor	0.734	COMP780	(0.728 COMP2080) (0.685 COMP48) (0.340 COMP525)
+Thyroid hormone agonist	0.048	COMP525	(0.024 COMP48)
+Thyroid hormone alpha agonist	0.069	COMP525	
+Thyroid hormone beta agonist	0.014	COMP525	
+Topoisomerase I inhibitor	0.436	COMP2079	(0.302 COMP48) (0.287 COMP780) (0.266 COMP2080) (0.168 COMP282)
+Topoisomerase II alpha inhibitor	0.515	COMP48	(0.476 COMP780) (0.453 COMP2080) (0.274 COMP2079) (0.113 COMP282)
+Triose-phosphate isomerase inhibitor	0.624	COMP2079	(0.119 COMP525) (0.085 COMP48)
+Tyrosine 3 hydroxylase inhibitor	0.316	COMP525	(0.315 COMP48) (0.270 COMP780) (0.239 COMP2080) (0.192 COMP2079)
+UDP-glucose 4-epimerase inhibitor	0.571	COMP2079	(0.112 COMP48) (0.094 COMP525)

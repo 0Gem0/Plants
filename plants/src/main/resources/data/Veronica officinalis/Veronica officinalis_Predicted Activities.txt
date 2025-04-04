@@ -1,0 +1,677 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 1 inhibitor	0.138	COMP579	(0.104 COMP582) (0.045 COMP584) (0.041 COMP583)
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.098	COMP584	(0.083 COMP579) (0.075 COMP582) (0.069 COMP583)
+12-Lipoxygenase inhibitor	0.354	COMP577	(0.274 COMP578)
+15-Lipoxygenase inhibitor	0.485	COMP577	(0.353 COMP578) (0.257 COMP580) (0.229 COMP576)
+2.3-Oxidosqualene-lanosterol cyclase inhibitor	0.039	COMP579	(0.035 COMP582)
+3 Beta-hydroxy-delta 5-steroid dehydrogenase inhibitor	0.014	COMP583	
+3C-Like protease (SARS coronavirus) inhibitor	0.085	COMP582	(0.078 COMP584)
+3C-like protease (Human coronavirus) inhibitor	0.161	COMP578	
+5 Hydroxytryptamine 1 agonist	0.059	COMP585	(0.049 COMP576)
+5 Hydroxytryptamine 1 antagonist	0.386	COMP580	(0.316 COMP576) (0.314 COMP585) (0.224 COMP581) (0.068 COMP577)
+5 Hydroxytryptamine 1A agonist	0.087	COMP585	(0.057 COMP576) (0.051 COMP580)
+5 Hydroxytryptamine 1A antagonist	0.407	COMP580	(0.340 COMP585) (0.323 COMP576) (0.269 COMP581) (0.072 COMP577)
+5 Hydroxytryptamine 1B agonist	0.058	COMP576	(0.051 COMP580)
+5 Hydroxytryptamine 1B antagonist	0.083	COMP576/COMP580	(0.064 COMP581)
+5 Hydroxytryptamine 1D antagonist	0.062	COMP580	
+5 Hydroxytryptamine 1E antagonist	0.286	COMP580	(0.273 COMP576) (0.244 COMP577) (0.239 COMP581) (0.230 COMP585) (0.214 COMP578)
+5 Hydroxytryptamine 1F antagonist	0.080	COMP576	(0.078 COMP585) (0.062 COMP580)
+5 Hydroxytryptamine 2 agonist	0.088	COMP581	(0.052 COMP576) (0.051 COMP580)
+5 Hydroxytryptamine 2 antagonist	0.375	COMP580	(0.360 COMP576) (0.342 COMP581) (0.301 COMP585) (0.093 COMP577)
+5 Hydroxytryptamine 2A agonist	0.072	COMP581	(0.058 COMP580)
+5 Hydroxytryptamine 2A antagonist	0.268	COMP580	(0.258 COMP576) (0.233 COMP581) (0.207 COMP585) (0.077 COMP577)
+5 Hydroxytryptamine 2B antagonist	0.213	COMP580	(0.198 COMP576) (0.197 COMP585) (0.159 COMP581) (0.107 COMP578)
+5 Hydroxytryptamine 2C agonist	0.070	COMP581	(0.044 COMP582)
+5 Hydroxytryptamine 3B antagonist	0.045	COMP576	(0.036 COMP585) (0.034 COMP581)
+5 Hydroxytryptamine 3E antagonist	0.241	COMP577	(0.181 COMP581) (0.173 COMP576) (0.170 COMP578)
+5 Hydroxytryptamine 4 antagonist	0.066	COMP585	(0.055 COMP576) (0.051 COMP580) (0.050 COMP581)
+5 Hydroxytryptamine 5 antagonist	0.063	COMP580	(0.060 COMP576) (0.058 COMP577) (0.057 COMP585) (0.054 COMP578)
+5 Hydroxytryptamine 5A antagonist	0.073	COMP580	(0.072 COMP576) (0.065 COMP585) (0.061 COMP577) (0.056 COMP578)
+5 Hydroxytryptamine 7 agonist	0.066	COMP578	(0.064 COMP580) (0.058 COMP577/COMP581) (0.051 COMP576)
+5 Hydroxytryptamine 7 antagonist	0.509	COMP576	(0.444 COMP580) (0.422 COMP585) (0.384 COMP581) (0.071 COMP578)
+5 Hydroxytryptamine agonist	0.129	COMP581	(0.103 COMP576) (0.100 COMP585) (0.082 COMP580)
+5 Hydroxytryptamine antagonist	0.444	COMP580	(0.432 COMP576) (0.403 COMP585) (0.314 COMP581)
+5 Hydroxytryptamine release inhibitor	0.424	COMP578	(0.289 COMP577)
+5 Hydroxytryptamine release stimulant	0.809	COMP582	(0.734 COMP576) (0.729 COMP580) (0.715 COMP579) (0.637 COMP581) (0.593 COMP585) (0.472 COMP584) (0.347 COMP577) (0.327 COMP578) (0.224 COMP583)
+5 Hydroxytryptamine uptake inhibitor	0.082	COMP581	(0.072 COMP585) (0.070 COMP576) (0.058 COMP580)
+5 Hydroxytryptamine uptake stimulant	0.226	COMP579	(0.198 COMP582) (0.196 COMP578)
+5-Alpha-reductase 1 inhibitor	0.048	COMP583	(0.017 COMP584)
+5-Alpha-reductase 2 inhibitor	0.068	COMP583	(0.028 COMP584) (0.019 COMP579)
+5-Alpha-reductase inhibitor	0.176	COMP583	(0.113 COMP584) (0.071 COMP579) (0.064 COMP582)
+5-Lipoxygenase inhibitor	0.085	COMP578	
+ABCA1 expression enhancer	0.083	COMP582/COMP584	
+AMP-activated protein kinase stimulant	0.303	COMP582	(0.139 COMP579)
+AMPA receptor antagonist	0.044	COMP577	
+AR expression inhibitor	0.499	COMP582	(0.462 COMP579) (0.411 COMP583) (0.410 COMP584) (0.236 COMP578)
+ATPase (Vacuolar H+) inhibitor	0.134	COMP581	(0.116 COMP580) (0.113 COMP576) (0.105 COMP577) (0.098 COMP585)
+ATPase inhibitor	0.179	COMP576	(0.167 COMP580) (0.155 COMP577) (0.148 COMP581) (0.141 COMP582)
+Abortion inducer	0.407	COMP580	(0.390 COMP576) (0.328 COMP582) (0.292 COMP585) (0.264 COMP577) (0.257 COMP581) (0.245 COMP579) (0.235 COMP584) (0.194 COMP583) (0.167 COMP578)
+Acetyl-CoA transferase 2 inhibitor	0.114	COMP584	(0.097 COMP582) (0.088 COMP579) (0.057 COMP583)
+Acetyl-CoA transferase inhibitor	0.053	COMP584	
+Acetylcholine M1 receptor antagonist	0.297	COMP576	(0.248 COMP585) (0.236 COMP580) (0.164 COMP581)
+Acetylcholine M2 receptor agonist	0.054	COMP584	(0.052 COMP583)
+Acetylcholine M2 receptor antagonist	0.086	COMP576	(0.063 COMP580)
+Acetylcholine M3 receptor agonist	0.164	COMP584	(0.138 COMP583)
+Acetylcholine M3 receptor antagonist	0.119	COMP576	(0.073 COMP580)
+Acetylcholine M4 receptor antagonist	0.110	COMP576	(0.092 COMP580) (0.066 COMP581)
+Acetylcholine M5 receptor antagonist	0.055	COMP576	
+Acetylcholine antagonist	0.301	COMP576	(0.225 COMP580) (0.206 COMP581) (0.193 COMP585)
+Acetylcholine muscarinic antagonist	0.270	COMP576	(0.198 COMP580) (0.184 COMP585) (0.150 COMP581)
+Acetylcholine nicotinic antagonist	0.163	COMP576	(0.160 COMP581) (0.139 COMP580) (0.104 COMP585) (0.096 COMP582) (0.091 COMP584)
+Acetylcholine release stimulant	0.216	COMP578	
+Acetylcholinesterase inhibitor	0.256	COMP578	(0.192 COMP577) (0.186 COMP580) (0.165 COMP585) (0.154 COMP576) (0.126 COMP581)
+Actinic keratosis treatment	0.089	COMP579	
+Activin receptor-like kinase 2 inhibitor	0.208	COMP578	(0.153 COMP577)
+Activin receptor-like kinase 4 inhibitor	0.195	COMP577	(0.122 COMP578) (0.120 COMP581)
+Acute neurologic disorders treatment	0.224	COMP576	(0.203 COMP581) (0.202 COMP582) (0.159 COMP580)
+Acute respiratory distress syndrome (ARDS) treatment	0.276	COMP579	(0.274 COMP582) (0.244 COMP584)
+Adenylate cyclase 1 inhibitor	0.055	COMP582	(0.045 COMP576/COMP584)
+Adenylate cyclase inhibitor	0.192	COMP582	(0.129 COMP576)
+Adenylate cyclase stimulant	0.198	COMP582	(0.173 COMP584) (0.164 COMP579) (0.137 COMP576) (0.133 COMP581)
+Adrenaline antagonist	0.347	COMP585	(0.332 COMP576) (0.313 COMP580) (0.219 COMP581)
+Adrenaline uptake inhibitor	0.064	COMP581	
+Alcohol oxidase inhibitor	0.057	COMP578	
+Aldehyde oxidase inhibitor	0.351	COMP578	(0.175 COMP582)
+Aldehyde oxidase substrate	0.202	COMP578	
+Aldose reductase substrate	0.137	COMP585	
+Aldosterone antagonist	0.120	COMP583	(0.058 COMP582)
+Alkaline phosphatase inhibitor	0.130	COMP578	
+Alkylator	0.229	COMP577	(0.206 COMP578) (0.201 COMP580) (0.198 COMP576) (0.195 COMP585) (0.140 COMP581)
+Alpha 1 adrenoreceptor antagonist	0.291	COMP580	(0.254 COMP585) (0.219 COMP576) (0.124 COMP581)
+Alpha 1L adrenoreceptor agonist	0.043	COMP582	
+Alpha 1a adrenoreceptor antagonist	0.232	COMP580	(0.212 COMP585) (0.179 COMP576) (0.104 COMP581)
+Alpha 2 adrenoreceptor agonist	0.147	COMP581	(0.112 COMP576) (0.078 COMP580) (0.055 COMP585) (0.053 COMP577)
+Alpha 2 adrenoreceptor antagonist	0.600	COMP581	(0.590 COMP580) (0.548 COMP576) (0.453 COMP585) (0.100 COMP577)
+Alpha 2a adrenoreceptor antagonist	0.455	COMP581	(0.417 COMP580) (0.372 COMP576) (0.244 COMP585)
+Alpha 2b adrenoreceptor antagonist	0.402	COMP581	(0.376 COMP580) (0.348 COMP576) (0.318 COMP585) (0.137 COMP578) (0.121 COMP577)
+Alpha 2c adrenoreceptor antagonist	0.222	COMP580	(0.206 COMP581) (0.201 COMP576) (0.169 COMP585) (0.098 COMP578) (0.085 COMP577)
+Alpha adrenoreceptor agonist	0.111	COMP581	(0.076 COMP576) (0.063 COMP580)
+Alpha adrenoreceptor antagonist	0.573	COMP580	(0.491 COMP585) (0.481 COMP576) (0.452 COMP581) (0.078 COMP577)
+Alpha tubulin antagonist	0.288	COMP578	(0.151 COMP577) (0.140 COMP580) (0.116 COMP581) (0.084 COMP576) (0.079 COMP585)
+Alpha-mannosidase inhibitor	0.070	COMP581	(0.063 COMP576) (0.050 COMP585)
+Alzheimer's disease treatment	0.256	COMP578	(0.241 COMP582)
+Amyloid beta aggregation inhibitor	0.456	COMP578	(0.295 COMP577)
+Anabolic	0.163	COMP584	(0.154 COMP583) (0.140 COMP582) (0.119 COMP579)
+Analeptic	0.605	COMP576	(0.483 COMP580) (0.415 COMP579) (0.372 COMP585) (0.368 COMP581) (0.334 COMP582) (0.212 COMP577)
+Analgesic	0.305	COMP576	(0.238 COMP582)
+Analgesic. opioid	0.090	COMP576	(0.084 COMP585) (0.079 COMP580)
+Androgen agonist	0.296	COMP582	(0.182 COMP579) (0.133 COMP584) (0.118 COMP583)
+Androgen antagonist	0.312	COMP582	(0.258 COMP583) (0.246 COMP584) (0.167 COMP579)
+Andropause treatment	0.066	COMP582	
+Anesthetic	0.143	COMP584	(0.121 COMP579) (0.119 COMP576) (0.108 COMP585) (0.107 COMP582)
+Anesthetic general	0.275	COMP576	(0.249 COMP579) (0.235 COMP580) (0.230 COMP585) (0.218 COMP582) (0.159 COMP581)
+Anesthetic local	0.138	COMP585	(0.132 COMP576) (0.099 COMP580)
+Angiogenesis inhibitor	0.283	COMP578	
+Angiogenesis stimulant	0.289	COMP582	(0.245 COMP579) (0.190 COMP584)
+Antiacne	0.307	COMP583	(0.260 COMP584) (0.184 COMP579) (0.168 COMP582)
+Antiadrenergic	0.360	COMP585	(0.345 COMP576) (0.325 COMP580) (0.230 COMP581)
+Antialcoholic	0.197	COMP583	
+Antiallergic	0.188	COMP578	
+Antiamyloidogenic	0.341	COMP578	(0.189 COMP577)
+Antianemic	0.134	COMP578	
+Antiarrhythmic	0.153	COMP580	(0.141 COMP576) (0.134 COMP585)
+Antibacterial	0.329	COMP576	(0.323 COMP582) (0.316 COMP585) (0.290 COMP578) (0.274 COMP577) (0.272 COMP581) (0.271 COMP580)
+Antibacterial (Helicobacter pylori)	0.109	COMP578	
+Antibiotic Glycopeptide-like	0.093	COMP576	(0.077 COMP580) (0.060 COMP585)
+Anticataract	0.185	COMP579	(0.137 COMP582)
+Anticholelithogenic	0.079	COMP582	(0.075 COMP579) (0.068 COMP584)
+Anticonvulsant	0.194	COMP576	
+Antidepressant	0.428	COMP583	(0.419 COMP576) (0.409 COMP581) (0.376 COMP585) (0.364 COMP580) (0.272 COMP584)
+Antidiabetic	0.412	COMP582	(0.306 COMP579)
+Antidiabetic (type 2)	0.324	COMP582	(0.236 COMP579)
+Antidiabetic symptomatic	0.194	COMP578	
+Antidiarrheal	0.178	COMP579	(0.177 COMP582)
+Antidote	0.150	COMP578	
+Antieczematic	0.141	COMP578	
+Antiemetic	0.097	COMP581	(0.086 COMP576)
+Antifungal	0.228	COMP581	(0.181 COMP578)
+Antifungal (Cryptococcus)	0.165	COMP582	(0.156 COMP579)
+Antifungal (Pneumocystis)	0.145	COMP578	
+Antifungal enhancer	0.153	COMP582	(0.147 COMP583) (0.139 COMP580) (0.138 COMP579) (0.125 COMP581) (0.117 COMP576)
+Antihelmintic	0.159	COMP582	(0.151 COMP584)
+Antihelmintic (Nematodes)	0.204	COMP582	(0.159 COMP584)
+Antihemorrhagic	0.149	COMP582	(0.146 COMP584) (0.141 COMP579) (0.112 COMP578)
+Antihypercholesterolemic	0.266	COMP580	(0.253 COMP576) (0.248 COMP584) (0.234 COMP585) (0.170 COMP582) (0.168 COMP579) (0.157 COMP577) (0.150 COMP578)
+Antihypertensive	0.255	COMP576	(0.239 COMP577) (0.228 COMP581) (0.213 COMP580) (0.201 COMP585)
+Antihypertriglyceridemic	0.182	COMP582/COMP584	(0.154 COMP579)
+Antihypotensive	0.201	COMP582	
+Antihypoxic	0.447	COMP582	(0.397 COMP579) (0.340 COMP584) (0.279 COMP583) (0.184 COMP576) (0.180 COMP578)
+Antiinfertility. female	0.388	COMP579	(0.296 COMP582) (0.166 COMP583) (0.160 COMP584)
+Antiinflammatory	0.710	COMP584	(0.694 COMP583) (0.689 COMP579) (0.644 COMP582) (0.391 COMP581) (0.388 COMP576) (0.379 COMP585) (0.357 COMP580)
+Antiischemic	0.425	COMP576	(0.384 COMP580) (0.308 COMP585)
+Antiischemic. cerebral	0.516	COMP576	(0.427 COMP580) (0.373 COMP585) (0.203 COMP581)
+Antileukemic	0.644	COMP577	(0.636 COMP578) (0.492 COMP585) (0.473 COMP580) (0.440 COMP576) (0.417 COMP584) (0.389 COMP583) (0.378 COMP582) (0.335 COMP579) (0.319 COMP581)
+Antimigraine	0.137	COMP581	
+Antimitotic	0.548	COMP581	(0.494 COMP585) (0.459 COMP578) (0.364 COMP580) (0.347 COMP577) (0.282 COMP576) (0.166 COMP582)
+Antimutagenic	0.215	COMP578	
+Antimycobacterial	0.291	COMP577	(0.289 COMP578)
+Antineoplastic (bladder cancer)	0.735	COMP578	(0.632 COMP577)
+Antineoplastic (bone cancer)	0.289	COMP578	(0.268 COMP577) (0.159 COMP581) (0.148 COMP580)
+Antineoplastic (brain cancer)	0.643	COMP577	(0.578 COMP578) (0.411 COMP579) (0.408 COMP582) (0.385 COMP585) (0.332 COMP581) (0.305 COMP580) (0.281 COMP576) (0.245 COMP584)
+Antineoplastic (breast cancer)	0.730	COMP578	(0.667 COMP577) (0.634 COMP584) (0.585 COMP582) (0.569 COMP581) (0.558 COMP583) (0.483 COMP585) (0.436 COMP579) (0.432 COMP580) (0.350 COMP576)
+Antineoplastic (carcinoma)	0.570	COMP578	(0.540 COMP577) (0.538 COMP585) (0.368 COMP580) (0.333 COMP576) (0.324 COMP581)
+Antineoplastic (cervical cancer)	0.594	COMP578	(0.562 COMP577) (0.345 COMP582) (0.335 COMP581) (0.311 COMP585) (0.283 COMP580) (0.236 COMP584) (0.231 COMP579) (0.223 COMP576)
+Antineoplastic (colon cancer)	0.845	COMP578	(0.776 COMP577) (0.593 COMP581) (0.517 COMP584) (0.504 COMP585) (0.482 COMP580) (0.406 COMP576) (0.393 COMP583) (0.388 COMP582) (0.237 COMP579)
+Antineoplastic (colorectal cancer)	0.848	COMP578	(0.781 COMP577) (0.595 COMP581) (0.525 COMP584) (0.517 COMP585) (0.489 COMP580) (0.414 COMP576) (0.404 COMP583) (0.400 COMP582) (0.247 COMP579)
+Antineoplastic (endocrine cancer)	0.621	COMP584	(0.614 COMP582) (0.552 COMP579) (0.457 COMP583) (0.273 COMP578)
+Antineoplastic (gastric cancer)	0.621	COMP578	(0.296 COMP577) (0.134 COMP585)
+Antineoplastic (glioblastoma multiforme)	0.664	COMP577	(0.657 COMP578) (0.601 COMP583) (0.582 COMP584) (0.454 COMP580) (0.453 COMP585) (0.424 COMP576) (0.414 COMP581) (0.341 COMP582) (0.221 COMP579)
+Antineoplastic (glioma)	0.721	COMP578	(0.685 COMP577) (0.632 COMP583) (0.610 COMP584) (0.425 COMP580) (0.409 COMP585) (0.388 COMP582) (0.385 COMP576) (0.383 COMP581) (0.260 COMP579)
+Antineoplastic (liver cancer)	0.376	COMP577	(0.326 COMP585) (0.320 COMP578) (0.304 COMP582) (0.303 COMP580) (0.292 COMP576) (0.242 COMP584) (0.241 COMP579) (0.187 COMP581) (0.170 COMP583)
+Antineoplastic (lung cancer)	0.789	COMP578	(0.771 COMP577) (0.692 COMP585) (0.669 COMP581) (0.643 COMP582) (0.621 COMP580/COMP584) (0.570 COMP576) (0.489 COMP583) (0.470 COMP579)
+Antineoplastic (lymphocytic leukemia)	0.469	COMP578	(0.409 COMP577) (0.341 COMP584) (0.308 COMP583) (0.243 COMP582) (0.180 COMP579) (0.166 COMP581) (0.158 COMP585)
+Antineoplastic (lymphoma)	0.515	COMP577	(0.446 COMP581) (0.396 COMP578) (0.379 COMP585) (0.353 COMP576) (0.347 COMP580) (0.245 COMP582) (0.195 COMP584) (0.174 COMP579)
+Antineoplastic (melanoma)	0.720	COMP578	(0.706 COMP583) (0.697 COMP577) (0.634 COMP584) (0.516 COMP582) (0.413 COMP579) (0.369 COMP580) (0.363 COMP585) (0.354 COMP581) (0.320 COMP576)
+Antineoplastic (multiple myeloma)	0.600	COMP584	(0.584 COMP583) (0.435 COMP578) (0.413 COMP577) (0.395 COMP582) (0.277 COMP579) (0.266 COMP585) (0.197 COMP581) (0.188 COMP580)
+Antineoplastic (myeloid leukemia)	0.261	COMP576	(0.247 COMP580) (0.245 COMP577)
+Antineoplastic (non-Hodgkin's lymphoma)	0.334	COMP581	(0.251 COMP585) (0.223 COMP577)
+Antineoplastic (non-small cell lung cancer)	0.749	COMP578	(0.684 COMP577) (0.419 COMP584) (0.392 COMP583) (0.331 COMP585) (0.288 COMP580) (0.263 COMP581) (0.206 COMP576)
+Antineoplastic (osteosarcoma)	0.340	COMP578	(0.328 COMP577)
+Antineoplastic (ovarian cancer)	0.639	COMP584	(0.634 COMP578) (0.579 COMP581) (0.550 COMP577) (0.520 COMP583) (0.484 COMP582) (0.381 COMP579) (0.307 COMP585) (0.299 COMP580) (0.238 COMP576)
+Antineoplastic (pancreatic cancer)	0.496	COMP581	(0.463 COMP578) (0.422 COMP583) (0.381 COMP582) (0.342 COMP585) (0.341 COMP577) (0.309 COMP579) (0.281 COMP584) (0.223 COMP580) (0.192 COMP576)
+Antineoplastic (renal cancer)	0.509	COMP584	(0.495 COMP578) (0.483 COMP577/COMP583) (0.336 COMP582) (0.270 COMP579) (0.260 COMP585) (0.245 COMP580) (0.241 COMP581) (0.193 COMP576)
+Antineoplastic (sarcoma)	0.548	COMP578	(0.452 COMP577) (0.207 COMP580) (0.200 COMP581)
+Antineoplastic (small cell lung cancer)	0.516	COMP577	(0.410 COMP585) (0.358 COMP578) (0.351 COMP581) (0.350 COMP580) (0.340 COMP576)
+Antineoplastic (solid tumors)	0.562	COMP578	(0.547 COMP577) (0.514 COMP581) (0.336 COMP580) (0.293 COMP576)
+Antineoplastic (squamous cell carcinoma)	0.592	COMP585	(0.489 COMP580) (0.484 COMP577) (0.473 COMP576) (0.447 COMP578) (0.436 COMP581) (0.120 COMP582) (0.109 COMP579)
+Antineoplastic (uterine cancer)	0.165	COMP578	(0.142 COMP577)
+Antineoplastic alkaloid	0.271	COMP585	(0.269 COMP576) (0.260 COMP580/COMP581) (0.247 COMP577) (0.189 COMP578) (0.143 COMP582) (0.122 COMP584) (0.106 COMP579)
+Antineoplastic antibiotic	0.112	COMP585	(0.104 COMP577) (0.091 COMP582) (0.087 COMP578) (0.080 COMP581) (0.076 COMP579) (0.072 COMP576/COMP580)
+Antineoplastic enhancer	0.394	COMP581	(0.343 COMP585) (0.320 COMP578) (0.276 COMP576) (0.272 COMP580) (0.234 COMP577) (0.192 COMP582)
+Antinephritic	0.189	COMP584	(0.163 COMP583) (0.145 COMP579) (0.139 COMP582)
+Antiobesity	0.603	COMP583	(0.555 COMP584) (0.382 COMP579) (0.361 COMP582)
+Antiosteoporotic	0.274	COMP582	(0.166 COMP579)
+Antioxidant	0.305	COMP582	(0.243 COMP585) (0.237 COMP578) (0.229 COMP579) (0.220 COMP580) (0.218 COMP577) (0.213 COMP584) (0.186 COMP576)
+Antiparasitic	0.158	COMP582	(0.146 COMP584)
+Antiparkinsonian	0.493	COMP576	(0.439 COMP580) (0.437 COMP585) (0.279 COMP578) (0.236 COMP581)
+Antiparkinsonian. rigidity relieving	0.958	COMP576	(0.815 COMP580) (0.765 COMP585) (0.572 COMP581) (0.261 COMP577) (0.244 COMP582) (0.233 COMP579) (0.198 COMP584)
+Antiparkinsonian. tremor relieving	0.402	COMP576	(0.271 COMP580) (0.247 COMP585) (0.182 COMP581)
+Antiprotozoal	0.631	COMP583	(0.578 COMP584) (0.559 COMP578) (0.547 COMP577) (0.340 COMP582) (0.250 COMP580) (0.248 COMP585) (0.234 COMP576) (0.212 COMP579)
+Antiprotozoal (Amoeba)	0.135	COMP578	(0.112 COMP577)
+Antiprotozoal (Coccidial)	0.148	COMP578	
+Antiprotozoal (Leishmania)	0.410	COMP577	(0.317 COMP578) (0.309 COMP582) (0.216 COMP579) (0.213 COMP584) (0.161 COMP580) (0.157 COMP581) (0.154 COMP583)
+Antiprotozoal (Plasmodium)	0.553	COMP578	(0.551 COMP577) (0.253 COMP580) (0.249 COMP585) (0.232 COMP576)
+Antiprotozoal (Toxoplasma)	0.137	COMP578	
+Antiprotozoal (Trichomonas)	0.124	COMP578	
+Antiprotozoal (Trypanosoma)	0.410	COMP577	(0.389 COMP578) (0.260 COMP576) (0.247 COMP580) (0.212 COMP584) (0.168 COMP581)
+Antiprotozoal activity enhancer	0.195	COMP579	(0.185 COMP582) (0.090 COMP576) (0.082 COMP584)
+Antipruritic	0.128	COMP579	
+Antipruritic. allergic	0.407	COMP582	(0.358 COMP578) (0.276 COMP584) (0.250 COMP579) (0.224 COMP583)
+Antipruritic. non-allergic	0.201	COMP579	(0.165 COMP582) (0.132 COMP584)
+Antipsychotic	0.280	COMP576	(0.216 COMP580) (0.188 COMP585) (0.185 COMP581)
+Antipyretic	0.433	COMP582	(0.332 COMP579) (0.276 COMP578) (0.248 COMP584) (0.153 COMP577)
+Antirickettsial	0.188	COMP582	(0.160 COMP584) (0.158 COMP579)
+Antiseptic	0.246	COMP577	(0.139 COMP576) (0.125 COMP580) (0.122 COMP578) (0.102 COMP585)
+Antismoking	0.119	COMP582	(0.107 COMP576)
+Antithrombotic	0.305	COMP579	(0.292 COMP582) (0.228 COMP584)
+Antitreponemal	0.085	COMP581	(0.084 COMP576/COMP580) (0.080 COMP585) (0.071 COMP577)
+Antituberculosic	0.213	COMP577	(0.175 COMP578)
+Antitussive	0.253	COMP585	(0.202 COMP576) (0.193 COMP580) (0.145 COMP582) (0.100 COMP579)
+Antiulcerative	0.403	COMP584	(0.327 COMP583)
+Antiviral (Coronavirus)	0.117	COMP579	(0.105 COMP582)
+Antiviral (HIV)	0.333	COMP584	(0.281 COMP579) (0.269 COMP582) (0.227 COMP583)
+Antiviral (Hepatitis A)	0.098	COMP585	(0.093 COMP576/COMP580) (0.086 COMP577)
+Antiviral (Hepatitis B)	0.222	COMP582/COMP585	(0.221 COMP576) (0.206 COMP579) (0.202 COMP581) (0.194 COMP580) (0.185 COMP577) (0.171 COMP584) (0.112 COMP583)
+Antiviral (Hepatitis C)	0.368	COMP579	(0.236 COMP582)
+Antiviral (Hepatitis)	0.399	COMP579	(0.260 COMP582)
+Antiviral (Herpes)	0.231	COMP582	(0.178 COMP579) (0.168 COMP585) (0.167 COMP576) (0.146 COMP580) (0.135 COMP577) (0.128 COMP584) (0.124 COMP583) (0.117 COMP581)
+Antiviral (Influenza A)	0.373	COMP582	(0.290 COMP579) (0.247 COMP584) (0.246 COMP583) (0.164 COMP581)
+Antiviral (Influenza B)	0.117	COMP578	
+Antiviral (Influenza)	0.376	COMP582	(0.319 COMP579) (0.236 COMP584) (0.224 COMP583)
+Antiviral (Papilloma)	0.164	COMP576	(0.154 COMP580) (0.149 COMP581) (0.108 COMP577) (0.107 COMP585)
+Antiviral (Parainfluenza)	0.083	COMP576	(0.070 COMP577)
+Antiviral (SARS coronavirus)	0.117	COMP579	(0.105 COMP582)
+Antiviral (West Nile virus)	0.202	COMP578	
+Anxiolytic	0.472	COMP583	(0.274 COMP584) (0.171 COMP576)
+Apoptosis agonist	0.690	COMP582	(0.655 COMP577) (0.649 COMP584) (0.646 COMP579) (0.637 COMP585) (0.634 COMP578) (0.621 COMP581) (0.564 COMP583) (0.555 COMP580) (0.540 COMP576)
+Apoptosis antagonist	0.447	COMP582	(0.398 COMP579) (0.321 COMP584) (0.293 COMP583)
+Arachidonic acid antagonist	0.201	COMP582	(0.197 COMP584) (0.188 COMP583) (0.183 COMP579) (0.138 COMP578)
+Aromatase inhibitor	0.070	COMP578	(0.067 COMP582) (0.064 COMP583) (0.061 COMP584)
+Aryl hydrocarbon receptor agonist	0.374	COMP578	(0.286 COMP577)
+Autism spectrum disorders treatment	0.114	COMP579	
+Beta tubulin antagonist	0.316	COMP578	(0.115 COMP580) (0.102 COMP577) (0.084 COMP585) (0.078 COMP581) (0.062 COMP576)
+Bile acid receptor antagonist	0.145	COMP579	(0.125 COMP582)
+Bone diseases treatment	0.294	COMP582	(0.185 COMP579) (0.184 COMP585)
+Botulinum neurotoxin type A inhibitor	0.065	COMP582	
+Breast cancer-resistant protein inhibitor	0.200	COMP577	(0.167 COMP585) (0.153 COMP580) (0.139 COMP581) (0.111 COMP576) (0.101 COMP578)
+Bromodomain-containing protein 2 inhibitor	0.082	COMP578	
+Bromodomain-containing protein 4 inhibitor	0.049	COMP578	
+Butyrylcholinesterase inhibitor	0.186	COMP578	(0.142 COMP577) (0.088 COMP580)
+CC chemokine 6 receptor antagonist	0.127	COMP578	(0.124 COMP582)
+CD45 antagonist	0.063	COMP577	(0.053 COMP578)
+CDC-like kinase 1 inhibitor	0.362	COMP577	(0.190 COMP581) (0.178 COMP580) (0.167 COMP576) (0.110 COMP578)
+CDC-like kinase 2 inhibitor	0.206	COMP577	
+CDC-like kinase 3 inhibitor	0.241	COMP577	(0.179 COMP581) (0.176 COMP576) (0.165 COMP580) (0.132 COMP585)
+CDC-like kinase 4 inhibitor	0.321	COMP577	
+CDC25A inhibitor	0.138	COMP578	(0.080 COMP582) (0.078 COMP577)
+CDC25B inhibitor	0.136	COMP578	(0.109 COMP577)
+CF transmembrane conductance regulator agonist	0.172	COMP578	
+CTGF expression inhibitor	0.298	COMP578	(0.211 COMP577) (0.207 COMP576) (0.197 COMP582)
+CYP1A2 inhibitor	0.598	COMP577	(0.532 COMP578)
+CYP1A2 substrate	0.611	COMP585	(0.578 COMP576) (0.571 COMP580) (0.413 COMP581) (0.401 COMP577) (0.241 COMP578)
+CYP2A6 inhibitor	0.114	COMP578	
+CYP2B6 inhibitor	0.325	COMP578	(0.287 COMP577)
+CYP2C19 inhibitor	0.553	COMP577	(0.534 COMP581) (0.480 COMP580) (0.462 COMP585) (0.453 COMP578) (0.431 COMP576)
+CYP2C19 substrate	0.264	COMP580	(0.237 COMP576) (0.236 COMP582/COMP585) (0.210 COMP579) (0.191 COMP584)
+CYP2C9 inhibitor	0.351	COMP578	(0.342 COMP577)
+CYP2C9 substrate	0.735	COMP585	(0.519 COMP580) (0.514 COMP576) (0.377 COMP581) (0.334 COMP577) (0.319 COMP584) (0.268 COMP582) (0.255 COMP578) (0.237 COMP579) (0.229 COMP583)
+CYP2D6 inhibitor	0.673	COMP581	(0.524 COMP576) (0.514 COMP580) (0.462 COMP585) (0.350 COMP577) (0.218 COMP578)
+CYP2D6 substrate	0.515	COMP580	(0.487 COMP576) (0.391 COMP581) (0.369 COMP585) (0.268 COMP582)
+CYP3A4 inhibitor	0.384	COMP577	(0.379 COMP581) (0.322 COMP580) (0.303 COMP585) (0.299 COMP578) (0.294 COMP576)
+CYP3A4 substrate	0.599	COMP576	(0.596 COMP585) (0.580 COMP580) (0.401 COMP581) (0.365 COMP579) (0.355 COMP577) (0.342 COMP582) (0.300 COMP584) (0.266 COMP578) (0.228 COMP583)
+Ca2+-transporting ATPase inhibitor	0.138	COMP584	(0.135 COMP582) (0.134 COMP576) (0.132 COMP578)
+Ca2+/calmodulin-dependent kinase I alpha inhibitor	0.224	COMP578	
+Ca2+/calmodulin-dependent kinase II alpha inhibitor	0.401	COMP578	(0.366 COMP577)
+Ca2+/calmodulin-dependent kinase II beta inhibitor	0.279	COMP578	
+Ca2+/calmodulin-dependent kinase II gamma inhibitor	0.241	COMP578	
+Ca2+/calmodulin-dependent protein kinase inhibitor	0.165	COMP578	
+Ca2+/calmodulin-dependent protein kinase kinase A inhibitor	0.381	COMP578	
+Ca2+/calmodulin-dependent protein kinase kinase B inhibitor	0.161	COMP578	
+Calcium antagonist	0.106	COMP580	(0.089 COMP581) (0.081 COMP576) (0.072 COMP585)
+Calcium channel L-type activator	0.231	COMP578/COMP582	
+Calcium channel L-type blocker	0.088	COMP581	(0.070 COMP580) (0.066 COMP576)
+Calcium channel activator	0.367	COMP578	(0.261 COMP582) (0.227 COMP584) (0.209 COMP577)
+Carcinogenic	0.146	COMP576	(0.144 COMP578) (0.143 COMP577) (0.127 COMP585)
+Carcinogenic. group 1	0.294	COMP576	(0.237 COMP580) (0.225 COMP581) (0.203 COMP585) (0.196 COMP577) (0.166 COMP578)
+Carcinogenic. group 2A	0.175	COMP577	(0.131 COMP576) (0.126 COMP578) (0.108 COMP585) (0.107 COMP581) (0.092 COMP580)
+Carcinogenic. group 2B	0.133	COMP577	(0.091 COMP578)
+Carcinogenic. group 3	0.101	COMP578	
+Cardiodepressant	0.549	COMP580	(0.538 COMP576) (0.486 COMP585) (0.355 COMP582) (0.343 COMP581) (0.337 COMP579) (0.244 COMP577) (0.208 COMP584)
+Cardioprotectant	0.413	COMP582	(0.292 COMP579) (0.243 COMP580) (0.231 COMP576) (0.175 COMP585)
+Cardiovascular analeptic	0.408	COMP582	(0.331 COMP583) (0.310 COMP579) (0.232 COMP584) (0.172 COMP578)
+Caspase 3 stimulant	0.738	COMP577	(0.605 COMP585) (0.597 COMP578) (0.492 COMP580) (0.459 COMP576) (0.409 COMP581) (0.381 COMP582) (0.309 COMP579) (0.300 COMP584)
+Caspase 7 inhibitor	0.077	COMP577	
+Caspase 9 stimulant	0.888	COMP577	(0.871 COMP578) (0.753 COMP580) (0.741 COMP582) (0.642 COMP584) (0.599 COMP576) (0.574 COMP579) (0.513 COMP581) (0.448 COMP585) (0.305 COMP583)
+Catenin beta inhibitor	0.164	COMP577	
+Check point kinase 1 inhibitor	0.069	COMP578	
+Chemopreventive	0.363	COMP582	(0.279 COMP579) (0.262 COMP584) (0.210 COMP577) (0.182 COMP583) (0.161 COMP578) (0.150 COMP580) (0.149 COMP585) (0.144 COMP581)
+Chemoprotective	0.393	COMP582	(0.291 COMP584) (0.279 COMP579) (0.244 COMP578) (0.216 COMP583)
+Choleretic	0.184	COMP579	(0.137 COMP582) (0.102 COMP585) (0.091 COMP583)
+Cholesterol absorption inhibitor	0.043	COMP582	(0.040 COMP579/COMP584)
+Cholesterol antagonist	0.333	COMP584	(0.316 COMP582) (0.280 COMP579) (0.199 COMP578)
+Cholesterol synthesis inhibitor	0.265	COMP582	(0.217 COMP584) (0.202 COMP579) (0.166 COMP583) (0.097 COMP578)
+Cholinergic	0.221	COMP578	(0.200 COMP580) (0.180 COMP576) (0.179 COMP581/COMP585) (0.169 COMP583) (0.145 COMP577) (0.132 COMP584)
+Cholinergic antagonist	0.305	COMP576	(0.226 COMP580) (0.205 COMP581) (0.195 COMP585)
+Clk dual-specificity kinase inhibitor	0.400	COMP577	(0.136 COMP578)
+Coagulant	0.160	COMP578	
+Cocaine dependence treatment	0.131	COMP582	(0.124 COMP584)
+Constipation treatment	0.130	COMP579	
+Contraceptive	0.400	COMP583	(0.390 COMP582) (0.380 COMP579) (0.310 COMP584)
+Contraceptive female	0.280	COMP582	(0.250 COMP579) (0.186 COMP584) (0.165 COMP583)
+Contraceptive male	0.110	COMP583	(0.095 COMP579/COMP582) (0.083 COMP584)
+Corticosteroid-like	0.020	COMP582/COMP584	
+Cyclic AMP phosphodiesterase inhibitor	0.330	COMP578	(0.307 COMP580) (0.293 COMP577) (0.275 COMP576) (0.207 COMP582) (0.190 COMP585) (0.164 COMP581) (0.156 COMP579)
+Cyclin B inhibitor	0.050	COMP578	
+Cyclin B2 inhibitor	0.052	COMP578	
+Cyclin B3 inhibitor	0.110	COMP578	
+Cyclin D1 inhibitor	0.058	COMP578	
+Cyclin-dependent kinase 3 inhibitor	0.188	COMP578	(0.148 COMP577)
+Cyclin-dependent kinase 5 inhibitor	0.133	COMP578	
+Cyclooxygenase 3 inhibitor	0.185	COMP584	(0.135 COMP579) (0.132 COMP582)
+Cyclophilin D inhibitor	0.412	COMP582	(0.306 COMP579)
+Cystathionine beta-synthase inhibitor	0.328	COMP578	(0.201 COMP577)
+Cystic fibrosis treatment	0.222	COMP576	(0.185 COMP580)
+Cytokine production inhibitor	0.152	COMP578	
+Cytostatic	0.404	COMP578	(0.318 COMP577) (0.227 COMP581) (0.221 COMP576) (0.212 COMP580) (0.176 COMP585)
+Cytotoxic	0.339	COMP578	(0.309 COMP582) (0.295 COMP577) (0.287 COMP579) (0.225 COMP584) (0.178 COMP580) (0.177 COMP576) (0.150 COMP585) (0.143 COMP583)
+DNA damaging	0.753	COMP577	(0.637 COMP578) (0.353 COMP580) (0.340 COMP581) (0.330 COMP576) (0.276 COMP585)
+DNA intercalator	0.554	COMP577	(0.420 COMP578) (0.210 COMP576) (0.202 COMP581) (0.199 COMP580) (0.180 COMP585)
+DNA methylase inhibitor	0.252	COMP578	
+DNA methyltransferase I inhibitor	0.260	COMP578	
+DNA polymerase I inhibitor	0.176	COMP582	(0.148 COMP583) (0.145 COMP579)
+DNA polymerase beta inhibitor	0.237	COMP577	
+DNA repair enzyme inhibitor	0.164	COMP577	(0.152 COMP578) (0.123 COMP585) (0.114 COMP576) (0.109 COMP580)
+DNA synthesis inhibitor	0.344	COMP576	(0.314 COMP585) (0.285 COMP580) (0.284 COMP581) (0.252 COMP582) (0.193 COMP577)
+DOPA decarboxylase inhibitor	0.101	COMP577	
+Dementia treatment	0.138	COMP578	
+Dependence treatment	0.153	COMP582	
+Diabetic nephropathy treatment	0.144	COMP583	
+Diacylglycerol O-acyltransferase inhibitor	0.049	COMP582	
+Dipeptidyl peptidase I inhibitor	0.065	COMP582	
+Diuretic	0.127	COMP579	
+Dopamine D1 agonist	0.076	COMP585	(0.064 COMP576) (0.056 COMP581) (0.054 COMP580) (0.027 COMP582) (0.021 COMP578)
+Dopamine D1 antagonist	0.501	COMP580	(0.457 COMP576) (0.413 COMP585) (0.296 COMP581) (0.056 COMP578)
+Dopamine D2 agonist	0.446	COMP585	(0.436 COMP576) (0.342 COMP580) (0.239 COMP581) (0.046 COMP578)
+Dopamine D2 antagonist	0.255	COMP580	(0.216 COMP576) (0.175 COMP581) (0.165 COMP585)
+Dopamine D3 antagonist	0.175	COMP580	(0.162 COMP576) (0.161 COMP581) (0.117 COMP585)
+Dopamine D5 agonist	0.036	COMP581	
+Dopamine D5 antagonist	0.252	COMP576	(0.234 COMP585) (0.224 COMP580) (0.175 COMP581) (0.047 COMP582)
+Dopamine agonist	0.582	COMP585	(0.533 COMP576) (0.463 COMP580) (0.287 COMP581) (0.066 COMP578)
+Dopamine antagonist	0.307	COMP580	(0.268 COMP576) (0.212 COMP581) (0.200 COMP585)
+Dopamine autoreceptor agonist	0.027	COMP576	(0.024 COMP580) (0.023 COMP577) (0.022 COMP585)
+Dopamine transporter inhibitor	0.092	COMP576	(0.086 COMP585) (0.084 COMP581) (0.074 COMP580) (0.045 COMP579) (0.044 COMP582)
+Dopamine uptake inhibitor	0.164	COMP576	(0.135 COMP581) (0.134 COMP585) (0.126 COMP580)
+Dual specificity phosphatase inhibitor	0.173	COMP577	(0.144 COMP578)
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.638	COMP577	(0.424 COMP578) (0.157 COMP581) (0.149 COMP580)
+Dual specificity tyrosine-phosphorylation regulated kinase 1B inhibitor	0.298	COMP577	
+Dual specificity tyrosine-phosphorylation regulated kinase 2 inhibitor	0.232	COMP577	(0.120 COMP581) (0.114 COMP576) (0.113 COMP580) (0.106 COMP578) (0.085 COMP585)
+Dual specificity tyrosine-phosphorylation-regulated kinase 4 inhibitor	0.138	COMP578	
+Dyrk kinase inhibitor	0.612	COMP577	(0.399 COMP578)
+Electron transport complex I inhibitor	0.097	COMP578	
+Embryotoxic	0.168	COMP582	
+Endothelin A receptor antagonist	0.047	COMP577	
+Endothelin B receptor antagonist	0.066	COMP577	(0.021 COMP581) (0.019 COMP580)
+Endothelin receptor antagonist	0.090	COMP577	(0.027 COMP581) (0.026 COMP580)
+Erectile dysfunction treatment	0.334	COMP581	(0.317 COMP576) (0.281 COMP580) (0.207 COMP577) (0.158 COMP585)
+Estradiol 17 beta-dehydrogenase 3 inhibitor	0.086	COMP579	
+Estradiol 17 beta-dehydrogenase inhibitor	0.060	COMP579	
+Estrogen antagonist	0.117	COMP583	(0.115 COMP580) (0.113 COMP582) (0.109 COMP576) (0.102 COMP585)
+Estrogen receptor alpha antagonist	0.079	COMP580	(0.076 COMP576) (0.071 COMP583)
+Estrogen receptor beta antagonist	0.106	COMP580	(0.102 COMP576) (0.101 COMP583) (0.097 COMP585) (0.090 COMP577)
+Estrone sulfatase inhibitor	0.020	COMP582	
+Expectorant	0.097	COMP580	(0.088 COMP585) (0.086 COMP579)
+FMO3 substrate	0.219	COMP576	(0.208 COMP582)
+Factor III inhibitor	0.057	COMP581	(0.056 COMP580) (0.055 COMP576) (0.051 COMP577)
+Farnesoid X receptor agonist	0.096	COMP582	(0.057 COMP579) (0.040 COMP583)
+Farnesoid X receptor antagonist	0.155	COMP582	(0.145 COMP579) (0.135 COMP583) (0.127 COMP584)
+Female sexual dysfunction treatment	0.082	COMP576	(0.081 COMP581) (0.070 COMP580)
+Flavin-containing monooxygenase substrate	0.192	COMP576	
+Focal adhesion kinase 2 inhibitor	0.175	COMP578	
+Free radical scavenger	0.263	COMP578	(0.209 COMP577) (0.176 COMP585) (0.170 COMP580)
+GABA B receptor antagonist	0.040	COMP581	
+GABA C receptor rho-1 antagonist	0.108	COMP578	
+GABA C receptor rho-2 antagonist	0.230	COMP578	
+GABA C receptor rho-3 antagonist	0.302	COMP578	
+GST A substrate	0.229	COMP578	
+GST M1-1 substrate	0.329	COMP578	(0.262 COMP577) (0.225 COMP576) (0.221 COMP585) (0.210 COMP581)
+GST P1-1 substrate	0.137	COMP578	
+Gastrin inhibitor	0.304	COMP579	(0.299 COMP584) (0.281 COMP582) (0.182 COMP583)
+Genotoxic	0.492	COMP577	(0.432 COMP580) (0.426 COMP576) (0.338 COMP585) (0.295 COMP578) (0.202 COMP581)
+Glucocorticoid antagonist	0.043	COMP582	(0.036 COMP583)
+Glucose-6-phosphate dehydrogenase inhibitor	0.054	COMP582	(0.051 COMP583) (0.049 COMP579) (0.042 COMP584)
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.359	COMP578	(0.180 COMP577)
+Glutamate (mGluR7) antagonist	0.128	COMP577	(0.087 COMP578) (0.086 COMP580) (0.078 COMP576) (0.064 COMP585)
+Glutamate receptor antagonist	0.123	COMP581	
+Glutamate release inhibitor	0.091	COMP582	(0.085 COMP578)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.482	COMP582	(0.333 COMP579) (0.275 COMP578) (0.215 COMP577)
+Glycine receptor agonist	0.109	COMP582	(0.096 COMP579) (0.083 COMP584)
+Glycine receptor antagonist	0.271	COMP582	(0.181 COMP579) (0.143 COMP584) (0.122 COMP583)
+Glycogen synthase kinase-3 alpha inhibitor	0.275	COMP577	(0.215 COMP578)
+Glycogen synthase kinase-3 beta inhibitor	0.104	COMP578	
+Glycogen synthase kinase-3 inhibitor	0.107	COMP578	
+Gout treatment	0.138	COMP578	
+Granulocyte macrophage colony stimulating factor agonist	0.148	COMP578	(0.096 COMP577)
+Growth hormone agonist	0.206	COMP584	(0.163 COMP582) (0.143 COMP579)
+Growth stimulant	0.145	COMP584	(0.127 COMP582) (0.114 COMP583) (0.100 COMP579)
+H+/K+-transporting ATPase inhibitor	0.047	COMP578	
+HDL-cholesterol increasing	0.100	COMP584	
+HIV-1 integrase (3'-Processing) inhibitor	0.110	COMP578	(0.105 COMP577)
+HIV-1 integrase (Strand Transfer) inhibitor	0.118	COMP578	(0.112 COMP577)
+HIV-1 integrase inhibitor	0.116	COMP584	(0.110 COMP578) (0.107 COMP583) (0.089 COMP577)
+HMG CoA reductase inhibitor	0.031	COMP584	
+Hair growth stimulant	0.282	COMP579	(0.184 COMP582)
+Heat shock protein 70 antagonist	0.136	COMP576	(0.134 COMP577/COMP580) (0.130 COMP585)
+Heat shock protein 90 alpha antagonist	0.387	COMP577	(0.352 COMP578)
+Heat shock protein 90 antagonist	0.374	COMP577	(0.349 COMP578)
+Heat shock protein 90 beta antagonist	0.163	COMP577	(0.140 COMP578)
+Hedgehog signaling activator	0.031	COMP582	(0.026 COMP579)
+Heme oxygenase stimulant	0.130	COMP583	(0.087 COMP582) (0.085 COMP579) (0.075 COMP584)
+Hemostatic	0.139	COMP578	
+Hepatic disorders treatment	0.563	COMP582	(0.501 COMP579) (0.497 COMP585) (0.405 COMP584) (0.402 COMP577) (0.396 COMP576) (0.364 COMP580) (0.358 COMP581) (0.345 COMP583) (0.203 COMP578)
+Hepatoprotectant	0.404	COMP585	(0.352 COMP582) (0.335 COMP579) (0.309 COMP576) (0.302 COMP580) (0.288 COMP584) (0.273 COMP581) (0.261 COMP577) (0.203 COMP583) (0.169 COMP578)
+Hexokinase inhibitor	0.239	COMP578	
+Histamine release inhibitor	0.477	COMP577	(0.417 COMP578) (0.414 COMP576) (0.388 COMP580) (0.347 COMP585)
+Histidine decarboxylase inhibitor	0.071	COMP576	(0.065 COMP585)
+Histone acetyltransferase inhibitor	0.195	COMP578	
+Hypoglycemic	0.257	COMP582	(0.197 COMP579) (0.164 COMP580)
+Hypogonadism treatment	0.062	COMP582	(0.044 COMP579) (0.043 COMP583)
+Hypolipemic	0.174	COMP584	(0.160 COMP582) (0.145 COMP579)
+Hypoxia-inducible factor 1 alpha inhibitor	0.570	COMP580	(0.531 COMP577) (0.527 COMP578) (0.480 COMP576) (0.421 COMP585) (0.304 COMP582) (0.278 COMP579) (0.255 COMP581) (0.194 COMP584)
+I kappa B kinase epsilon inhibitor	0.183	COMP578	
+ICAM1 expression inhibitor	0.489	COMP582	(0.462 COMP579) (0.421 COMP584) (0.264 COMP583) (0.218 COMP580) (0.210 COMP576)
+Immunostimulant	0.260	COMP579	(0.251 COMP582)
+Immunosuppressant	0.506	COMP581	(0.440 COMP582) (0.318 COMP579) (0.312 COMP584) (0.243 COMP578) (0.233 COMP576) (0.229 COMP585) (0.223 COMP580)
+Inducible nitric-oxide synthase inhibitor	0.164	COMP582	
+Insulin secretagoues	0.258	COMP582	(0.167 COMP579/COMP584)
+Insulin sensitizer	0.166	COMP582	(0.146 COMP584)
+Interferon gamma antagonist	0.294	COMP582	(0.222 COMP579) (0.194 COMP584) (0.190 COMP583)
+Interleukin 1 antagonist	0.244	COMP578	(0.194 COMP577)
+Interleukin 1b antagonist	0.225	COMP578	(0.221 COMP577)
+Interleukin 2 agonist	0.292	COMP582	(0.284 COMP579)
+Interleukin 4 antagonist	0.110	COMP577	
+Interleukin 6 antagonist	0.183	COMP579	(0.182 COMP582)
+Interleukin 8 antagonist	0.100	COMP578	
+Interleukin agonist	0.196	COMP582	(0.167 COMP579)
+Keratolytic	0.077	COMP577	
+LDLR expression enhancer	0.254	COMP580	(0.210 COMP576) (0.183 COMP585) (0.159 COMP581) (0.153 COMP577/COMP578)
+LIM domain kinase 1 inhibitor	0.149	COMP578	
+Lanosterol 14 alpha demethylase inhibitor	0.149	COMP579	(0.148 COMP582)
+Lipid peroxidase inhibitor	0.246	COMP582	(0.161 COMP579) (0.153 COMP585) (0.131 COMP580) (0.116 COMP576)
+Lipocortins synthesis agonist	0.075	COMP582	(0.072 COMP579) (0.070 COMP584) (0.066 COMP583)
+Lipocortins synthesis antagonist	0.348	COMP582	(0.341 COMP584) (0.337 COMP583) (0.313 COMP579)
+Lipoprotein disorders treatment	0.232	COMP584	(0.220 COMP582) (0.197 COMP579)
+Lipoxygenase inhibitor	0.351	COMP578	(0.330 COMP577)
+Liver X receptor alpha agonist	0.040	COMP579	(0.038 COMP582)
+Liver fibrosis treatment	0.414	COMP585	(0.372 COMP577) (0.309 COMP581) (0.257 COMP576) (0.229 COMP580) (0.140 COMP578) (0.139 COMP583)
+MAO A inhibitor	0.135	COMP578	(0.116 COMP577)
+MAO inhibitor	0.113	COMP577	(0.102 COMP578)
+MAP kinase 1 inhibitor	0.423	COMP578	(0.347 COMP577)
+MAP kinase 12 inhibitor	0.151	COMP578	
+MAP kinase 13 inhibitor	0.103	COMP578	
+MAP kinase 3 inhibitor	0.124	COMP578	
+MAP kinase kinase 3 inhibitor	0.250	COMP578	(0.190 COMP577)
+MAP kinase kinase 4 inhibitor	0.153	COMP577	(0.147 COMP578)
+MAP kinase kinase 6 inhibitor	0.398	COMP578	
+MAP-kinase-activated kinase 5 inhibitor	0.180	COMP578	
+MAP3K9 inhibitor	0.204	COMP578	(0.190 COMP577) (0.144 COMP581)
+Macrophage migration inhibitory factor inhibitor	0.080	COMP577	
+Male reproductive disfunction treatment	0.336	COMP581	(0.331 COMP576) (0.302 COMP580) (0.236 COMP577) (0.165 COMP585)
+Mannose-6-phosphate isomerase inhibitor	0.192	COMP578	(0.132 COMP577)
+Mannosidase inhibitor	0.053	COMP581	(0.046 COMP576)
+Mcl-1 antagonist	0.126	COMP577	
+Mediator release inhibitor	0.103	COMP578	
+Melanin inhibitor	0.254	COMP577	(0.176 COMP580) (0.171 COMP581) (0.149 COMP576/COMP578) (0.141 COMP582) (0.127 COMP585)
+Melatonin 2 agonist	0.037	COMP578	
+Melatonin receptor 1A agonist	0.040	COMP578	
+Menstruation disorders treatment	0.102	COMP579	(0.100 COMP582)
+Metabolic disease treatment	0.222	COMP579	(0.189 COMP582)
+Microtubule formation inhibitor	0.168	COMP582/COMP585	(0.137 COMP579) (0.130 COMP576/COMP580) (0.117 COMP581) (0.113 COMP578) (0.111 COMP584)
+Microtubule stabilization	0.059	COMP584	(0.055 COMP582) (0.052 COMP579)
+Mineralocorticoid receptor antagonist	0.052	COMP582	
+Mood disorders treatment	0.474	COMP583	(0.388 COMP576) (0.383 COMP581) (0.339 COMP585) (0.338 COMP580) (0.308 COMP584)
+Muscle relaxant	0.793	COMP576	(0.705 COMP580) (0.687 COMP581) (0.684 COMP585) (0.301 COMP584) (0.130 COMP582)
+Mutagenic	0.540	COMP576	(0.490 COMP585) (0.420 COMP577) (0.406 COMP580) (0.353 COMP578) (0.148 COMP581)
+Myasthenia Gravis treatment	0.273	COMP578	(0.104 COMP579)
+NAD(P)H dehydrogenase (quinone) inhibitor	0.186	COMP578	
+NADPH oxidase inhibitor	0.108	COMP578	
+NAT2 substrate	0.112	COMP578	
+NMDA 2B receptor antagonist	0.075	COMP581	(0.050 COMP576)
+NMDA receptor phencyclidine site antagonist	0.014	COMP582	
+NOS2 expression inhibitor	0.351	COMP578	(0.335 COMP582) (0.286 COMP579) (0.267 COMP577) (0.238 COMP580) (0.206 COMP583) (0.204 COMP584) (0.195 COMP576) (0.182 COMP581) (0.159 COMP585)
+NOS3 expression enhancer	0.180	COMP579	(0.157 COMP582) (0.146 COMP578)
+NOS3 expression inhibitor	0.386	COMP582	(0.370 COMP579) (0.334 COMP584) (0.279 COMP583)
+Na+ K+ transporting ATPase inhibitor	0.134	COMP582	(0.120 COMP579) (0.115 COMP584) (0.107 COMP583)
+Narcotic antagonist	0.099	COMP576	(0.094 COMP580) (0.092 COMP582) (0.084 COMP585) (0.083 COMP579)
+Neurokinin 1 antagonist	0.044	COMP581	(0.038 COMP576)
+Neuronal nicotinic receptor antagonist	0.116	COMP581	(0.109 COMP576) (0.092 COMP580) (0.061 COMP585)
+Neuropathy treatment	0.161	COMP578	
+Neurotensin receptor agonist	0.145	COMP578	
+Neurotrophic factor enhancer	0.408	COMP576	(0.397 COMP577) (0.357 COMP580) (0.298 COMP581) (0.256 COMP584) (0.244 COMP585) (0.226 COMP578) (0.222 COMP582) (0.220 COMP583) (0.167 COMP579)
+Nicotinic alpha3beta2 receptor antagonist	0.095	COMP576	(0.089 COMP581) (0.060 COMP580/COMP582) (0.056 COMP585)
+Nicotinic alpha4beta2 receptor antagonist	0.118	COMP581	(0.110 COMP576) (0.100 COMP582) (0.083 COMP580)
+Nicotinic receptor alpha4 subunit antagonist	0.090	COMP582	(0.050 COMP581) (0.048 COMP576)
+Nicotinic receptor alpha7 subunit antagonist	0.101	COMP581	(0.091 COMP576) (0.067 COMP580) (0.054 COMP585)
+Nicotinic receptor beta4 subunit antagonist	0.079	COMP582	
+Nitric oxide antagonist	0.390	COMP582	(0.368 COMP579) (0.367 COMP583) (0.341 COMP584) (0.243 COMP585) (0.238 COMP580) (0.225 COMP576) (0.155 COMP577) (0.148 COMP581) (0.137 COMP578)
+Nitric-oxide synthase inhibitor	0.121	COMP582	
+Nitric-oxide synthase stimulant	0.199	COMP578	
+Non-steroidal antiinflammatory agent	0.291	COMP578	
+Obsessive-compulsive disorder treatment	0.113	COMP578	
+Opioid agonist	0.084	COMP576	(0.067 COMP580) (0.066 COMP585)
+Opioid antagonist	0.094	COMP579	(0.089 COMP576) (0.079 COMP580)
+Opioid kappa receptor agonist	0.126	COMP576	(0.101 COMP580) (0.079 COMP585) (0.074 COMP579)
+Opioid kappa receptor antagonist	0.120	COMP579	(0.105 COMP576) (0.097 COMP580) (0.084 COMP582) (0.082 COMP585)
+Opioid mu receptor agonist	0.089	COMP576	(0.067 COMP580/COMP585)
+Opioid mu receptor antagonist	0.068	COMP576	(0.061 COMP579)
+P-glycoprotein inhibitor	0.426	COMP585	(0.295 COMP580) (0.262 COMP576) (0.256 COMP577) (0.235 COMP581) (0.189 COMP578) (0.183 COMP584) (0.174 COMP579) (0.158 COMP582)
+Paget's disease treatment	0.123	COMP583	(0.118 COMP582) (0.104 COMP579)
+Papain-like protease (SARS coronavirus) inhibitor	0.124	COMP576	(0.123 COMP577) (0.119 COMP580) (0.115 COMP581) (0.114 COMP585)
+Parathyroid hormone antagonist	0.060	COMP582	(0.055 COMP583) (0.051 COMP579/COMP584)
+Peptidyltransferase inhibitor	0.180	COMP576	(0.164 COMP585)
+Peroxidase inhibitor	0.346	COMP578	
+Phenylalanine 4-hydroxylase inhibitor	0.068	COMP578	
+Phenylethanolamine N methyltransferase inhibitor	0.049	COMP581	
+Phobic disorders treatment	0.213	COMP577/COMP578	(0.177 COMP580) (0.145 COMP576)
+Phosphodiesterase 11A inhibitor	0.215	COMP577	(0.127 COMP581) (0.123 COMP580) (0.120 COMP578) (0.114 COMP576) (0.076 COMP585)
+Phosphodiesterase 1C inhibitor	0.058	COMP578	
+Phosphodiesterase 3A inhibitor	0.076	COMP578	
+Phosphodiesterase 4A inhibitor	0.062	COMP578	
+Phosphodiesterase 4B inhibitor	0.062	COMP578	
+Phosphodiesterase 4C inhibitor	0.082	COMP578	
+Phosphodiesterase 4D inhibitor	0.172	COMP578	
+Phosphodiesterase 5A inhibitor	0.189	COMP577	(0.090 COMP580) (0.084 COMP576) (0.081 COMP581)
+Phosphodiesterase 6A inhibitor	0.022	COMP577	
+Phosphodiesterase 6B inhibitor	0.033	COMP577	(0.031 COMP576)
+Phosphodiesterase 6C inhibitor	0.052	COMP577	(0.050 COMP576) (0.046 COMP580) (0.044 COMP581)
+Phosphodiesterase 6D inhibitor	0.121	COMP576	(0.112 COMP577/COMP580) (0.099 COMP581)
+Phosphodiesterase 6G inhibitor	0.024	COMP577	(0.023 COMP576)
+Phosphodiesterase 6H inhibitor	0.024	COMP577	(0.023 COMP576)
+Phosphodiesterase I inhibitor	0.093	COMP577	(0.092 COMP578)
+Phosphodiesterase III inhibitor	0.061	COMP578	
+Phosphodiesterase IV inhibitor	0.175	COMP578	(0.121 COMP577)
+Phosphodiesterase V inhibitor	0.212	COMP577	(0.102 COMP580) (0.098 COMP576) (0.095 COMP581)
+Phosphodiesterase VI inhibitor	0.108	COMP577	(0.075 COMP580)
+Phosphodiesterase XI inhibitor	0.215	COMP577	(0.127 COMP581) (0.123 COMP580) (0.120 COMP578) (0.114 COMP576) (0.076 COMP585)
+Phosphodiesterase inhibitor	0.163	COMP577	(0.129 COMP578)
+Phospholipase C inhibitor	0.349	COMP582	(0.325 COMP579)
+Phospholipase D inhibitor	0.082	COMP582	
+Phosphorylase inhibitor	0.089	COMP582	(0.061 COMP579)
+Photosensitizer	0.210	COMP578	(0.099 COMP577)
+Pim-3 kinase inhibitor	0.085	COMP578	
+Platelet activating factor alpha antagonist	0.162	COMP578	
+Platelet activating factor antagonist	0.121	COMP578	
+Platelet adhesion inhibitor	0.176	COMP580	(0.173 COMP576) (0.154 COMP585) (0.134 COMP584)
+Platelet aggregation inhibitor	0.153	COMP578	
+Platelet growth factor antagonist	0.075	COMP578	
+Pneumotoxic	0.282	COMP576	(0.275 COMP578) (0.241 COMP580) (0.200 COMP585) (0.165 COMP577)
+Porphobilinogen synthase inhibitor	0.066	COMP578	
+Postcoital contraceptive	0.064	COMP579/COMP582	
+Postmenopausal disorders treatment	0.053	COMP585	(0.049 COMP580)
+Potassium channel (Ca-activated) activator	0.114	COMP582	
+Potassium channel (Ca-activated) blocker	0.075	COMP578	
+Potassium channel Kv1.3 blocker	0.071	COMP579	(0.047 COMP584)
+Potassium channel large-conductance Ca-activated activator	0.094	COMP582	
+Potassium channel small-conductance Ca-activated blocker	0.046	COMP578	
+Pregnane X receptor agonist	0.170	COMP582	(0.165 COMP583) (0.158 COMP584) (0.151 COMP577) (0.148 COMP578) (0.146 COMP579)
+Progesterone agonist	0.021	COMP583	
+Progesterone antagonist	0.077	COMP582	
+Progesterone receptor B antagonist	0.020	COMP583	(0.018 COMP584)
+Prolactin inhibitor	0.166	COMP582	(0.142 COMP576) (0.121 COMP585) (0.112 COMP580) (0.098 COMP579) (0.091 COMP581)
+Prolactin release inhibitor	0.092	COMP585	(0.091 COMP576) (0.084 COMP580) (0.082 COMP579/COMP582) (0.066 COMP583) (0.064 COMP578) (0.061 COMP581) (0.060 COMP584)
+Proliferative diseases treatment	0.246	COMP579	(0.244 COMP582) (0.221 COMP578) (0.198 COMP584) (0.197 COMP577)
+Prostaglandin dehydrogenase inhibitor	0.261	COMP576	(0.248 COMP580) (0.245 COMP577)
+Prostate cancer treatment	0.710	COMP583	(0.705 COMP584) (0.678 COMP578) (0.669 COMP581) (0.643 COMP577) (0.520 COMP585) (0.474 COMP580) (0.424 COMP576) (0.376 COMP582) (0.350 COMP579)
+Prostate disorders treatment	0.356	COMP582	(0.354 COMP579) (0.308 COMP583) (0.244 COMP584)
+Prostatic (benign) hyperplasia treatment	0.307	COMP579	(0.304 COMP583) (0.285 COMP582) (0.248 COMP584)
+Protease activated receptor antagonist	0.056	COMP577	
+Protease inhibitor	0.098	COMP579	
+Protein kinase (CaMK. MLCK. PhK. SNF. KIN. NIM1. MAPKAP. POLO. CHK. ULK. RSK-2nd domain) inhibitor	0.067	COMP578	
+Protein kinase A inhibitor	0.153	COMP578	(0.081 COMP577)
+Protein kinase C alpha inhibitor	0.103	COMP578	
+Protein kinase C beta inhibitor	0.068	COMP578	
+Protein kinase C delta inhibitor	0.130	COMP578	
+Protein kinase C epsilon inhibitor	0.076	COMP578	
+Protein kinase C eta inhibitor	0.124	COMP578	
+Protein kinase C gamma inhibitor	0.190	COMP578	
+Protein kinase C iota inhibitor	0.118	COMP578	(0.054 COMP577)
+Protein kinase C mu inhibitor	0.262	COMP578	(0.107 COMP577)
+Protein kinase C nu inhibitor	0.315	COMP578	(0.119 COMP577)
+Protein kinase C theta inhibitor	0.054	COMP578	
+Protein kinase C zeta inhibitor	0.211	COMP578	
+Protein kinase stimulant	0.188	COMP582	(0.168 COMP584) (0.163 COMP579) (0.110 COMP578)
+Protein-tyrosine phosphatase 1B inhibitor	0.241	COMP582	(0.200 COMP579) (0.130 COMP584)
+Protein-tyrosine phosphatase inhibitor	0.273	COMP582	(0.223 COMP579) (0.125 COMP584)
+Proto-oncogene tyrosine-protein kinase Fyn inhibitor	0.200	COMP577	
+Psychosexual dysfunction treatment	0.177	COMP576	(0.173 COMP580) (0.135 COMP585) (0.126 COMP581) (0.122 COMP577) (0.117 COMP579)
+Psychostimulant	0.391	COMP585	(0.365 COMP576) (0.314 COMP580) (0.239 COMP581)
+Pyruvate kinase inhibitor	0.288	COMP577	(0.208 COMP578) (0.198 COMP580) (0.166 COMP576)
+RNA-directed DNA polymerase inhibitor	0.316	COMP578	(0.234 COMP577) (0.200 COMP585) (0.186 COMP582)
+RNA-directed RNA polymerase stimulant	0.078	COMP582	(0.070 COMP583) (0.068 COMP579) (0.054 COMP584)
+Radioprotector	0.195	COMP576	(0.189 COMP580) (0.174 COMP581) (0.167 COMP585)
+Radiosensitizer	0.356	COMP578	(0.246 COMP577)
+Respiratory analeptic	0.760	COMP576	(0.669 COMP580) (0.544 COMP581) (0.522 COMP585) (0.492 COMP579) (0.322 COMP577) (0.293 COMP582) (0.224 COMP578) (0.173 COMP584)
+Restless leg syndrome treatment	0.178	COMP576	(0.138 COMP580) (0.132 COMP585) (0.092 COMP581)
+Ryanodine receptor antagonist	0.091	COMP580	(0.065 COMP581) (0.063 COMP576) (0.061 COMP577) (0.059 COMP585)
+S-adenosyl-L-methionine decarboxylase inhibitor	0.070	COMP578	
+SULT1A1 substrate	0.146	COMP582	(0.098 COMP579) (0.095 COMP583) (0.092 COMP578)
+SULT1A2 substrate	0.074	COMP582	(0.068 COMP579)
+SULT1E1 substrate	0.118	COMP582	(0.105 COMP576) (0.098 COMP579) (0.096 COMP581) (0.095 COMP580) (0.091 COMP585)
+SULT2A1 substrate	0.098	COMP582	(0.084 COMP579)
+Sedative	0.169	COMP576	(0.160 COMP585) (0.159 COMP580) (0.137 COMP579) (0.135 COMP582)
+Sensitization	0.212	COMP584	(0.181 COMP579/COMP582) (0.174 COMP576) (0.156 COMP577) (0.149 COMP580) (0.131 COMP583) (0.128 COMP578)
+Sepsis treatment	0.159	COMP582	
+Sigma receptor agonist	0.599	COMP576	(0.588 COMP580) (0.578 COMP585) (0.440 COMP581) (0.432 COMP577) (0.193 COMP579)
+Skeletal muscle relaxant	0.750	COMP576	(0.668 COMP585) (0.646 COMP580) (0.625 COMP581) (0.215 COMP584) (0.133 COMP582)
+Skin whitener	0.117	COMP582	
+Sodium/bile acid cotransporter inhibitor	0.450	COMP583	(0.441 COMP584) (0.407 COMP582) (0.394 COMP579) (0.320 COMP578)
+Sodium/hydrogen exchanger 5 inhibitor	0.086	COMP576	
+Spasmolytic	0.510	COMP585	(0.495 COMP576) (0.481 COMP580) (0.351 COMP581) (0.194 COMP578)
+Sphingosine 1-phosphate receptor 2 agonist	0.145	COMP576	(0.140 COMP581) (0.136 COMP580) (0.113 COMP585)
+Steroid 17-alpha-hydroxylase/17.20 lyase inhibitor	0.029	COMP582	(0.028 COMP584) (0.024 COMP579) (0.018 COMP583)
+Streptokinase A inhibitor	0.278	COMP578	(0.250 COMP577)
+Stroke treatment	0.420	COMP576	(0.347 COMP582) (0.338 COMP580) (0.297 COMP585) (0.273 COMP581)
+Substance P antagonist	0.048	COMP581	(0.037 COMP576)
+Succinate dehydrogenase inhibitor	0.179	COMP578	
+Sulfotransferase substrate	0.097	COMP582	
+Superoxide dismutase inhibitor	0.285	COMP578	
+T cell inhibitor	0.106	COMP578	
+TNF expression inhibitor	0.531	COMP582	(0.519 COMP579) (0.465 COMP584) (0.378 COMP578) (0.262 COMP580) (0.250 COMP577) (0.221 COMP583) (0.219 COMP576)
+Telomerase inhibitor	0.111	COMP578	(0.100 COMP577)
+Telomerase stimulant	0.022	COMP582	(0.018 COMP579) (0.016 COMP584)
+Teratogen	0.202	COMP582	
+Thioredoxin inhibitor	0.084	COMP584	
+Thioredoxin reductase inhibitor	0.107	COMP577	
+Thymidine kinase (Herpes simplex virus 1) inhibitor	0.026	COMP582	
+Tocolytic	0.094	COMP579	(0.082 COMP578/COMP585)
+Toll-Like receptor 2 antagonist	0.119	COMP578	
+Toll-Like receptor 3 antagonist	0.086	COMP578	
+Toll-Like receptor 9 antagonist	0.138	COMP578	
+Topoisomerase I inhibitor	0.482	COMP577	(0.352 COMP578) (0.310 COMP576) (0.305 COMP581) (0.301 COMP580) (0.224 COMP585) (0.106 COMP582)
+Topoisomerase II alpha inhibitor	0.453	COMP577	(0.325 COMP578) (0.187 COMP581) (0.183 COMP576/COMP580) (0.170 COMP585)
+Topoisomerase II beta inhibitor	0.219	COMP578	(0.136 COMP577) (0.044 COMP576)
+Topoisomerase II inhibitor	0.642	COMP577	(0.434 COMP578) (0.401 COMP581) (0.366 COMP576) (0.351 COMP580) (0.323 COMP585)
+Toxic. respiratory center	0.266	COMP576	(0.242 COMP580) (0.229 COMP579) (0.227 COMP585) (0.168 COMP584) (0.158 COMP582)
+Transcription factor NF kappa B inhibitor	0.596	COMP582	(0.582 COMP584) (0.551 COMP580) (0.502 COMP576) (0.500 COMP579) (0.434 COMP583) (0.431 COMP577) (0.419 COMP585) (0.358 COMP578) (0.351 COMP581)
+Transcription factor NF kappa B stimulant	0.160	COMP582	(0.139 COMP579) (0.118 COMP584) (0.112 COMP583)
+Transcription factor RelA inhibitor	0.087	COMP578	
+Transcription factor STAT inhibitor	0.259	COMP578	(0.190 COMP579)
+Transcription factor STAT3 inhibitor	0.264	COMP578	(0.208 COMP579) (0.175 COMP582)
+Transcription factor inhibitor	0.219	COMP577	
+Transforming growth factor antagonist	0.077	COMP577	
+Transforming growth factor beta 1 antagonist	0.043	COMP577	
+Tubulin agonist	0.059	COMP579	(0.058 COMP582) (0.032 COMP584)
+Tubulin antagonist	0.611	COMP578	(0.489 COMP581) (0.417 COMP577) (0.375 COMP585) (0.308 COMP580) (0.198 COMP576)
+Tumour necrosis factor alpha release inhibitor	0.482	COMP578	(0.407 COMP577) (0.343 COMP581) (0.203 COMP579) (0.201 COMP580) (0.161 COMP585)
+Tumour necrosis factor antagonist	0.272	COMP578	(0.143 COMP577)
+Tyrosine 3 hydroxylase inhibitor	0.278	COMP576	(0.255 COMP581) (0.230 COMP585) (0.226 COMP580) (0.199 COMP578)
+UDP-glucuronosyltransferase substrate	0.306	COMP582	(0.240 COMP579) (0.179 COMP576) (0.176 COMP580/COMP584) (0.174 COMP578) (0.168 COMP585) (0.139 COMP583)
+UGT1A1 substrate	0.241	COMP578	(0.234 COMP582) (0.225 COMP579) (0.202 COMP580) (0.197 COMP576) (0.178 COMP585) (0.165 COMP584) (0.164 COMP583)
+UGT1A3 substrate	0.295	COMP578	(0.190 COMP579) (0.187 COMP580) (0.183 COMP582) (0.179 COMP585) (0.177 COMP576) (0.123 COMP583)
+UGT1A4 substrate	0.415	COMP582	(0.322 COMP579) (0.277 COMP584) (0.197 COMP583) (0.194 COMP578)
+UGT1A6 substrate	0.310	COMP578	(0.261 COMP582) (0.181 COMP584) (0.175 COMP583) (0.165 COMP579)
+UGT1A9 substrate	0.391	COMP578	(0.354 COMP580) (0.335 COMP576) (0.302 COMP585) (0.264 COMP582) (0.199 COMP583) (0.197 COMP579) (0.177 COMP581)
+UGT2B1 substrate	0.123	COMP582	(0.112 COMP579)
+UGT2B10 substrate	0.237	COMP582	(0.223 COMP578) (0.209 COMP579) (0.206 COMP583) (0.180 COMP584) (0.153 COMP585) (0.150 COMP580) (0.135 COMP576)
+UGT2B11 substrate	0.145	COMP582	(0.129 COMP579) (0.124 COMP583) (0.105 COMP578) (0.102 COMP584)
+UGT2B15 substrate	0.381	COMP578	(0.248 COMP582) (0.214 COMP583) (0.187 COMP579) (0.181 COMP577) (0.138 COMP584) (0.123 COMP580) (0.115 COMP585) (0.110 COMP576)
+UGT2B4 substrate	0.402	COMP582	(0.338 COMP579) (0.335 COMP578) (0.284 COMP583) (0.243 COMP584) (0.223 COMP585) (0.222 COMP580) (0.199 COMP576)
+UGT2B7 substrate	0.338	COMP582	(0.278 COMP579) (0.187 COMP576) (0.184 COMP580) (0.181 COMP584) (0.158 COMP585) (0.157 COMP583) (0.128 COMP578)
+UGT2B9 substrate	0.337	COMP582	(0.260 COMP579) (0.187 COMP580) (0.178 COMP576) (0.159 COMP583) (0.144 COMP585) (0.142 COMP584)
+Ulceration	0.356	COMP578	
+Uterine relaxant	0.067	COMP579	
+Uterine stimulant	0.241	COMP576	(0.228 COMP580) (0.215 COMP585) (0.187 COMP581)
+VCAM1 expression inhibitor	0.224	COMP578	(0.200 COMP577) (0.161 COMP580)
+VEGF expression inhibitor	0.194	COMP579	(0.182 COMP582) (0.181 COMP578)
+Vanilloid 3 antagonist	0.044	COMP578	
+Vascular (periferal) disease treatment	0.389	COMP582	(0.256 COMP584) (0.206 COMP579)
+Vascular dementia treatment	0.132	COMP578	
+Vascular endothelial growth factor 3 antagonist	0.192	COMP578	
+Vasodilator	0.366	COMP585	(0.298 COMP576) (0.292 COMP580) (0.248 COMP577/COMP581) (0.223 COMP582) (0.177 COMP579) (0.163 COMP578)
+Vasodilator. coronary	0.294	COMP580	(0.269 COMP576) (0.241 COMP585) (0.226 COMP581) (0.202 COMP577)
+Vasodilator. peripheral	0.336	COMP578	(0.329 COMP582) (0.324 COMP580) (0.314 COMP576) (0.260 COMP579) (0.244 COMP585) (0.189 COMP581)
+Vesicle monoamine transporter inhibitor	0.045	COMP580	(0.041 COMP576) (0.038 COMP585) (0.036 COMP581)
+Vesicular acetylcholine transporter inhibitor	0.023	COMP576	(0.018 COMP582)
+Xanthine dehydrogenase inhibitor	0.054	COMP577	(0.049 COMP578)
+Xanthine oxidase inhibitor	0.102	COMP578	(0.087 COMP577)
+Xanthine oxidase substrate	0.092	COMP576	(0.088 COMP578) (0.081 COMP581) (0.074 COMP580) (0.073 COMP585)
+mTOR complex 2 inhibitor	0.092	COMP577	(0.086 COMP581) (0.084 COMP578) (0.079 COMP576)

@@ -1,0 +1,26 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.274	COMP3168	
+Anesthetic inhalation	0.051	COMP3168	
+Antibacterial	0.365	COMP3168	
+Antidote. mercury	0.133	COMP3168	
+Antifungal	0.501	COMP3168	
+Antifungal (Cryptococcus)	0.142	COMP3168	
+Antihelmintic	0.167	COMP3168	
+Antihelmintic (Fasciola)	0.245	COMP3168	
+Antimycobacterial	0.292	COMP3168	
+Antineoplastic (bone cancer)	0.276	COMP3168	
+Antineoplastic (lymphoma)	0.190	COMP3168	
+Antineoplastic (non-small cell lung cancer)	0.248	COMP3168	
+Antiparasitic	0.161	COMP3168	
+Antiprotozoal (Amoeba)	0.179	COMP3168	
+Antiprotozoal (Babesia)	0.117	COMP3168	
+Antiprotozoal (Coccidial)	0.195	COMP3168	
+Antiprotozoal (Trichomonas)	0.161	COMP3168	
+Antismoking	0.140	COMP3168	
+Antituberculosic	0.313	COMP3168	
+Antiviral (Papilloma)	0.145	COMP3168	
+Antiviral (Parainfluenza)	0.061	COMP3168	
+Antiviral (Poxvirus)	0.113	COMP3168	
+Apoptosis agonist	0.487	COMP3168	
+Hepatic disorders treatment	0.484	COMP3168	
+Liver fibrosis treatment	0.759	COMP3168	

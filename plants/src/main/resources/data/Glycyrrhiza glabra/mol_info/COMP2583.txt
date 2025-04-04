@@ -1,0 +1,10 @@
+Glycyrrhizinate Dipotassium
+dipotassium;(2S,3S,4S,5R,6R)-6-[(2S,3R,4S,5S,6S)-2-[[(3S,4aR,6aR,6bS,8aS,11S,12aR,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-14-oxo-2,3,4a,5,6,7,8,9,10,12,12a,14a-dodecahydro-1H-picen-3-yl]oxy]-6-carboxylato-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylate
+CHEMBL1923952
+656852
+CHEBI:79402
+C42H62O16.2K
+820.39
+InChI=1S/C42H62O16.2K/c1-37(2)21-8-11-42(7)31(20(43)16-18-19-17-39(4,36(53)54)13-12-38(19,3)14-15-41(18,42)6)40(21,5)10-9-22(37)55-35-30(26(47)25(46)29(57-35)33(51)52)58-34-27(48)23(44)24(45)28(56-34)32(49)50;;/h16,19,21-31,34-35,44-48H,8-15,17H2,1-7H3,(H,49,50)(H,51,52)(H,53,54);;/q;2*+1/p-2/t19-,21-,22-,23-,24-,25-,26-,27+,28-,29-,30+,31+,34-,35-,38+,39-,40-,41+,42+;;/m0../s1
+BIVBRWYINDPWKA-VLQRKCJKSA-L
+O[C@@H]1[C@@H](O[C@@H]2O[C@H](C(=O)[O-])[C@H]([C@@H]([C@H]2O)O)O)[C@H](O[C@@H]([C@H]1O)C(=O)[O-])O[C@H]1CC[C@]2([C@H](C1(C)C)CC[C@@]1([C@@H]2C(=O)C=C2[C@@]1(C)CC[C@@]1([C@H]2C[C@](C)(CC1)C(=O)O)C)C)C.[K+].[K+]

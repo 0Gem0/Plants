@@ -1,0 +1,10 @@
+(2R,6S,8S,9S)-2,9-Dibromo-8-Chloro-1,1,9-Trimethyl-5-Methylenespiro[5.5]Undecane
+(4R,6S,9S,10S)-4,9-dibromo-10-chloro-5,5,9-trimethyl-1-methylidenespiro[5.5]undecane
+CHEMBL521753
+14239683
+None
+C15H23Br2Cl
+395.99
+InChI=1S/C15H23Br2Cl/c1-10-5-6-11(16)13(2,3)15(10)8-7-14(4,17)12(18)9-15/h11-12H,1,5-9H2,2-4H3/t11-,12+,14+,15+/m1/s1
+ZLKDKQRNGQWCDI-DHMWGJHJSA-N
+C=C1CC[C@H](C([C@@]21CC[C@]([C@H](C2)Cl)(C)Br)(C)C)Br

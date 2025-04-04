@@ -1,0 +1,35 @@
+0,609  0,011  UGT1A9 substrate
+0,538  0,006  UGT2B4 substrate
+0,559  0,033  CYP3A4 substrate
+0,457  0,017  UGT1A6 substrate
+0,416  0,014  UGT1A4 substrate
+0,396  0,012  UGT1A3 substrate
+0,379  0,010  UGT2B15 substrate
+0,418  0,053  CYP2C19 inhibitor
+0,359  0,003  UGT2B10 substrate
+0,412  0,059  CYP2C9 substrate
+0,355  0,017  UGT2B7 substrate
+0,356  0,022  UGT1A1 substrate
+0,365  0,047  CYP2C19 substrate
+0,325  0,033  GST M1-1 substrate
+0,320  0,031  UDP-glucuronosyltransferase substrate
+0,348  0,063  FMO1 substrate
+0,323  0,050  CYP1A2 inhibitor
+0,266  0,016  UGT2B9 substrate
+0,291  0,072  CYP1A2 substrate
+0,210  0,004  UGT2B11 substrate
+0,311  0,105  GST A substrate
+0,195  0,019  SULT1A1 substrate
+0,189  0,018  UGT2B1 substrate
+0,217  0,056  CYP2B6 inhibitor
+0,188  0,035  SULT1A3 substrate
+0,162  0,024  Sulfotransferase substrate
+0,148  0,016  SULT1E1 substrate
+0,111  0,005  SULT2A1 substrate
+0,127  0,051  Glutathione S-transferase substrate
+0,119  0,045  GST P1-1 substrate
+0,207  0,136  CYP2D6 substrate
+0,087  0,036  SULT1A2 substrate
+0,105  0,064  GST T1-1 substrate
+0,193  0,179  FMO3 substrate
+

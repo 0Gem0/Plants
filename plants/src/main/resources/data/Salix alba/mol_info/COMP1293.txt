@@ -1,0 +1,10 @@
+1alpha,2alpha-Diacetoxy-6beta,9beta,15-tribenzoyloxy-beta-dihydroagarofuran
+[(1S,2R,4S,5R,6R,7S,9R,12R)-4,5-diacetyloxy-7,12-dibenzoyloxy-2,10,10-trimethyl-11-oxatricyclo[7.2.1.01,6]dodecan-6-yl]methyl benzoate
+CHEMBL373768
+16109789
+None
+C40H42O11
+698.27
+InChI=1S/C40H42O11/c1-24-21-31(47-25(2)41)34(48-26(3)42)39(23-46-35(43)27-15-9-6-10-16-27)32(49-36(44)28-17-11-7-12-18-28)22-30-33(40(24,39)51-38(30,4)5)50-37(45)29-19-13-8-14-20-29/h6-20,24,30-34H,21-23H2,1-5H3/t24-,30-,31+,32+,33-,34+,39-,40-/m1/s1
+KPSZHLRCVCNGHG-NPIRVHPYSA-N
+CC(=O)O[C@H]1C[C@@H](C)[C@@]23[C@]([C@H]1OC(=O)C)(COC(=O)c1ccccc1)[C@@H](OC(=O)c1ccccc1)C[C@H]([C@H]3OC(=O)c1ccccc1)C(O2)(C)C

@@ -1,0 +1,58 @@
+0,671  0,003  Peroxidase inhibitor
+0,535  0,010  Superoxide dismutase inhibitor
+0,525  0,013  CYP1A2 inhibitor
+0,497  0,025  CYP2C9 inhibitor
+0,338  0,007  Cystathionine beta-synthase inhibitor
+0,370  0,042  CYP3A4 inhibitor
+0,326  0,004  Phenylalanine 4-hydroxylase inhibitor
+0,340  0,018  Tyrosine 3 hydroxylase inhibitor
+0,300  0,048  Pyruvate kinase inhibitor
+0,263  0,012  UDP-glucose 4-epimerase inhibitor
+0,264  0,018  Succinate dehydrogenase inhibitor
+0,202  0,012  Alcohol dehydrogenase inhibitor
+0,260  0,075  Aryl hydrocarbon receptor agonist
+0,184  0,009  DOPA decarboxylase inhibitor
+0,205  0,033  Hexokinase inhibitor
+0,173  0,010  Ca2+-transporting ATPase inhibitor
+0,172  0,016  Heat shock protein 70 antagonist
+0,166  0,016  Triose-phosphate isomerase inhibitor
+0,169  0,021  Adenylate kinase inhibitor
+0,149  0,004  Aconitate hydratase inhibitor
+0,157  0,017  Phosphofructokinase-1 inhibitor
+0,166  0,028  5 Hydroxytryptamine 3A agonist
+0,173  0,046  Alkaline phosphatase inhibitor
+0,179  0,062  Phospholipase C inhibitor
+0,121  0,022  Glutamate dehydrogenase inhibitor
+0,215  0,134  CYP2D6 inhibitor
+0,094  0,018  5 Hydroxytryptamine 3 agonist
+0,088  0,014  Beta 1 adrenoreceptor antagonist
+0,092  0,021  Argininosuccinate synthase inhibitor
+0,123  0,054  Topoisomerase I inhibitor
+0,077  0,013  Beta 2 adrenoreceptor antagonist
+0,074  0,010  Glucose-6-phosphate isomerase inhibitor
+0,083  0,021  Acyl-CoA dehydrogenase inhibitor
+0,100  0,039  Catalase inhibitor
+0,092  0,039  Na+ K+ transporting ATPase inhibitor
+0,094  0,043  GABA A receptor agonist
+0,058  0,010  Diamine oxidase inhibitor
+0,047  0,004  Nicotinic alpha4 receptor agonist
+0,147  0,107  ATPase inhibitor
+0,081  0,045  GABA aminotransferase inhibitor
+0,065  0,031  Beta 2 adrenoreceptor agonist
+0,107  0,073  Nav1.5 sodium channel blocker
+0,056  0,024  Adenosine deaminase inhibitor
+0,045  0,016  Fumarate hydratase inhibitor
+0,042  0,018  Phosphoglycerate kinase inhibitor
+0,056  0,032  Alpha-mannosidase inhibitor
+0,057  0,034  Ornithine carbamoyltransferase inhibitor
+0,128  0,105  Phospholipase A2 inhibitor
+0,046  0,025  Histamine H1 receptor agonist
+0,024  0,006  Alpha 2b adrenoreceptor agonist
+0,022  0,008  Alpha 2a adrenoreceptor agonist
+0,025  0,012  GRP78 expression inhibitor
+0,057  0,047  Adenosine A2a receptor antagonist
+0,042  0,032  Histamine H2 receptor agonist
+0,107  0,097  Phosphodiesterase inhibitor
+0,024  0,023  Lysine carboxypeptidase inhibitor
+0,020  0,020  Beta 1 adrenoreceptor agonist
+

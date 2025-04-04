@@ -1,0 +1,170 @@
+0,939  0,003  Antioxidant
+0,922  0,002  Antimutagenic
+0,891  0,007  Apoptosis agonist
+0,858  0,004  Chemoprotective
+0,854  0,004  Cardioprotectant
+0,766  0,002  Antihelmintic (Trematoda)
+0,761  0,021  Antiinflammatory
+0,730  0,008  Prostate cancer treatment
+0,716  0,009  Chemopreventive
+0,716  0,018  Antineoplastic (breast cancer)
+0,708  0,017  Antineoplastic (lung cancer)
+0,690  0,005  Vascular (periferal) disease treatment
+0,697  0,013  Antileukemic
+0,685  0,004  Skin whitener
+0,685  0,004  Antihypertriglyceridemic
+0,690  0,010  Radioprotector
+0,658  0,009  Cytostatic
+0,647  0,009  Proliferative diseases treatment
+0,645  0,010  Antineoplastic (cervical cancer)
+0,633  0,002  Antihemorrhagic
+0,630  0,007  Apoptosis antagonist
+0,615  0,005  Antihypoxic
+0,590  0,007  Antineoplastic (osteosarcoma)
+0,587  0,009  Antiprotozoal (Leishmania)
+0,582  0,007  Vasodilator
+0,583  0,008  Tumour necrosis factor alpha release inhibitor
+0,593  0,024  Antineoplastic (colorectal cancer)
+0,573  0,013  Hepatic disorders treatment
+0,577  0,024  Antineoplastic (colon cancer)
+0,546  0,005  Hepatoprotectant
+0,552  0,013  Antineoplastic (non-small cell lung cancer)
+0,539  0,022  Antipruritic, allergic
+0,532  0,031  Antiparkinsonian
+0,513  0,015  Antiamyloidogenic
+0,517  0,022  Antineoplastic (melanoma)
+0,496  0,004  Gout treatment
+0,499  0,019  Antineoplastic (glioma)
+0,483  0,011  Antihelmintic
+0,499  0,028  Bone diseases treatment
+0,515  0,044  Alzheimer's disease treatment
+0,483  0,017  Antiparasitic
+0,503  0,040  Antibacterial
+0,462  0,008  Antineoplastic (squamous cell carcinoma)
+0,477  0,023  Antiosteoporotic
+0,459  0,009  Antiseptic
+0,468  0,032  Antineoplastic (ovarian cancer)
+0,442  0,009  Non-steroidal antiinflammatory agent
+0,444  0,013  Antineoplastic (small cell lung cancer)
+0,447  0,024  Vasodilator, coronary
+0,438  0,015  Myocardial infarction treatment
+0,450  0,028  Antineoplastic (pancreatic cancer)
+0,437  0,022  Antineoplastic (glioblastoma multiforme)
+0,456  0,048  Antiprotozoal
+0,464  0,062  Antidiabetic
+0,409  0,009  Antiviral (Influenza)
+0,404  0,008  Antidote
+0,396  0,004  Gastritis treatment
+0,412  0,021  Antineoplastic (liver cancer)
+0,413  0,025  Antiprotozoal (Trypanosoma)
+0,410  0,025  Radiosensitizer
+0,419  0,040  Antihypercholesterolemic
+0,398  0,022  Angiogenesis stimulant
+0,408  0,038  Spasmolytic
+0,390  0,025  Antimitotic
+0,366  0,004  Uric acid excretion stimulant
+0,369  0,015  Antihypotensive
+0,361  0,015  Antineoplastic (carcinoma)
+0,396  0,050  Antithrombotic
+0,395  0,065  Immunosuppressant
+0,390  0,060  Stroke treatment
+0,353  0,024  Antineoplastic (sarcoma)
+0,360  0,033  Antineoplastic (renal cancer)
+0,377  0,052  Antifungal
+0,350  0,027  Antineoplastic enhancer
+0,336  0,013  Hemostatic
+0,331  0,014  Antineoplastic (gastric cancer)
+0,331  0,034  Antineoplastic (lymphocytic leukemia)
+0,362  0,066  Antiprotozoal (Plasmodium)
+0,341  0,055  Antineoplastic (brain cancer)
+0,322  0,036  Antiulcerative
+0,328  0,043  Cardiovascular analeptic
+0,312  0,029  Antiviral (HIV)
+0,292  0,017  Antiviral (Influenza A)
+0,291  0,018  Bone formation stimulant
+0,332  0,062  Antiischemic
+0,313  0,047  Antidiabetic symptomatic
+0,310  0,048  Antineoplastic (lymphoma)
+0,317  0,056  Antineoplastic (multiple myeloma)
+0,306  0,054  Antipyretic
+0,295  0,046  Antineoplastic (bladder cancer)
+0,322  0,079  Antiallergic
+0,243  0,022  Antineoplastic (bone cancer)
+0,254  0,032  Insulin sensitizer
+0,289  0,082  Analeptic
+0,224  0,020  DNA intercalator
+0,235  0,041  Antipruritic, non-allergic
+0,232  0,039  Antiviral (Hepatitis)
+0,226  0,038  Antiviral (Herpes)
+0,203  0,020  Antineoplastic antibiotic
+0,271  0,091  Respiratory analeptic
+0,189  0,013  Antiviral (Influenza B)
+0,299  0,123  Atherosclerosis treatment
+0,233  0,058  Antialcoholic
+0,177  0,008  T cell inhibitor
+0,206  0,038  Antiviral (Hepatitis C)
+0,180  0,016  Antineoplastic (uterine cancer)
+0,197  0,043  Antirickettsial
+0,163  0,024  Photosensitizer
+0,151  0,012  Postmenopausal disorders treatment
+0,167  0,029  Expectorant
+0,237  0,101  Immunostimulant
+0,188  0,058  Liver fibrosis treatment
+0,134  0,009  Antidote, heavy metal
+0,146  0,024  Antifungal (Pneumocystis)
+0,180  0,059  Phobic disorders treatment
+0,224  0,106  Huntington's disease treatment
+0,152  0,038  Retinopathy treatment
+0,146  0,033  Anticataract
+0,171  0,057  Hair growth stimulant
+0,162  0,050  Antifungal enhancer
+0,154  0,042  Antitussive
+0,123  0,020  Keratolytic
+0,138  0,036  Antihelmintic (Fasciola)
+0,145  0,044  Coagulant
+0,140  0,039  Choleretic
+0,127  0,029  Actinic keratosis treatment
+0,135  0,039  HDL-cholesterol increasing
+0,126  0,034  Anabolic
+0,129  0,037  Dementia treatment
+0,119  0,029  Antidote, mercury
+0,124  0,036  Vascular dementia treatment
+0,095  0,007  Postcoital contraceptive
+0,108  0,022  Leukotriene synthesis inhibitor
+0,145  0,061  Psychosexual dysfunction treatment
+0,127  0,048  Mucolytic
+0,113  0,034  Antiviral (Rhinovirus)
+0,149  0,073  Acaricide
+0,149  0,073  Antidiarrheal
+0,136  0,062  Retinoprotector
+0,130  0,055  Contraceptive female
+0,131  0,056  Cholesterol synthesis inhibitor
+0,130  0,067  Antihyperlipoproteinemic
+0,218  0,156  Vasodilator, peripheral
+0,140  0,080  Antianemic
+0,092  0,032  Narcotic antagonist
+0,190  0,140  Amyotrophic lateral sclerosis treatment
+0,187  0,139  Antituberculosic
+0,133  0,087  Antiprotozoal (Coccidial)
+0,187  0,144  DNA synthesis inhibitor
+0,122  0,083  Contraceptive
+0,195  0,155  Antimycobacterial
+0,130  0,091  Skeletal muscle relaxant
+0,114  0,077  Antiviral (Hepatitis B)
+0,093  0,057  Restless leg syndrome treatment
+0,081  0,046  Antibiotic
+0,120  0,087  Antiprotozoal (Trichomonas)
+0,135  0,104  Muscle relaxant
+0,080  0,050  Antidote, organophosphates
+0,090  0,062  Antiviral (Hepatitis A)
+0,123  0,101  Diuretic
+0,111  0,095  Antiviral (Papilloma)
+0,074  0,060  Antitreponemal
+0,120  0,110  Thrombolytic
+0,249  0,242  Antineoplastic (solid tumors)
+0,056  0,055  Antimycoplasmal
+0,104  0,103  Antiprotozoal (Amoeba)
+0,148  0,147  Platelet antagonist
+0,039  0,038  Cholesterol absorption inhibitor
+0,088  0,088  Antiprotozoal (Toxoplasma)
+

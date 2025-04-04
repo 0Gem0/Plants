@@ -1,0 +1,218 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.177	COMP463	(0.152 COMP461)
+Actinic keratosis treatment	0.177	COMP462	(0.142 COMP463) (0.095 COMP461)
+Acute respiratory distress syndrome (ARDS) treatment	0.349	COMP461	(0.233 COMP463) (0.133 COMP462)
+Alzheimer's disease treatment	0.423	COMP461	(0.418 COMP462) (0.388 COMP463)
+Anabolic	0.155	COMP463	(0.097 COMP462)
+Analeptic	0.776	COMP461	(0.328 COMP462) (0.323 COMP463)
+Andropause treatment	0.068	COMP461	
+Anesthetic	0.207	COMP463	
+Anesthetic general	0.393	COMP461	(0.325 COMP463)
+Angiogenesis inhibitor	0.197	COMP461	
+Angiogenesis stimulant	0.735	COMP461	(0.546 COMP462) (0.331 COMP463)
+Antiacne	0.298	COMP463	(0.164 COMP461)
+Antialcoholic	0.456	COMP462	(0.189 COMP461)
+Antiallergic	0.258	COMP461	
+Antiamyloidogenic	0.621	COMP462	(0.560 COMP461) (0.552 COMP463)
+Antiarthritic	0.472	COMP461	(0.333 COMP463)
+Antibacterial	0.731	COMP461	(0.644 COMP462) (0.639 COMP463)
+Antibiotic	0.249	COMP461	(0.203 COMP463) (0.175 COMP462)
+Antibiotic Aminoglycoside-like	0.101	COMP461	(0.065 COMP462) (0.044 COMP463)
+Antibiotic Anthracycline-like	0.024	COMP461	(0.023 COMP463) (0.019 COMP462)
+Antibiotic Glycopeptide-like	0.208	COMP461	(0.151 COMP462)
+Antibiotic Macrolide-like	0.019	COMP461	
+Anticataract	0.298	COMP463	(0.155 COMP461)
+Anticholelithogenic	0.180	COMP463	(0.176 COMP462)
+Anticoagulant	0.159	COMP461	
+Antidiabetic	0.917	COMP462	(0.826 COMP461) (0.720 COMP463)
+Antidiabetic (type 1)	0.448	COMP462	(0.242 COMP461)
+Antidiabetic (type 2)	0.613	COMP462	(0.429 COMP461) (0.351 COMP463)
+Antidiabetic symptomatic	0.514	COMP462	(0.396 COMP461) (0.257 COMP463)
+Antidiarrheal	0.254	COMP461	(0.204 COMP463) (0.159 COMP462)
+Antidote	0.456	COMP462	(0.394 COMP461) (0.393 COMP463)
+Antidote. heavy metal	0.102	COMP462	(0.058 COMP461)
+Antieczematic	0.216	COMP463	
+Antifungal	0.566	COMP461	(0.553 COMP463) (0.488 COMP462)
+Antifungal (Cryptococcus)	0.226	COMP461	(0.147 COMP463) (0.124 COMP462)
+Antifungal (Pneumocystis)	0.116	COMP463	(0.110 COMP461)
+Antifungal enhancer	0.508	COMP461	(0.336 COMP462) (0.273 COMP463)
+Antihelmintic	0.679	COMP461	(0.632 COMP462) (0.337 COMP463)
+Antihelmintic (Nematodes)	0.364	COMP461	(0.306 COMP462/COMP463)
+Antihelmintic (Trematoda)	0.216	COMP462	(0.215 COMP461)
+Antihemorrhagic	0.612	COMP461	(0.598 COMP462) (0.187 COMP463)
+Antihypercholesterolemic	0.921	COMP461	(0.803 COMP462) (0.609 COMP463)
+Antihyperlipoproteinemic	0.165	COMP463	(0.114 COMP461)
+Antihypertriglyceridemic	0.656	COMP462	(0.611 COMP463) (0.563 COMP461)
+Antihypotensive	0.728	COMP462	(0.470 COMP461) (0.266 COMP463)
+Antihypoxic	0.857	COMP461	(0.790 COMP462) (0.574 COMP463)
+Antiinflammatory	0.844	COMP461	(0.802 COMP463) (0.745 COMP462)
+Antiischemic	0.493	COMP462	(0.382 COMP461) (0.186 COMP463)
+Antileukemic	0.751	COMP462	(0.591 COMP461) (0.506 COMP463)
+Antimitotic	0.222	COMP463	
+Antimutagenic	0.972	COMP462	(0.967 COMP461/COMP463)
+Antimycobacterial	0.368	COMP461	(0.353 COMP463) (0.278 COMP462)
+Antimycoplasmal	0.169	COMP461	(0.120 COMP463) (0.092 COMP462)
+Antineoplastic (bladder cancer)	0.307	COMP462	(0.237 COMP463) (0.235 COMP461)
+Antineoplastic (bone cancer)	0.256	COMP463	(0.161 COMP461) (0.156 COMP462)
+Antineoplastic (brain cancer)	0.454	COMP463	(0.433 COMP462) (0.417 COMP461)
+Antineoplastic (breast cancer)	0.657	COMP463	(0.614 COMP462) (0.591 COMP461)
+Antineoplastic (carcinoma)	0.328	COMP462	(0.267 COMP461) (0.135 COMP463)
+Antineoplastic (cervical cancer)	0.554	COMP462	(0.473 COMP461) (0.408 COMP463)
+Antineoplastic (colon cancer)	0.548	COMP462	(0.459 COMP461) (0.350 COMP463)
+Antineoplastic (colorectal cancer)	0.576	COMP462	(0.497 COMP461) (0.451 COMP463)
+Antineoplastic (endocrine cancer)	0.463	COMP463	(0.315 COMP461) (0.285 COMP462)
+Antineoplastic (gastric cancer)	0.385	COMP462	(0.219 COMP461) (0.148 COMP463)
+Antineoplastic (glioblastoma multiforme)	0.478	COMP462	(0.290 COMP461) (0.282 COMP463)
+Antineoplastic (glioma)	0.511	COMP462	(0.344 COMP461) (0.320 COMP463)
+Antineoplastic (liver cancer)	0.439	COMP461	(0.388 COMP463) (0.371 COMP462)
+Antineoplastic (lung cancer)	0.548	COMP463	(0.531 COMP461) (0.484 COMP462)
+Antineoplastic (lymphocytic leukemia)	0.355	COMP462	(0.259 COMP461) (0.235 COMP463)
+Antineoplastic (lymphoma)	0.511	COMP461	(0.488 COMP462) (0.415 COMP463)
+Antineoplastic (melanoma)	0.409	COMP461	(0.370 COMP463) (0.343 COMP462)
+Antineoplastic (multiple myeloma)	0.386	COMP463	(0.311 COMP461) (0.199 COMP462)
+Antineoplastic (myeloid leukemia)	0.271	COMP463	(0.227 COMP462)
+Antineoplastic (non-Hodgkin's lymphoma)	0.245	COMP461	(0.221 COMP462)
+Antineoplastic (non-small cell lung cancer)	0.366	COMP463	(0.303 COMP461) (0.288 COMP462)
+Antineoplastic (osteosarcoma)	0.592	COMP462	(0.521 COMP461) (0.422 COMP463)
+Antineoplastic (ovarian cancer)	0.497	COMP463	(0.480 COMP461) (0.413 COMP462)
+Antineoplastic (pancreatic cancer)	0.528	COMP461	(0.495 COMP462) (0.352 COMP463)
+Antineoplastic (renal cancer)	0.363	COMP463	(0.344 COMP461) (0.286 COMP462)
+Antineoplastic (sarcoma)	0.502	COMP461	(0.361 COMP463) (0.341 COMP462)
+Antineoplastic (small cell lung cancer)	0.360	COMP463	(0.323 COMP462) (0.316 COMP461)
+Antineoplastic (solid tumors)	0.452	COMP463	(0.374 COMP462) (0.317 COMP461)
+Antineoplastic (squamous cell carcinoma)	0.378	COMP462	(0.358 COMP461) (0.212 COMP463)
+Antineoplastic (uterine cancer)	0.159	COMP462/COMP463	(0.128 COMP461)
+Antineoplastic alkaloid	0.125	COMP463	
+Antineoplastic antibiotic	0.322	COMP461	(0.307 COMP463) (0.271 COMP462)
+Antineoplastic antimetabolite	0.185	COMP462	(0.110 COMP461) (0.105 COMP463)
+Antineoplastic enhancer	0.408	COMP462	(0.346 COMP461) (0.177 COMP463)
+Antineoplastic. alkylator	0.329	COMP461	(0.123 COMP462) (0.115 COMP463)
+Antinephritic	0.189	COMP463	(0.140 COMP461)
+Antiobesity	0.321	COMP462	
+Antiosteoporotic	0.423	COMP462	(0.311 COMP463) (0.292 COMP461)
+Antioxidant	0.876	COMP462	(0.872 COMP461) (0.837 COMP463)
+Antiparasitic	0.700	COMP461	(0.654 COMP462) (0.371 COMP463)
+Antiparkinsonian	0.298	COMP461	
+Antiprotozoal	0.317	COMP462	(0.285 COMP461)
+Antiprotozoal (Amoeba)	0.106	COMP461	
+Antiprotozoal (Coccidial)	0.359	COMP462	(0.259 COMP461) (0.149 COMP463)
+Antiprotozoal (Leishmania)	0.598	COMP462	(0.461 COMP461) (0.283 COMP463)
+Antiprotozoal (Trypanosoma)	0.367	COMP462	
+Antiprotozoal activity enhancer	0.197	COMP463	
+Antipruritic. allergic	0.660	COMP463	(0.618 COMP461) (0.488 COMP462)
+Antipruritic. non-allergic	0.406	COMP463	(0.372 COMP461) (0.215 COMP462)
+Antipsoriatic	0.185	COMP463	
+Antipyretic	0.847	COMP463	(0.712 COMP461) (0.680 COMP462)
+Antirickettsial	0.286	COMP463	(0.230 COMP461) (0.182 COMP462)
+Antiseptic	0.200	COMP463	(0.112 COMP461) (0.096 COMP462)
+Antispirochetal	0.282	COMP463	(0.261 COMP461) (0.099 COMP462)
+Antithrombotic	0.699	COMP461	(0.472 COMP463) (0.392 COMP462)
+Antitreponemal	0.095	COMP461	(0.091 COMP463) (0.090 COMP462)
+Antituberculosic	0.213	COMP461	(0.204 COMP463)
+Antitussive	0.436	COMP462	(0.298 COMP461)
+Antiulcerative	0.405	COMP463	(0.272 COMP461) (0.212 COMP462)
+Antiviral (HIV)	0.324	COMP463	(0.272 COMP461) (0.178 COMP462)
+Antiviral (Hepatitis A)	0.094	COMP462	
+Antiviral (Hepatitis B)	0.264	COMP463	(0.211 COMP461) (0.206 COMP462)
+Antiviral (Hepatitis C)	0.246	COMP462	(0.129 COMP463)
+Antiviral (Hepatitis)	0.340	COMP462	(0.282 COMP463) (0.200 COMP461)
+Antiviral (Herpes)	0.438	COMP462	(0.431 COMP461) (0.178 COMP463)
+Antiviral (Herpesvirus 3. Human)	0.073	COMP461	
+Antiviral (Influenza A)	0.386	COMP461	(0.369 COMP462) (0.348 COMP463)
+Antiviral (Influenza B)	0.422	COMP462	(0.385 COMP461) (0.152 COMP463)
+Antiviral (Influenza)	0.455	COMP461	(0.425 COMP462) (0.422 COMP463)
+Antiviral (Parainfluenza)	0.138	COMP463	
+Antiviral (Poxvirus)	0.136	COMP462	
+Antiviral (RSV)	0.103	COMP463	
+Antiviral (Rhinovirus)	0.116	COMP463	(0.100 COMP461)
+Antiviral (Trachoma)	0.097	COMP461/COMP463	
+Apoptosis agonist	0.815	COMP462	(0.791 COMP461) (0.761 COMP463)
+Apoptosis antagonist	0.682	COMP462	(0.671 COMP461) (0.551 COMP463)
+Atherosclerosis treatment	0.269	COMP461	
+Bone diseases treatment	0.429	COMP462	(0.334 COMP463) (0.303 COMP461)
+Bronchodilator	0.095	COMP461	
+Cardioprotectant	0.853	COMP462	(0.810 COMP461) (0.674 COMP463)
+Cardiotonic	0.188	COMP461	
+Cardiovascular analeptic	0.171	COMP463	(0.161 COMP461)
+Cell adhesion inhibitor	0.191	COMP461	(0.119 COMP462)
+Cell wall synthesis inhibitor	0.282	COMP461	(0.187 COMP463) (0.179 COMP462)
+Chemopreventive	0.895	COMP461	(0.855 COMP462) (0.838 COMP463)
+Chemoprotective	0.954	COMP461/COMP463	(0.931 COMP462)
+Choleretic	0.496	COMP463	(0.391 COMP461) (0.155 COMP462)
+Cholesterol absorption inhibitor	0.136	COMP461	(0.131 COMP462) (0.099 COMP463)
+Cholesterol synthesis inhibitor	0.360	COMP463	(0.167 COMP462) (0.149 COMP461)
+Constipation treatment	0.138	COMP462	(0.124 COMP461)
+Contraceptive	0.156	COMP461	(0.113 COMP463)
+Contraceptive female	0.128	COMP461	(0.114 COMP463)
+Corneal wound healing stimulator	0.122	COMP463	
+Cytostatic	0.895	COMP462	(0.822 COMP461) (0.491 COMP463)
+DNA intercalator	0.238	COMP461	(0.181 COMP462) (0.149 COMP463)
+DNA synthesis inhibitor	0.524	COMP461	(0.470 COMP462) (0.393 COMP463)
+Dementia treatment	0.300	COMP461	(0.133 COMP462) (0.119 COMP463)
+Diabetic nephropathy treatment	0.358	COMP462	(0.267 COMP461) (0.197 COMP463)
+Diabetic retinopathy treatment	0.392	COMP462	
+Diuretic	0.207	COMP461	
+Expectorant	0.476	COMP461	(0.406 COMP463) (0.238 COMP462)
+Gastritis treatment	0.303	COMP462	(0.185 COMP461) (0.184 COMP463)
+Gaucher disease treatment	0.069	COMP461	
+Gout treatment	0.316	COMP463	(0.267 COMP462) (0.207 COMP461)
+Growth stimulant	0.180	COMP463	(0.143 COMP461) (0.142 COMP462)
+HDL-cholesterol increasing	0.144	COMP462	(0.131 COMP463) (0.112 COMP461)
+Hair growth stimulant	0.283	COMP461	(0.182 COMP463)
+Hemostatic	0.406	COMP461	(0.185 COMP462)
+Hepatic disorders treatment	0.687	COMP462	(0.639 COMP461) (0.585 COMP463)
+Hepatoprotectant	0.645	COMP461	(0.613 COMP462) (0.459 COMP463)
+Hypercalcemia treatment	0.075	COMP463	
+Hypogonadism treatment	0.049	COMP461	
+Hypolipemic	0.510	COMP463	(0.283 COMP462) (0.250 COMP461)
+Immunomodulator	0.422	COMP461	(0.255 COMP462)
+Immunostimulant	0.574	COMP461	(0.481 COMP462) (0.418 COMP463)
+Immunosuppressant	0.635	COMP463	(0.558 COMP461) (0.432 COMP462)
+Insulin sensitizer	0.274	COMP462	(0.254 COMP463) (0.209 COMP461)
+Keratolytic	0.250	COMP463	
+Lipoprotein disorders treatment	0.576	COMP463	(0.439 COMP462) (0.367 COMP461)
+Liver fibrosis treatment	0.276	COMP462	(0.154 COMP461)
+Metabolic disease treatment	0.398	COMP462	(0.297 COMP461)
+Mucolytic	0.226	COMP461	(0.178 COMP463) (0.145 COMP462)
+Muscle relaxant	0.322	COMP461	
+Muscular dystrophy treatment	0.197	COMP461	
+Myocardial infarction treatment	0.419	COMP461	(0.347 COMP462) (0.346 COMP463)
+Myocardial ischemia treatment	0.180	COMP462	
+Narcotic antagonist	0.086	COMP461	
+Neuropathy treatment	0.145	COMP461	
+Neutropenia treatment	0.102	COMP461	
+Non-steroidal antiinflammatory agent	0.560	COMP461	(0.165 COMP462)
+Paget's disease treatment	0.082	COMP463	
+Phobic disorders treatment	0.161	COMP463	
+Photosensitizer	0.589	COMP461	(0.167 COMP462)
+Platelet antagonist	0.291	COMP461	(0.275 COMP462) (0.194 COMP463)
+Postcoital contraceptive	0.078	COMP461	(0.059 COMP462) (0.054 COMP463)
+Postmenopausal disorders treatment	0.144	COMP461	(0.121 COMP462) (0.054 COMP463)
+Proliferative diseases treatment	0.852	COMP461	(0.798 COMP463) (0.745 COMP462)
+Prostate cancer treatment	0.482	COMP462	(0.447 COMP461) (0.416 COMP463)
+Psychosexual dysfunction treatment	0.307	COMP461	(0.264 COMP462)
+Psychostimulant	0.168	COMP461	
+Radioprotector	0.864	COMP462	(0.860 COMP461) (0.682 COMP463)
+Radiosensitizer	0.539	COMP461	(0.405 COMP462) (0.377 COMP463)
+Renal failure treatment	0.146	COMP461	
+Respiratory analeptic	0.843	COMP461	(0.388 COMP462) (0.378 COMP463)
+Restenosis treatment	0.184	COMP461	
+Restless leg syndrome treatment	0.225	COMP461	
+Retinoprotector	0.195	COMP461	
+Sepsis treatment	0.273	COMP461	
+Septic shock treatment	0.561	COMP461	(0.224 COMP463) (0.151 COMP462)
+Skeletal muscle relaxant	0.144	COMP461	
+Skin whitener	0.723	COMP463	(0.640 COMP462) (0.637 COMP461)
+Spasmolytic	0.655	COMP461	(0.447 COMP462) (0.177 COMP463)
+Stroke treatment	0.439	COMP462	(0.433 COMP461) (0.352 COMP463)
+T cell inhibitor	0.094	COMP461	(0.083 COMP462) (0.079 COMP463)
+Thrombolytic	0.324	COMP461	(0.202 COMP462) (0.152 COMP463)
+Tumour necrosis factor alpha release inhibitor	0.689	COMP461	(0.546 COMP462) (0.198 COMP463)
+Uric acid excretion stimulant	0.307	COMP462	(0.135 COMP461) (0.087 COMP463)
+Uterine stimulant	0.166	COMP463	
+Vascular (periferal) disease treatment	0.697	COMP462	(0.608 COMP461) (0.238 COMP463)
+Vascular dementia treatment	0.298	COMP461	(0.128 COMP462) (0.115 COMP463)
+Vasodilator	0.556	COMP462	(0.533 COMP461) (0.233 COMP463)
+Vasodilator. coronary	0.882	COMP462	(0.824 COMP461) (0.374 COMP463)
+Vasodilator. peripheral	0.421	COMP461	(0.342 COMP463) (0.213 COMP462)
+Wound healing agent	0.294	COMP461	(0.166 COMP463)

@@ -1,0 +1,10 @@
+[(1R,3S,4S,6R,7S,8R)-3-(Chloromethyl)-6-hydroxy-8-methoxy-10-methylidene-2,9-dioxatricyclo[4.3.1.03,7]decan-4-yl] acetate
+[(1R,3S,4S,6R,7S,8R)-3-(chloromethyl)-6-hydroxy-8-methoxy-10-methylidene-2,9-dioxatricyclo[4.3.1.03,7]decan-4-yl] acetate
+CHEMBL1270552
+49831714
+None
+C13H17ClO6
+304.07
+InChI=1S/C13H17ClO6/c1-6-10-19-11(17-3)9-12(6,16)4-8(18-7(2)15)13(9,5-14)20-10/h8-11,16H,1,4-5H2,2-3H3/t8-,9-,10-,11+,12-,13+/m0/s1
+ASVGPKHKCRLGBZ-LVTVNPDKSA-N
+CO[C@@H]1O[C@H]2O[C@]3([C@@H]1[C@](C2=C)(O)C[C@@H]3OC(=O)C)CCl

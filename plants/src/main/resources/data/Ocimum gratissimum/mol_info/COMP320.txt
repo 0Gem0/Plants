@@ -1,0 +1,10 @@
+Betunolic Acid
+(1R,3aS,5aR,5bR,7aR,11aR,11bR,13aR,13bR)-5a,5b,8,8,11a-pentamethyl-9-oxo-1-prop-1-en-2-yl-2,3,4,5,6,7,7a,10,11,11b,12,13,13a,13b-tetradecahydro-1H-cyclopenta[a]chrysene-3a-carboxylic acid
+CHEMBL431525
+122844
+None
+C30H46O3
+454.34
+InChI=1S/C30H46O3/c1-18(2)19-10-15-30(25(32)33)17-16-28(6)20(24(19)30)8-9-22-27(5)13-12-23(31)26(3,4)21(27)11-14-29(22,28)7/h19-22,24H,1,8-17H2,2-7H3,(H,32,33)/t19-,20+,21-,22+,24+,27-,28+,29+,30-/m0/s1
+SLJTWDNVZKIDAU-SVAFSPIFSA-N
+CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]1CC[C@H]3[C@@]([C@]1(C)CC2)(C)CC[C@@H]1[C@]3(C)CCC(=O)C1(C)C)C(=O)O

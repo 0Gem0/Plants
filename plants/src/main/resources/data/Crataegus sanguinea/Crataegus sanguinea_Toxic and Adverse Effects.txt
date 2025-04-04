@@ -1,0 +1,15 @@
+Name	Activation_Prob	Compound	Another_Probs
+Abortion inducer	0.323	COMP464	(0.312 COMP465)
+Carcinogenic	0.981	COMP465	(0.865 COMP464)
+Carcinogenic. group 3	0.623	COMP464	(0.508 COMP465)
+Cytotoxic	0.783	COMP465	(0.681 COMP464)
+Embryotoxic	0.955	COMP465	(0.824 COMP464)
+Eye irritation. high	0.142	COMP464	
+Genotoxic	0.143	COMP464	(0.117 COMP465)
+Hypoglycemic	0.194	COMP465	
+Mutagenic	0.987	COMP465	(0.946 COMP464)
+Pneumotoxic	0.250	COMP464	(0.160 COMP465)
+Sensitization	0.612	COMP464	(0.439 COMP465)
+Skin irritative effect	0.915	COMP465	(0.672 COMP464)
+Teratogen	0.953	COMP465	(0.838 COMP464)
+Toxic. respiratory center	0.294	COMP465	(0.153 COMP464)

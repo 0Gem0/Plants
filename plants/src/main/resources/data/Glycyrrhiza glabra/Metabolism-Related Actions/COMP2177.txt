@@ -1,0 +1,43 @@
+0,901  0,004  CYP1A2 substrate
+0,875  0,004  CYP1A2 inhibitor
+0,799  0,007  CYP2C9 substrate
+0,762  0,003  UGT1A3 substrate
+0,721  0,006  CYP2C19 substrate
+0,719  0,004  UGT1A1 substrate
+0,661  0,005  CYP2C19 inhibitor
+0,661  0,009  UGT1A9 substrate
+0,616  0,012  CYP2D6 substrate
+0,627  0,026  CYP3A4 substrate
+0,608  0,010  CYP2C9 inhibitor
+0,541  0,005  Sulfotransferase substrate
+0,530  0,010  UDP-glucuronosyltransferase substrate
+0,500  0,004  CYP2B6 inhibitor
+0,491  0,012  UGT2B4 substrate
+0,482  0,005  UGT2B15 substrate
+0,486  0,014  UGT1A6 substrate
+0,398  0,012  GST M1-1 substrate
+0,413  0,029  CYP3A4 inhibitor
+0,371  0,002  SULT1E1 substrate
+0,396  0,069  GST A substrate
+0,338  0,024  UGT1A4 substrate
+0,302  0,026  UGT2B7 substrate
+0,331  0,071  FMO1 substrate
+0,273  0,015  UGT2B9 substrate
+0,233  0,019  UGT2B10 substrate
+0,218  0,015  SULT1A1 substrate
+0,220  0,023  SULT1A3 substrate
+0,179  0,010  CYP2A6 inhibitor
+0,197  0,034  Aldose reductase substrate
+0,176  0,032  Glutathione S-transferase substrate
+0,153  0,027  UGT2B1 substrate
+0,140  0,020  UGT2B11 substrate
+0,150  0,035  GST P1-1 substrate
+0,137  0,037  Aldehyde dehydrogenase substrate
+0,223  0,131  FMO3 substrate
+0,214  0,135  CYP2D6 inhibitor
+0,098  0,026  SULT1A2 substrate
+0,116  0,072  Alcohol dehydrogenase substrate
+0,086  0,050  Arylamine N-Acetyltransferase substrate
+0,071  0,041  SULT2A1 substrate
+0,177  0,173  Flavin-containing monooxygenase substrate
+

@@ -1,0 +1,10 @@
+2beta,6beta,16alpha,17-Tetrahydroxy-entkaurane
+(1R,3R,4R,7R,9S,10R,13R,14R)-14-(hydroxymethyl)-5,5,9-trimethyltetracyclo[11.2.1.01,10.04,9]hexadecane-3,7,14-triol
+CHEMBL257595
+24800717
+None
+C20H34O4
+338.25
+InChI=1S/C20H34O4/c1-17(2)7-13(22)8-18(3)15-5-4-12-6-19(15,9-14(23)16(17)18)10-20(12,24)11-21/h12-16,21-24H,4-11H2,1-3H3/t12-,13-,14-,15+,16-,18+,19-,20+/m1/s1
+KNCLQQIOJPEOIX-NHIWDXHTSA-N
+OC[C@@]1(O)C[C@@]23C[C@H]1CC[C@H]3[C@]1([C@H]([C@@H](C2)O)C(C)(C)C[C@H](C1)O)C

@@ -1,0 +1,982 @@
+Name	Activation_Prob	Compound	Another_Probs
+1-Alkyl-2-acetylglycerophosphocholine esterase inhibitor	0.045	COMP994	
+1-Deoxy-D-xylulose-5-phosphate reductoisomerase inhibitor	0.018	COMP2318/COMP994	
+1.3-Beta-glucan synthase inhibitor	0.033	COMP2313/COMP2314	(0.031 COMP1562) (0.030 COMP891)
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.065	COMP2313	(0.057 COMP2314) (0.027 COMP2318)
+12-Lipoxygenase inhibitor	0.807	COMP2319	(0.284 COMP2318) (0.280 COMP1757) (0.204 COMP994)
+15-Lipoxygenase inhibitor	0.704	COMP2319	(0.351 COMP1757) (0.326 COMP2318) (0.257 COMP994)
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.116	COMP2318	(0.069 COMP994)
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.080	COMP994	(0.058 COMP2318)
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.186	COMP2319	(0.176 COMP1562) (0.112 COMP891) (0.095 COMP994) (0.063 COMP2318)
+3C-like protease (Human coronavirus) inhibitor	0.245	COMP994	(0.242 COMP2318) (0.134 COMP2319)
+5 Hydroxytryptamine 1 agonist	0.043	COMP1757	
+5 Hydroxytryptamine 1 antagonist	0.195	COMP1757	(0.063 COMP2318)
+5 Hydroxytryptamine 1A agonist	0.091	COMP1757	
+5 Hydroxytryptamine 1A antagonist	0.243	COMP1757	
+5 Hydroxytryptamine 1B antagonist	0.074	COMP2318	
+5 Hydroxytryptamine 1D agonist	0.030	COMP2318	
+5 Hydroxytryptamine 1D antagonist	0.062	COMP2318	
+5 Hydroxytryptamine 1E antagonist	0.340	COMP1757	(0.282 COMP2318) (0.198 COMP994) (0.177 COMP2319)
+5 Hydroxytryptamine 1F antagonist	0.116	COMP2318	(0.103 COMP1757)
+5 Hydroxytryptamine 2 agonist	0.066	COMP2318	(0.059 COMP1757)
+5 Hydroxytryptamine 2 antagonist	0.236	COMP1757	(0.112 COMP2318)
+5 Hydroxytryptamine 2A agonist	0.079	COMP1757	(0.074 COMP2318)
+5 Hydroxytryptamine 2A antagonist	0.187	COMP1757	(0.081 COMP2318)
+5 Hydroxytryptamine 2B agonist	0.049	COMP2318	(0.040 COMP1757)
+5 Hydroxytryptamine 2B antagonist	0.242	COMP1757	(0.134 COMP2318)
+5 Hydroxytryptamine 2C agonist	0.044	COMP1757	
+5 Hydroxytryptamine 2C antagonist	0.160	COMP1757	(0.087 COMP2318)
+5 Hydroxytryptamine 3 agonist	0.099	COMP2318	
+5 Hydroxytryptamine 3 antagonist	0.062	COMP2318	
+5 Hydroxytryptamine 3A agonist	0.218	COMP2318	(0.107 COMP994)
+5 Hydroxytryptamine 3B antagonist	0.053	COMP2318	
+5 Hydroxytryptamine 3E antagonist	0.287	COMP2318	(0.217 COMP994)
+5 Hydroxytryptamine 4 antagonist	0.049	COMP2318	(0.047 COMP1757)
+5 Hydroxytryptamine 5 antagonist	0.063	COMP1757	(0.061 COMP2318)
+5 Hydroxytryptamine 5A antagonist	0.071	COMP1757	(0.067 COMP2318)
+5 Hydroxytryptamine 6 agonist	0.033	COMP2318	
+5 Hydroxytryptamine 6 antagonist	0.057	COMP2318	
+5 Hydroxytryptamine 7 agonist	0.081	COMP1757	(0.076 COMP2318)
+5 Hydroxytryptamine 7 antagonist	0.235	COMP2318	(0.109 COMP1757)
+5 Hydroxytryptamine agonist	0.094	COMP1757	
+5 Hydroxytryptamine antagonist	0.204	COMP1757	(0.095 COMP2318)
+5 Hydroxytryptamine release inhibitor	0.632	COMP1757	(0.595 COMP2318) (0.568 COMP2319) (0.547 COMP994) (0.317 COMP1562)
+5 Hydroxytryptamine release stimulant	0.875	COMP2313	(0.862 COMP2314) (0.849 COMP1757) (0.586 COMP1562) (0.552 COMP2318) (0.499 COMP994) (0.356 COMP2319)
+5 Hydroxytryptamine uptake inhibitor	0.080	COMP1757	
+5 Hydroxytryptamine uptake stimulant	0.437	COMP994	(0.421 COMP2318) (0.395 COMP2319) (0.304 COMP1757) (0.217 COMP891)
+5-Alpha-reductase 1 inhibitor	0.016	COMP994	
+5-Alpha-reductase 2 inhibitor	0.034	COMP994	
+5-Alpha-reductase inhibitor	0.060	COMP994	(0.037 COMP2318/COMP891)
+5-Lipoxygenase inhibitor	0.359	COMP2319	(0.183 COMP994) (0.171 COMP2318) (0.093 COMP891)
+ABCA1 expression enhancer	0.509	COMP994	(0.107 COMP2318) (0.086 COMP891)
+AICAR transformylase inhibitor	0.076	COMP994	(0.046 COMP2318)
+AMP-activated protein kinase stimulant	0.872	COMP2313	(0.868 COMP2314) (0.607 COMP1562) (0.239 COMP891) (0.181 COMP2319) (0.150 COMP994) (0.128 COMP2318)
+AMPA 1 receptor antagonist	0.043	COMP994	
+AMPA 2 receptor antagonist	0.043	COMP994	
+AMPA 3 receptor antagonist	0.050	COMP994	
+AMPA 4 receptor antagonist	0.068	COMP994	(0.043 COMP2318)
+AMPA receptor antagonist	0.066	COMP2318	(0.054 COMP994)
+ATP citrate lysase inhibitor	0.060	COMP994	(0.042 COMP2318) (0.038 COMP891) (0.030 COMP2319)
+ATPase (Vacuolar H+) inhibitor	0.145	COMP994	(0.139 COMP2320) (0.136 COMP2318) (0.134 COMP1562) (0.129 COMP891) (0.104 COMP2314) (0.101 COMP2313)
+ATPase inhibitor	0.353	COMP891	(0.331 COMP2320) (0.277 COMP1562) (0.273 COMP994) (0.272 COMP2318) (0.145 COMP2319)
+Abl kinase inhibitor	0.116	COMP2318	
+Acetyl-CoA transferase 2 inhibitor	0.055	COMP2320	
+Acetylcholine M1 receptor antagonist	0.244	COMP1757	(0.149 COMP2318)
+Acetylcholine M3 receptor agonist	0.105	COMP1757	
+Acetylcholine M4 receptor antagonist	0.095	COMP2318	
+Acetylcholine M5 receptor agonist	0.099	COMP2318	
+Acetylcholine M5 receptor antagonist	0.067	COMP1757	(0.060 COMP2318)
+Acetylcholine agonist	0.086	COMP2318	
+Acetylcholine antagonist	0.166	COMP1757	(0.101 COMP2318)
+Acetylcholine muscarinic antagonist	0.144	COMP1757	(0.107 COMP2318)
+Acetylcholine nicotinic agonist	0.112	COMP2318	
+Acetylcholine nicotinic antagonist	0.141	COMP1757	(0.080 COMP2318)
+Acetylcholine release stimulant	0.159	COMP2318	(0.142 COMP994)
+Acetylcholinesterase inhibitor	0.454	COMP2319	(0.231 COMP1757) (0.151 COMP1562)
+Acid ceramidase inhibitor	0.030	COMP2318	
+Acid-sensing ion channel blocker	0.106	COMP2318	
+Aconitate hydratase inhibitor	0.718	COMP994	(0.133 COMP2318) (0.050 COMP891)
+Activin receptor-like kinase 2 inhibitor	0.190	COMP2318	
+Activin receptor-like kinase 4 inhibitor	0.191	COMP2318	
+Acyl-CoA dehydrogenase inhibitor	0.237	COMP994	(0.117 COMP2318)
+Adenine nucleotide translocase inhibitor	0.071	COMP994	(0.059 COMP891) (0.054 COMP1562)
+Adenosine A1 receptor agonist	0.021	COMP1562	
+Adenosine A3 receptor antagonist	0.072	COMP2319	(0.071 COMP994) (0.067 COMP2318)
+Adenosine deaminase inhibitor	0.068	COMP994	(0.047 COMP2318)
+Adenosine kinase inhibitor	0.035	COMP2318	
+Adenylate cyclase inhibitor	0.169	COMP2318	(0.165 COMP994) (0.157 COMP891)
+Adenylate cyclase stimulant	0.231	COMP994	(0.202 COMP891) (0.187 COMP2318) (0.154 COMP1757) (0.140 COMP2319) (0.131 COMP2313) (0.129 COMP2320) (0.122 COMP2314)
+Adenylate kinase inhibitor	0.379	COMP994	(0.194 COMP2318)
+Adrenaline agonist	0.145	COMP1757	
+Adrenaline antagonist	0.586	COMP1757	
+Adrenaline uptake inhibitor	0.074	COMP1757	
+Alcohol dehydrogenase inhibitor	0.217	COMP2318	(0.190 COMP994) (0.149 COMP1562) (0.110 COMP2319) (0.098 COMP891)
+Alcohol oxidase inhibitor	0.834	COMP994	(0.198 COMP2318) (0.055 COMP891) (0.050 COMP2319)
+Aldehyde dehydrogenase inhibitor	0.281	COMP994	(0.249 COMP2318) (0.201 COMP2319) (0.181 COMP1562)
+Aldehyde oxidase inhibitor	0.734	COMP2319	(0.689 COMP994) (0.632 COMP2318) (0.466 COMP1757) (0.195 COMP891)
+Aldose reductase inhibitor	0.416	COMP2319	(0.273 COMP994) (0.236 COMP891) (0.203 COMP1562)
+Aldosterone antagonist	0.087	COMP2318	(0.047 COMP994)
+Alkaline phosphatase inhibitor	0.326	COMP2319	(0.201 COMP1562) (0.129 COMP2318) (0.121 COMP994)
+Alkylator	0.704	COMP1562	(0.215 COMP2319) (0.194 COMP994) (0.185 COMP891) (0.176 COMP2318) (0.128 COMP1757) (0.111 COMP2314)
+Alpha 1 adrenoreceptor agonist	0.381	COMP1757	
+Alpha 1 adrenoreceptor antagonist	0.554	COMP1757	
+Alpha 1L adrenoreceptor antagonist	0.084	COMP1757	
+Alpha 1a adrenoreceptor antagonist	0.473	COMP1757	
+Alpha 1b adrenoreceptor antagonist	0.338	COMP1757	
+Alpha 1d adrenoreceptor agonist	0.104	COMP2318	(0.039 COMP994)
+Alpha 1d adrenoreceptor antagonist	0.196	COMP1757	
+Alpha 2 adrenoreceptor agonist	0.221	COMP1757	(0.086 COMP2318)
+Alpha 2 adrenoreceptor antagonist	0.718	COMP1757	(0.089 COMP2318)
+Alpha 2a adrenoreceptor agonist	0.057	COMP2318	
+Alpha 2a adrenoreceptor antagonist	0.698	COMP1757	(0.080 COMP2318)
+Alpha 2b adrenoreceptor agonist	0.020	COMP2318	
+Alpha 2b adrenoreceptor antagonist	0.361	COMP1757	(0.137 COMP2318)
+Alpha 2c adrenoreceptor agonist	0.029	COMP2318	
+Alpha 2c adrenoreceptor antagonist	0.343	COMP1757	(0.112 COMP2318)
+Alpha adrenoreceptor agonist	0.388	COMP1757	(0.068 COMP2318)
+Alpha adrenoreceptor antagonist	0.702	COMP1757	
+Alpha tubulin antagonist	0.352	COMP2319	(0.077 COMP1757)
+Alpha-N-acetylglucosaminidase inhibitor	0.810	COMP994	(0.448 COMP2318) (0.209 COMP891) (0.170 COMP1562) (0.133 COMP1757)
+Alpha-mannosidase inhibitor	0.105	COMP994	(0.092 COMP1562) (0.074 COMP2318) (0.073 COMP2314) (0.068 COMP2313)
+Amidase inhibitor	0.068	COMP2318	
+Aminoacyl-tRNA synthetase inhibitor	0.175	COMP994	
+Aminopeptidase A inhibitor	0.023	COMP994	
+Aminopeptidase B inhibitor	0.236	COMP994	(0.156 COMP2318)
+Aminopeptidase I inhibitor	0.195	COMP994	(0.115 COMP2318)
+Amylase inhibitor	0.955	COMP1562	(0.564 COMP2319) (0.493 COMP2313) (0.448 COMP2314) (0.410 COMP891) (0.307 COMP994) (0.170 COMP2318) (0.159 COMP1757)
+Amyloid beta aggregation inhibitor	0.716	COMP2319	(0.636 COMP891) (0.500 COMP1562) (0.232 COMP1757)
+Amyloid beta precursor protein antagonist	0.319	COMP2319	(0.245 COMP994) (0.153 COMP2318)
+Anabolic	0.160	COMP994	(0.155 COMP891) (0.146 COMP2318) (0.115 COMP2320) (0.093 COMP2314/COMP2319)
+Analgesic	0.542	COMP1757	
+Analgesic. opioid	0.170	COMP1757	
+Androgen agonist	0.098	COMP2318	(0.068 COMP994)
+Androgen antagonist	0.114	COMP2318	(0.099 COMP2319) (0.092 COMP2320) (0.077 COMP994)
+Anesthetic general	0.467	COMP994	(0.325 COMP891) (0.303 COMP1757) (0.289 COMP2318) (0.187 COMP2319) (0.168 COMP1562)
+Anesthetic local	0.106	COMP2318	(0.104 COMP1757) (0.099 COMP994)
+Angiogenesis inhibitor	0.331	COMP1562	(0.302 COMP2313) (0.276 COMP2314) (0.201 COMP2320) (0.191 COMP2319)
+Angiogenesis stimulant	0.804	COMP2314	(0.793 COMP2313) (0.686 COMP1562) (0.331 COMP891) (0.304 COMP2319) (0.299 COMP994) (0.205 COMP2320)
+Angiotensin AT1 receptor antagonist	0.059	COMP2318	(0.054 COMP994)
+Angiotensin AT1A receptor antagonist	0.025	COMP2318	
+Angiotensin AT1B receptor antagonist	0.016	COMP2318/COMP994	
+Angiotensin AT2 receptor agonist	0.009	COMP2318	
+Angiotensin II receptor antagonist	0.049	COMP2318	(0.042 COMP994)
+Angiotensin-converting enzyme inhibitor	0.061	COMP994	
+Antiadrenergic	0.597	COMP1757	
+Antiamyloidogenic	0.705	COMP1562	(0.552 COMP891) (0.536 COMP2319) (0.266 COMP1757) (0.221 COMP2314) (0.198 COMP2318) (0.187 COMP2313)
+Antibacterial	0.801	COMP1562	(0.744 COMP2313) (0.732 COMP2320) (0.728 COMP2314) (0.639 COMP891) (0.422 COMP994) (0.417 COMP2319) (0.293 COMP2318) (0.269 COMP1757)
+Antibiotic Aminoglycoside-like	0.100	COMP1562	(0.087 COMP2313) (0.082 COMP2314) (0.044 COMP891)
+Antibiotic Anthracycline-like	0.034	COMP1562	(0.023 COMP2318/COMP891) (0.022 COMP994)
+Antibiotic Macrolide-like	0.021	COMP1562	(0.017 COMP2320) (0.014 COMP2313/COMP2314)
+Anticoagulant	0.130	COMP994	
+Anticonvulsant	0.195	COMP2318	
+Antiinflammatory	0.956	COMP2313	(0.955 COMP2314) (0.919 COMP2320) (0.870 COMP1562) (0.802 COMP891) (0.675 COMP994) (0.619 COMP2319) (0.387 COMP1757)
+Antimetabolite	0.104	COMP994	
+Antimitotic	0.685	COMP2320	(0.543 COMP2319) (0.253 COMP1757) (0.222 COMP891)
+Antineoplastic alkaloid	0.241	COMP1757	(0.145 COMP2318) (0.131 COMP2320) (0.125 COMP891)
+Antineoplastic antibiotic	0.437	COMP1562	(0.395 COMP2320) (0.310 COMP2314) (0.308 COMP2313) (0.307 COMP891) (0.161 COMP994) (0.145 COMP2319)
+Antiobesity	0.247	COMP2314	(0.242 COMP2313)
+Antioxidant	0.879	COMP1562	(0.837 COMP891) (0.834 COMP2319) (0.802 COMP2313) (0.796 COMP2314) (0.550 COMP994) (0.475 COMP2320) (0.396 COMP1757)
+Antipruritic	0.183	COMP2318	(0.171 COMP994) (0.159 COMP1757)
+Antithrombotic	0.902	COMP2313	(0.891 COMP2314) (0.752 COMP1562) (0.528 COMP994) (0.472 COMP891) (0.388 COMP1757) (0.315 COMP2319) (0.275 COMP2320) (0.226 COMP2318)
+Apoptosis agonist	0.957	COMP2313	(0.956 COMP2314) (0.955 COMP2320) (0.875 COMP2319) (0.844 COMP1562) (0.761 COMP891) (0.556 COMP994) (0.525 COMP2318) (0.500 COMP1757)
+Apoptosis antagonist	0.823	COMP2313	(0.822 COMP2314) (0.685 COMP1562) (0.575 COMP994) (0.551 COMP891) (0.502 COMP2319) (0.324 COMP2320) (0.237 COMP1757)
+Arachidonic acid antagonist	0.255	COMP994	(0.215 COMP891) (0.206 COMP2318) (0.176 COMP2319/COMP2320)
+Arginase inhibitor	0.090	COMP1562	(0.076 COMP994) (0.035 COMP2319)
+Argininosuccinate synthase inhibitor	0.266	COMP994	(0.104 COMP2318)
+Aromatase inhibitor	0.186	COMP2319	(0.072 COMP2318) (0.054 COMP1562)
+Aryl hydrocarbon receptor agonist	0.590	COMP2319	(0.504 COMP2318)
+Aryl hydrocarbon receptor antagonist	0.090	COMP2319	(0.087 COMP2318)
+Bcl-xL inhibitor	0.060	COMP1757	
+Bcl2 antagonist	0.077	COMP2318	
+Benzodiazepine agonist	0.089	COMP2318	
+Benzodiazepine antagonist	0.074	COMP2318	
+Benzodiazepine inverse agonist	0.044	COMP2318	
+Benzodiazepine receptor peripheral-type antagonist	0.045	COMP2318	
+Beta 1 adrenoreceptor antagonist	0.071	COMP1757	
+Beta 2 adrenoreceptor agonist	0.060	COMP994	
+Beta 2 adrenoreceptor antagonist	0.057	COMP1757	(0.045 COMP994)
+Beta 3 adrenoreceptor antagonist	0.100	COMP1757	(0.068 COMP2318) (0.066 COMP2319) (0.062 COMP994)
+Beta adrenoreceptor antagonist	0.102	COMP1757	(0.064 COMP994) (0.059 COMP2319)
+Beta amyloid protein antagonist	0.369	COMP2314	(0.364 COMP2313) (0.215 COMP1562) (0.148 COMP2318) (0.127 COMP2319)
+Beta glucuronidase inhibitor	0.733	COMP1562	(0.308 COMP2319) (0.246 COMP891) (0.136 COMP2318) (0.128 COMP2314) (0.115 COMP2313) (0.108 COMP994)
+Beta tubulin antagonist	0.339	COMP2319	(0.112 COMP1757)
+Biliverdin reductase inhibitor	0.320	COMP994	(0.143 COMP2318)
+Bombesin 2 receptor antagonist	0.056	COMP994	
+Bone formation stimulant	0.290	COMP2319	(0.266 COMP994)
+Botulinum neurotoxin type A inhibitor	0.068	COMP994	(0.066 COMP2318)
+Breast cancer-resistant protein inhibitor	0.644	COMP2319	(0.138 COMP1757)
+Bromodomain-containing protein 2 inhibitor	0.142	COMP2318	
+Bronchodilator	0.160	COMP1757	
+Butyrylcholinesterase inhibitor	0.249	COMP2319	(0.154 COMP1757)
+CC chemokine 4 receptor antagonist	0.044	COMP2318	
+CC chemokine 5 receptor agonist	0.100	COMP2318	(0.089 COMP1757) (0.085 COMP994)
+CC chemokine 6 receptor antagonist	0.176	COMP2314	(0.174 COMP2313) (0.143 COMP2320) (0.141 COMP2318) (0.124 COMP1562)
+CD45 antagonist	0.158	COMP2318	(0.076 COMP994) (0.056 COMP2319)
+CDC-like kinase 1 inhibitor	0.183	COMP2318	
+CDC-like kinase 2 inhibitor	0.219	COMP2318	
+CDC-like kinase 3 inhibitor	0.109	COMP2318	
+CDC-like kinase 4 inhibitor	0.337	COMP2318	
+CDC25A inhibitor	0.199	COMP2319	(0.145 COMP994)
+CDC25B inhibitor	0.116	COMP994	(0.096 COMP2319) (0.060 COMP2318)
+CDC7 inhibitor	0.072	COMP2318	
+CDK1/cyclin B1 inhibitor	0.061	COMP2319	
+CDK2/cyclin A3 inhibitor	0.016	COMP2318	
+CDK5/p25 inhibitor	0.040	COMP2318	
+CF transmembrane conductance regulator agonist	0.218	COMP2318	(0.183 COMP1562) (0.172 COMP2319) (0.171 COMP994)
+CF transmembrane conductance regulator antagonist	0.042	COMP994	(0.041 COMP2318)
+CXC chemokine 5 receptor antagonist	0.019	COMP994	(0.017 COMP2318)
+CYP24 inhibitor	0.022	COMP2320	
+CYP2A6 inhibitor	0.247	COMP2318	(0.083 COMP994) (0.068 COMP2319)
+Ca(v)2.2 blocker	0.093	COMP2318	
+Ca2+-transporting ATPase inhibitor	0.218	COMP2320	(0.209 COMP994) (0.191 COMP891) (0.180 COMP2318) (0.146 COMP1562) (0.138 COMP2319) (0.135 COMP1757)
+Ca2+/calmodulin-dependent kinase I alpha inhibitor	0.399	COMP2318	
+Ca2+/calmodulin-dependent kinase II alpha inhibitor	0.357	COMP2318	
+Ca2+/calmodulin-dependent kinase II beta inhibitor	0.430	COMP2318	
+Ca2+/calmodulin-dependent kinase II delta inhibitor	0.124	COMP2318	
+Ca2+/calmodulin-dependent kinase II gamma inhibitor	0.254	COMP2318	
+Ca2+/calmodulin-dependent kinase IV inhibitor	0.220	COMP2318	
+Ca2+/calmodulin-dependent protein kinase inhibitor	0.447	COMP2318	
+Calcineurin inhibitor	0.022	COMP994	
+Calcitonin receptor agonist	0.038	COMP994	
+Calcium antagonist	0.118	COMP2318/COMP2319	(0.095 COMP994)
+Calcium channel L-type activator	0.477	COMP2318	(0.416 COMP2319) (0.352 COMP994)
+Calcium channel L-type blocker	0.078	COMP2318	
+Calcium channel N-type blocker	0.119	COMP2318	
+Calcium channel P-type blocker	0.102	COMP2318	(0.065 COMP994)
+Calcium channel activator	0.414	COMP2318	(0.385 COMP994) (0.366 COMP1757) (0.345 COMP891) (0.319 COMP2319)
+Calcium release-activated channel blocker	0.035	COMP2318	
+Calcium-dependent phospholipase A2 inhibitor	0.014	COMP994	
+Calcium-independent phospholipase A2 inhibitor	0.043	COMP994	
+Calcium-sensing receptor agonist	0.027	COMP2318	(0.025 COMP994)
+Calpain 2 inhibitor	0.295	COMP2318	(0.222 COMP994)
+Calpain inhibitor	0.226	COMP2318	(0.194 COMP994)
+Cannabinoid CB1 receptor antagonist	0.063	COMP2318	
+Cannabinoid CB2 receptor antagonist	0.048	COMP2318	
+Cannabinoid receptor antagonist	0.062	COMP2318	
+Carbonic anhydrase I inhibitor	0.064	COMP994	(0.052 COMP2318)
+Carbonic anhydrase II inhibitor	0.062	COMP994	(0.050 COMP2318)
+Carbonic anhydrase III inhibitor	0.349	COMP2319	(0.323 COMP1562) (0.258 COMP994) (0.214 COMP891) (0.135 COMP2318)
+Carbonic anhydrase IV inhibitor	0.055	COMP994	
+Carbonic anhydrase IX inhibitor	0.071	COMP2318	(0.053 COMP994)
+Carbonic anhydrase V inhibitor	0.162	COMP994	(0.112 COMP2319) (0.074 COMP2318)
+Carbonic anhydrase VA inhibitor	0.147	COMP994	(0.107 COMP2319) (0.076 COMP2318)
+Carbonic anhydrase VB inhibitor	0.145	COMP994	(0.075 COMP2318) (0.060 COMP2319)
+Carbonic anhydrase VI inhibitor	0.314	COMP2319	(0.231 COMP994) (0.230 COMP891) (0.205 COMP1562) (0.098 COMP2318)
+Carbonic anhydrase VII inhibitor	0.186	COMP2319	(0.149 COMP1562) (0.049 COMP994)
+Carbonic anhydrase VIII inhibitor	0.045	COMP994	(0.019 COMP2318)
+Carbonic anhydrase X inhibitor	0.045	COMP994	(0.019 COMP2318)
+Carbonic anhydrase XI inhibitor	0.019	COMP994	(0.012 COMP2318)
+Carbonic anhydrase XII inhibitor	0.075	COMP1562	(0.060 COMP2318) (0.052 COMP2319)
+Carbonic anhydrase XIII inhibitor	0.486	COMP2319	(0.289 COMP1562) (0.190 COMP994) (0.161 COMP891) (0.091 COMP2318)
+Carbonic anhydrase XIV inhibitor	0.086	COMP994	(0.074 COMP2319) (0.064 COMP891) (0.050 COMP2318) (0.048 COMP1562)
+Carbonic anhydrase XV inhibitor	0.235	COMP2319	(0.167 COMP2318) (0.152 COMP994)
+Carbonic anhydrase inhibitor	0.086	COMP994	(0.062 COMP2318)
+Carbonic anhydrase stimulant	0.102	COMP994	(0.076 COMP2318)
+Carboxypeptidase B inhibitor	0.040	COMP994	
+Cardiotonic	0.289	COMP1757	
+Carnitine palmitoyltransferase 1 inhibitor	0.041	COMP994	
+Carnitine palmitoyltransferase 1B inhibitor	0.054	COMP994	
+Carnitine palmitoyltransferase inhibitor	0.042	COMP994	
+Caspase 2 inhibitor	0.028	COMP994	
+Caspase 3 inhibitor	0.177	COMP994	(0.104 COMP2318)
+Caspase 3 stimulant	0.796	COMP2313	(0.795 COMP2314) (0.755 COMP2319) (0.749 COMP1562) (0.440 COMP2318) (0.392 COMP994) (0.367 COMP891) (0.328 COMP1757) (0.212 COMP2320)
+Caspase 7 inhibitor	0.116	COMP2318	(0.097 COMP994)
+Caspase 8 inhibitor	0.025	COMP994	
+Caspase 9 inhibitor	0.155	COMP994	
+Caspase 9 stimulant	0.921	COMP2314	(0.912 COMP2313) (0.904 COMP2319) (0.879 COMP1562) (0.779 COMP994) (0.743 COMP2318) (0.640 COMP891) (0.536 COMP1757) (0.383 COMP2320)
+Catalase inhibitor	0.409	COMP994	(0.169 COMP2318)
+Catenin beta inhibitor	0.238	COMP2318	(0.172 COMP994)
+Cathepsin G inhibitor	0.140	COMP994	(0.074 COMP2318)
+Cathepsin H inhibitor	0.186	COMP994	(0.172 COMP2318)
+Cell adhesion inhibitor	0.363	COMP994	(0.322 COMP2313) (0.284 COMP2314) (0.273 COMP1562)
+Cell adhesion molecule inhibitor	0.248	COMP994	
+Cell wall synthesis inhibitor	0.408	COMP1562	(0.269 COMP994) (0.187 COMP891) (0.186 COMP2320) (0.162 COMP2318)
+Ceramide glucosyltransferase inhibitor	0.049	COMP2318	(0.037 COMP994)
+Check point kinase 2 inhibitor	0.114	COMP2318	
+Chelator	0.339	COMP994	(0.313 COMP2319) (0.130 COMP891) (0.119 COMP1562) (0.095 COMP1757)
+Cholecystokinin A antagonist	0.033	COMP994	
+Cholecystokinin B agonist	0.056	COMP994	
+Cholecystokinin B antagonist	0.030	COMP994	
+Cholecystokinin antagonist	0.049	COMP994	
+Cholesterol antagonist	0.765	COMP2313	(0.741 COMP2314) (0.657 COMP891) (0.622 COMP1562) (0.566 COMP994) (0.320 COMP2318) (0.191 COMP2320) (0.182 COMP2319)
+Cholesterol ester transfer protein antagonist	0.035	COMP2318	
+Cholesterol esterase inhibitor	0.081	COMP2313	(0.077 COMP2314) (0.053 COMP2318) (0.051 COMP2319)
+Cholesterol synthesis inhibitor	0.360	COMP891	(0.301 COMP1562) (0.284 COMP994) (0.179 COMP2314) (0.160 COMP2313) (0.148 COMP2318) (0.121 COMP2320) (0.109 COMP2319)
+Cholinergic	0.355	COMP2319	(0.289 COMP1757)
+Cholinergic antagonist	0.169	COMP1757	(0.104 COMP2318)
+Clk dual-specificity kinase inhibitor	0.355	COMP2318	
+Collagenase inhibitor	0.050	COMP994	
+Complement C3a chemotactic receptor antagonist	0.053	COMP994	
+Complement C5a chemotactic receptor antagonist	0.057	COMP1757	
+Complement factor 1r inhibitor	0.026	COMP2318	
+Complement factor 1s inhibitor	0.036	COMP2318	(0.026 COMP994)
+Complement factor D inhibitor	0.021	COMP2318	
+Corticosteroid-like	0.027	COMP2313/COMP2314	(0.020 COMP2320)
+Corticotropin releasing factor 2 receptor antagonist	0.088	COMP2318	
+Creatine kinase inhibitor	0.338	COMP2319	(0.274 COMP994) (0.210 COMP2318) (0.142 COMP1562) (0.111 COMP1757) (0.088 COMP891)
+Cyclic AMP phosphodiesterase inhibitor	0.370	COMP2318	(0.329 COMP1562) (0.297 COMP1757) (0.243 COMP2319) (0.236 COMP994)
+Cyclin B3 inhibitor	0.153	COMP2319	
+Cyclin D1 inhibitor	0.064	COMP2318/COMP2319	
+Cyclin E2 inhibitor	0.029	COMP2318	
+Cyclin T1 inhibitor	0.016	COMP2318	
+Cyclin-dependent kinase 3 inhibitor	0.160	COMP2318	
+Cyclin-dependent kinase 6 inhibitor	0.054	COMP2318	
+Cyclin-dependent kinase 8 inhibitor	0.196	COMP2318	
+Cyclooxygenase 1 inhibitor	0.214	COMP891	(0.212 COMP2319) (0.163 COMP1562) (0.137 COMP994)
+Cyclooxygenase 2 inhibitor	0.209	COMP2319	(0.185 COMP2318)
+Cyclooxygenase 3 inhibitor	0.540	COMP1562	(0.504 COMP2314) (0.457 COMP2313) (0.203 COMP891) (0.191 COMP994) (0.184 COMP2319) (0.156 COMP2318) (0.153 COMP1757)
+Cyclooxygenase inhibitor	0.243	COMP2319	(0.181 COMP2318) (0.146 COMP994) (0.126 COMP891) (0.121 COMP1562)
+Cyclophilin D inhibitor	0.852	COMP1562	(0.832 COMP2314) (0.829 COMP2313) (0.720 COMP891) (0.711 COMP994) (0.289 COMP2319)
+Cystathionine beta-synthase inhibitor	0.819	COMP2319	(0.508 COMP1562) (0.380 COMP994) (0.370 COMP891) (0.363 COMP2318) (0.168 COMP1757)
+Cytidine deaminase inhibitor	0.138	COMP2318	(0.134 COMP994)
+Cytokine production inhibitor	0.156	COMP994	(0.140 COMP2318)
+Cytokine production stimulant	0.057	COMP2318	(0.048 COMP994)
+D-Ala-D-Ala ligase inhibitor	0.154	COMP2319	(0.126 COMP994) (0.124 COMP2318)
+DNA damaging	0.710	COMP1562	(0.561 COMP2319) (0.388 COMP2318) (0.369 COMP994) (0.307 COMP891) (0.291 COMP2320) (0.289 COMP1757) (0.279 COMP2314) (0.271 COMP2313)
+DNA directed DNA polymerase inhibitor	0.423	COMP2319	(0.222 COMP994)
+DNA directed RNA polymerase inhibitor	0.097	COMP891	
+DNA helicase inhibitor	0.115	COMP994	(0.079 COMP2318) (0.061 COMP2319)
+DNA intercalator	0.582	COMP2318	(0.308 COMP1757) (0.270 COMP1562) (0.149 COMP891) (0.144 COMP2319)
+DNA methylase inhibitor	0.290	COMP2319	(0.247 COMP994) (0.212 COMP1562) (0.208 COMP1757) (0.207 COMP2318) (0.192 COMP891)
+DNA methyltransferase I inhibitor	0.323	COMP2319	(0.261 COMP994) (0.217 COMP2318) (0.142 COMP1757) (0.139 COMP1562) (0.133 COMP891)
+DNA polymerase I inhibitor	0.427	COMP994	(0.233 COMP1562) (0.223 COMP2318) (0.207 COMP891) (0.181 COMP2314) (0.175 COMP2313) (0.109 COMP2319)
+DNA polymerase beta inhibitor	0.453	COMP2319	
+DNA repair enzyme inhibitor	0.348	COMP1562	(0.181 COMP2319) (0.167 COMP2318) (0.153 COMP994) (0.130 COMP891)
+DNA synthesis inhibitor	0.574	COMP2320	(0.516 COMP1562) (0.443 COMP994) (0.393 COMP891) (0.366 COMP2314) (0.340 COMP2313) (0.296 COMP2318) (0.239 COMP1757)
+DNA topoisomerase III inhibitor	0.009	COMP2318	
+DNA topoisomerase IV inhibitor	0.028	COMP2318	
+DNA-dependent protein kinase inhibitor	0.062	COMP2319	(0.038 COMP2318)
+DOPA decarboxylase inhibitor	0.223	COMP994	(0.199 COMP2319) (0.168 COMP2318) (0.126 COMP1757) (0.103 COMP891)
+Death-associated protein kinase 3 inhibitor	0.450	COMP2318	
+Delayed rectifier potassium channel blocker	0.040	COMP2318	
+Diacylglycerol O-acyltransferase 1 inhibitor	0.038	COMP994	
+Diacylglycerol O-acyltransferase inhibitor	0.068	COMP994	(0.046 COMP2318)
+Diamine oxidase inhibitor	0.052	COMP2318	(0.045 COMP994)
+Dihydrofolate reductase inhibitor	0.046	COMP2318	(0.043 COMP994)
+Dihydroorotase inhibitor	0.069	COMP2318	(0.056 COMP994)
+Dihydroorotate dehydrogenase inhibitor	0.061	COMP2318	
+Dihydroorotate oxidase inhibitor	0.088	COMP994	(0.071 COMP2318)
+Dihydropteroate synthase inhibitor	0.058	COMP994	(0.041 COMP2318)
+Dipeptidyl peptidase II inhibitor	0.031	COMP2318	
+Diuretic	0.218	COMP2314	(0.192 COMP1757) (0.186 COMP994) (0.179 COMP2318) (0.174 COMP2313)
+Dopamine D1 agonist	0.184	COMP1757	(0.028 COMP2319) (0.021 COMP1562)
+Dopamine D1 antagonist	0.845	COMP1757	(0.076 COMP2318) (0.062 COMP2319)
+Dopamine D2 agonist	0.403	COMP1757	
+Dopamine D2 antagonist	0.574	COMP1757	
+Dopamine D3 antagonist	0.235	COMP1757	
+Dopamine D4 antagonist	0.145	COMP1757	
+Dopamine D5 agonist	0.132	COMP1757	(0.088 COMP2318) (0.071 COMP994) (0.063 COMP2319)
+Dopamine D5 antagonist	0.505	COMP1757	(0.046 COMP2319)
+Dopamine agonist	0.567	COMP1757	(0.078 COMP2319)
+Dopamine antagonist	0.619	COMP1757	
+Dopamine autoreceptor agonist	0.021	COMP2318	
+Dopamine beta hydroxylase inhibitor	0.064	COMP994	(0.060 COMP2318)
+Dopamine transporter inhibitor	0.063	COMP1757	
+Dopamine uptake inhibitor	0.129	COMP1757	(0.071 COMP2318)
+Dual specificity phosphatase 3 inhibitor	0.439	COMP2319	(0.184 COMP994)
+Dual specificity phosphatase inhibitor	0.442	COMP2319	(0.176 COMP994)
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.386	COMP2318	(0.270 COMP2319)
+Dual specificity tyrosine-phosphorylation regulated kinase 1B inhibitor	0.168	COMP2318	
+Dual specificity tyrosine-phosphorylation-regulated kinase 4 inhibitor	0.324	COMP2318	
+Dyrk kinase inhibitor	0.390	COMP2318	(0.239 COMP2319)
+Egl nine homolog 1 inhibitor	0.016	COMP994	
+Egl nine homolog 3 inhibitor	0.015	COMP994	
+Electrolyte absorption antagonist	0.240	COMP994	(0.148 COMP2318)
+Electron transport complex I inhibitor	0.192	COMP2319	(0.128 COMP2320) (0.120 COMP1562) (0.111 COMP1757)
+Endothelin receptor antagonist	0.033	COMP994	
+Enoyl-[acyl-carrier-protein] reductase inhibitor	0.064	COMP2318	
+Epithelial sodium channel blocker	0.066	COMP2318	(0.053 COMP994)
+Epoxide hydrolase 1 inhibitor	0.030	COMP994	(0.029 COMP2318)
+Erythropoietin receptor agonist	0.035	COMP994	
+Estradiol 17 beta-dehydrogenase 1 inhibitor	0.040	COMP2318	(0.028 COMP2319)
+Estrogen agonist	0.274	COMP1562	(0.148 COMP2318) (0.109 COMP2319) (0.068 COMP891) (0.062 COMP2314) (0.060 COMP2313) (0.059 COMP994)
+Estrogen antagonist	0.274	COMP1562	(0.270 COMP2318) (0.187 COMP2319) (0.177 COMP994) (0.140 COMP891) (0.131 COMP1757)
+Estrogen receptor alpha antagonist	0.135	COMP2319	(0.133 COMP2318) (0.101 COMP1757) (0.092 COMP994) (0.085 COMP1562/COMP891)
+Estrogen receptor beta antagonist	0.295	COMP2318	(0.202 COMP1562) (0.187 COMP2319) (0.115 COMP1757) (0.104 COMP891) (0.099 COMP994)
+Estrogen-related receptor beta antagonist	0.069	COMP2318	(0.044 COMP2319)
+Estrogen-related receptor gamma agonist	0.018	COMP994	
+Estrogen-related receptor gamma antagonist	0.033	COMP2318/COMP994	
+Estrone sulfatase inhibitor	0.020	COMP2319	
+Expectorant	0.873	COMP2314	(0.840 COMP2313) (0.802 COMP1562) (0.406 COMP891) (0.311 COMP1757) (0.296 COMP994) (0.189 COMP2319) (0.150 COMP2320) (0.109 COMP2318)
+Factor III inhibitor	0.310	COMP1757	(0.070 COMP891) (0.050 COMP994)
+Factor XIII inhibitor	0.020	COMP994	(0.019 COMP2318)
+Factor XIIIa inhibitor	0.040	COMP994	
+Falcipain 2 inhibitor	0.136	COMP994	
+Falcipain 3 inhibitor	0.140	COMP994	(0.139 COMP2318)
+Falcipain inhibitor	0.138	COMP994	
+Farnesoid X receptor agonist	0.051	COMP994	(0.041 COMP891)
+Farnesoid X receptor antagonist	0.323	COMP2320	(0.174 COMP994)
+Fatty acid synthase inhibitor	0.151	COMP2319	(0.098 COMP1562) (0.093 COMP2318)
+Ferrochelatase inhibitor	0.512	COMP994	(0.325 COMP2318)
+Focal adhesion kinase 2 inhibitor	0.240	COMP2318	
+Folate antagonist	0.149	COMP994	
+Free fatty acid receptor 1 agonist	0.068	COMP994	
+Free fatty acid receptor 1 antagonist	0.058	COMP994	(0.041 COMP2318)
+Free radical scavenger	0.851	COMP2319	(0.814 COMP891) (0.793 COMP1562) (0.567 COMP2313) (0.552 COMP2314) (0.481 COMP994) (0.432 COMP1757) (0.171 COMP2320)
+Fructose-1.6-bisphosphatase 1 inhibitor	0.028	COMP2318	(0.025 COMP994)
+Fructose-1.6-bisphosphatase inhibitor	0.061	COMP2318	(0.049 COMP994)
+Fumarate hydratase inhibitor	0.671	COMP994	(0.056 COMP2318)
+G-protein-coupled receptor 120 agonist	0.025	COMP994	(0.016 COMP2318)
+GABA A receptor agonist	0.112	COMP2318	
+GABA B receptor agonist	0.138	COMP994	(0.103 COMP2318)
+GABA B receptor antagonist	0.161	COMP2319	(0.102 COMP994) (0.062 COMP2318)
+GABA C receptor agonist	0.863	COMP994	(0.362 COMP2318) (0.103 COMP891)
+GABA C receptor antagonist	0.343	COMP994	(0.251 COMP2318) (0.160 COMP2319)
+GABA C receptor rho-1 antagonist	0.286	COMP994	(0.237 COMP2318) (0.184 COMP2319)
+GABA C receptor rho-2 antagonist	0.324	COMP2319	(0.312 COMP2318) (0.286 COMP994)
+GABA C receptor rho-3 antagonist	0.646	COMP2318	(0.628 COMP2319) (0.608 COMP994)
+GABA aminotransferase inhibitor	0.197	COMP994	(0.111 COMP2318) (0.106 COMP891)
+GABA receptor agonist	0.153	COMP2318	(0.149 COMP994)
+GABA uptake inhibitor	0.087	COMP994	(0.065 COMP2318)
+GP IIb/IIIa receptor antagonist	0.117	COMP994	
+Gastric antisecretory	0.183	COMP994	
+Gastrin inhibitor	0.409	COMP994	(0.360 COMP2314) (0.342 COMP2313) (0.282 COMP2318) (0.264 COMP1562)
+Geranylgeranyltransferase inhibitor	0.025	COMP2318	(0.019 COMP994)
+Geranyltranstransferase inhibitor	0.073	COMP2318	(0.068 COMP994)
+Glucagon receptor antagonist	0.056	COMP994	
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.506	COMP2319	(0.290 COMP2318) (0.183 COMP994)
+Glucose-6-phosphate isomerase inhibitor	0.256	COMP994	(0.082 COMP2318) (0.064 COMP891) (0.061 COMP1562)
+Glucose-6-phosphate translocase inhibitor	0.301	COMP891	(0.084 COMP1562) (0.080 COMP2319) (0.057 COMP1757) (0.052 COMP994)
+Glucosylceramidase inhibitor	0.071	COMP2318	
+Glutamate (mGluR group I) agonist	0.043	COMP2318	
+Glutamate (mGluR group II) agonist	0.088	COMP2318	
+Glutamate (mGluR group II) antagonist	0.053	COMP2318	(0.034 COMP994)
+Glutamate (mGluR group III) agonist	0.164	COMP994	(0.050 COMP2318)
+Glutamate (mGluR group III) antagonist	0.094	COMP994	(0.060 COMP2318)
+Glutamate (mGluR) agonist	0.067	COMP2318	
+Glutamate (mGluR1) agonist	0.066	COMP994	(0.026 COMP2318)
+Glutamate (mGluR1) antagonist	0.051	COMP2318	
+Glutamate (mGluR1a) agonist	0.102	COMP994	(0.040 COMP2318)
+Glutamate (mGluR1a) antagonist	0.047	COMP2318	
+Glutamate (mGluR2) agonist	0.085	COMP2318	
+Glutamate (mGluR2) antagonist	0.038	COMP2318	
+Glutamate (mGluR3) agonist	0.059	COMP994	(0.033 COMP2318)
+Glutamate (mGluR3) antagonist	0.099	COMP994	(0.054 COMP2318)
+Glutamate (mGluR4) agonist	0.104	COMP994	(0.035 COMP2318)
+Glutamate (mGluR4) antagonist	0.102	COMP994	(0.064 COMP2318)
+Glutamate (mGluR5) agonist	0.045	COMP2318	
+Glutamate (mGluR6) agonist	0.066	COMP994	(0.011 COMP2318)
+Glutamate (mGluR6) antagonist	0.166	COMP994	(0.115 COMP2318)
+Glutamate (mGluR7) antagonist	0.124	COMP994	(0.110 COMP2318) (0.092 COMP2319)
+Glutamate (mGluR8) agonist	0.134	COMP994	(0.053 COMP2318)
+Glutamate (mGluR8) antagonist	0.070	COMP994	
+Glutamate decarboxylase inhibitor	0.640	COMP994	(0.132 COMP2318) (0.084 COMP891) (0.076 COMP2319)
+Glutamate dehydrogenase inhibitor	0.612	COMP994	(0.124 COMP2318) (0.087 COMP891)
+Glutamate receptor agonist	0.107	COMP2318/COMP994	
+Glutamate receptor antagonist	0.147	COMP2318	
+Glutamate release inhibitor	0.282	COMP2313	(0.249 COMP2314) (0.237 COMP2318) (0.145 COMP994) (0.088 COMP1562)
+Glutathione S-transferase inhibitor	0.181	COMP994	(0.112 COMP2319) (0.096 COMP2318)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.495	COMP2319	(0.398 COMP994) (0.330 COMP2318) (0.266 COMP1562) (0.200 COMP1757) (0.174 COMP891)
+Glycine receptor agonist	0.191	COMP994	(0.121 COMP2318) (0.113 COMP1757) (0.093 COMP891) (0.086 COMP2320)
+Glycine receptor antagonist	0.231	COMP2314	(0.213 COMP2313) (0.138 COMP994) (0.137 COMP1562) (0.131 COMP2318) (0.085 COMP1757)
+Glycine transporter 2 inhibitor	0.058	COMP994	
+Glycogen synthase kinase-3 alpha inhibitor	0.134	COMP2318	
+Granulocyte macrophage colony stimulating factor agonist	0.149	COMP2318	(0.142 COMP994) (0.102 COMP1757) (0.097 COMP2319)
+Granulocyte macrophage colony stimulating factor antagonist	0.106	COMP2318	
+Growth hormone agonist	0.230	COMP994	(0.221 COMP2318)
+Guanylate cyclase inhibitor	0.075	COMP1757	(0.071 COMP994) (0.063 COMP2318)
+HCV NS3/NS4A protease inhibitor	0.057	COMP994	(0.055 COMP2318)
+HCV NS5A inhibitor	0.037	COMP2318	
+HCV NS5B polymerase inhibitor	0.041	COMP994	(0.031 COMP2318)
+HIV-1 integrase (3'-Processing) inhibitor	0.602	COMP891	(0.333 COMP2319) (0.235 COMP994) (0.101 COMP1562) (0.072 COMP1757) (0.067 COMP2320)
+HIV-1 integrase (Overall Integration) inhibitor	0.263	COMP994	(0.232 COMP2318) (0.133 COMP2319) (0.121 COMP1757)
+HIV-1 integrase (Strand Transfer) inhibitor	0.548	COMP891	(0.333 COMP2319) (0.249 COMP994) (0.104 COMP1757) (0.087 COMP1562) (0.055 COMP2320)
+HIV-1 integrase inhibitor	0.228	COMP891	(0.204 COMP994) (0.172 COMP2319) (0.118 COMP1757)
+HIV-1 reverse transcriptase inhibitor	0.106	COMP891	
+HMG CoA reductase inhibitor	0.068	COMP994	(0.047 COMP2320) (0.041 COMP891)
+Heat shock protein 70 antagonist	0.203	COMP994	(0.183 COMP2319) (0.171 COMP2318) (0.167 COMP891) (0.130 COMP1562)
+Heat shock protein 90 alpha antagonist	0.210	COMP2318	(0.142 COMP2319)
+Heat shock protein 90 antagonist	0.210	COMP2318	(0.184 COMP2319) (0.122 COMP1757)
+Heat shock protein 90 beta antagonist	0.082	COMP2318	
+Hedgehog signaling activator	0.035	COMP2318	(0.030 COMP994)
+Hematopoietic	0.086	COMP994	
+Heme oxygenase inhibitor	0.053	COMP2318	(0.046 COMP994)
+Heme oxygenase stimulant	0.110	COMP2314	(0.109 COMP2313) (0.068 COMP891)
+Hemostatic	0.457	COMP1562	(0.221 COMP2319) (0.160 COMP2313) (0.155 COMP1757) (0.153 COMP2314) (0.143 COMP2318) (0.137 COMP994)
+Heparanase inhibitor	0.073	COMP994	(0.072 COMP1562) (0.062 COMP2318) (0.056 COMP891)
+Hepatoprotectant	0.825	COMP2313/COMP2314	(0.669 COMP1562) (0.477 COMP2319) (0.459 COMP891) (0.369 COMP2320) (0.337 COMP994) (0.177 COMP1757)
+Hexokinase inhibitor	0.254	COMP2318	(0.239 COMP1562) (0.198 COMP994) (0.122 COMP2319)
+Histamine H1 receptor agonist	0.063	COMP2318	
+Histamine H1 receptor antagonist	0.080	COMP2318	(0.071 COMP1757)
+Histamine H2 receptor agonist	0.054	COMP2318	
+Histamine H2 receptor antagonist	0.086	COMP2318	
+Histamine H4 receptor antagonist	0.055	COMP2318	
+Histamine N-methyltransferase inhibitor	0.158	COMP2318	(0.100 COMP994)
+Histamine release inhibitor	0.717	COMP1562	(0.630 COMP2319) (0.570 COMP994) (0.546 COMP2318) (0.447 COMP1757) (0.303 COMP2313) (0.285 COMP891) (0.261 COMP2314)
+Histidine decarboxylase inhibitor	0.440	COMP994	(0.167 COMP1562) (0.156 COMP2319) (0.130 COMP2318) (0.125 COMP891)
+Histone acetyltransferase inhibitor	0.220	COMP2318	(0.198 COMP2319) (0.151 COMP994)
+Histone deacetylase 7 inhibitor	0.050	COMP2318	
+Histone deacetylase 8 inhibitor	0.044	COMP2318	
+Histone deacetylase 9 inhibitor	0.048	COMP2318	
+Histone deacetylase SIRT1 inhibitor	0.115	COMP2318	
+Histone deacetylase SIRT1 stimulant	0.220	COMP2319	(0.157 COMP1562) (0.072 COMP2314) (0.066 COMP2313)
+Histone deacetylase SIRT2 inhibitor	0.072	COMP2318	
+Histone deacetylase class III inhibitor	0.097	COMP2318	
+Histone deacetylase inhibitor	0.060	COMP2318	
+Histone deacetylase stimulant	0.220	COMP2319	(0.157 COMP1562) (0.072 COMP2314) (0.066 COMP2313)
+Human herpes virus 5 capsid protein P40 inhibitor	0.012	COMP2318	
+Human rhinovirus A protease inhibitor	0.189	COMP994	
+Hypoglycemic	0.788	COMP1562	(0.730 COMP2313) (0.725 COMP2314) (0.553 COMP994) (0.440 COMP2319) (0.381 COMP891) (0.308 COMP2320) (0.255 COMP1757)
+Hypolipemic	0.574	COMP994	(0.510 COMP891) (0.335 COMP2313) (0.332 COMP2314) (0.269 COMP1562) (0.204 COMP2320)
+Hypoxanthine phosphoribosyltransferase inhibitor	0.049	COMP2318	(0.048 COMP994)
+I kappa B kinase 1 inhibitor	0.112	COMP2318	
+I kappa B kinase 2 inhibitor	0.074	COMP2318	
+I kappa B kinase epsilon inhibitor	0.231	COMP2318	(0.149 COMP2319)
+I kappa B kinase inhibitor	0.090	COMP2318	
+ICAM 1 antagonist	0.039	COMP994	(0.022 COMP2318)
+Ileal bile acid transport inhibitor	0.017	COMP994	
+Imidazoline I1 receptor antagonist	0.060	COMP2318	
+Imidazoline I2 receptor antagonist	0.032	COMP2318	
+Immunoglobulin Fc receptor antagonist	0.074	COMP2318	(0.059 COMP994)
+Immunomodulator	0.479	COMP2313	(0.467 COMP994) (0.454 COMP2314) (0.393 COMP1562) (0.191 COMP2320)
+Immunostimulant	0.925	COMP2313	(0.919 COMP2314) (0.608 COMP1562) (0.418 COMP891) (0.352 COMP994) (0.223 COMP2320) (0.200 COMP2318) (0.197 COMP2319)
+Immunosuppressant	0.706	COMP2320	(0.635 COMP891) (0.574 COMP2313) (0.561 COMP2314) (0.528 COMP1562) (0.468 COMP994) (0.271 COMP2319) (0.241 COMP1757) (0.219 COMP2318)
+Immunosuppressant Cyclosporine-like	0.015	COMP994	
+Inducible nitric-oxide synthase inhibitor	0.339	COMP2320	(0.281 COMP2314) (0.280 COMP2313) (0.102 COMP994) (0.086 COMP2319) (0.081 COMP2318)
+Inosine monophosphate dehydrogenase inhibitor	0.034	COMP2318	
+Insulin growth factor antagonist	0.094	COMP1757	
+Insulin like growth factor 1 antagonist	0.083	COMP1757	
+Insulin receptor antagonist	0.086	COMP2318	
+Insulin secretagoues	0.640	COMP2313	(0.635 COMP2314) (0.331 COMP1562) (0.291 COMP994) (0.200 COMP2319) (0.152 COMP891)
+Insulin sensitizer	0.290	COMP994	(0.254 COMP891) (0.219 COMP2319) (0.207 COMP2318) (0.196 COMP2314) (0.193 COMP1562) (0.176 COMP2313)
+Insulysin inhibitor	0.354	COMP994	(0.302 COMP2318) (0.240 COMP2319)
+Integrin alpha1beta1 antagonist	0.068	COMP994	
+Integrin alpha2 antagonist	0.057	COMP994	(0.041 COMP2318)
+Integrin alpha2beta1 antagonist	0.042	COMP994	(0.030 COMP2318)
+Integrin alpha4 antagonist	0.075	COMP994	
+Integrin alpha4beta7 antagonist	0.035	COMP994	
+Integrin alpha5beta1 antagonist	0.048	COMP994	
+Integrin alpha5beta6 antagonist	0.009	COMP994	(0.006 COMP2318)
+Integrin alphaLbeta2 antagonist	0.022	COMP994	
+Integrin alphaVbeta1 antagonist	0.025	COMP994	
+Integrin alphaVbeta3 antagonist	0.028	COMP994	
+Integrin alphaVbeta6 antagonist	0.013	COMP994	
+Integrin antagonist	0.275	COMP994	
+Integrin beta2 antagonist	0.026	COMP994	
+Integrin beta3 antagonist	0.110	COMP994	
+Integrin beta5 antagonist	0.166	COMP994	
+Integrin beta6 antagonist	0.017	COMP994	
+Integrin beta7 antagonist	0.032	COMP994	
+Interferon agonist	0.120	COMP994	(0.096 COMP2318) (0.091 COMP1562)
+Interferon gamma antagonist	0.675	COMP2314	(0.661 COMP2313) (0.487 COMP891) (0.482 COMP1562) (0.304 COMP994) (0.301 COMP2320) (0.220 COMP1757) (0.182 COMP2319) (0.161 COMP2318)
+Interferon inducer	0.096	COMP994	(0.072 COMP2318) (0.059 COMP1562)
+Interleukin 1 antagonist	0.264	COMP2320	(0.155 COMP891) (0.147 COMP994)
+Interleukin 1 beta converting enzyme inhibitor	0.147	COMP994	(0.124 COMP2318)
+Interleukin 12 antagonist	0.214	COMP1562	(0.091 COMP2319) (0.086 COMP2314)
+Interleukin 1b antagonist	0.238	COMP2320	(0.146 COMP2314) (0.136 COMP2313) (0.123 COMP891) (0.107 COMP994) (0.098 COMP1562) (0.094 COMP2318)
+Interleukin 2 agonist	0.433	COMP2314	(0.427 COMP2313) (0.426 COMP1562) (0.425 COMP994) (0.335 COMP891) (0.247 COMP1757)
+Interleukin 2 antagonist	0.108	COMP2320	
+Interleukin 4 antagonist	0.333	COMP2319	(0.262 COMP1562) (0.173 COMP891) (0.124 COMP994)
+Interleukin 5 antagonist	0.122	COMP2319	(0.121 COMP1562) (0.090 COMP891)
+Interleukin 6 antagonist	0.433	COMP1562	(0.410 COMP2320) (0.296 COMP2314) (0.282 COMP2313) (0.205 COMP2319) (0.173 COMP891)
+Interleukin 8 antagonist	0.182	COMP994	(0.126 COMP2318)
+Interleukin agonist	0.372	COMP994	(0.340 COMP1562) (0.315 COMP891) (0.264 COMP2318) (0.241 COMP2314) (0.225 COMP1757) (0.212 COMP2313)
+Interleukin antagonist	0.335	COMP994	(0.229 COMP1562) (0.208 COMP2320) (0.182 COMP2319) (0.162 COMP891)
+Interleukin-1 receptor-associated protein kinase 1 inhibitor	0.200	COMP2318	
+Isoleucine-tRNA ligase inhibitor	0.038	COMP994	(0.024 COMP2318)
+Kainate receptor 1 antagonist	0.051	COMP994	
+Kainate receptor 2 antagonist	0.091	COMP994	(0.034 COMP2318)
+Kainate receptor 3 antagonist	0.018	COMP994	
+Kainate receptor 5 antagonist	0.020	COMP994	
+Kainate receptor agonist	0.124	COMP994	(0.055 COMP2318) (0.050 COMP891)
+Kainate receptor antagonist	0.088	COMP994	(0.039 COMP2318)
+Keratolytic	0.268	COMP994	(0.250 COMP891) (0.126 COMP2319) (0.092 COMP2318)
+Kynurenine 3 monooxygenase inhibitor	0.163	COMP994	(0.025 COMP2318)
+LFA antagonist	0.058	COMP994	
+LIM domain kinase 1 inhibitor	0.241	COMP2318	
+Lanosterol 14 alpha demethylase inhibitor	0.172	COMP2318	(0.137 COMP994)
+Leukocyte elastase inhibitor	0.050	COMP994	
+Leukotriene B4 antagonist	0.162	COMP891	(0.108 COMP994) (0.054 COMP2318) (0.049 COMP2319)
+Leukotriene B4 receptor 1 antagonist	0.373	COMP994	(0.045 COMP891)
+Leukotriene B4 receptor 2 antagonist	0.110	COMP994	(0.052 COMP891)
+Leukotriene C antagonist	0.075	COMP994	(0.057 COMP2318/COMP2319) (0.053 COMP891)
+Leukotriene C4 antagonist	0.052	COMP994	(0.037 COMP2318) (0.036 COMP2319)
+Leukotriene D4 antagonist	0.028	COMP994	
+Leukotriene antagonist	0.169	COMP891	(0.136 COMP994) (0.070 COMP2319)
+Leukotriene synthesis inhibitor	0.138	COMP994	(0.101 COMP2319) (0.080 COMP2318)
+Lipase inhibitor	0.199	COMP2313	(0.190 COMP2314) (0.158 COMP1562) (0.131 COMP891) (0.124 COMP2319)
+Lipid peroxidase inhibitor	0.491	COMP891	(0.475 COMP2319) (0.467 COMP1562) (0.421 COMP2313) (0.415 COMP2314) (0.247 COMP1757) (0.226 COMP994) (0.127 COMP2320)
+Lipocortins synthesis agonist	0.082	COMP2314	(0.081 COMP2313) (0.075 COMP2320) (0.066 COMP891) (0.059 COMP994) (0.057 COMP1562)
+Lipocortins synthesis antagonist	0.275	COMP2314	(0.271 COMP994) (0.270 COMP2313) (0.226 COMP891)
+Lipoxygenase inhibitor	0.700	COMP2319	(0.298 COMP994) (0.283 COMP891) (0.257 COMP2318)
+Liver X receptor agonist	0.051	COMP2318	
+Liver X receptor alpha agonist	0.072	COMP2318	(0.050 COMP994)
+Liver X receptor antagonist	0.052	COMP2318	
+Liver X receptor beta agonist	0.058	COMP2318	(0.033 COMP994)
+Lysine carboxypeptidase inhibitor	0.067	COMP994	
+Lysophosphatidic acid 1 receptor antagonist	0.047	COMP994	
+Lysophosphatidic acid 2 receptor antagonist	0.171	COMP994	(0.031 COMP2318)
+Lysophosphatidic acid 3 receptor antagonist	0.139	COMP994	(0.074 COMP2318)
+Lysophosphatidic acid receptor 3 agonist	0.034	COMP994	(0.017 COMP2318)
+M18 aspartyl aminopeptidase inhibitor	0.372	COMP891	(0.277 COMP2319) (0.158 COMP1757)
+MAO A inhibitor	0.512	COMP2319	(0.122 COMP2318)
+MAO B inhibitor	0.302	COMP2319	(0.084 COMP2318)
+MAO inhibitor	0.541	COMP2319	(0.122 COMP2318)
+MAP kinase 12 inhibitor	0.102	COMP2318	
+MAP kinase 13 inhibitor	0.111	COMP2318	
+MAP kinase 3 inhibitor	0.171	COMP2318	(0.128 COMP994)
+MAP kinase kinase 1 inhibitor	0.118	COMP2318	(0.085 COMP994)
+MAP kinase kinase 2 inhibitor	0.256	COMP2318	
+MAP kinase kinase 4 inhibitor	0.245	COMP2318	
+MAP kinase kinase 6 inhibitor	0.278	COMP2318	(0.270 COMP1757)
+MAP kinase kinase 7 inhibitor	0.096	COMP994	(0.091 COMP2318) (0.073 COMP1757)
+MAP kinase kinase inhibitor	0.118	COMP2318	
+MAP kinase kinase kinase inhibitor	0.140	COMP2318	
+MAP-kinase-activated kinase 5 inhibitor	0.232	COMP2318	
+MAP3K5 inhibitor	0.045	COMP2318	
+MAP3K8 inhibitor	0.031	COMP2318	
+MAP3K9 inhibitor	0.375	COMP2318	
+MDM2 inhibitor	0.107	COMP994	(0.079 COMP2318)
+Macrophage elastase inhibitor	0.048	COMP994	
+Macrophage migration inhibitory factor inhibitor	0.175	COMP2319	(0.147 COMP994) (0.098 COMP2318) (0.071 COMP891)
+Maillard reaction inhibitor	0.119	COMP994	(0.084 COMP2319) (0.047 COMP1562)
+Mannitol 2-dehydrogenase inhibitor	0.008	COMP994	
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.196	COMP994	(0.122 COMP2318) (0.050 COMP1562)
+Mannose-6-phosphate isomerase inhibitor	0.274	COMP994	(0.238 COMP2319) (0.232 COMP2318) (0.129 COMP1562)
+Mannosidase inhibitor	0.096	COMP994	(0.078 COMP1562) (0.062 COMP2318) (0.053 COMP2314) (0.048 COMP2313)
+Mcl-1 antagonist	0.321	COMP2319	(0.245 COMP2318)
+Mediator release inhibitor	0.594	COMP1562	(0.255 COMP2319) (0.142 COMP994) (0.113 COMP1757) (0.111 COMP2318) (0.105 COMP891)
+Melanin inhibitor	0.958	COMP1562	(0.860 COMP891) (0.512 COMP2319) (0.358 COMP2314) (0.325 COMP2313) (0.301 COMP2320) (0.217 COMP994) (0.189 COMP2318) (0.131 COMP1757)
+Melatonin 1 antagonist	0.033	COMP2318	
+Melatonin 2 agonist	0.035	COMP1757	
+Melatonin 2 antagonist	0.015	COMP1757	(0.014 COMP2318)
+Melatonin agonist	0.046	COMP2318	(0.040 COMP1757)
+Melatonin antagonist	0.048	COMP2318	
+Membrane dipeptidase inhibitor	0.098	COMP994	(0.039 COMP2318)
+Metalloproteinase-2 inhibitor	0.079	COMP891/COMP994	
+Metalloproteinase-9 inhibitor	0.070	COMP994	
+Methionyl aminopeptidase 1 inhibitor	0.037	COMP994	
+Methionyl aminopeptidase 2 inhibitor	0.047	COMP891	(0.045 COMP994) (0.029 COMP2318)
+Methylmalonyl-CoA mutase inhibitor	0.026	COMP994	(0.019 COMP2318)
+Microtubule formation inhibitor	0.292	COMP2320	(0.251 COMP891) (0.216 COMP994) (0.167 COMP1562) (0.154 COMP2318) (0.126 COMP2314) (0.116 COMP2319) (0.114 COMP2313) (0.109 COMP1757)
+Microtubule stabilization	0.114	COMP2320	(0.059 COMP891) (0.056 COMP2313/COMP2314) (0.050 COMP1562)
+Mineralocorticoid receptor antagonist	0.049	COMP2318	
+Monophenol monooxygenase inhibitor	0.992	COMP1562	(0.814 COMP891) (0.622 COMP2314) (0.586 COMP2319) (0.565 COMP2313) (0.199 COMP994) (0.108 COMP2318)
+Motilin receptor agonist	0.030	COMP1562	
+Mucolytic	0.454	COMP1562	(0.216 COMP994) (0.178 COMP891) (0.142 COMP2319) (0.126 COMP2318) (0.115 COMP2320) (0.111 COMP1757)
+Multidrug resistance-associated protein 1 inhibitor	0.355	COMP2319	(0.165 COMP1562)
+Myeloperoxidase inhibitor	0.171	COMP2319	(0.097 COMP2318) (0.081 COMP994)
+Myristoyl transferase inhibitor	0.030	COMP2318	
+N-Acetylated alpha-linked acidic dipeptidase inhibitor	0.028	COMP994	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.284	COMP2319	(0.168 COMP2318) (0.141 COMP994) (0.125 COMP891) (0.122 COMP1562)
+NADH dehydrogenase inhibitor	0.362	COMP994	(0.174 COMP2318) (0.147 COMP1562) (0.097 COMP891) (0.085 COMP2319)
+NADPH oxidase inhibitor	0.656	COMP2319	(0.199 COMP1757) (0.185 COMP2318)
+NMDA 2 receptor antagonist	0.112	COMP1757	(0.090 COMP2318) (0.068 COMP994)
+NMDA 2A receptor antagonist	0.068	COMP2318	(0.058 COMP994)
+NMDA 2B receptor antagonist	0.081	COMP1757	
+NMDA receptor agonist	0.280	COMP994	(0.070 COMP2318)
+NMDA receptor antagonist	0.109	COMP994	(0.108 COMP1757) (0.098 COMP2318)
+NMDA receptor glycine site agonist	0.139	COMP994	(0.082 COMP2318)
+NMDA receptor glycine site antagonist	0.044	COMP994	
+NMDA receptor phencyclidine site antagonist	0.032	COMP1757	(0.018 COMP2318)
+NMDA receptor subunit 3A antagonist	0.070	COMP994	(0.045 COMP2318)
+NMDA receptor subunit 3B antagonist	0.073	COMP994	(0.057 COMP2318)
+NOS3 expression enhancer	0.767	COMP891	(0.552 COMP1562) (0.491 COMP2318) (0.487 COMP994) (0.290 COMP2319) (0.255 COMP2314) (0.240 COMP2313)
+Na+ K+ transporting ATPase inhibitor	0.386	COMP2314	(0.351 COMP2313) (0.158 COMP1562) (0.122 COMP891) (0.120 COMP2320/COMP994) (0.095 COMP2318) (0.088 COMP2319)
+Nav1.1 sodium channel blocker	0.189	COMP2318	(0.172 COMP1757)
+Nav1.2 sodium channel blocker	0.186	COMP2318	
+Nav1.3 sodium channel blocker	0.142	COMP2318	
+Nav1.5 sodium channel blocker	0.151	COMP2318	
+Nav1.6 sodium channel blocker	0.208	COMP2318	(0.125 COMP1757)
+Nav1.7 sodium channel blocker	0.082	COMP2318	
+Nerve growth factor antagonist	0.075	COMP2318	(0.053 COMP994)
+Neuraminidase (Influenza A) inhibitor	0.086	COMP891	(0.085 COMP2319) (0.048 COMP1562) (0.044 COMP2314) (0.042 COMP2313)
+Neuraminidase (Influenza B) inhibitor	0.029	COMP994	(0.020 COMP2318)
+Neuraminidase (influenza) inhibitor	0.173	COMP891	(0.146 COMP2319) (0.110 COMP1562) (0.060 COMP2314) (0.059 COMP2313)
+Neuraminidase inhibitor	0.156	COMP891	(0.126 COMP2319) (0.117 COMP1562)
+Neuronal nicotinic receptor antagonist	0.106	COMP1757	(0.073 COMP2318)
+Neuropeptide Y1 antagonist	0.133	COMP2318	
+Neuropeptide Y2 antagonist	0.226	COMP2318	(0.211 COMP994)
+Neurotensin receptor agonist	0.222	COMP994	(0.204 COMP2318) (0.143 COMP2319)
+Neurotrophic factor	0.418	COMP891	(0.156 COMP994) (0.139 COMP1757) (0.120 COMP1562)
+Neurotrophic factor enhancer	0.635	COMP1562	(0.357 COMP994) (0.348 COMP2318) (0.240 COMP1757) (0.230 COMP2319) (0.218 COMP891)
+Neutrophil collagenase inhibitor	0.058	COMP994	
+Nicotinic acid receptor 1 antagonist	0.022	COMP994	(0.021 COMP2318)
+Nicotinic acid receptor 2 antagonist	0.044	COMP994	(0.036 COMP2318)
+Nicotinic acid receptor agonist	0.112	COMP994	(0.034 COMP2318)
+Nicotinic alpha3beta2 receptor antagonist	0.099	COMP2318	(0.052 COMP994)
+Nicotinic alpha3beta4 receptor agonist	0.046	COMP1757	(0.042 COMP2318)
+Nicotinic alpha4beta2 receptor agonist	0.033	COMP2318	
+Nicotinic alpha4beta2 receptor antagonist	0.122	COMP2318	(0.100 COMP1757) (0.074 COMP994)
+Nicotinic alpha7 receptor agonist	0.071	COMP2318	
+Nicotinic neuronal receptor agonist	0.067	COMP2318	
+Nicotinic receptor alpha3 subunit antagonist	0.046	COMP2318	
+Nicotinic receptor alpha7 subunit antagonist	0.058	COMP2318	(0.052 COMP1757)
+Nitric oxide antagonist	0.892	COMP2313/COMP2314	(0.849 COMP2320) (0.730 COMP1562) (0.598 COMP891) (0.520 COMP2319) (0.336 COMP994) (0.237 COMP1757)
+Nitric oxide donor	0.102	COMP2314	(0.100 COMP2313) (0.074 COMP1562/COMP891)
+Nitric-oxide synthase inhibitor	0.162	COMP2320	(0.099 COMP994) (0.094 COMP2318)
+Nitric-oxide synthase stimulant	0.426	COMP1562	(0.353 COMP2319) (0.278 COMP994) (0.256 COMP2318) (0.172 COMP891) (0.169 COMP1757)
+Nociceptin (N/OFQ) receptor agonist	0.042	COMP1757	
+Nociceptin (N/OFQ) receptor antagonist	0.051	COMP1757	
+Non-steroidal antiinflammatory agent	0.325	COMP2319	(0.289 COMP994) (0.267 COMP2313) (0.242 COMP2314) (0.223 COMP2318) (0.217 COMP1562) (0.184 COMP1757) (0.143 COMP2320)
+Oleamide hydrolase inhibitor	0.049	COMP2318	
+Opioid agonist	0.116	COMP1757	
+Opioid antagonist	0.209	COMP1757	
+Opioid delta receptor agonist	0.035	COMP2318	(0.033 COMP1757)
+Opioid delta receptor antagonist	0.140	COMP1757	
+Opioid kappa receptor agonist	0.146	COMP1757	(0.043 COMP891)
+Opioid kappa receptor antagonist	0.279	COMP1757	
+Opioid mu receptor agonist	0.090	COMP1757	
+Opioid mu receptor antagonist	0.164	COMP1757	
+Orexin receptor 1 antagonist	0.070	COMP2318	
+Ornithine carbamoyltransferase inhibitor	0.217	COMP994	(0.065 COMP2318)
+Ornithine decarboxylase inhibitor	0.179	COMP994	(0.128 COMP891) (0.114 COMP1562) (0.109 COMP2318) (0.102 COMP2319)
+Oxytocin agonist	0.045	COMP994	(0.042 COMP2318)
+P-glycoprotein inhibitor	0.666	COMP891	(0.648 COMP2319) (0.313 COMP2320) (0.268 COMP1562) (0.244 COMP1757) (0.171 COMP2314) (0.169 COMP2313)
+Parathyroid hormone antagonist	0.068	COMP2320	
+Peptide deformylase inhibitor	0.027	COMP994	
+Peptidyltransferase inhibitor	0.388	COMP1562	(0.316 COMP2314/COMP891) (0.311 COMP2313) (0.302 COMP994) (0.169 COMP2320)
+Peroxidase inhibitor	0.621	COMP2319	(0.584 COMP994) (0.496 COMP2318)
+Peroxisome proliferator-activated receptor alpha agonist	0.105	COMP994	
+Peroxisome proliferator-activated receptor alpha antagonist	0.036	COMP994	
+Peroxisome proliferator-activated receptor delta agonist	0.065	COMP994	
+Peroxisome proliferator-activated receptor delta antagonist	0.125	COMP994	
+Peroxisome proliferator-activated receptor gamma agonist	0.341	COMP994	
+Peroxisome proliferator-activated receptor gamma antagonist	0.098	COMP994	(0.066 COMP2318)
+Phenylalanine 4-hydroxylase inhibitor	0.315	COMP994	(0.242 COMP2318) (0.086 COMP891)
+Phenylethanolamine N methyltransferase inhibitor	0.046	COMP1757	(0.039 COMP2318)
+Phosphodiesterase 11A inhibitor	0.083	COMP1757	
+Phosphodiesterase 1A inhibitor	0.082	COMP2318	
+Phosphodiesterase 1B inhibitor	0.091	COMP2318	
+Phosphodiesterase 1C inhibitor	0.101	COMP2318	(0.076 COMP2319)
+Phosphodiesterase 3A inhibitor	0.103	COMP2318	
+Phosphodiesterase 3B inhibitor	0.047	COMP1757	(0.043 COMP2318)
+Phosphodiesterase 4D inhibitor	0.064	COMP2319	
+Phosphodiesterase 6D inhibitor	0.193	COMP1562	(0.111 COMP994) (0.110 COMP2318)
+Phosphodiesterase 7B inhibitor	0.143	COMP2318	
+Phosphodiesterase I inhibitor	0.109	COMP2318	(0.090 COMP1757) (0.088 COMP2319)
+Phosphodiesterase IV inhibitor	0.090	COMP2319	(0.078 COMP1757)
+Phosphodiesterase VI inhibitor	0.088	COMP1562	(0.074 COMP2318)
+Phosphodiesterase XI inhibitor	0.083	COMP1757	
+Phosphofructokinase-1 inhibitor	0.393	COMP994	(0.226 COMP1562) (0.143 COMP2318) (0.128 COMP891)
+Phosphoglycerate kinase inhibitor	0.051	COMP994	(0.039 COMP2318)
+Phospholipase A2 inhibitor	0.292	COMP994	(0.132 COMP2318) (0.125 COMP2319) (0.122 COMP891)
+Phospholipase C inhibitor	0.448	COMP891	(0.320 COMP994) (0.208 COMP2318) (0.175 COMP2314) (0.162 COMP2313)
+Phospholipase D inhibitor	0.119	COMP2318	(0.111 COMP994)
+Phosphorylase inhibitor	0.560	COMP2314	(0.487 COMP2313) (0.126 COMP891) (0.088 COMP994) (0.043 COMP1562)
+Photosensitizer	0.286	COMP2318	(0.260 COMP1562) (0.211 COMP994) (0.135 COMP2319)
+Pim-2 kinase inhibitor	0.049	COMP2318	
+Pim-3 kinase inhibitor	0.100	COMP2318	
+Plasmepsin I inhibitor	0.028	COMP994	
+Plasmepsin II inhibitor	0.045	COMP2318	
+Plasminogen activator inhibitor antagonist	0.158	COMP994	
+Platelet adhesion inhibitor	0.543	COMP2313	(0.536 COMP2314) (0.497 COMP994) (0.460 COMP1562) (0.422 COMP891) (0.325 COMP2319)
+Platelet aggregation inhibitor	0.309	COMP994	
+Platelet antagonist	0.745	COMP994	(0.271 COMP1562) (0.194 COMP891) (0.168 COMP2313/COMP2314)
+Platelet growth factor antagonist	0.071	COMP2318	
+Polo-like kinase-4 inhibitor	0.107	COMP2318	
+Porphobilinogen synthase inhibitor	0.578	COMP994	(0.233 COMP2318)
+Potassium channel (ATP-sensitive) activator	0.053	COMP2318	
+Potassium channel (ATP-sensitive) blocker	0.065	COMP2318	
+Potassium channel (Ca-activated) activator	0.130	COMP994	(0.116 COMP2318)
+Potassium channel (Ca-activated) blocker	0.081	COMP2318	(0.077 COMP1757)
+Potassium channel (Inward rectifier) activator	0.056	COMP2318	
+Potassium channel (Inward rectifier) blocker	0.057	COMP2318	
+Potassium channel (Voltage-sensitive) activator	0.098	COMP2318	
+Potassium channel Kv1.1 blocker	0.041	COMP2318	
+Potassium channel Kv1.3 blocker	0.129	COMP2319	(0.058 COMP2318) (0.041 COMP994)
+Potassium channel activator	0.090	COMP2318	
+Potassium channel intermediate-conductance Ca-activated blocker	0.117	COMP2318	(0.059 COMP994)
+Potassium channel small-conductance Ca-activated activator	0.039	COMP2318	
+Potassium channel small-conductance Ca-activated blocker	0.069	COMP2318	(0.063 COMP1757)
+Pregnane X receptor agonist	0.172	COMP2318	(0.147 COMP994)
+Pregnane X receptor antagonist	0.087	COMP994	(0.072 COMP2318)
+Progesterone agonist	0.018	COMP2318	
+Progesterone antagonist	0.061	COMP2318	
+Progesterone receptor A antagonist	0.020	COMP2318	
+Progesterone receptor B antagonist	0.021	COMP2318	(0.019 COMP2320)
+Prolactin inhibitor	0.270	COMP1757	(0.199 COMP994) (0.190 COMP2318)
+Prolactin release inhibitor	0.099	COMP1757	(0.064 COMP2318)
+Prolyl endopeptidase inhibitor	0.057	COMP2318	(0.054 COMP891) (0.047 COMP994)
+Prostacyclin agonist	0.058	COMP994	
+Prostacyclin antagonist	0.115	COMP994	
+Prostaglandin D2 agonist	0.089	COMP994	(0.028 COMP891)
+Prostaglandin D2 antagonist	0.339	COMP994	
+Prostaglandin E2 agonist	0.063	COMP994	(0.021 COMP891)
+Prostaglandin E2 antagonist	0.266	COMP994	
+Prostaglandin EP1 antagonist	0.055	COMP994	
+Prostaglandin EP2 agonist	0.063	COMP994	(0.021 COMP891)
+Prostaglandin EP2 antagonist	0.494	COMP994	(0.108 COMP891)
+Prostaglandin EP3 antagonist	0.267	COMP994	
+Prostaglandin EP4 agonist	0.077	COMP994	
+Prostaglandin EP4 antagonist	0.064	COMP994	
+Prostaglandin F2 alpha agonist	0.066	COMP994	(0.024 COMP891) (0.021 COMP2318)
+Prostaglandin F2 alpha antagonist	0.112	COMP994	(0.056 COMP891)
+Prostaglandin H2 antagonist	0.057	COMP994	
+Prostaglandin agonist	0.138	COMP994	(0.042 COMP891)
+Prostaglandin antagonist	0.565	COMP994	
+Prostaglandin dehydrogenase inhibitor	0.540	COMP2319	(0.275 COMP2318)
+Prostaglandin-E synthase inhibitor	0.079	COMP2318	(0.075 COMP994)
+Protease (Human cytomegalovirus) inhibitor	0.024	COMP2318	
+Protease 3C (Human rhinovirus) inhibitor	0.101	COMP994	(0.085 COMP2318)
+Protease activated receptor antagonist	0.085	COMP2319	
+Protease inhibitor	0.164	COMP994	(0.090 COMP2314) (0.085 COMP2313)
+Proteasome inhibitor	0.152	COMP891	(0.136 COMP994) (0.112 COMP2318) (0.098 COMP2319)
+Protein 30S ribosomal subunit inhibitor	0.091	COMP1562	(0.069 COMP2313) (0.063 COMP2314)
+Protein 50S ribosomal subunit inhibitor	0.151	COMP1562	(0.124 COMP2320) (0.110 COMP2313) (0.109 COMP2314) (0.089 COMP891) (0.064 COMP994)
+Protein kinase (CK1) epsilon inhibitor	0.036	COMP2318	
+Protein kinase (CK1) gamma 1 inhibitor	0.188	COMP2318	
+Protein kinase (CK1) gamma 2 inhibitor	0.185	COMP2318	
+Protein kinase (CK1) gamma 3 inhibitor	0.191	COMP2318	
+Protein kinase (CK1) gamma inhibitor	0.190	COMP2318	
+Protein kinase (CK2) alpha inhibitor	0.168	COMP2319	(0.116 COMP994) (0.115 COMP2318)
+Protein kinase (CK2) beta inhibitor	0.034	COMP2318	(0.033 COMP2319/COMP994)
+Protein kinase (CK2) inhibitor	0.123	COMP2319	(0.098 COMP2318) (0.093 COMP994)
+Protein kinase (CaMK. MLCK. PhK. SNF. KIN. NIM1. MAPKAP. POLO. CHK. ULK. RSK-2nd domain) inhibitor	0.066	COMP2318	
+Protein kinase A inhibitor	0.100	COMP2318	(0.086 COMP891)
+Protein kinase B beta inhibitor	0.066	COMP2318	
+Protein kinase C alpha inhibitor	0.122	COMP2318	
+Protein kinase C beta inhibitor	0.101	COMP2318	
+Protein kinase C delta inhibitor	0.199	COMP2318	
+Protein kinase C epsilon inhibitor	0.063	COMP2318	
+Protein kinase C eta inhibitor	0.113	COMP2319	(0.087 COMP2318) (0.049 COMP1562)
+Protein kinase C gamma inhibitor	0.203	COMP2318	
+Protein kinase C iota inhibitor	0.061	COMP2318	
+Protein kinase C mu inhibitor	0.170	COMP2318	
+Protein kinase C nu inhibitor	0.383	COMP2318	
+Protein kinase C theta inhibitor	0.065	COMP2318	
+Protein kinase C zeta inhibitor	0.250	COMP2319	(0.191 COMP2318) (0.099 COMP1757)
+Protein kinase stimulant	0.649	COMP1562	(0.607 COMP2320) (0.472 COMP891) (0.344 COMP2319) (0.311 COMP2314) (0.290 COMP994) (0.275 COMP2313) (0.244 COMP1757) (0.159 COMP2318)
+Protein-tyrosine kinase (PTK. not ETK. WZC) inhibitor	0.117	COMP2318	
+Protein-tyrosine phosphatase 1B inhibitor	0.455	COMP2314	(0.444 COMP2313) (0.362 COMP994) (0.218 COMP2319) (0.208 COMP1562) (0.135 COMP891) (0.122 COMP2318) (0.092 COMP2320)
+Protein-tyrosine phosphatase inhibitor	0.456	COMP994	(0.444 COMP2314) (0.434 COMP2313) (0.293 COMP2319) (0.235 COMP1562) (0.187 COMP2318) (0.156 COMP891)
+Proto-oncogene tyrosine-protein kinase Fyn inhibitor	0.144	COMP2319	
+Proto-oncogene tyrosine-protein kinase Yes inhibitor	0.222	COMP2319	
+Protocollagen prolyl hydroxylase inhibitor	0.036	COMP994	
+Psychostimulant	0.415	COMP1757	(0.208 COMP994) (0.188 COMP2318) (0.134 COMP1562)
+Purinergic P2T antagonist	0.025	COMP994	
+Purinergic P2X1 antagonist	0.141	COMP994	(0.102 COMP2318)
+Purinergic P2X4 antagonist	0.058	COMP2318	
+Purinergic P2Y antagonist	0.057	COMP994	(0.042 COMP2318)
+Purinergic P2Y1 agonist	0.018	COMP994	(0.015 COMP2318)
+Purinergic P2Y12 antagonist	0.022	COMP994	
+Purinergic P2Y14 antagonist	0.153	COMP2318	
+Purinergic P2Y15 antagonist	0.037	COMP2318/COMP994	
+Purinergic P2Y2 agonist	0.009	COMP2318	
+Pyruvate kinase inhibitor	0.501	COMP2319	(0.377 COMP994) (0.194 COMP2318) (0.190 COMP891)
+RNA-directed RNA polymerase inhibitor	0.060	COMP994	(0.038 COMP2318)
+RNA-directed RNA polymerase stimulant	0.065	COMP2314	(0.063 COMP2313)
+Retinoic acid alpha receptor agonist	0.204	COMP994	(0.047 COMP891) (0.040 COMP2318)
+Retinoic acid alpha receptor antagonist	0.130	COMP994	(0.023 COMP2318)
+Retinoic acid beta receptor agonist	0.203	COMP994	(0.020 COMP2318)
+Retinoic acid beta receptor antagonist	0.094	COMP994	(0.011 COMP2318)
+Retinoic acid gamma receptor agonist	0.128	COMP994	(0.022 COMP891)
+Retinoic acid receptor agonist	0.174	COMP994	(0.027 COMP891)
+Retinoic acid receptor antagonist	0.122	COMP994	(0.021 COMP2318) (0.017 COMP891)
+Retinoic acid receptor gamma antagonist	0.083	COMP994	
+Retinoid X alpha receptor agonist	0.140	COMP994	(0.080 COMP2318)
+Retinoid X alpha receptor antagonist	0.067	COMP994	(0.046 COMP2318)
+Retinoid X beta receptor agonist	0.340	COMP994	
+Retinoid X beta receptor antagonist	0.056	COMP994	(0.026 COMP2318)
+Retinoid X gamma receptor agonist	0.212	COMP994	
+Retinoid X gamma receptor antagonist	0.140	COMP994	
+Retinoid X receptor agonist	0.140	COMP994	(0.072 COMP2318)
+Retinoid X receptor antagonist	0.077	COMP994	(0.053 COMP2318)
+Rho-associated kinase I inhibitor	0.072	COMP2318	
+Ribonucleotide reductase inhibitor	0.072	COMP994	
+Ribosomal protein S6 kinase inhibitor	0.150	COMP2318	
+Ryanodine receptor antagonist	0.079	COMP994	(0.078 COMP2319) (0.067 COMP2318) (0.060 COMP1757)
+S-adenosyl-L-methionine decarboxylase inhibitor	0.112	COMP2318	(0.099 COMP994)
+Secretase beta inhibitor	0.088	COMP2318	
+Selectin antagonist	0.411	COMP1562	(0.374 COMP2313) (0.355 COMP2314) (0.304 COMP891) (0.131 COMP994)
+Sigma 1 receptor antagonist	0.024	COMP1757	
+Sigma 2 receptor antagonist	0.072	COMP1757	
+Sigma receptor agonist	0.507	COMP1757	(0.138 COMP891)
+Sigma receptor antagonist	0.107	COMP1757	
+Sirtuin 1 inhibitor	0.061	COMP2318/COMP994	
+Sirtuin 2 inhibitor	0.054	COMP2318	
+Sodium channel (voltage-gated) blocker	0.162	COMP2318	
+Sodium channel blocker	0.150	COMP2318	
+Sodium/bile acid cotransporter inhibitor	0.405	COMP994	(0.300 COMP891) (0.283 COMP2314) (0.275 COMP2313) (0.223 COMP2319) (0.205 COMP1757)
+Sodium/glucose cotransporter 2 inhibitor	0.219	COMP1562	(0.030 COMP2318)
+Sodium/glucose cotransporter inhibitor	0.304	COMP1562	(0.027 COMP2318)
+Spasmolytic	0.603	COMP1757	(0.556 COMP1562) (0.468 COMP2319) (0.254 COMP994) (0.224 COMP2318) (0.210 COMP2320) (0.177 COMP891) (0.159 COMP2314)
+Sphingomyelinase inhibitor	0.189	COMP2318	(0.131 COMP994) (0.116 COMP2319)
+Sphingosine 1-phosphate receptor 1 agonist	0.049	COMP994	(0.042 COMP2318)
+Sphingosine 1-phosphate receptor 1 antagonist	0.063	COMP994	(0.061 COMP2318)
+Sphingosine 1-phosphate receptor 2 antagonist	0.170	COMP994	(0.156 COMP2318)
+Sphingosine 1-phosphate receptor 3 antagonist	0.062	COMP994	(0.058 COMP2318)
+Sphingosine 1-phosphate receptor 4 agonist	0.152	COMP2318	(0.145 COMP994)
+Sphingosine 1-phosphate receptor 4 antagonist	0.184	COMP2318	(0.163 COMP994)
+Sphingosine 1-phosphate receptor 5 agonist	0.095	COMP994	(0.057 COMP2318)
+Sphingosine 1-phosphate receptor 5 antagonist	0.193	COMP994	(0.190 COMP2318)
+Sphingosine 1-phosphate receptor agonist	0.050	COMP994	(0.044 COMP2318)
+Sphingosine 1-phosphate receptor antagonist	0.081	COMP994	(0.080 COMP2318)
+Sphingosine kinase 1 inhibitor	0.048	COMP2318	
+Sphingosine kinase 2 inhibitor	0.087	COMP2318	(0.058 COMP994)
+Sphingosine kinase inhibitor	0.073	COMP2318	(0.059 COMP994)
+Squalene epoxidase inhibitor	0.068	COMP2318	(0.059 COMP994) (0.052 COMP2319) (0.047 COMP891)
+Squalene synthetase inhibitor	0.158	COMP891	(0.144 COMP994)
+Steroid 17-alpha-hydroxylase/17.20 lyase inhibitor	0.022	COMP2318	
+Streptokinase A inhibitor	0.245	COMP2319	
+Succinate dehydrogenase inhibitor	0.892	COMP994	(0.284 COMP2318) (0.220 COMP891) (0.214 COMP2319) (0.156 COMP1757)
+Superoxide dismutase inhibitor	0.567	COMP994	(0.514 COMP2319) (0.437 COMP2318) (0.321 COMP1757) (0.276 COMP891)
+T cell inhibitor	0.361	COMP2320	(0.239 COMP2318) (0.102 COMP1562) (0.079 COMP891)
+TIE antagonist	0.197	COMP2318	
+TIE-2 antagonist	0.195	COMP2318	
+TRKA antagonist	0.131	COMP2318	
+TRPA1 agonist	0.163	COMP994	(0.145 COMP2318)
+TRPA1 antagonist	0.067	COMP2318	
+TRPM8 blocker	0.037	COMP2318	
+Telomerase inhibitor	0.383	COMP2318	(0.307 COMP2319)
+Telomerase stimulant	0.077	COMP2314	(0.071 COMP2313) (0.027 COMP994) (0.025 COMP1562) (0.019 COMP2318)
+Thiol protease inhibitor	0.206	COMP994	(0.155 COMP2318)
+Thioredoxin glutathione reductase inhibitor	0.376	COMP994	
+Thioredoxin inhibitor	0.176	COMP2320	(0.149 COMP994) (0.144 COMP1562) (0.138 COMP891) (0.137 COMP2319) (0.114 COMP2318)
+Thioredoxin reductase inhibitor	0.197	COMP2319	(0.128 COMP994) (0.102 COMP2318) (0.097 COMP891) (0.094 COMP2320) (0.083 COMP1562)
+Thrombolytic	0.296	COMP1562	(0.249 COMP2314) (0.243 COMP994) (0.237 COMP2313) (0.152 COMP891)
+Thromboxane A2 antagonist	0.115	COMP994	
+Thromboxane agonist	0.027	COMP994	
+Thromboxane antagonist	0.129	COMP994	
+Thromboxane synthase inhibitor	0.139	COMP994	(0.055 COMP2318)
+Thymidine kinase (Herpes simplex virus 1) inhibitor	0.035	COMP2318	(0.029 COMP994)
+Thymidine kinase (Herpes simplex virus 2) inhibitor	0.030	COMP2318	(0.024 COMP994)
+Thymidine kinase inhibitor	0.055	COMP994	(0.052 COMP2318)
+Thymidine phosphorylase inhibitor	0.029	COMP2318	(0.028 COMP994)
+Thymidylate synthase inhibitor	0.076	COMP994	(0.075 COMP2318)
+Thyroid hormone agonist	0.043	COMP994	
+Thyroid hormone alpha agonist	0.020	COMP994	
+Thyroid hormone alpha antagonist	0.015	COMP994	
+Thyroid hormone antagonist	0.197	COMP2319	(0.187 COMP994)
+Thyroid hormone beta agonist	0.011	COMP994	
+Thyroid hormone beta antagonist	0.190	COMP2319	
+Toll-Like receptor 2 agonist	0.071	COMP994	
+Toll-Like receptor 2 antagonist	0.211	COMP2319	(0.207 COMP994) (0.172 COMP2318) (0.170 COMP1757)
+Toll-Like receptor 4 agonist	0.028	COMP1562	
+Toll-Like receptor 4 antagonist	0.188	COMP1562	(0.183 COMP891) (0.147 COMP1757) (0.146 COMP994) (0.144 COMP2319) (0.113 COMP2314) (0.108 COMP2313)
+Toll-Like receptor 7 agonist	0.337	COMP994	
+Toll-Like receptor 8 agonist	0.020	COMP2318	
+Toll-Like receptor 8 antagonist	0.056	COMP2318	
+Toll-Like receptor 9 antagonist	0.230	COMP2318	(0.108 COMP1757)
+Toll-Like receptor agonist	0.334	COMP994	
+Toll-Like receptor antagonist	0.266	COMP1757	(0.181 COMP2318)
+Topoisomerase I inhibitor	0.363	COMP1562	(0.335 COMP2318) (0.301 COMP1757) (0.277 COMP2319) (0.257 COMP2314) (0.244 COMP2313) (0.212 COMP891)
+Topoisomerase II alpha inhibitor	0.418	COMP1562	(0.417 COMP2319) (0.252 COMP2318) (0.194 COMP2313/COMP2314) (0.184 COMP891)
+Topoisomerase II beta inhibitor	0.117	COMP891	(0.116 COMP2319) (0.113 COMP2318) (0.063 COMP1757) (0.061 COMP994) (0.053 COMP1562)
+Topoisomerase II inhibitor	0.532	COMP2319	(0.505 COMP1562) (0.441 COMP891) (0.328 COMP2318) (0.259 COMP2313) (0.257 COMP2314) (0.173 COMP1757) (0.128 COMP994)
+Transcription factor AP-1 inhibitor	0.351	COMP994	(0.076 COMP2320) (0.057 COMP891)
+Transcription factor NF kappa B inhibitor	0.996	COMP2313/COMP2314	(0.988 COMP2320) (0.921 COMP1562) (0.879 COMP891) (0.698 COMP2319) (0.517 COMP1757) (0.454 COMP994) (0.297 COMP2318)
+Transcription factor NF kappa B stimulant	0.502	COMP2313	(0.492 COMP2314) (0.172 COMP1562) (0.104 COMP891) (0.097 COMP994) (0.080 COMP2320)
+Transcription factor RelA inhibitor	0.110	COMP2319	(0.080 COMP2318) (0.067 COMP994)
+Transcription factor STAT inhibitor	0.316	COMP2318	(0.309 COMP2319) (0.268 COMP2320) (0.252 COMP891) (0.215 COMP1562) (0.204 COMP994) (0.192 COMP2314)
+Transcription factor STAT3 inhibitor	0.301	COMP2318	(0.296 COMP2314) (0.268 COMP891) (0.252 COMP2313) (0.246 COMP2319) (0.215 COMP994) (0.194 COMP1562)
+Transcription factor STAT6 inhibitor	0.139	COMP2318	(0.124 COMP994) (0.112 COMP2319)
+Transcription factor inhibitor	0.359	COMP2320	
+Transforming growth factor beta 1 antagonist	0.047	COMP2318	
+Transforming growth factor beta 2 antagonist	0.035	COMP2318	
+Triose-phosphate isomerase inhibitor	0.461	COMP994	(0.209 COMP2318) (0.115 COMP891) (0.113 COMP1562)
+Tryptophan 5 hydroxylase inhibitor	0.055	COMP994	(0.044 COMP2318)
+Tryptophan hydroxylase 1 inhibitor	0.019	COMP994	
+Tubulin agonist	0.117	COMP2320	(0.036 COMP2319) (0.035 COMP891) (0.034 COMP1562)
+Tubulin antagonist	0.676	COMP2319	(0.251 COMP1757) (0.204 COMP2320) (0.155 COMP2318) (0.102 COMP891)
+Tumour necrosis factor alpha release inhibitor	0.629	COMP2313	(0.628 COMP2314) (0.598 COMP1562) (0.542 COMP1757) (0.504 COMP2320) (0.494 COMP2319) (0.253 COMP994) (0.198 COMP891)
+Tumour necrosis factor antagonist	0.333	COMP2319	(0.256 COMP1757) (0.160 COMP2318)
+Tyrosine 3 hydroxylase inhibitor	0.554	COMP994	(0.449 COMP1757) (0.426 COMP2318) (0.278 COMP2319) (0.218 COMP891)
+Tyrosine-protein kinase receptor antagonist	0.129	COMP2318	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.405	COMP994	(0.337 COMP2320) (0.230 COMP2318) (0.096 COMP891)
+UDP-glucose 4-epimerase inhibitor	0.388	COMP1562	(0.343 COMP994) (0.241 COMP2318) (0.143 COMP891)
+Urate transporter 1 inhibitor	0.078	COMP994	(0.057 COMP2318)
+Urease inhibitor	0.214	COMP2319	(0.115 COMP2318) (0.108 COMP994)
+Uric acid excretion stimulant	0.301	COMP994	(0.233 COMP2319) (0.162 COMP1562) (0.119 COMP2313) (0.113 COMP2314) (0.087 COMP891)
+Uridine phosphorylase inhibitor	0.058	COMP994	(0.037 COMP2318)
+VCAM antagonist	0.048	COMP994	
+VCAM-1 antagonist	0.048	COMP994	
+VLA-4 antagonist	0.115	COMP994	
+Vanilloid 1 agonist	0.190	COMP994	(0.163 COMP891) (0.147 COMP1757) (0.126 COMP2318) (0.119 COMP1562)
+Vanilloid 3 antagonist	0.051	COMP2318	(0.043 COMP994)
+Vanilloid 4 agonist	0.105	COMP994	(0.101 COMP2318)
+Vanilloid agonist	0.100	COMP994	(0.089 COMP891) (0.079 COMP1757)
+Vascular adhesion protein 1 inhibitor	0.039	COMP2318	
+Vascular endothelial growth factor 3 antagonist	0.148	COMP2318	
+Vasodilator	0.520	COMP2319	(0.505 COMP1562) (0.419 COMP2314) (0.397 COMP2313) (0.362 COMP994) (0.355 COMP1757) (0.233 COMP891)
+Vasodilator. coronary	0.596	COMP2319	(0.468 COMP1562) (0.416 COMP1757) (0.374 COMP891) (0.358 COMP2314) (0.325 COMP2313/COMP994) (0.279 COMP2318) (0.244 COMP2320)
+Vasodilator. peripheral	0.616	COMP994	(0.517 COMP1757) (0.475 COMP2314) (0.422 COMP2313) (0.351 COMP2318) (0.342 COMP891) (0.246 COMP1562)
+Vitamin D receptor agonist	0.021	COMP994	
+Vitamin D receptor antagonist	0.048	COMP2320	
+Vitronectin receptor antagonist	0.109	COMP994	
+Xanthine dehydrogenase inhibitor	0.342	COMP2319	(0.104 COMP1562) (0.098 COMP994) (0.067 COMP2318)
+Xanthine oxidase inhibitor	0.919	COMP1562	(0.613 COMP2319) (0.531 COMP891) (0.155 COMP2313) (0.144 COMP994) (0.138 COMP2314) (0.125 COMP2318)
+mTOR complex 1 inhibitor	0.101	COMP1757	(0.098 COMP2318)
+mTOR complex 2 inhibitor	0.128	COMP2318	(0.100 COMP1757) (0.091 COMP994) (0.083 COMP2319)
+p38 MAP kinase inhibitor	0.108	COMP2318	
+p53 inhibitor	0.041	COMP994	

@@ -1,0 +1,88 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.888	COMP45	(0.867 COMP288) (0.856 COMP292) (0.827 COMP290) (0.284 COMP1751) (0.086 COMP1752) (0.041 COMP1750)
+5 Hydroxytryptamine 1A agonist	0.138	COMP1744	
+ATPase inhibitor	0.315	COMP1749	(0.267 COMP1743) (0.215 COMP1746) (0.194 COMP1745/COMP1748)
+Acetylcholine M1 receptor antagonist	0.318	COMP1745/COMP1748	(0.266 COMP1747)
+Acetylcholine M2 receptor agonist	0.062	COMP1744	
+Acetylcholine M3 receptor agonist	0.152	COMP1744	(0.122 COMP1745/COMP1748) (0.081 COMP1747)
+Acetylcholinesterase inhibitor	0.260	COMP1747	(0.259 COMP1749) (0.254 COMP1745/COMP1748) (0.139 COMP1752) (0.133 COMP290) (0.131 COMP292) (0.130 COMP1751) (0.117 COMP288) (0.116 COMP45)
+Aconitate hydratase inhibitor	0.100	COMP1746	(0.049 COMP1749)
+Acyl-CoA dehydrogenase inhibitor	0.056	COMP1746	
+Adenosine A1 receptor agonist	0.021	COMP1743	
+Adenosine deaminase inhibitor	0.045	COMP1746	
+Adenylate cyclase inhibitor	0.137	COMP1746	
+Adenylate kinase inhibitor	0.219	COMP1746	
+Alcohol dehydrogenase inhibitor	0.169	COMP1746	
+Aldosterone antagonist	0.261	COMP290	(0.201 COMP292) (0.179 COMP288) (0.135 COMP45) (0.046 COMP1749)
+Alkaline phosphatase inhibitor	0.212	COMP1746	(0.166 COMP1749)
+Alpha 1a adrenoreceptor antagonist	0.141	COMP1745/COMP1748	(0.115 COMP1747)
+Alpha 2a adrenoreceptor antagonist	0.200	COMP1747	(0.160 COMP1745/COMP1748)
+Alpha-mannosidase inhibitor	0.150	COMP1743	(0.048 COMP1746)
+Androgen agonist	0.175	COMP292	(0.151 COMP290) (0.140 COMP45) (0.116 COMP288) (0.099 COMP1750) (0.084 COMP1749) (0.077 COMP1751) (0.073 COMP1752)
+Androgen antagonist	0.264	COMP1750	(0.210 COMP292) (0.194 COMP290) (0.158 COMP45) (0.144 COMP288) (0.105 COMP1751) (0.099 COMP1752) (0.082 COMP1749)
+Arginase inhibitor	0.039	COMP1746	
+Argininosuccinate synthase inhibitor	0.070	COMP1746	
+Aryl hydrocarbon receptor agonist	0.218	COMP1746	
+Beta 1 adrenoreceptor agonist	0.028	COMP1746	
+Beta 1 adrenoreceptor antagonist	0.055	COMP1746	
+Beta 2 adrenoreceptor agonist	0.070	COMP1746	
+Beta 2 adrenoreceptor antagonist	0.055	COMP1746	
+Butyrylcholinesterase inhibitor	0.164	COMP1745/COMP1748	(0.133 COMP1749) (0.097 COMP1747) (0.095 COMP1751) (0.089 COMP1744)
+CYP1A2 inhibitor	0.213	COMP1749	(0.176 COMP1746)
+CYP2C9 inhibitor	0.274	COMP1746	(0.238 COMP1745/COMP1748)
+CYP2D6 inhibitor	0.780	COMP1747	(0.273 COMP1745/COMP1748)
+CYP3A4 inhibitor	0.531	COMP1745/COMP1748	(0.316 COMP1743) (0.270 COMP1749) (0.232 COMP1751) (0.212 COMP1747)
+Ca2+-transporting ATPase inhibitor	0.155	COMP1746	(0.152 COMP1749) (0.146 COMP1743) (0.141 COMP288) (0.133 COMP45) (0.130 COMP290)
+Calcium channel L-type blocker	0.063	COMP1749	
+Catalase inhibitor	0.129	COMP1746	(0.062 COMP1749)
+Cyclooxygenase 1 inhibitor	0.322	COMP1746	(0.266 COMP1749) (0.119 COMP1743)
+Cyclooxygenase 2 inhibitor	0.215	COMP1749	(0.161 COMP1746)
+Cyclooxygenase inhibitor	0.256	COMP1749	(0.254 COMP1746)
+Cystathionine beta-synthase inhibitor	0.451	COMP1746	(0.206 COMP1749)
+DNA polymerase beta inhibitor	0.293	COMP1746	(0.286 COMP1749)
+DOPA decarboxylase inhibitor	0.350	COMP1746	(0.103 COMP1749)
+Dopamine D2 agonist	0.173	COMP1747	(0.104 COMP1745/COMP1748)
+Dopamine D2 antagonist	0.098	COMP1745/COMP1748	(0.094 COMP1747)
+Dopamine uptake inhibitor	0.062	COMP1747	
+Electron transport complex I inhibitor	0.145	COMP1747	(0.138 COMP1749)
+Endothelin A receptor antagonist	0.049	COMP1745/COMP1748	
+Estrogen agonist	0.190	COMP1747	(0.146 COMP1746) (0.128 COMP290) (0.116 COMP292) (0.092 COMP288) (0.086 COMP45) (0.063 COMP1749) (0.062 COMP1750)
+Fumarate hydratase inhibitor	0.032	COMP1746	
+GABA aminotransferase inhibitor	0.119	COMP1746	
+GRP78 expression inhibitor	0.023	COMP1743	(0.022 COMP1749)
+Glucocorticoid agonist	0.018	COMP292	(0.013 COMP290)
+Glucocorticoid antagonist	0.064	COMP1750	(0.045 COMP1749) (0.037 COMP1752) (0.036 COMP1751) (0.033 COMP292)
+Glucose-6-phosphate isomerase inhibitor	0.122	COMP1743	(0.057 COMP1749) (0.054 COMP1746)
+Glutamate dehydrogenase inhibitor	0.107	COMP1746	
+HMG CoA reductase inhibitor	0.075	COMP1750	(0.056 COMP1751/COMP1752) (0.049 COMP292) (0.048 COMP45) (0.043 COMP290) (0.042 COMP288)
+Heat shock protein 70 antagonist	0.172	COMP1746	(0.168 COMP1749)
+Hexokinase inhibitor	0.158	COMP1743	(0.135 COMP1746)
+MAO A inhibitor	0.361	COMP1749	
+MAO inhibitor	0.351	COMP1749	
+NMDA receptor agonist	0.056	COMP1746	
+Na+ K+ transporting ATPase inhibitor	0.176	COMP1750	(0.172 COMP290) (0.164 COMP288) (0.163 COMP292) (0.160 COMP1751) (0.156 COMP45) (0.155 COMP1743) (0.153 COMP1752) (0.102 COMP1749) (0.069 COMP1746)
+Opioid delta receptor agonist	0.676	COMP1747	(0.077 COMP1744)
+Opioid delta receptor antagonist	0.756	COMP1747	(0.260 COMP1744)
+Opioid kappa receptor agonist	0.498	COMP1747	(0.197 COMP1744) (0.056 COMP1745/COMP1748)
+Opioid mu receptor agonist	0.914	COMP1747	(0.411 COMP1744)
+Peroxidase inhibitor	0.564	COMP1746	(0.242 COMP1749)
+Phenylalanine 4-hydroxylase inhibitor	0.241	COMP1746	
+Phosphodiesterase 3A inhibitor	0.079	COMP1749	
+Phosphodiesterase 4D inhibitor	0.086	COMP1749	(0.080 COMP1746)
+Phosphofructokinase-1 inhibitor	0.186	COMP1743	(0.129 COMP1746) (0.072 COMP1749)
+Phospholipase A2 inhibitor	0.430	COMP1746	(0.230 COMP288) (0.206 COMP1750) (0.204 COMP290) (0.174 COMP45) (0.172 COMP1749) (0.149 COMP292) (0.123 COMP1751)
+Phospholipase C inhibitor	0.727	COMP292	(0.677 COMP290) (0.582 COMP45) (0.516 COMP288) (0.357 COMP1751) (0.346 COMP1746) (0.219 COMP1752) (0.193 COMP1750)
+Phosphorylase inhibitor	0.541	COMP290	(0.513 COMP292) (0.422 COMP288) (0.398 COMP45) (0.046 COMP1743)
+Prostaglandin F2 alpha agonist	0.029	COMP1746	
+Pyruvate kinase inhibitor	0.355	COMP1746	
+Retinoic acid alpha receptor agonist	0.056	COMP1746	
+Succinate dehydrogenase inhibitor	0.320	COMP1746	(0.238 COMP1749)
+Superoxide dismutase inhibitor	0.624	COMP1746	(0.260 COMP1749)
+Thyroid hormone agonist	0.066	COMP1746	
+Thyroid hormone alpha agonist	0.030	COMP1746	
+Thyroid hormone beta agonist	0.025	COMP1746	
+Topoisomerase I inhibitor	0.473	COMP1749	(0.243 COMP1745/COMP1748) (0.234 COMP1743) (0.127 COMP290) (0.122 COMP288) (0.103 COMP1746)
+Topoisomerase II alpha inhibitor	0.192	COMP1749	(0.127 COMP1746) (0.104 COMP290) (0.068 COMP288)
+Triose-phosphate isomerase inhibitor	0.151	COMP1746	(0.134 COMP1743) (0.088 COMP1749)
+Tyrosine 3 hydroxylase inhibitor	0.449	COMP1746	(0.313 COMP1749) (0.261 COMP1747)
+UDP-glucose 4-epimerase inhibitor	0.345	COMP1743	(0.151 COMP1746) (0.094 COMP1749)

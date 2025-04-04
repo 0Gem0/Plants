@@ -1,0 +1,19 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.387	COMP64	(0.361 COMP759) (0.261 COMP153) (0.245 COMP363) (0.238 COMP758)
+Apical sodium codependent bile acid transporter inhibitor	0.037	COMP77	(0.035 COMP402)
+Electron transport complex I inhibitor	0.172	COMP759	(0.132 COMP363) (0.129 COMP758) (0.103 COMP64) (0.101 COMP207)
+Endocannabinoid uptake inhibitor	0.064	COMP759	
+Equilibrative nucleoside transport protein inhibitor	0.070	COMP758	(0.069 COMP363) (0.062 COMP207) (0.053 COMP760/COMP761) (0.052 COMP762) (0.051 COMP365)
+Excitatory amino acid transporter EAAC1 inhibitor	0.099	COMP759	
+GABA uptake inhibitor	0.044	COMP153	
+Ileal bile acid transport inhibitor	0.071	COMP77	(0.070 COMP402)
+Monocarboxylic acid transporter 1 inhibitor	0.021	COMP759	
+Monocarboxylic acid transporter inhibitor	0.021	COMP759	
+Multidrug resistance-associated protein 1 inhibitor	0.316	COMP759	(0.194 COMP363) (0.180 COMP207) (0.174 COMP758)
+Nucleoside transporters inhibitor	0.079	COMP363	(0.056 COMP207) (0.048 COMP758) (0.042 COMP759)
+P-glycoprotein inhibitor	0.532	COMP759	(0.400 COMP207) (0.354 COMP363) (0.334 COMP758) (0.305 COMP292) (0.268 COMP290) (0.256 COMP64) (0.251 COMP402) (0.232 COMP77) (0.197 COMP761) (0.189 COMP153) (0.142 COMP760/COMP762)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.044	COMP759	
+Sodium/bile acid cotransporter inhibitor	0.573	COMP77	(0.558 COMP402) (0.415 COMP292) (0.407 COMP64) (0.404 COMP290) (0.264 COMP761) (0.261 COMP759)
+Sodium/glucose cotransporter 1 inhibitor	0.195	COMP207	(0.162 COMP363) (0.156 COMP758) (0.040 COMP365/COMP761) (0.038 COMP762) (0.035 COMP760) (0.026 COMP759)
+Sodium/glucose cotransporter 2 inhibitor	0.186	COMP207	(0.161 COMP363) (0.145 COMP758) (0.108 COMP760) (0.104 COMP365) (0.094 COMP762) (0.070 COMP761) (0.029 COMP759)
+Sodium/glucose cotransporter inhibitor	0.245	COMP207	(0.208 COMP363) (0.178 COMP758) (0.096 COMP760) (0.091 COMP365) (0.081 COMP762) (0.067 COMP761) (0.027 COMP759)

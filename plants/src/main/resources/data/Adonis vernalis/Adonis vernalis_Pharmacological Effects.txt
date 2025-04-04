@@ -1,0 +1,173 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.259	COMP58	
+Acetylcholine release stimulant	0.156	COMP58	
+Actinic keratosis treatment	0.089	COMP58	
+Anabolic	0.149	COMP58	
+Analeptic	0.285	COMP58	
+Anesthetic	0.111	COMP58	
+Anesthetic general	0.264	COMP58	
+Anesthetic inhalation	0.125	COMP58	
+Anesthetic local	0.110	COMP58	
+Angiogenesis inhibitor	0.256	COMP58	
+Antiallergic	0.674	COMP58	
+Antiamyloidogenic	0.246	COMP58	
+Antianorexic	0.127	COMP58	
+Antiarthritic	0.338	COMP58	
+Antibacterial	0.345	COMP58	
+Antibiotic	0.077	COMP58	
+Antibiotic Anthracycline-like	0.024	COMP58	
+Antibiotic Quinolone-like	0.020	COMP58	
+Antibiotic Trimethoprim-like	0.020	COMP58	
+Anticholelithogenic	0.084	COMP58	
+Antidote	0.166	COMP58	
+Antidote. heavy metal	0.091	COMP58	
+Antidote. mercury	0.217	COMP58	
+Antidote. organophosphates	0.110	COMP58	
+Antieczematic	0.216	COMP58	
+Antifungal	0.317	COMP58	
+Antifungal (Aspergillus)	0.126	COMP58	
+Antifungal (Pneumocystis)	0.200	COMP58	
+Antifungal enhancer	0.213	COMP58	
+Antihelmintic	0.153	COMP58	
+Antihelmintic (Fasciola)	0.164	COMP58	
+Antihelmintic (Nematodes)	0.182	COMP58	
+Antihelmintic (Trematoda)	0.185	COMP58	
+Antihemophilic	0.082	COMP58	
+Antihemorrhagic	0.231	COMP58	
+Antihypercholesterolemic	0.262	COMP58	
+Antihyperlipoproteinemic	0.126	COMP58	
+Antihypotensive	0.285	COMP58	
+Antihypoxic	0.304	COMP58	
+Antiinflammatory	0.726	COMP58	
+Antileukemic	0.615	COMP58	
+Antimitotic	0.450	COMP58	
+Antimutagenic	0.489	COMP58	
+Antimycoplasmal	0.081	COMP58	
+Antineoplastic (bladder cancer)	0.324	COMP58	
+Antineoplastic (bone cancer)	0.232	COMP58	
+Antineoplastic (brain cancer)	0.241	COMP58	
+Antineoplastic (breast cancer)	0.708	COMP58	
+Antineoplastic (carcinoma)	0.219	COMP58	
+Antineoplastic (cervical cancer)	0.665	COMP58	
+Antineoplastic (colon cancer)	0.658	COMP58	
+Antineoplastic (colorectal cancer)	0.661	COMP58	
+Antineoplastic (gastric cancer)	0.266	COMP58	
+Antineoplastic (glioblastoma multiforme)	0.317	COMP58	
+Antineoplastic (glioma)	0.349	COMP58	
+Antineoplastic (insulinoma)	0.013	COMP58	
+Antineoplastic (liver cancer)	0.464	COMP58	
+Antineoplastic (lung cancer)	0.716	COMP58	
+Antineoplastic (lymphocytic leukemia)	0.204	COMP58	
+Antineoplastic (lymphoma)	0.209	COMP58	
+Antineoplastic (melanoma)	0.442	COMP58	
+Antineoplastic (multiple myeloma)	0.312	COMP58	
+Antineoplastic (non-small cell lung cancer)	0.452	COMP58	
+Antineoplastic (osteosarcoma)	0.358	COMP58	
+Antineoplastic (ovarian cancer)	0.409	COMP58	
+Antineoplastic (pancreatic cancer)	0.350	COMP58	
+Antineoplastic (renal cancer)	0.325	COMP58	
+Antineoplastic (sarcoma)	0.315	COMP58	
+Antineoplastic (small cell lung cancer)	0.308	COMP58	
+Antineoplastic (squamous cell carcinoma)	0.280	COMP58	
+Antineoplastic (uterine cancer)	0.180	COMP58	
+Antineoplastic alkaloid	0.105	COMP58	
+Antineoplastic antibiotic	0.124	COMP58	
+Antineoplastic antimetabolite	0.102	COMP58	
+Antineoplastic enhancer	0.552	COMP58	
+Antineoplastic. alkylator	0.155	COMP58	
+Antioxidant	0.504	COMP58	
+Antiparasitic	0.168	COMP58	
+Antiparkinsonian. rigidity relieving	0.241	COMP58	
+Antiparkinsonian. tremor relieving	0.138	COMP58	
+Antiprotozoal	0.640	COMP58	
+Antiprotozoal (Amoeba)	0.148	COMP58	
+Antiprotozoal (Babesia)	0.190	COMP58	
+Antiprotozoal (Coccidial)	0.217	COMP58	
+Antiprotozoal (Leishmania)	0.238	COMP58	
+Antiprotozoal (Plasmodium)	0.629	COMP58	
+Antiprotozoal (Toxoplasma)	0.162	COMP58	
+Antiprotozoal (Trichomonas)	0.141	COMP58	
+Antiprotozoal (Trypanosoma)	0.218	COMP58	
+Antipruritic. allergic	0.468	COMP58	
+Antipruritic. non-allergic	0.285	COMP58	
+Antipsoriatic	0.176	COMP58	
+Antipyretic	0.211	COMP58	
+Antirickettsial	0.221	COMP58	
+Antiseptic	0.195	COMP58	
+Antispirochetal	0.117	COMP58	
+Antithrombotic	0.249	COMP58	
+Antitreponemal	0.071	COMP58	
+Antitussive	0.109	COMP58	
+Antiviral (Hepatitis B)	0.179	COMP58	
+Antiviral (Hepatitis)	0.153	COMP58	
+Antiviral (Herpes)	0.360	COMP58	
+Antiviral (Influenza A)	0.243	COMP58	
+Antiviral (Influenza B)	0.167	COMP58	
+Antiviral (Influenza)	0.275	COMP58	
+Antiviral (Papilloma)	0.137	COMP58	
+Antiviral (Parainfluenza)	0.084	COMP58	
+Antiviral (Poxvirus)	0.115	COMP58	
+Antiviral (Rhinovirus)	0.085	COMP58	
+Antiviral (Trachoma)	0.081	COMP58	
+Apoptosis agonist	0.694	COMP58	
+Apoptosis antagonist	0.279	COMP58	
+Bronchodilator	0.219	COMP58	
+CNS active muscle relaxant	0.133	COMP58	
+Cardioprotectant	0.303	COMP58	
+Cardiovascular analeptic	0.665	COMP58	
+Cell wall synthesis inhibitor	0.138	COMP58	
+Chemopreventive	0.314	COMP58	
+Chemoprotective	0.384	COMP58	
+Choleretic	0.179	COMP58	
+Cholesterol synthesis inhibitor	0.168	COMP58	
+Coagulant	0.212	COMP58	
+Contraceptive female	0.137	COMP58	
+Cytostatic	0.291	COMP58	
+DNA synthesis inhibitor	0.287	COMP58	
+Dementia treatment	0.094	COMP58	
+Expectorant	0.182	COMP58	
+Gastritis treatment	0.150	COMP58	
+Growth stimulant	0.183	COMP58	
+Hair growth stimulant	0.225	COMP58	
+Hemostatic	0.132	COMP58	
+Hepatic disorders treatment	0.186	COMP58	
+Hepatoprotectant	0.294	COMP58	
+Immunostimulant	0.168	COMP58	
+Immunosuppressant	0.306	COMP58	
+Insulin sensitizer	0.173	COMP58	
+Keratolytic	0.230	COMP58	
+Movement disorders treatment	0.150	COMP58	
+Mucolytic	0.192	COMP58	
+Muscle relaxant	0.136	COMP58	
+Muscular dystrophy treatment	0.149	COMP58	
+Myasthenia Gravis treatment	0.104	COMP58	
+Narcotic antagonist	0.092	COMP58	
+Neuropathy treatment	0.142	COMP58	
+Non-steroidal antiinflammatory agent	0.209	COMP58	
+Paget's disease treatment	0.106	COMP58	
+Phobic disorders treatment	0.238	COMP58	
+Photosensitizer	0.229	COMP58	
+Postcoital contraceptive	0.075	COMP58	
+Proliferative diseases treatment	0.324	COMP58	
+Prostate cancer treatment	0.611	COMP58	
+Prostate disorders treatment	0.254	COMP58	
+Prostatic (benign) hyperplasia treatment	0.394	COMP58	
+Psychostimulant	0.174	COMP58	
+Radioprotector	0.452	COMP58	
+Radiosensitizer	0.375	COMP58	
+Raynaud's phenomenon treatment	0.152	COMP58	
+Respiratory analeptic	0.323	COMP58	
+Retinoprotector	0.113	COMP58	
+Skeletal muscle relaxant	0.137	COMP58	
+Skin whitener	0.227	COMP58	
+Spasmolytic	0.206	COMP58	
+T cell inhibitor	0.095	COMP58	
+Tocolytic	0.106	COMP58	
+Tourette's syndrome treatment	0.098	COMP58	
+Tumour necrosis factor alpha release inhibitor	0.332	COMP58	
+Uterine relaxant	0.080	COMP58	
+Uterine stimulant	0.196	COMP58	
+Vascular (periferal) disease treatment	0.501	COMP58	
+Vascular dementia treatment	0.088	COMP58	
+Vasodilator. coronary	0.365	COMP58	
+Vasodilator. peripheral	0.369	COMP58	

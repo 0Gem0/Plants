@@ -1,0 +1,10 @@
+(2S,3S,4S,5R,6R)-6-[(2R,3R,4S,5S,6S)-2-[[(3S,4Ar,6aR,6bS,8aS,11S,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-1,2,3,4a,5,6,7,8,9,10,12,14a-dodecahydropicen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid
+(2S,3S,4S,5R,6R)-6-[(2R,3R,4S,5S,6S)-2-[[(3S,4aR,6aR,6bS,8aS,11S,14aR,14bS)-11-carboxy-4,4,6a,6b,8a,11,14b-heptamethyl-1,2,3,4a,5,6,7,8,9,10,12,14a-dodecahydropicen-3-yl]oxy]-6-carboxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid
+CHEMBL3809022
+101589043
+None
+C42H62O15
+806.41
+InChI=1S/C42H62O15/c1-37(2)21-10-13-42(7)22(9-8-19-20-18-39(4,36(52)53)15-14-38(20,3)16-17-41(19,42)6)40(21,5)12-11-23(37)54-35-31(27(46)26(45)30(56-35)33(50)51)57-34-28(47)24(43)25(44)29(55-34)32(48)49/h8-9,21-31,34-35,43-47H,10-18H2,1-7H3,(H,48,49)(H,50,51)(H,52,53)/t21-,22+,23-,24-,25-,26-,27-,28+,29-,30-,31+,34-,35+,38+,39-,40-,41+,42+/m0/s1
+WPDHECQXVOACTR-MOBXHYNLSA-N
+O[C@@H]1[C@@H](O[C@@H]2O[C@H](C(=O)O)[C@H]([C@@H]([C@H]2O)O)O)[C@@H](O[C@@H]([C@H]1O)C(=O)O)O[C@H]1CC[C@]2([C@H](C1(C)C)CC[C@@]1([C@@H]2C=CC2=C3C[C@](C)(CC[C@@]3(CC[C@@]12C)C)C(=O)O)C)C

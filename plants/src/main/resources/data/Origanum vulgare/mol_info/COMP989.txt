@@ -1,0 +1,10 @@
+Lupenyl Acetate
+[(1R,3aR,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-3a,5a,5b,8,8,11a-hexamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysen-9-yl] acetate
+CHEMBL453802
+92157
+CHEBI:69744
+C32H52O2
+468.4
+InChI=1S/C32H52O2/c1-20(2)22-12-15-29(6)18-19-31(8)23(27(22)29)10-11-25-30(7)16-14-26(34-21(3)33)28(4,5)24(30)13-17-32(25,31)9/h22-27H,1,10-19H2,2-9H3/t22-,23+,24-,25+,26-,27+,29+,30-,31+,32+/m0/s1
+ODSSDTBFHAYYMD-YOJQYFTNSA-N
+CC(=O)O[C@H]1CC[C@]2([C@H](C1(C)C)CC[C@@]1([C@@H]2CC[C@H]2[C@@]1(C)CC[C@@]1([C@@H]2[C@@H](CC1)C(=C)C)C)C)C

@@ -1,0 +1,95 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine 2A agonist	0.069	COMP847	
+5 Hydroxytryptamine 2B agonist	0.037	COMP847	
+5 Hydroxytryptamine 3 agonist	0.080	COMP847	
+5 Hydroxytryptamine 3A agonist	0.205	COMP847	
+ATPase inhibitor	0.276	COMP847	
+Acetylcholine M1 receptor antagonist	0.174	COMP847	
+Acetylcholine M3 receptor antagonist	0.054	COMP847	
+Acetylcholinesterase inhibitor	0.454	COMP849	(0.134 COMP847)
+Aconitate hydratase inhibitor	0.148	COMP847	
+Acyl-CoA dehydrogenase inhibitor	0.147	COMP847	
+Adenosine deaminase inhibitor	0.070	COMP847	
+Adenylate cyclase inhibitor	0.208	COMP847	
+Adenylate kinase inhibitor	0.255	COMP847	
+Alcohol dehydrogenase inhibitor	0.236	COMP847	(0.108 COMP849)
+Aldosterone antagonist	0.043	COMP847	
+Alkaline phosphatase inhibitor	0.337	COMP849	(0.248 COMP847)
+Alpha 2a adrenoreceptor agonist	0.044	COMP847	
+Alpha 2a adrenoreceptor antagonist	0.077	COMP847	
+Alpha 2b adrenoreceptor agonist	0.022	COMP847	
+Alpha-mannosidase inhibitor	0.085	COMP847	
+Androgen agonist	0.089	COMP847	
+Androgen antagonist	0.247	COMP849	(0.141 COMP847) (0.121 COMP848)
+Arginase inhibitor	0.065	COMP847	(0.039 COMP849)
+Argininosuccinate synthase inhibitor	0.155	COMP847	
+Aryl hydrocarbon receptor agonist	0.385	COMP847	(0.190 COMP849)
+Beta 1 adrenoreceptor agonist	0.025	COMP847	
+Beta 1 adrenoreceptor antagonist	0.083	COMP847	
+Beta 2 adrenoreceptor agonist	0.084	COMP847	
+Beta 2 adrenoreceptor antagonist	0.076	COMP847	
+Butyrylcholinesterase inhibitor	0.198	COMP849	
+CYP1A2 inhibitor	0.793	COMP849	(0.313 COMP847)
+CYP2C9 inhibitor	0.515	COMP849	(0.421 COMP848) (0.375 COMP847)
+CYP2D6 inhibitor	0.196	COMP847	
+CYP3A4 inhibitor	0.330	COMP849	(0.223 COMP847)
+Ca2+-transporting ATPase inhibitor	0.196	COMP847	(0.162 COMP848) (0.146 COMP849)
+Carbonic anhydrase I inhibitor	0.061	COMP847	
+Carbonic anhydrase II inhibitor	0.061	COMP847	
+Carbonic anhydrase inhibitor	0.079	COMP847	
+Catalase inhibitor	0.167	COMP847	
+Cyclooxygenase 1 inhibitor	0.282	COMP849	(0.247 COMP847)
+Cyclooxygenase 2 inhibitor	0.167	COMP849	(0.141 COMP847)
+Cyclooxygenase inhibitor	0.213	COMP849	(0.200 COMP847)
+Cystathionine beta-synthase inhibitor	0.717	COMP849	(0.542 COMP847) (0.095 COMP848)
+DNA polymerase beta inhibitor	0.367	COMP847	(0.351 COMP848) (0.285 COMP849)
+DOPA decarboxylase inhibitor	0.295	COMP847	(0.195 COMP849) (0.110 COMP848)
+Diamine oxidase inhibitor	0.039	COMP847	
+Dihydrofolate reductase inhibitor	0.045	COMP847	
+Dopamine D2 agonist	0.108	COMP847	
+Electron transport complex I inhibitor	0.443	COMP848	(0.202 COMP849) (0.097 COMP847)
+Estrogen agonist	0.458	COMP849	(0.235 COMP847) (0.049 COMP848)
+Fumarate hydratase inhibitor	0.080	COMP847	
+GABA A receptor agonist	0.077	COMP847	
+GABA aminotransferase inhibitor	0.164	COMP847	
+GRP78 expression inhibitor	0.035	COMP847	
+Glucose-6-phosphate isomerase inhibitor	0.109	COMP847	(0.048 COMP848)
+Glutamate dehydrogenase inhibitor	0.190	COMP847	
+Heat shock protein 70 antagonist	0.197	COMP847	(0.153 COMP849)
+Hexokinase inhibitor	0.247	COMP847	
+Histamine H1 receptor agonist	0.044	COMP847	
+Histamine H2 receptor agonist	0.041	COMP847	
+Histamine H2 receptor antagonist	0.079	COMP847	
+Hypoxanthine phosphoribosyltransferase inhibitor	0.035	COMP847	
+Lysine carboxypeptidase inhibitor	0.030	COMP847	
+MAO A inhibitor	0.379	COMP849	(0.213 COMP848) (0.149 COMP847)
+MAO inhibitor	0.662	COMP849	(0.291 COMP848) (0.190 COMP847)
+NMDA receptor agonist	0.093	COMP847	
+Na+ K+ transporting ATPase inhibitor	0.116	COMP847	(0.111 COMP848) (0.094 COMP849)
+Nav1.5 sodium channel blocker	0.096	COMP847	
+Neuropeptide Y1 antagonist	0.138	COMP847	
+Opioid delta receptor antagonist	0.081	COMP849	(0.055 COMP847)
+Opioid kappa receptor agonist	0.125	COMP849	
+Opioid mu receptor agonist	0.055	COMP849	
+Ornithine carbamoyltransferase inhibitor	0.085	COMP847	
+Peroxidase inhibitor	0.752	COMP847	(0.533 COMP849) (0.121 COMP848)
+Phenylalanine 4-hydroxylase inhibitor	0.408	COMP847	
+Phosphodiesterase 4D inhibitor	0.140	COMP849	
+Phosphofructokinase-1 inhibitor	0.220	COMP847	(0.114 COMP848)
+Phosphoglycerate kinase inhibitor	0.083	COMP847	
+Phospholipase A2 inhibitor	0.202	COMP849	(0.178 COMP847) (0.127 COMP848)
+Phospholipase C inhibitor	0.331	COMP847	(0.243 COMP848) (0.137 COMP849)
+Phosphorylase inhibitor	0.052	COMP847	
+Prostaglandin F2 alpha agonist	0.036	COMP847	(0.022 COMP848)
+Pyruvate kinase inhibitor	0.425	COMP847	(0.202 COMP849)
+Retinoic acid alpha receptor agonist	0.038	COMP848	
+Succinate dehydrogenase inhibitor	0.503	COMP848	(0.424 COMP847) (0.233 COMP849)
+Superoxide dismutase inhibitor	0.640	COMP847	(0.320 COMP849) (0.217 COMP848)
+Thyroid hormone agonist	0.040	COMP847	
+Thyroid hormone alpha agonist	0.019	COMP847	
+Thyroid hormone beta agonist	0.009	COMP847	
+Topoisomerase I inhibitor	0.388	COMP847	(0.217 COMP849)
+Topoisomerase II alpha inhibitor	0.440	COMP847	(0.315 COMP849) (0.122 COMP848)
+Triose-phosphate isomerase inhibitor	0.316	COMP847	(0.100 COMP848)
+Tyrosine 3 hydroxylase inhibitor	0.603	COMP847	(0.246 COMP849)
+UDP-glucose 4-epimerase inhibitor	0.381	COMP847	(0.148 COMP848) (0.084 COMP849)

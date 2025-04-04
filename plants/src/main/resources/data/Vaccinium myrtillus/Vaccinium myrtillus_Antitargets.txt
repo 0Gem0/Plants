@@ -1,0 +1,21 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.812	COMP238	(0.138 COMP1364)
+ATPase inhibitor	0.138	COMP1364	
+Acetylcholinesterase inhibitor	0.113	COMP238	
+Aldosterone antagonist	0.167	COMP238	(0.060 COMP1364)
+Androgen agonist	0.380	COMP1364	(0.109 COMP238)
+Androgen antagonist	0.478	COMP1364	(0.110 COMP238)
+Ca2+-transporting ATPase inhibitor	0.132	COMP238	
+Estrogen agonist	0.265	COMP1364	(0.071 COMP238)
+GABA A receptor agonist	0.082	COMP1364	
+Glucocorticoid agonist	0.021	COMP1364	
+Glucocorticoid antagonist	0.093	COMP1364	
+HMG CoA reductase inhibitor	0.077	COMP1364	(0.040 COMP238)
+Na+ K+ transporting ATPase inhibitor	0.203	COMP1364	(0.158 COMP238)
+Opioid kappa receptor agonist	0.045	COMP1364	
+Phospholipase A2 inhibitor	0.330	COMP238	(0.120 COMP1364)
+Phospholipase C inhibitor	0.812	COMP238	(0.745 COMP1364)
+Phosphorylase inhibitor	0.870	COMP238	
+Retinoic acid alpha receptor agonist	0.043	COMP238	
+Topoisomerase I inhibitor	0.133	COMP238	
+Topoisomerase II alpha inhibitor	0.102	COMP238	

@@ -1,0 +1,10 @@
+Orthosiphol N
+[(2S,3S,4R,4aS,4bR,7R,8aR,9R,10aS)-3-acetyloxy-4-benzoyloxy-7-ethenyl-8a,9-dihydroxy-1,1,4a,7-tetramethyl-5,8-dioxo-2,3,4,4b,6,9,10,10a-octahydrophenanthren-2-yl] benzoate
+CHEMBL447217
+10258499
+None
+C36H40O10
+632.26
+InChI=1S/C36H40O10/c1-7-34(5)19-23(38)27-35(6)24(18-25(39)36(27,43)32(34)42)33(3,4)28(45-30(40)21-14-10-8-11-15-21)26(44-20(2)37)29(35)46-31(41)22-16-12-9-13-17-22/h7-17,24-29,39,43H,1,18-19H2,2-6H3/t24-,25+,26-,27+,28+,29-,34-,35-,36-/m0/s1
+LFPSUBPBKLUQAL-OBSWDRTESA-N
+C=C[C@@]1(C)CC(=O)[C@H]2[C@@](C1=O)(O)[C@H](O)C[C@@H]1[C@]2(C)[C@@H](OC(=O)c2ccccc2)[C@@H](OC(=O)C)[C@H](C1(C)C)OC(=O)c1ccccc1

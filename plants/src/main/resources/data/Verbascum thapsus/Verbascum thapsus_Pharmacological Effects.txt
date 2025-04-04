@@ -1,0 +1,293 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.462	COMP16	(0.312 COMP1457)
+Acetylcholine release stimulant	0.149	COMP16	
+Actinic keratosis treatment	0.275	COMP285	(0.249 COMP16) (0.162 COMP1457)
+Acute neurologic disorders treatment	0.396	COMP16	
+Acute respiratory distress syndrome (ARDS) treatment	0.209	COMP16	(0.180 COMP285)
+Age-related macular degeneration treatment	0.239	COMP16	
+Allergic rhinitis treatment	0.330	COMP16	
+Alzheimer's disease treatment	0.600	COMP285	(0.278 COMP1457)
+Amyotrophic lateral sclerosis treatment	0.701	COMP285	(0.189 COMP16)
+Anabolic	0.212	COMP285	(0.182 COMP16) (0.175 COMP1457) (0.101 COMP1456) (0.086 COMP1004)
+Analeptic	0.622	COMP16	(0.587 COMP285) (0.536 COMP1004) (0.298 COMP1457) (0.200 COMP1456)
+Analgesic	0.284	COMP1457	(0.234 COMP285)
+Andropause treatment	0.080	COMP285	
+Anesthetic	0.715	COMP285	(0.301 COMP16) (0.105 COMP1457)
+Anesthetic general	0.691	COMP285	(0.590 COMP16)
+Anesthetic inhalation	0.142	COMP16	(0.060 COMP285) (0.054 COMP1457)
+Anesthetic local	0.181	COMP16	(0.118 COMP285)
+Angiogenesis inhibitor	0.512	COMP1456	
+Angiogenesis stimulant	0.501	COMP16	(0.318 COMP285) (0.145 COMP1457) (0.143 COMP1455)
+Antiacne	0.574	COMP285	(0.403 COMP1457) (0.344 COMP16) (0.130 COMP1455)
+Antialcoholic	0.302	COMP16	(0.240 COMP285) (0.158 COMP1457)
+Antiallergic	0.618	COMP16	(0.213 COMP1455)
+Antiamyloidogenic	0.298	COMP1455	(0.214 COMP16)
+Antianemic	0.284	COMP16	
+Antianginal	0.229	COMP16	(0.134 COMP1455)
+Antianorexic	0.282	COMP16	(0.111 COMP1457)
+Antiarthritic	0.559	COMP16	(0.473 COMP1457)
+Antiasthmatic	0.375	COMP16	
+Antibacterial	0.585	COMP1456	(0.583 COMP1004/COMP1455) (0.400 COMP16) (0.390 COMP285) (0.352 COMP1457)
+Antibiotic	0.133	COMP1456	(0.105 COMP1004) (0.101 COMP16) (0.093 COMP1457) (0.085 COMP285)
+Antibiotic Anthracycline-like	0.022	COMP16	(0.018 COMP1457)
+Antibiotic Quinolone-like	0.018	COMP16	
+Anticataract	0.480	COMP285	(0.195 COMP16)
+Anticholelithogenic	0.221	COMP285	(0.196 COMP16) (0.064 COMP1457)
+Anticoagulant	0.245	COMP16	
+Anticonvulsant	0.320	COMP1457	(0.274 COMP16)
+Antidiabetic	0.649	COMP16	(0.637 COMP285) (0.392 COMP1455) (0.327 COMP1457) (0.270 COMP1004)
+Antidiabetic (type 1)	0.372	COMP16	(0.149 COMP285)
+Antidiabetic (type 2)	0.488	COMP16	(0.395 COMP285) (0.240 COMP1457) (0.185 COMP1455)
+Antidiabetic symptomatic	0.527	COMP16	(0.418 COMP285) (0.397 COMP1455)
+Antidiarrheal	0.167	COMP16	(0.121 COMP285)
+Antidote	0.390	COMP16	(0.128 COMP1457)
+Antidote. heavy metal	0.223	COMP16	
+Antidote. mercury	0.237	COMP16	(0.108 COMP1457)
+Antidote. organophosphates	0.119	COMP16	(0.084 COMP1457)
+Antieczematic	0.331	COMP16	(0.149 COMP285)
+Antieczematic atopic	0.198	COMP16	
+Antiemphysemic	0.113	COMP16	
+Antiepileptic	0.481	COMP1457	(0.260 COMP16)
+Antifungal	0.584	COMP1004	(0.540 COMP285) (0.464 COMP1457) (0.407 COMP1456) (0.386 COMP1455) (0.384 COMP16)
+Antifungal (Aspergillus)	0.112	COMP1457	(0.102 COMP16) (0.096 COMP1004)
+Antifungal (Candida)	0.151	COMP16	
+Antifungal (Cryptococcus)	0.266	COMP16	(0.233 COMP1457) (0.148 COMP1456) (0.146 COMP1455) (0.130 COMP285)
+Antifungal (Pneumocystis)	0.215	COMP16	(0.115 COMP1457)
+Antifungal enhancer	0.275	COMP1457/COMP16	(0.265 COMP285) (0.208 COMP1456) (0.183 COMP1004) (0.174 COMP1455)
+Antiglaucomic	0.513	COMP16	
+Antihelmintic	0.623	COMP1455	(0.528 COMP1456) (0.380 COMP285) (0.281 COMP16) (0.214 COMP1457) (0.205 COMP1004)
+Antihelmintic (Fasciola)	0.171	COMP16	
+Antihelmintic (Nematodes)	0.351	COMP16	(0.238 COMP1457) (0.143 COMP1455)
+Antihelmintic (Trematoda)	0.177	COMP16	
+Antihemophilic	0.069	COMP16	
+Antihemorrhagic	0.167	COMP1457	(0.160 COMP285) (0.147 COMP16) (0.138 COMP1004) (0.111 COMP1455) (0.110 COMP1456)
+Antihypercholesterolemic	0.979	COMP285	(0.653 COMP16) (0.504 COMP1004) (0.347 COMP1455) (0.231 COMP1457)
+Antihyperlipoproteinemic	0.699	COMP285	(0.438 COMP16) (0.131 COMP1457) (0.109 COMP1004)
+Antihypermotility	0.109	COMP16	
+Antihypertensive	0.479	COMP16	(0.431 COMP285)
+Antihypertriglyceridemic	0.497	COMP285	(0.490 COMP1455) (0.426 COMP16) (0.381 COMP1004) (0.148 COMP1457)
+Antihypotensive	0.404	COMP1455	(0.347 COMP1004) (0.340 COMP16) (0.277 COMP1457) (0.193 COMP285) (0.188 COMP1456)
+Antihypoxic	0.509	COMP16	(0.271 COMP1457) (0.206 COMP1004)
+Antiinfertility. female	0.402	COMP285	(0.114 COMP16)
+Antiinflammatory	0.898	COMP285	(0.838 COMP1457) (0.700 COMP1455) (0.594 COMP1004) (0.579 COMP16) (0.516 COMP1456)
+Antiischemic	0.443	COMP16	(0.425 COMP1455)
+Antiischemic. cerebral	0.272	COMP16	
+Antileprosy	0.158	COMP16	
+Antileukemic	0.858	COMP1456	(0.819 COMP1457) (0.751 COMP1455) (0.659 COMP1004) (0.544 COMP285)
+Antimetabolite	0.160	COMP16	
+Antimitotic	0.549	COMP1456	(0.384 COMP1457) (0.319 COMP1004) (0.179 COMP1455)
+Antimutagenic	0.717	COMP16	(0.384 COMP1004) (0.322 COMP1457) (0.147 COMP1456)
+Antimycobacterial	0.511	COMP1455	(0.406 COMP1004) (0.202 COMP1456)
+Antimycoplasmal	0.118	COMP16	(0.104 COMP1456) (0.093 COMP1457) (0.077 COMP1004) (0.058 COMP285)
+Antineoplastic (bladder cancer)	0.197	COMP1455	(0.194 COMP1004)
+Antineoplastic (bone cancer)	0.204	COMP16	
+Antineoplastic (brain cancer)	0.614	COMP1455	(0.459 COMP1456) (0.438 COMP285) (0.378 COMP1457) (0.304 COMP1004)
+Antineoplastic (breast cancer)	0.778	COMP1457	(0.772 COMP1456) (0.703 COMP1455) (0.652 COMP285) (0.568 COMP1004)
+Antineoplastic (carcinoma)	0.255	COMP1456	(0.226 COMP1455) (0.186 COMP1004)
+Antineoplastic (cervical cancer)	0.675	COMP1456	(0.652 COMP1455) (0.365 COMP1004) (0.322 COMP1457) (0.321 COMP285)
+Antineoplastic (colon cancer)	0.677	COMP1457	(0.567 COMP1456) (0.475 COMP1455) (0.294 COMP1004) (0.205 COMP285)
+Antineoplastic (colorectal cancer)	0.676	COMP1457	(0.562 COMP1456) (0.481 COMP1455) (0.304 COMP1004) (0.213 COMP285)
+Antineoplastic (endocrine cancer)	0.324	COMP285	(0.320 COMP16) (0.266 COMP1004)
+Antineoplastic (gastric cancer)	0.412	COMP1456	(0.143 COMP1004)
+Antineoplastic (glioblastoma multiforme)	0.758	COMP1456	(0.392 COMP1457) (0.375 COMP1455) (0.315 COMP285) (0.217 COMP1004)
+Antineoplastic (glioma)	0.777	COMP1456	(0.532 COMP1455) (0.529 COMP1457) (0.358 COMP285) (0.344 COMP1004)
+Antineoplastic (insulinoma)	0.012	COMP16	
+Antineoplastic (liver cancer)	0.538	COMP1456	(0.515 COMP1457) (0.501 COMP285) (0.393 COMP1004) (0.235 COMP1455) (0.196 COMP16)
+Antineoplastic (lung cancer)	0.771	COMP1455	(0.717 COMP1456) (0.672 COMP1457) (0.656 COMP1004) (0.400 COMP285)
+Antineoplastic (lymphocytic leukemia)	0.402	COMP1456	(0.353 COMP1455) (0.312 COMP16) (0.293 COMP1457) (0.216 COMP1004)
+Antineoplastic (lymphoma)	0.391	COMP1455	(0.353 COMP285) (0.199 COMP1457)
+Antineoplastic (melanoma)	0.606	COMP1456	(0.544 COMP1455) (0.481 COMP1457) (0.380 COMP1004) (0.346 COMP285)
+Antineoplastic (multiple myeloma)	0.809	COMP1456	(0.351 COMP1457) (0.333 COMP1455) (0.239 COMP1004)
+Antineoplastic (myeloid leukemia)	0.457	COMP1457	
+Antineoplastic (non-small cell lung cancer)	0.531	COMP1456	(0.415 COMP1455) (0.328 COMP1457) (0.183 COMP1004)
+Antineoplastic (osteosarcoma)	0.345	COMP1004	(0.224 COMP1455)
+Antineoplastic (ovarian cancer)	0.724	COMP1456	(0.567 COMP1455) (0.533 COMP285) (0.370 COMP1004) (0.362 COMP1457)
+Antineoplastic (pancreatic cancer)	0.620	COMP1456	(0.596 COMP285) (0.563 COMP1457) (0.538 COMP1455) (0.330 COMP1004)
+Antineoplastic (renal cancer)	0.556	COMP1456	(0.387 COMP1455) (0.380 COMP285) (0.372 COMP1457) (0.282 COMP1004)
+Antineoplastic (sarcoma)	0.238	COMP1004	(0.217 COMP285) (0.207 COMP1457) (0.200 COMP16)
+Antineoplastic (small cell lung cancer)	0.237	COMP1456	(0.227 COMP1457)
+Antineoplastic (solid tumors)	0.389	COMP285	(0.252 COMP1004)
+Antineoplastic (squamous cell carcinoma)	0.367	COMP1455	(0.244 COMP1004) (0.132 COMP1457)
+Antineoplastic alkaloid	0.112	COMP16	(0.082 COMP285)
+Antineoplastic antibiotic	0.386	COMP1456	(0.277 COMP1004) (0.246 COMP1457) (0.227 COMP285) (0.115 COMP1455)
+Antineoplastic antimetabolite	0.390	COMP16	
+Antineoplastic enhancer	0.582	COMP1457	(0.415 COMP1455) (0.275 COMP285)
+Antineoplastic. alkylator	0.336	COMP16	(0.171 COMP285)
+Antineurogenic pain	0.223	COMP16	
+Antiobesity	0.552	COMP285	(0.285 COMP1004) (0.245 COMP16)
+Antiosteoporotic	0.802	COMP285	(0.543 COMP16) (0.450 COMP1457)
+Antioxidant	0.750	COMP1455	(0.527 COMP1004) (0.507 COMP285) (0.363 COMP1456) (0.354 COMP16) (0.308 COMP1457)
+Antiparasitic	0.630	COMP1455	(0.596 COMP1456) (0.378 COMP1004) (0.369 COMP285) (0.311 COMP16) (0.227 COMP1457)
+Antiparkinsonian	0.218	COMP285	
+Antiparkinsonian. rigidity relieving	0.712	COMP285	(0.462 COMP16) (0.253 COMP1457)
+Antiparkinsonian. tremor relieving	0.349	COMP16	
+Antiprotozoal	0.690	COMP1455	(0.343 COMP1457) (0.234 COMP1004)
+Antiprotozoal (Amoeba)	0.117	COMP16	
+Antiprotozoal (Babesia)	0.106	COMP16	
+Antiprotozoal (Coccidial)	0.228	COMP16	(0.143 COMP1456) (0.133 COMP1004)
+Antiprotozoal (Leishmania)	0.844	COMP1455	(0.465 COMP1004) (0.214 COMP1456) (0.190 COMP285)
+Antiprotozoal (Plasmodium)	0.547	COMP1455	(0.368 COMP1457) (0.223 COMP1004)
+Antiprotozoal (Toxoplasma)	0.148	COMP16	
+Antiprotozoal (Trichomonas)	0.296	COMP1455	(0.181 COMP16)
+Antiprotozoal (Trypanosoma)	0.352	COMP1455	
+Antiprotozoal activity enhancer	0.093	COMP16	
+Antipruritic	0.244	COMP16	(0.163 COMP285)
+Antipruritic. allergic	0.655	COMP16	(0.652 COMP285) (0.452 COMP1457) (0.345 COMP1004) (0.330 COMP1455)
+Antipruritic. non-allergic	0.498	COMP285	(0.477 COMP16) (0.219 COMP1457)
+Antipsoriatic	0.791	COMP285	(0.607 COMP1457) (0.383 COMP16)
+Antipyretic	0.595	COMP16	(0.337 COMP1455) (0.298 COMP1457) (0.286 COMP285) (0.254 COMP1004)
+Antirickettsial	0.295	COMP16	(0.186 COMP1457) (0.176 COMP1004) (0.151 COMP1455)
+Antischistosomal	0.367	COMP1455	(0.246 COMP16)
+Antiseptic	0.654	COMP16	(0.285 COMP1457) (0.151 COMP1455) (0.128 COMP1004)
+Antismoking	0.109	COMP1457	
+Antispirochetal	0.529	COMP16	(0.075 COMP1457)
+Antithrombocytopenic	0.087	COMP16	
+Antithrombotic	0.611	COMP16	(0.319 COMP1456) (0.282 COMP1004) (0.232 COMP1457)
+Antitreponemal	0.171	COMP1456	(0.102 COMP16) (0.083 COMP1004) (0.077 COMP285) (0.074 COMP1455)
+Antituberculosic	0.488	COMP1455	
+Antitussive	0.126	COMP16	
+Antiulcerative	0.513	COMP1456	(0.501 COMP16) (0.355 COMP1455) (0.222 COMP1004) (0.216 COMP285)
+Antiviral (CMV)	0.131	COMP16	
+Antiviral (HIV)	0.283	COMP1455	(0.273 COMP1457) (0.197 COMP16) (0.189 COMP1004) (0.183 COMP285)
+Antiviral (Hepatitis A)	0.100	COMP1004	(0.096 COMP16)
+Antiviral (Hepatitis B)	0.345	COMP1457	
+Antiviral (Hepatitis C)	0.205	COMP16	(0.147 COMP1457)
+Antiviral (Hepatitis)	0.218	COMP16	(0.210 COMP1457) (0.139 COMP285)
+Antiviral (Herpes)	0.247	COMP1004	(0.215 COMP1457) (0.206 COMP285) (0.150 COMP16)
+Antiviral (Herpesvirus 3. Human)	0.096	COMP16	
+Antiviral (Influenza A)	0.377	COMP285	(0.246 COMP1004) (0.163 COMP16) (0.150 COMP1455) (0.115 COMP1457)
+Antiviral (Influenza B)	0.207	COMP16	(0.107 COMP1004)
+Antiviral (Influenza)	0.371	COMP285	(0.239 COMP1004) (0.213 COMP16) (0.189 COMP1455)
+Antiviral (Papilloma)	0.178	COMP16	
+Antiviral (Parainfluenza)	0.288	COMP16	
+Antiviral (Poxvirus)	0.284	COMP16	
+Antiviral (Rhinovirus)	0.116	COMP16	
+Apoptosis agonist	0.895	COMP1456	(0.846 COMP285) (0.832 COMP1455) (0.784 COMP1457) (0.659 COMP1004) (0.414 COMP16)
+Apoptosis antagonist	0.610	COMP16	(0.598 COMP1455) (0.574 COMP285) (0.355 COMP1004) (0.327 COMP1456) (0.214 COMP1457)
+Atherosclerosis treatment	0.681	COMP285	(0.651 COMP16) (0.275 COMP1004)
+Autism spectrum disorders treatment	0.547	COMP285	(0.106 COMP16)
+Bone diseases treatment	0.841	COMP285	(0.590 COMP16) (0.543 COMP1457) (0.187 COMP1004) (0.180 COMP1455)
+Bone formation stimulant	0.362	COMP16	(0.320 COMP285) (0.213 COMP1457)
+Bronchodilator	0.100	COMP16	(0.092 COMP1004)
+CNS active muscle relaxant	0.411	COMP16	(0.157 COMP1004) (0.149 COMP1457)
+Cardioprotectant	0.490	COMP16	(0.309 COMP1455) (0.268 COMP1456) (0.243 COMP285) (0.207 COMP1004)
+Cardiotonic	0.179	COMP16	
+Cardiovascular analeptic	0.737	COMP16	(0.537 COMP1004) (0.433 COMP1457) (0.186 COMP285)
+Cell adhesion inhibitor	0.416	COMP16	
+Cell adhesion molecule inhibitor	0.322	COMP16	
+Cell wall synthesis inhibitor	0.275	COMP16	
+Chemopreventive	0.842	COMP285	(0.614 COMP1455) (0.521 COMP1457) (0.480 COMP1004) (0.475 COMP1456) (0.320 COMP16)
+Chemoprotective	0.628	COMP285	(0.577 COMP16) (0.485 COMP1455) (0.442 COMP1004) (0.292 COMP1457) (0.235 COMP1456)
+Choleretic	0.289	COMP16	(0.267 COMP1004) (0.232 COMP285) (0.137 COMP1457) (0.127 COMP1455)
+Cholesterol absorption inhibitor	0.080	COMP285	(0.050 COMP16)
+Cholesterol synthesis inhibitor	0.681	COMP285	(0.318 COMP16) (0.269 COMP1004) (0.175 COMP1455) (0.123 COMP1457)
+Coagulant	0.377	COMP16	(0.137 COMP1457)
+Cognition disorders treatment	0.208	COMP1457	
+Constipation treatment	0.120	COMP16	
+Contraceptive	0.529	COMP285	(0.227 COMP1457) (0.138 COMP16)
+Contraceptive female	0.436	COMP285	(0.211 COMP16) (0.138 COMP1457) (0.114 COMP1004) (0.103 COMP1455)
+Contraceptive male	0.268	COMP285	
+Corneal wound healing stimulator	0.325	COMP16	
+Cushing's syndrome treatment	0.142	COMP285	
+Cystic fibrosis treatment	0.176	COMP16	
+Cytostatic	0.461	COMP16	(0.460 COMP1004) (0.369 COMP1456) (0.249 COMP1457) (0.183 COMP285)
+DNA synthesis inhibitor	0.424	COMP16	(0.243 COMP1457) (0.196 COMP1456)
+Dementia treatment	0.291	COMP1455	
+Diabetic nephropathy treatment	0.429	COMP285	(0.189 COMP16)
+Diabetic retinopathy treatment	0.332	COMP16	(0.173 COMP285)
+Diuretic	0.628	COMP285	(0.310 COMP16)
+Dyspepsia treatment	0.078	COMP16	
+Endometrios treatment	0.296	COMP285	
+Expectorant	0.277	COMP16	(0.137 COMP1004) (0.121 COMP1457)
+Gastric antisecretory	0.167	COMP16	
+Gastritis treatment	0.177	COMP1004	(0.127 COMP16)
+Gaucher disease treatment	0.123	COMP16	
+Gout treatment	0.211	COMP16	(0.097 COMP1004)
+Growth stimulant	0.225	COMP1456	(0.223 COMP16) (0.209 COMP285) (0.127 COMP1004) (0.121 COMP1457)
+HDL-cholesterol increasing	0.226	COMP285	(0.186 COMP1004) (0.160 COMP16)
+Hair growth stimulant	0.893	COMP285	(0.429 COMP16) (0.126 COMP1457)
+Heart failure treatment	0.222	COMP16	
+Hematopoietic	0.195	COMP16	
+Hemostatic	0.232	COMP16	(0.153 COMP285)
+Hepatic disorders treatment	0.692	COMP285	(0.470 COMP1456) (0.436 COMP16) (0.297 COMP1455) (0.240 COMP1004)
+Hepatoprotectant	0.522	COMP1456	(0.462 COMP285) (0.329 COMP1004) (0.309 COMP16) (0.280 COMP1455) (0.147 COMP1457)
+Hypercalcemia treatment	0.250	COMP285	(0.089 COMP16)
+Hyperparathyroidism treatment	0.296	COMP285	(0.146 COMP16)
+Hypogonadism treatment	0.062	COMP285	
+Hypolipemic	0.626	COMP285	(0.551 COMP16) (0.381 COMP1004) (0.180 COMP1455)
+Immunomodulator	0.778	COMP285	(0.536 COMP16)
+Immunostimulant	0.592	COMP285	(0.453 COMP16) (0.265 COMP1004) (0.181 COMP1457)
+Immunosuppressant	0.615	COMP285	(0.533 COMP16) (0.523 COMP1457) (0.518 COMP1456) (0.336 COMP1004) (0.204 COMP1455)
+Inflammatory Bowel disease treatment	0.372	COMP285	(0.261 COMP16)
+Insulin sensitizer	0.381	COMP16	(0.243 COMP1004)
+Keratolytic	0.215	COMP16	(0.092 COMP1457) (0.084 COMP1004)
+Leukotriene synthesis inhibitor	0.216	COMP16	(0.071 COMP1455)
+Lipoprotein disorders treatment	0.739	COMP285	(0.636 COMP16) (0.452 COMP1004) (0.211 COMP1455)
+Liver cirrhosis treatment	0.274	COMP285	(0.129 COMP1455)
+Liver fibrosis treatment	0.325	COMP285	(0.228 COMP16)
+Menstruation disorders treatment	0.155	COMP16	(0.152 COMP285)
+Mental retardation treatment	0.120	COMP16	
+Metabolic disease treatment	0.467	COMP285	(0.227 COMP16)
+Movement disorders treatment	0.200	COMP16	(0.132 COMP1457)
+Mucolytic	0.250	COMP16	(0.139 COMP1004) (0.106 COMP1457)
+Multiple sclerosis treatment	0.209	COMP285	
+Muscle relaxant	0.389	COMP16	(0.289 COMP285) (0.121 COMP1004)
+Muscular dystrophy treatment	0.300	COMP16	(0.183 COMP285)
+Myasthenia Gravis treatment	0.224	COMP16	
+Myocardial infarction treatment	0.507	COMP16	(0.287 COMP1455) (0.249 COMP285)
+Myocardial ischemia treatment	0.191	COMP1455	(0.189 COMP16)
+Narcolepsy treatment	0.056	COMP16	
+Narcotic antagonist	0.141	COMP16	(0.086 COMP1457)
+Neuropathy treatment	0.196	COMP16	
+Neutropenia treatment	0.121	COMP285	(0.103 COMP16)
+Non-steroidal antiinflammatory agent	0.393	COMP16	(0.380 COMP1457) (0.228 COMP1004)
+Paget's disease treatment	0.198	COMP16	(0.146 COMP285)
+Pancreatic disorders treatment	0.417	COMP16	
+Phobic disorders treatment	0.202	COMP16	(0.164 COMP1457) (0.152 COMP1004)
+Photosensitizer	0.403	COMP16	(0.277 COMP1004) (0.102 COMP1456)
+Platelet aggregation inhibitor	0.582	COMP16	(0.383 COMP1456)
+Platelet antagonist	0.790	COMP16	
+Postcoital contraceptive	0.104	COMP1457	(0.082 COMP285) (0.081 COMP1004) (0.071 COMP16) (0.066 COMP1456)
+Postmenopausal disorders treatment	0.223	COMP285	
+Posttraumatic stress disorder treatment	0.130	COMP16	(0.084 COMP285)
+Premenstrual syndrome treatment	0.109	COMP285	
+Proliferative diseases treatment	0.839	COMP285	(0.477 COMP1455) (0.436 COMP16) (0.373 COMP1456) (0.367 COMP1004) (0.307 COMP1457)
+Prostate cancer treatment	0.649	COMP285	(0.560 COMP1455) (0.534 COMP1456) (0.528 COMP1457) (0.324 COMP1004)
+Prostate disorders treatment	0.534	COMP285	(0.309 COMP16) (0.241 COMP1457)
+Prostatic (benign) hyperplasia treatment	0.689	COMP285	(0.230 COMP16)
+Psychosexual dysfunction treatment	0.344	COMP285	(0.143 COMP16)
+Psychostimulant	0.512	COMP16	(0.181 COMP1457)
+Pulmonary hypertension treatment	0.242	COMP16	
+Radioprotector	0.612	COMP16	(0.602 COMP285) (0.453 COMP1004) (0.199 COMP1455) (0.182 COMP1457)
+Radiosensitizer	0.478	COMP16	(0.372 COMP1004)
+Raynaud's phenomenon treatment	0.291	COMP16	
+Renal disease treatment	0.414	COMP285	(0.330 COMP16)
+Renal failure treatment	0.305	COMP16	
+Respiratory analeptic	0.737	COMP285	(0.634 COMP1004) (0.575 COMP16) (0.333 COMP1457) (0.238 COMP1456)
+Restenosis treatment	0.284	COMP16	
+Restless leg syndrome treatment	0.233	COMP16	
+Retinoprotector	0.340	COMP285	(0.232 COMP16) (0.108 COMP1457)
+Rhinitis treatment	0.191	COMP16	
+Sepsis treatment	0.276	COMP1457	(0.268 COMP16)
+Septic shock treatment	0.378	COMP16	(0.154 COMP1457)
+Shock treatment	0.204	COMP16	
+Skeletal muscle relaxant	0.396	COMP16	(0.238 COMP285)
+Skin whitener	0.717	COMP1455	(0.467 COMP1004) (0.278 COMP285) (0.177 COMP16) (0.130 COMP1456) (0.125 COMP1457)
+Sleep apnea treatment	0.084	COMP16	
+Spasmolytic	0.589	COMP1004	(0.394 COMP16) (0.255 COMP285) (0.247 COMP1455)
+Stroke treatment	0.572	COMP16	(0.428 COMP285) (0.248 COMP1455)
+T cell inhibitor	0.097	COMP1456	(0.087 COMP1457) (0.080 COMP16)
+Thrombolytic	0.421	COMP16	
+Tocolytic	0.128	COMP16	
+Tourette's syndrome treatment	0.156	COMP16	(0.095 COMP1457)
+Tumour necrosis factor alpha release inhibitor	0.508	COMP1004	(0.418 COMP1456) (0.291 COMP285)
+Uric acid excretion stimulant	0.161	COMP16	
+Urolithiasis treatment	0.193	COMP16	
+Uterine relaxant	0.088	COMP16	
+Uterine stimulant	0.297	COMP16	
+Vascular (periferal) disease treatment	0.389	COMP16	(0.279 COMP285) (0.268 COMP1455) (0.267 COMP1004)
+Vascular dementia treatment	0.289	COMP1455	
+Vasodilator	0.424	COMP16	(0.368 COMP1004) (0.331 COMP1457) (0.327 COMP1455) (0.300 COMP1456)
+Vasodilator. coronary	0.396	COMP16	(0.383 COMP1004) (0.312 COMP1455)
+Vasodilator. peripheral	0.671	COMP16	
+Wound healing agent	0.444	COMP16	(0.324 COMP1455) (0.135 COMP285)

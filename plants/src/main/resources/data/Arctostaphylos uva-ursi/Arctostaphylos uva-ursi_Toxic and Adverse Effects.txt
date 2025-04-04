@@ -1,0 +1,19 @@
+Name	Activation_Prob	Compound	Another_Probs
+Abortion inducer	0.420	COMP2823/COMP2824	(0.250 COMP455)
+Carcinogenic	0.235	COMP2823/COMP2824	(0.155 COMP455)
+Carcinogenic. group 1	0.173	COMP455	
+Carcinogenic. group 2A	0.081	COMP455	
+Cardiodepressant	0.432	COMP455	(0.200 COMP2823/COMP2824)
+Cytotoxic	0.563	COMP2823/COMP2824	(0.136 COMP455)
+DNA damaging	0.358	COMP455	
+Embryotoxic	0.724	COMP2823/COMP2824	(0.181 COMP455)
+Eye irritation. high	0.158	COMP455	
+Genotoxic	0.119	COMP455	
+Hypoglycemic	0.360	COMP2823/COMP2824	
+Mutagenic	0.112	COMP455	
+Pneumotoxic	0.294	COMP455	
+Sedative	0.455	COMP455	
+Sensitization	0.755	COMP2823/COMP2824	
+Teratogen	0.735	COMP2823/COMP2824	(0.200 COMP455)
+Toxic. respiratory center	0.181	COMP2823/COMP2824	
+Ulceration	0.355	COMP455	

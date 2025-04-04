@@ -1,0 +1,71 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.113	COMP1965	(0.098 COMP1966) (0.060 COMP1072) (0.057 COMP153) (0.044 COMP69) (0.038 COMP131)
+5 Hydroxytryptamine 2C antagonist	0.072	COMP1963/COMP1964	
+5 Hydroxytryptamine 3A agonist	0.101	COMP131	
+5 Hydroxytryptamine uptake inhibitor	0.178	COMP1963/COMP1964	
+ATPase inhibitor	0.382	COMP1963/COMP1964	(0.370 COMP1072) (0.286 COMP1247) (0.257 COMP155) (0.225 COMP303) (0.199 COMP153) (0.180 COMP302) (0.165 COMP300) (0.163 COMP131) (0.143 COMP1965)
+Acetylcholine M1 receptor agonist	0.047	COMP1963/COMP1964	
+Acetylcholine M1 receptor antagonist	0.471	COMP1963/COMP1964	(0.134 COMP1247) (0.129 COMP1072)
+Acetylcholine M2 receptor agonist	0.097	COMP1963/COMP1964	
+Acetylcholine M2 receptor antagonist	0.216	COMP1963/COMP1964	
+Acetylcholine M3 receptor agonist	0.173	COMP1963/COMP1964	(0.073 COMP131)
+Acetylcholine M3 receptor antagonist	0.116	COMP1963/COMP1964	
+Acetylcholinesterase inhibitor	0.251	COMP155	(0.211 COMP300) (0.181 COMP153) (0.168 COMP131) (0.131 COMP1966)
+Aconitate hydratase inhibitor	0.062	COMP302	(0.056 COMP1072/COMP155) (0.053 COMP131/COMP300)
+Acyl-CoA dehydrogenase inhibitor	0.124	COMP302	(0.049 COMP1072) (0.048 COMP131)
+Adenylate cyclase inhibitor	0.240	COMP1966	(0.179 COMP1965) (0.116 COMP1072)
+Adenylate kinase inhibitor	0.181	COMP302	(0.100 COMP1072) (0.097 COMP131) (0.095 COMP1247)
+Adrenaline uptake inhibitor	0.104	COMP1963/COMP1964	(0.060 COMP1965)
+Aldosterone antagonist	0.286	COMP69	(0.173 COMP1966) (0.087 COMP1247) (0.075 COMP131) (0.061 COMP1965) (0.058 COMP153) (0.048 COMP302)
+Alpha 1a adrenoreceptor antagonist	0.317	COMP1963/COMP1964	
+Alpha 1b adrenoreceptor antagonist	0.235	COMP1963/COMP1964	
+Alpha 2a adrenoreceptor antagonist	0.542	COMP1963/COMP1964	
+Alpha 2b adrenoreceptor agonist	0.028	COMP1247	
+Alpha-mannosidase inhibitor	0.053	COMP131	
+Androgen agonist	0.203	COMP69	(0.167 COMP303) (0.117 COMP300) (0.112 COMP1965) (0.111 COMP1072/COMP1966) (0.091 COMP153) (0.086 COMP131) (0.080 COMP1247) (0.070 COMP155) (0.058 COMP1963/COMP1964)
+Androgen antagonist	0.366	COMP69	(0.331 COMP303) (0.257 COMP1966) (0.204 COMP1965) (0.167 COMP300) (0.149 COMP1247) (0.138 COMP153) (0.135 COMP155) (0.119 COMP131) (0.101 COMP1072)
+Arginase inhibitor	0.033	COMP1072	(0.031 COMP131)
+Argininosuccinate synthase inhibitor	0.051	COMP1072	
+Butyrylcholinesterase inhibitor	0.108	COMP1966	(0.083 COMP1963/COMP1964)
+CYP2C9 inhibitor	0.217	COMP302	
+CYP2D6 inhibitor	0.534	COMP1963/COMP1964	(0.271 COMP131) (0.209 COMP1966) (0.195 COMP1965)
+CYP3A4 inhibitor	0.272	COMP1965	(0.271 COMP1966) (0.227 COMP302) (0.224 COMP153/COMP1963/COMP1964)
+Ca2+-transporting ATPase inhibitor	0.192	COMP1072	(0.179 COMP303) (0.172 COMP131) (0.170 COMP302) (0.157 COMP155) (0.154 COMP300) (0.153 COMP1247) (0.144 COMP153) (0.140 COMP1965) (0.133 COMP1966)
+Calcium channel L-type blocker	0.123	COMP1072	(0.106 COMP1963/COMP1964) (0.063 COMP300)
+Cannabinoid CB1 receptor antagonist	0.187	COMP131	(0.057 COMP300)
+Cannabinoid CB2 receptor antagonist	0.400	COMP131	(0.320 COMP153) (0.121 COMP1966) (0.080 COMP300) (0.042 COMP1965)
+Cystathionine beta-synthase inhibitor	0.101	COMP1072	(0.094 COMP131) (0.093 COMP302)
+DOPA decarboxylase inhibitor	0.097	COMP131	(0.093 COMP155)
+Dopamine uptake inhibitor	0.229	COMP1963/COMP1964	
+Electron transport complex I inhibitor	0.260	COMP302	(0.139 COMP1247) (0.108 COMP69)
+Estrogen agonist	0.252	COMP131	(0.151 COMP1966) (0.135 COMP1965) (0.110 COMP69) (0.087 COMP153) (0.081 COMP1247/COMP155) (0.065 COMP303)
+Fumarate hydratase inhibitor	0.045	COMP302	
+GABA A receptor agonist	0.112	COMP155	(0.082 COMP1966)
+GABA aminotransferase inhibitor	0.120	COMP155	(0.106 COMP1247) (0.089 COMP302) (0.079 COMP131) (0.070 COMP153)
+GRP78 expression inhibitor	0.025	COMP131	(0.021 COMP1072)
+Glucocorticoid agonist	0.059	COMP69	(0.019 COMP1966) (0.013 COMP1965)
+Glucocorticoid antagonist	0.177	COMP69	(0.089 COMP1966) (0.083 COMP303) (0.074 COMP1965) (0.051 COMP131) (0.043 COMP153)
+Glucose-6-phosphate isomerase inhibitor	0.057	COMP302	(0.056 COMP1072) (0.048 COMP131) (0.046 COMP155)
+Glutamate dehydrogenase inhibitor	0.104	COMP302	(0.070 COMP131) (0.067 COMP155)
+HMG CoA reductase inhibitor	0.075	COMP1072	(0.048 COMP1965) (0.044 COMP302) (0.040 COMP1966)
+Heat shock protein 70 antagonist	0.138	COMP131	
+Histamine H2 receptor agonist	0.038	COMP300	
+Na+ K+ transporting ATPase inhibitor	0.139	COMP1965	(0.137 COMP69) (0.135 COMP153) (0.130 COMP1966) (0.123 COMP302) (0.120 COMP131) (0.119 COMP1247) (0.118 COMP1072) (0.110 COMP303) (0.107 COMP155/COMP300)
+Opioid delta receptor antagonist	0.107	COMP69	
+Opioid kappa receptor agonist	0.179	COMP1072	(0.092 COMP1963/COMP1964) (0.066 COMP69) (0.059 COMP1966) (0.055 COMP1965)
+Opioid mu receptor agonist	0.048	COMP1072	(0.041 COMP69)
+Ornithine carbamoyltransferase inhibitor	0.067	COMP302	
+Phosphodiesterase inhibitor	0.119	COMP1963/COMP1964	
+Phosphofructokinase-1 inhibitor	0.116	COMP302	(0.081 COMP1072) (0.062 COMP1247) (0.061 COMP131)
+Phospholipase A2 inhibitor	0.219	COMP1966	(0.170 COMP302) (0.155 COMP1965)
+Phospholipase C inhibitor	0.227	COMP1965	(0.213 COMP1072) (0.176 COMP1966) (0.173 COMP302) (0.164 COMP131) (0.155 COMP1247) (0.151 COMP1963/COMP1964) (0.144 COMP69) (0.142 COMP300)
+Phosphorylase inhibitor	0.061	COMP1965	
+Prostaglandin F2 alpha agonist	0.045	COMP1072	(0.022 COMP302) (0.021 COMP1247)
+Retinoic acid alpha receptor agonist	0.153	COMP155	(0.060 COMP1966) (0.056 COMP131) (0.049 COMP1965) (0.044 COMP1247) (0.039 COMP153)
+Succinate dehydrogenase inhibitor	0.286	COMP302	(0.250 COMP1247) (0.194 COMP131) (0.182 COMP69) (0.178 COMP155) (0.152 COMP1072) (0.143 COMP153)
+Superoxide dismutase inhibitor	0.438	COMP302	(0.212 COMP131) (0.170 COMP1966)
+Thyroid hormone alpha agonist	0.015	COMP1966	
+Topoisomerase I inhibitor	0.130	COMP303	(0.118 COMP1963/COMP1964)
+Triose-phosphate isomerase inhibitor	0.132	COMP1072	(0.126 COMP302) (0.109 COMP1247) (0.090 COMP131) (0.088 COMP155)
+Tyrosine 3 hydroxylase inhibitor	0.260	COMP302	(0.237 COMP131) (0.233 COMP1247) (0.222 COMP155) (0.211 COMP1963/COMP1964) (0.206 COMP1072) (0.194 COMP300)
+UDP-glucose 4-epimerase inhibitor	0.157	COMP1072	(0.096 COMP131/COMP155) (0.091 COMP302) (0.086 COMP1247)

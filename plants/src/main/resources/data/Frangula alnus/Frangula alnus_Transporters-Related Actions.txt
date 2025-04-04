@@ -1,0 +1,20 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake inhibitor	0.057	COMP1498	
+5 Hydroxytryptamine uptake stimulant	0.619	COMP294	(0.323 COMP1496) (0.304 COMP1497) (0.272 COMP1498) (0.225 COMP1500)
+Adenosine uptake inhibitor	0.041	COMP1495	(0.033 COMP1497)
+Antiviral (CMV)	0.124	COMP1498	
+Electron transport complex I inhibitor	0.166	COMP294	(0.158 COMP1497) (0.101 COMP1216) (0.099 COMP1495)
+Endocannabinoid uptake inhibitor	0.075	COMP1496	
+Equilibrative nucleoside transport protein inhibitor	0.064	COMP1495	
+Excitatory amino acid transporter EAAC1 inhibitor	0.175	COMP1498	(0.156 COMP1500) (0.135 COMP1497) (0.101 COMP1499) (0.099 COMP294)
+GABA uptake inhibitor	0.056	COMP1496	
+Ileal bile acid transport inhibitor	0.019	COMP1495	
+Multidrug resistance-associated protein 1 inhibitor	0.241	COMP294	(0.146 COMP1497)
+Nucleoside transporters inhibitor	0.042	COMP1495	(0.036 COMP294)
+P-glycoprotein inhibitor	0.422	COMP294	(0.226 COMP1497) (0.223 COMP1496) (0.219 COMP1495) (0.181 COMP1216)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.048	COMP294	(0.040 COMP1498) (0.039 COMP1500) (0.030 COMP1496/COMP1497)
+Sodium/bile acid cotransporter inhibitor	0.473	COMP1496	(0.308 COMP1497) (0.273 COMP1216) (0.266 COMP294) (0.223 COMP1500) (0.220 COMP1495)
+Sodium/glucose cotransporter 1 inhibitor	0.201	COMP1495	(0.053 COMP1216) (0.030 COMP1497) (0.026 COMP1496)
+Sodium/glucose cotransporter 2 inhibitor	0.192	COMP1495	(0.106 COMP1216) (0.035 COMP1496) (0.030 COMP1497)
+Sodium/glucose cotransporter inhibitor	0.269	COMP1495	(0.089 COMP1216) (0.030 COMP1496) (0.029 COMP1497)
+Vesicular glutamate transport inhibitor	0.026	COMP1499	(0.018 COMP1500) (0.015 COMP1496)

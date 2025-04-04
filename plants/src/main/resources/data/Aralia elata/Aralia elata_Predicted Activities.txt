@@ -1,0 +1,898 @@
+Name	Activation_Prob	Compound	Another_Probs
+1-Alkyl-2-acetylglycerophosphocholine esterase inhibitor	0.049	COMP237	
+1-Deoxy-D-xylulose-5-phosphate reductoisomerase inhibitor	0.014	COMP237	
+1.3-Beta-glucan synthase inhibitor	0.033	COMP234	(0.032 COMP235) (0.030 COMP238)
+11-Beta-hydroxysteroid dehydrogenase 1 inhibitor	0.246	COMP238	
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.812	COMP238	(0.253 COMP234) (0.180 COMP235)
+12-Lipoxygenase inhibitor	0.223	COMP237	
+15-Lipoxygenase inhibitor	0.341	COMP237	
+2.3-Oxidosqualene-lanosterol cyclase inhibitor	0.039	COMP238	
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.048	COMP237	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.061	COMP237	
+3C-Like protease (SARS coronavirus) inhibitor	0.108	COMP238	
+3C-like protease (Human coronavirus) inhibitor	0.136	COMP237	
+5 Hydroxytryptamine 1E antagonist	0.235	COMP237	
+5 Hydroxytryptamine 3E antagonist	0.183	COMP237	
+5 Hydroxytryptamine 4 antagonist	0.051	COMP237	
+5 Hydroxytryptamine release inhibitor	0.559	COMP237	
+5 Hydroxytryptamine release stimulant	0.901	COMP235	(0.829 COMP234) (0.736 COMP238) (0.592 COMP237)
+5 Hydroxytryptamine uptake stimulant	0.508	COMP237	
+5-Alpha-reductase 1 inhibitor	0.014	COMP237	
+5-Alpha-reductase 2 inhibitor	0.023	COMP238	(0.018 COMP237)
+5-Alpha-reductase inhibitor	0.126	COMP238	(0.065 COMP237)
+5-Lipoxygenase inhibitor	0.167	COMP237	
+ABCA1 expression enhancer	0.136	COMP238	(0.105 COMP237)
+AICAR transformylase inhibitor	0.061	COMP237	
+AMP-activated protein kinase stimulant	0.925	COMP235	(0.867 COMP234) (0.721 COMP238)
+AMPA 4 receptor antagonist	0.039	COMP237	
+AR expression inhibitor	0.666	COMP238	(0.597 COMP235) (0.548 COMP234) (0.335 COMP237)
+ATP citrate lysase inhibitor	0.042	COMP237	
+ATPase (Vacuolar H+) inhibitor	0.121	COMP237	(0.096 COMP235)
+ATPase inhibitor	0.237	COMP237	
+Abortion inducer	0.485	COMP237	(0.453 COMP238)
+Acaricide	0.386	COMP237	
+Acetyl-CoA transferase 1 inhibitor	0.049	COMP237	
+Acetyl-CoA transferase 2 inhibitor	0.079	COMP238	(0.077 COMP237)
+Acetyl-CoA transferase inhibitor	0.088	COMP237	(0.072 COMP238)
+Acetylcholine M1 receptor antagonist	0.133	COMP237	
+Acetylcholine M4 receptor agonist	0.030	COMP237	
+Acetylcholine M5 receptor agonist	0.092	COMP237	
+Acetylcholine muscarinic agonist	0.053	COMP237	
+Acetylcholine nicotinic antagonist	0.090	COMP237	
+Acetylcholine release stimulant	0.245	COMP237	
+Acetylcholinesterase inhibitor	0.113	COMP238	
+Acid ceramidase inhibitor	0.031	COMP237	
+Aconitate hydratase inhibitor	0.146	COMP237	
+Actinic keratosis treatment	0.221	COMP237	(0.143 COMP238)
+Acute neurologic disorders treatment	0.192	COMP234	(0.171 COMP237)
+Acute respiratory distress syndrome (ARDS) treatment	0.465	COMP234	(0.426 COMP235) (0.392 COMP238) (0.176 COMP237)
+Acyl-CoA dehydrogenase inhibitor	0.181	COMP237	
+Adenine nucleotide translocase inhibitor	0.061	COMP237	
+Adenosine A3 receptor antagonist	0.076	COMP237	
+Adenosine deaminase inhibitor	0.084	COMP237	
+Adenosine uptake inhibitor	0.035	COMP237	
+Adenylate cyclase 1 inhibitor	0.073	COMP237	
+Adenylate cyclase inhibitor	0.126	COMP237	
+Adenylate cyclase stimulant	0.224	COMP237	(0.185 COMP238) (0.136 COMP234) (0.131 COMP235)
+Adenylate kinase inhibitor	0.309	COMP237	
+Age-related macular degeneration treatment	0.207	COMP237	
+Alcohol dehydrogenase inhibitor	0.131	COMP237	
+Alcohol dehydrogenase substrate	0.205	COMP237	(0.122 COMP238)
+Alcohol oxidase inhibitor	0.320	COMP237	
+Aldehyde dehydrogenase inhibitor	0.370	COMP237	
+Aldehyde dehydrogenase substrate	0.232	COMP237	
+Aldehyde oxidase inhibitor	0.605	COMP237	
+Aldehyde oxidase substrate	0.183	COMP237	
+Aldose reductase substrate	0.277	COMP234	(0.259 COMP235) (0.130 COMP237)
+Aldosterone antagonist	0.167	COMP238	(0.045 COMP237)
+Alkaline phosphatase inhibitor	0.109	COMP237	
+Alkylator	0.241	COMP237	
+Alpha-N-acetylglucosaminidase inhibitor	0.440	COMP237	(0.108 COMP238)
+Alpha-glucosidase inhibitor	0.935	COMP234	(0.884 COMP235) (0.641 COMP238)
+Alpha-mannosidase inhibitor	0.083	COMP237	(0.080 COMP235) (0.061 COMP234)
+Alzheimer's disease treatment	0.417	COMP235	(0.390 COMP234) (0.267 COMP238)
+Amidase inhibitor	0.094	COMP237	
+Aminopeptidase B inhibitor	0.164	COMP237	
+Aminopeptidase I inhibitor	0.106	COMP237	
+Amylase inhibitor	0.529	COMP234	(0.292 COMP235) (0.183 COMP237) (0.105 COMP238)
+Amyloid beta precursor protein antagonist	0.148	COMP237	
+Amyotrophic lateral sclerosis treatment	0.217	COMP237	
+Anabolic	0.180	COMP238	(0.159 COMP237) (0.092 COMP234)
+Analeptic	0.547	COMP237	(0.464 COMP234) (0.390 COMP235) (0.221 COMP238)
+Androgen agonist	0.109	COMP238	(0.062 COMP237)
+Androgen antagonist	0.110	COMP238	
+Anesthetic	0.420	COMP237	
+Anesthetic general	0.611	COMP237	
+Anesthetic inhalation	0.263	COMP237	
+Anesthetic local	0.239	COMP237	
+Angiogenesis inhibitor	0.288	COMP234	(0.261 COMP235)
+Angiogenesis stimulant	0.837	COMP234	(0.821 COMP235) (0.381 COMP237) (0.379 COMP238)
+Angiotensin AT1 receptor antagonist	0.060	COMP237	
+Angiotensin AT1A receptor antagonist	0.023	COMP237	
+Angiotensin AT1B receptor antagonist	0.023	COMP237	
+Angiotensin AT2 receptor antagonist	0.027	COMP237	
+Angiotensin II receptor antagonist	0.052	COMP237	
+Antiacne	0.352	COMP238	(0.293 COMP234) (0.286 COMP235) (0.235 COMP237)
+Antialcoholic	0.265	COMP237	
+Antiallergic	0.527	COMP237	
+Antiamyloidogenic	0.309	COMP235	(0.285 COMP234) (0.208 COMP237)
+Antianemic	0.183	COMP237	
+Antianginal	0.230	COMP237	
+Antianorexic	0.260	COMP237	
+Antiarthritic	0.545	COMP235	(0.520 COMP234) (0.373 COMP237) (0.340 COMP238)
+Antibacterial	0.701	COMP235	(0.691 COMP234) (0.385 COMP238) (0.338 COMP237)
+Antibacterial (Helicobacter pylori)	0.211	COMP237	
+Antibiotic	0.195	COMP235	(0.183 COMP234) (0.084 COMP237)
+Antibiotic Aminoglycoside-like	0.086	COMP235	(0.080 COMP234)
+Antibiotic Anthracycline-like	0.022	COMP237	
+Antibiotic Glycopeptide-like	0.151	COMP235	(0.143 COMP234)
+Anticataract	0.288	COMP235	(0.266 COMP234) (0.253 COMP238) (0.162 COMP237)
+Anticholelithogenic	0.164	COMP237	(0.104 COMP238)
+Anticoagulant	0.157	COMP237	(0.133 COMP234)
+Anticonvulsant	0.244	COMP237	
+Antidiabetic	0.864	COMP235	(0.863 COMP234) (0.781 COMP238) (0.311 COMP237)
+Antidiabetic (type 1)	0.161	COMP238	(0.142 COMP234) (0.118 COMP235)
+Antidiabetic (type 2)	0.617	COMP235	(0.615 COMP238) (0.608 COMP234) (0.175 COMP237)
+Antidiabetic symptomatic	0.440	COMP237	(0.316 COMP235) (0.247 COMP234)
+Antidiarrheal	0.270	COMP234	(0.232 COMP235) (0.122 COMP238)
+Antidote	0.276	COMP237	
+Antidote. heavy metal	0.191	COMP237	
+Antidote. mercury	0.168	COMP237	
+Antidote. organophosphates	0.107	COMP237	
+Antieczematic	0.296	COMP237	
+Antiemphysemic	0.121	COMP237	
+Antiepileptic	0.256	COMP237	
+Antifungal	0.516	COMP235	(0.500 COMP234) (0.393 COMP237) (0.350 COMP238)
+Antifungal (Aspergillus)	0.098	COMP237	
+Antifungal (Candida)	0.130	COMP237	
+Antifungal (Cryptococcus)	0.146	COMP237	(0.139 COMP234) (0.128 COMP235)
+Antifungal (Pneumocystis)	0.172	COMP237	
+Antifungal enhancer	0.251	COMP237	(0.127 COMP234) (0.110 COMP235)
+Antiglaucomic	0.522	COMP237	
+Antihelmintic	0.719	COMP234	(0.707 COMP235) (0.375 COMP238) (0.314 COMP237)
+Antihelmintic (Fasciola)	0.142	COMP237	
+Antihelmintic (Nematodes)	0.363	COMP234	(0.347 COMP237) (0.338 COMP238) (0.224 COMP235)
+Antihelmintic (Trematoda)	0.174	COMP237	
+Antihemorrhagic	0.526	COMP235	(0.517 COMP234) (0.256 COMP238)
+Antihypercholesterolemic	0.898	COMP234	(0.880 COMP235) (0.552 COMP238) (0.487 COMP237)
+Antihyperlipoproteinemic	0.253	COMP237	(0.154 COMP238)
+Antihypertensive	0.451	COMP237	
+Antihypertriglyceridemic	0.642	COMP235	(0.633 COMP234) (0.593 COMP238) (0.299 COMP237)
+Antihypotensive	0.274	COMP237	
+Antihypoxic	0.931	COMP235	(0.904 COMP234) (0.596 COMP238) (0.445 COMP237)
+Antiinfertility. female	0.341	COMP238	
+Antiinflammatory	0.951	COMP235	(0.949 COMP234) (0.924 COMP238) (0.486 COMP237)
+Antiischemic	0.370	COMP237	(0.236 COMP234) (0.212 COMP235)
+Antiischemic. cerebral	0.155	COMP237	
+Antileprosy	0.177	COMP237	
+Antileukemic	0.809	COMP235	(0.786 COMP234/COMP238) (0.216 COMP237)
+Antimetabolite	0.071	COMP237	
+Antimutagenic	0.434	COMP237	
+Antimycoplasmal	0.113	COMP237	
+Antineoplastic (bladder cancer)	0.205	COMP238	(0.186 COMP237)
+Antineoplastic (brain cancer)	0.564	COMP238	(0.545 COMP234) (0.513 COMP235)
+Antineoplastic (breast cancer)	0.830	COMP238	(0.738 COMP235) (0.724 COMP234)
+Antineoplastic (carcinoma)	0.324	COMP238	(0.220 COMP235) (0.196 COMP234)
+Antineoplastic (cervical cancer)	0.628	COMP238	(0.562 COMP235) (0.550 COMP234) (0.153 COMP237)
+Antineoplastic (colon cancer)	0.714	COMP238	(0.707 COMP235) (0.669 COMP234)
+Antineoplastic (colorectal cancer)	0.731	COMP235	(0.720 COMP238) (0.703 COMP234)
+Antineoplastic (endocrine cancer)	0.759	COMP238	(0.672 COMP234) (0.662 COMP235) (0.317 COMP237)
+Antineoplastic (gastric cancer)	0.202	COMP235	(0.190 COMP238) (0.187 COMP234)
+Antineoplastic (glioblastoma multiforme)	0.537	COMP238	(0.487 COMP234) (0.477 COMP235)
+Antineoplastic (glioma)	0.601	COMP238	(0.522 COMP235) (0.514 COMP234)
+Antineoplastic (insulinoma)	0.015	COMP237	
+Antineoplastic (liver cancer)	0.517	COMP235	(0.502 COMP234) (0.468 COMP238) (0.307 COMP237)
+Antineoplastic (lung cancer)	0.874	COMP238	(0.842 COMP235) (0.828 COMP234)
+Antineoplastic (lymphocytic leukemia)	0.407	COMP238	(0.304 COMP234) (0.301 COMP235) (0.240 COMP237)
+Antineoplastic (lymphoma)	0.386	COMP235	(0.352 COMP234) (0.212 COMP238)
+Antineoplastic (melanoma)	0.837	COMP238	(0.788 COMP235) (0.768 COMP234)
+Antineoplastic (multiple myeloma)	0.669	COMP238	(0.649 COMP234) (0.639 COMP235) (0.190 COMP237)
+Antineoplastic (non-small cell lung cancer)	0.385	COMP234	(0.366 COMP235) (0.349 COMP238)
+Antineoplastic (osteosarcoma)	0.376	COMP235	(0.352 COMP234) (0.222 COMP237/COMP238)
+Antineoplastic (ovarian cancer)	0.794	COMP235	(0.792 COMP238) (0.787 COMP234)
+Antineoplastic (pancreatic cancer)	0.762	COMP238	(0.668 COMP234) (0.644 COMP235) (0.167 COMP237)
+Antineoplastic (renal cancer)	0.457	COMP238	(0.443 COMP235) (0.441 COMP234) (0.159 COMP237)
+Antineoplastic (sarcoma)	0.452	COMP235	(0.425 COMP234) (0.289 COMP238) (0.180 COMP237)
+Antineoplastic (solid tumors)	0.314	COMP237	
+Antineoplastic (squamous cell carcinoma)	0.331	COMP238	(0.264 COMP235) (0.250 COMP234)
+Antineoplastic alkaloid	0.185	COMP237	
+Antineoplastic antibiotic	0.250	COMP235	(0.241 COMP234) (0.130 COMP238) (0.073 COMP237)
+Antineoplastic antimetabolite	0.224	COMP237	
+Antineoplastic enhancer	0.360	COMP234	(0.359 COMP235) (0.194 COMP238)
+Antineoplastic. alkylator	0.217	COMP237	(0.124 COMP234)
+Antinephritic	0.245	COMP238	(0.189 COMP234) (0.151 COMP235)
+Antiobesity	0.327	COMP238	(0.300 COMP234) (0.295 COMP235)
+Antiosteoporotic	0.442	COMP238	(0.332 COMP235) (0.306 COMP234) (0.203 COMP237)
+Antioxidant	0.797	COMP235	(0.782 COMP234) (0.585 COMP238) (0.317 COMP237)
+Antiparasitic	0.738	COMP234	(0.728 COMP235) (0.376 COMP237) (0.373 COMP238)
+Antiparkinsonian. rigidity relieving	0.370	COMP237	(0.145 COMP238)
+Antiparkinsonian. tremor relieving	0.234	COMP237	
+Antiprotozoal (Amoeba)	0.146	COMP237	
+Antiprotozoal (Babesia)	0.115	COMP237	
+Antiprotozoal (Coccidial)	0.221	COMP237	
+Antiprotozoal (Leishmania)	0.471	COMP235	(0.455 COMP234) (0.426 COMP238) (0.165 COMP237)
+Antiprotozoal (Toxoplasma)	0.202	COMP238	(0.131 COMP237)
+Antiprotozoal (Trichomonas)	0.159	COMP237	
+Antiprotozoal activity enhancer	0.107	COMP234	(0.101 COMP237) (0.096 COMP235)
+Antipruritic	0.194	COMP237	
+Antipruritic. allergic	0.599	COMP237	(0.410 COMP238) (0.361 COMP234) (0.252 COMP235)
+Antipruritic. non-allergic	0.438	COMP237	(0.242 COMP234) (0.225 COMP235) (0.205 COMP238)
+Antipsoriatic	0.340	COMP238	(0.307 COMP237)
+Antipyretic	0.740	COMP238	(0.685 COMP234) (0.682 COMP235) (0.467 COMP237)
+Antirickettsial	0.266	COMP237	(0.187 COMP238)
+Antischistosomal	0.131	COMP237	
+Antiseptic	0.361	COMP237	
+Antispirochetal	0.241	COMP237	
+Antithrombotic	0.902	COMP235	(0.860 COMP234) (0.533 COMP237) (0.425 COMP238)
+Antitreponemal	0.075	COMP237	(0.073 COMP234)
+Antitussive	0.605	COMP235	(0.521 COMP234) (0.282 COMP238) (0.132 COMP237)
+Antiulcerative	0.490	COMP237	(0.479 COMP235) (0.476 COMP234) (0.425 COMP238)
+Antiviral (Coronavirus)	0.126	COMP238	
+Antiviral (Dengue virus)	0.100	COMP235	(0.099 COMP234)
+Antiviral (Ebola)	0.245	COMP237	
+Antiviral (HIV)	0.473	COMP238	(0.363 COMP234/COMP235)
+Antiviral (Hepatitis A)	0.111	COMP237	
+Antiviral (Hepatitis B)	0.466	COMP238	(0.394 COMP234) (0.375 COMP235)
+Antiviral (Hepatitis C)	0.401	COMP238	(0.314 COMP234) (0.309 COMP235) (0.191 COMP237)
+Antiviral (Hepatitis)	0.498	COMP238	(0.466 COMP234) (0.460 COMP235) (0.208 COMP237)
+Antiviral (Herpes)	0.473	COMP235	(0.470 COMP234) (0.381 COMP238)
+Antiviral (Herpesvirus 3. Human)	0.070	COMP237	
+Antiviral (Influenza A)	0.576	COMP238	(0.524 COMP234) (0.519 COMP235) (0.182 COMP237)
+Antiviral (Influenza B)	0.212	COMP237	
+Antiviral (Influenza)	0.581	COMP234	(0.576 COMP238) (0.573 COMP235) (0.203 COMP237)
+Antiviral (Papilloma)	0.146	COMP237	
+Antiviral (Parainfluenza)	0.218	COMP237	
+Antiviral (Poxvirus)	0.208	COMP237	
+Antiviral (Rhinovirus)	0.158	COMP234	(0.147 COMP238) (0.120 COMP237) (0.105 COMP235)
+Antiviral (SARS coronavirus)	0.126	COMP238	
+Antiviral (Trachoma)	0.077	COMP237	
+Antiviral (West Nile virus)	0.249	COMP237	
+Apical sodium codependent bile acid transporter inhibitor	0.026	COMP237	
+Apoptosis agonist	0.952	COMP238	(0.951 COMP235) (0.948 COMP234) (0.486 COMP237)
+Apoptosis antagonist	0.799	COMP235	(0.780 COMP234) (0.696 COMP238) (0.510 COMP237)
+Arachidonic acid antagonist	0.256	COMP237	(0.206 COMP238)
+Arginase inhibitor	0.057	COMP237	
+Argininosuccinate synthase inhibitor	0.174	COMP237	
+Aromatase inhibitor	0.079	COMP238	
+Arylamine N-Acetyltransferase substrate	0.118	COMP237	
+Atherosclerosis treatment	0.476	COMP238	(0.434 COMP235) (0.433 COMP234) (0.413 COMP237)
+Autism spectrum disorders treatment	0.152	COMP237	
+Benzodiazepine agonist	0.075	COMP237	
+Benzodiazepine antagonist	0.095	COMP237	
+Benzodiazepine receptor peripheral-type antagonist	0.056	COMP237	
+Beta 1 adrenoreceptor antagonist	0.078	COMP237	
+Beta 2 adrenoreceptor antagonist	0.059	COMP237	
+Beta 3 adrenoreceptor antagonist	0.067	COMP237	
+Beta adrenoreceptor antagonist	0.085	COMP237	
+Beta amyloid protein antagonist	0.387	COMP235	(0.363 COMP234) (0.194 COMP238) (0.180 COMP237)
+Beta glucuronidase inhibitor	0.312	COMP234	(0.179 COMP235) (0.151 COMP238)
+Bile acid receptor antagonist	0.141	COMP238	(0.118 COMP237)
+Biliverdin reductase inhibitor	0.109	COMP237	
+Bombesin 2 receptor antagonist	0.051	COMP237	
+Bone diseases treatment	0.498	COMP238	(0.377 COMP235) (0.362 COMP234) (0.268 COMP237)
+Bone formation stimulant	0.217	COMP237	
+Breast cancer-resistant protein inhibitor	0.087	COMP237	
+Bronchodilator	0.154	COMP237	
+CC chemokine 4 receptor antagonist	0.048	COMP237	
+CC chemokine 5 receptor agonist	0.083	COMP237	
+CC chemokine 6 receptor antagonist	0.189	COMP234	(0.183 COMP235) (0.173 COMP238)
+CD45 antagonist	0.283	COMP238	(0.084 COMP237)
+CDC25A inhibitor	0.090	COMP238	(0.087 COMP237)
+CDC25B inhibitor	0.113	COMP238	(0.060 COMP237)
+CF transmembrane conductance regulator agonist	0.191	COMP237	
+CNS active muscle relaxant	0.266	COMP237	
+CTGF expression inhibitor	0.581	COMP237	(0.191 COMP238)
+CYP1A2 substrate	0.263	COMP237	
+CYP2A6 inhibitor	0.074	COMP237	
+CYP2B6 inhibitor	0.292	COMP237	
+CYP2C19 inhibitor	0.407	COMP237	
+CYP2C19 substrate	0.479	COMP237	(0.236 COMP238)
+CYP2C9 inhibitor	0.302	COMP237	
+CYP2C9 substrate	0.496	COMP237	(0.200 COMP234)
+CYP2D6 inhibitor	0.180	COMP237	
+CYP2D6 substrate	0.312	COMP237	
+CYP3A4 inhibitor	0.229	COMP237	
+CYP3A4 substrate	0.354	COMP237	(0.238 COMP234) (0.230 COMP238)
+Ca2+-transporting ATPase inhibitor	0.212	COMP237	(0.132 COMP238)
+Ca2+/calmodulin-dependent protein kinase kinase A inhibitor	0.391	COMP237	
+Calcineurin inhibitor	0.014	COMP237	
+Calcitonin receptor agonist	0.030	COMP237	
+Calcium antagonist	0.242	COMP237	
+Calcium channel (voltage-sensitive) blocker	0.097	COMP237	
+Calcium channel L-type activator	0.456	COMP237	
+Calcium channel L-type blocker	0.097	COMP237	
+Calcium channel P-type blocker	0.069	COMP237	
+Calcium channel activator	0.396	COMP237	
+Calcium channel blocker	0.137	COMP237	
+Calcium-dependent phospholipase A2 inhibitor	0.051	COMP237	
+Calcium-independent phospholipase A2 inhibitor	0.058	COMP237	
+Calcium-sensing receptor agonist	0.028	COMP237	
+Calpain 2 inhibitor	0.344	COMP237	
+Calpain inhibitor	0.265	COMP237	
+Cannabinoid CB1 receptor agonist	0.060	COMP237	
+Cannabinoid CB2 receptor antagonist	0.056	COMP237	
+Carbamoyl phosphate synthetase inhibitor	0.180	COMP237	
+Carbonic anhydrase III inhibitor	0.277	COMP237	
+Carbonic anhydrase V inhibitor	0.128	COMP237	
+Carbonic anhydrase VA inhibitor	0.119	COMP237	
+Carbonic anhydrase VB inhibitor	0.131	COMP237	
+Carbonic anhydrase VI inhibitor	0.206	COMP237	
+Carbonic anhydrase VII inhibitor	0.060	COMP237	
+Carbonic anhydrase VIII inhibitor	0.121	COMP237	
+Carbonic anhydrase X inhibitor	0.121	COMP237	
+Carbonic anhydrase XI inhibitor	0.047	COMP237	
+Carbonic anhydrase XIII inhibitor	0.229	COMP237	
+Carbonic anhydrase XIV inhibitor	0.127	COMP237	
+Carbonic anhydrase XV inhibitor	0.119	COMP237	
+Carbonic anhydrase stimulant	0.089	COMP237	
+Carboxypeptidase B inhibitor	0.032	COMP237	
+Carcinogenic	0.704	COMP235	(0.627 COMP234) (0.398 COMP237) (0.386 COMP238)
+Carcinogenic. group 1	0.413	COMP237	
+Carcinogenic. group 2A	0.167	COMP237	
+Carcinogenic. group 2B	0.158	COMP237	
+Carcinogenic. group 3	0.406	COMP237	
+Cardiodepressant	0.503	COMP238	(0.397 COMP237)
+Cardioprotectant	0.852	COMP235	(0.834 COMP234) (0.561 COMP238) (0.434 COMP237)
+Cardiotonic	0.173	COMP237	
+Cardiovascular analeptic	0.627	COMP237	(0.174 COMP238)
+Carnitine palmitoyltransferase 1 inhibitor	0.035	COMP237	
+Carnitine palmitoyltransferase inhibitor	0.034	COMP237	
+Caspase 2 inhibitor	0.037	COMP237	
+Caspase 3 inhibitor	0.183	COMP237	(0.117 COMP238)
+Caspase 3 stimulant	0.744	COMP235	(0.740 COMP234) (0.714 COMP238) (0.286 COMP237)
+Caspase 7 inhibitor	0.122	COMP237	
+Caspase 8 inhibitor	0.023	COMP237	
+Caspase 9 inhibitor	0.075	COMP237	
+Caspase 9 stimulant	0.953	COMP234	(0.926 COMP238) (0.921 COMP235) (0.793 COMP237)
+Catalase inhibitor	0.389	COMP237	
+Catenin beta inhibitor	0.269	COMP237	
+Cathepsin E inhibitor	0.064	COMP237	
+Cathepsin G inhibitor	0.230	COMP237	
+Cathepsin H inhibitor	0.180	COMP237	
+Cell adhesion inhibitor	0.315	COMP235	(0.274 COMP234) (0.201 COMP237)
+Cell adhesion molecule inhibitor	0.127	COMP237	
+Cell wall synthesis inhibitor	0.192	COMP237	
+Ceramide glucosyltransferase inhibitor	0.036	COMP237	
+Chelator	0.102	COMP237	
+Chemopreventive	0.992	COMP235	(0.990 COMP234) (0.918 COMP238) (0.286 COMP237)
+Chemoprotective	0.780	COMP234	(0.681 COMP238) (0.641 COMP235) (0.411 COMP237)
+Choleretic	0.241	COMP237	(0.187 COMP238) (0.162 COMP234) (0.125 COMP235)
+Cholesterol absorption inhibitor	0.101	COMP234	(0.058 COMP235) (0.041 COMP237) (0.039 COMP238)
+Cholesterol antagonist	0.879	COMP234	(0.737 COMP235) (0.675 COMP237) (0.601 COMP238)
+Cholesterol ester transfer protein antagonist	0.194	COMP238	(0.044 COMP237)
+Cholesterol esterase inhibitor	0.068	COMP238	(0.065 COMP237) (0.045 COMP234)
+Cholesterol synthesis inhibitor	0.465	COMP238	(0.226 COMP237) (0.218 COMP234) (0.116 COMP235)
+Chronic obstructive bronchitis treatment	0.281	COMP235	(0.254 COMP234) (0.125 COMP238) (0.104 COMP237)
+Chymotrypsin inhibitor	0.104	COMP237	
+Coagulant	0.248	COMP237	
+Cocaine dependence treatment	0.201	COMP237	
+Collagenase 3 inhibitor	0.053	COMP237	
+Constipation treatment	0.109	COMP237	
+Contraceptive	0.460	COMP238	(0.399 COMP234) (0.373 COMP235)
+Contraceptive female	0.609	COMP238	(0.318 COMP234) (0.187 COMP237) (0.186 COMP235)
+Contraceptive male	0.122	COMP238	
+Corneal wound healing stimulator	0.275	COMP237	
+Corticosteroid-like	0.030	COMP238	(0.027 COMP234) (0.025 COMP235) (0.020 COMP237)
+Corticotropin releasing factor 2 receptor antagonist	0.085	COMP237	
+Creatine kinase inhibitor	0.174	COMP237	
+Cyclic AMP phosphodiesterase inhibitor	0.360	COMP237	
+Cyclooxygenase 3 inhibitor	0.688	COMP234	(0.642 COMP235) (0.548 COMP238) (0.224 COMP237)
+Cyclophilin D inhibitor	0.864	COMP235	(0.863 COMP234) (0.781 COMP238) (0.311 COMP237)
+Cystathionine beta-synthase inhibitor	0.226	COMP237	
+Cystic fibrosis treatment	0.153	COMP237	
+Cytidine deaminase inhibitor	0.168	COMP237	
+Cytokine production inhibitor	0.148	COMP237	
+Cytokine production stimulant	0.089	COMP237	
+Cytostatic	0.351	COMP235	(0.343 COMP237) (0.248 COMP234)
+Cytotoxic	0.839	COMP235	(0.794 COMP234) (0.595 COMP238) (0.283 COMP237)
+D-Ala-D-Ala ligase inhibitor	0.088	COMP237	
+DNA damaging	0.389	COMP237	
+DNA gyrase subunit B inhibitor	0.043	COMP237	
+DNA methylase inhibitor	0.262	COMP237	
+DNA methyltransferase I inhibitor	0.282	COMP237	
+DNA polymerase I inhibitor	0.350	COMP237	(0.247 COMP238) (0.212 COMP234) (0.188 COMP235)
+DNA repair enzyme inhibitor	0.150	COMP237	
+DNA synthesis inhibitor	0.369	COMP237	(0.338 COMP234) (0.259 COMP235)
+DOPA decarboxylase inhibitor	0.182	COMP237	
+Dementia treatment	0.198	COMP235	(0.166 COMP234) (0.120 COMP237)
+Diabetic nephropathy treatment	0.385	COMP235	(0.344 COMP234) (0.338 COMP238)
+Diabetic retinopathy treatment	0.299	COMP237	
+Diacylglycerol O-acyltransferase inhibitor	0.299	COMP238	
+Dihydrofolate reductase inhibitor	0.057	COMP237	
+Dihydroorotase inhibitor	0.055	COMP237	
+Dihydropteroate synthase inhibitor	0.055	COMP237	
+Diuretic	0.538	COMP238	(0.282 COMP234) (0.211 COMP235) (0.185 COMP237)
+Dopamine D5 agonist	0.051	COMP237	
+Dopamine beta hydroxylase inhibitor	0.054	COMP237	
+Dopamine uptake inhibitor	0.057	COMP237	
+Dual specificity phosphatase 3 inhibitor	0.188	COMP238	(0.142 COMP237)
+Dual specificity phosphatase inhibitor	0.166	COMP238	(0.149 COMP237)
+Elastase 1 inhibitor	0.152	COMP237	
+Elastase 2 inhibitor	0.056	COMP237	
+Elastase 2A inhibitor	0.056	COMP237	
+Elastase 2B inhibitor	0.059	COMP237	
+Elastase 3A inhibitor	0.059	COMP237	
+Elastase 3B inhibitor	0.059	COMP237	
+Elastase inhibitor	0.079	COMP237	
+Electrolyte absorption antagonist	0.222	COMP237	
+Electron transport complex I inhibitor	0.164	COMP237	
+Embryotoxic	0.703	COMP235	(0.688 COMP234) (0.586 COMP237) (0.163 COMP238)
+Endocannabinoid uptake inhibitor	0.148	COMP237	
+Enoyl-[acyl-carrier-protein] reductase inhibitor	0.056	COMP237	
+Epithelial sodium channel blocker	0.057	COMP237	
+Epoxide hydrolase 1 inhibitor	0.077	COMP237	
+Epoxide hydrolase inhibitor	0.107	COMP237	
+ErbB-3 antagonist	0.102	COMP237	
+Estradiol 17 beta-dehydrogenase 3 inhibitor	0.048	COMP238	(0.035 COMP237)
+Estradiol 17 beta-dehydrogenase inhibitor	0.047	COMP238	
+Estrogen agonist	0.071	COMP238	(0.053 COMP234) (0.048 COMP235)
+Estrogen antagonist	0.107	COMP238	
+Estrogen receptor alpha antagonist	0.069	COMP237	
+Estrogen-related receptor beta agonist	0.188	COMP237	
+Estrogen-related receptor gamma agonist	0.027	COMP237	
+Estrone sulfatase inhibitor	0.072	COMP238	
+Excitatory amino acid transporter 2 inhibitor	0.031	COMP237	
+Excitatory amino acid transporter 3 inhibitor	0.027	COMP237	
+Excitatory amino acid transporter EAAC1 inhibitor	0.224	COMP237	
+Expectorant	0.804	COMP235	(0.653 COMP234) (0.355 COMP238) (0.234 COMP237)
+Exportin-1 inhibitor	0.097	COMP237	
+Eye irritation. high	0.728	COMP237	
+FMO1 substrate	0.598	COMP237	
+FMO3 substrate	0.411	COMP237	
+Falcipain 3 inhibitor	0.165	COMP237	
+Farnesoid X receptor agonist	0.080	COMP238	(0.046 COMP237)
+Farnesoid X receptor antagonist	0.182	COMP238	(0.155 COMP237)
+Fatty acid synthase inhibitor	0.060	COMP237	
+Ferrochelatase inhibitor	0.334	COMP237	
+Fibrosis treatment	0.273	COMP238	
+Flavin-containing monooxygenase substrate	0.361	COMP237	
+Folate antagonist	0.218	COMP237	
+Free fatty acid receptor 1 antagonist	0.042	COMP237	
+Free radical scavenger	0.601	COMP235	(0.592 COMP234) (0.311 COMP238) (0.291 COMP237)
+Fructose-1.6-bisphosphatase 1 inhibitor	0.023	COMP237	
+Fructose-1.6-bisphosphatase inhibitor	0.055	COMP237	
+Fumarate hydratase inhibitor	0.220	COMP237	
+G-protein-coupled receptor 120 agonist	0.017	COMP237	
+GABA A receptor agonist	0.093	COMP237	
+GABA A receptor antagonist	0.067	COMP237	
+GABA B receptor agonist	0.107	COMP237	
+GABA B receptor antagonist	0.075	COMP237	
+GABA C receptor agonist	0.373	COMP237	
+GABA C receptor antagonist	0.281	COMP237	
+GABA C receptor rho-1 antagonist	0.247	COMP237	
+GABA C receptor rho-2 antagonist	0.308	COMP237	
+GABA C receptor rho-3 antagonist	0.567	COMP237	
+GABA aminotransferase inhibitor	0.218	COMP237	
+GABA receptor agonist	0.167	COMP237	
+GABA receptor antagonist	0.070	COMP237	
+GABA transporter 3 inhibitor	0.041	COMP237	
+GABA uptake inhibitor	0.056	COMP237	
+GP IIb/IIIa receptor antagonist	0.044	COMP237	
+GRP78 expression inhibitor	0.025	COMP237	
+GST A substrate	0.910	COMP237	
+GST M1-1 substrate	0.661	COMP237	
+GST P1-1 substrate	0.674	COMP237	
+GST T1-1 substrate	0.277	COMP237	
+Gastric antisecretory	0.214	COMP237	
+Gastrin inhibitor	0.504	COMP238	(0.405 COMP235) (0.370 COMP237) (0.336 COMP234)
+Gastritis treatment	0.157	COMP237	
+Gaucher disease treatment	0.107	COMP237	
+Genotoxic	0.204	COMP237	
+Geranyltranstransferase inhibitor	0.068	COMP237	
+Glucose-6-phosphate dehydrogenase inhibitor	0.055	COMP238	
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.203	COMP237	
+Glucose-6-phosphate isomerase inhibitor	0.117	COMP237	
+Glucose-6-phosphate translocase inhibitor	0.075	COMP234	(0.061 COMP235) (0.059 COMP238) (0.050 COMP237)
+Glucosylceramidase inhibitor	0.058	COMP237	
+Glucosylceramidase stimulant	0.045	COMP237	
+Glutamate (mGluR group III) antagonist	0.059	COMP237	
+Glutamate (mGluR1) agonist	0.030	COMP237	
+Glutamate (mGluR1a) agonist	0.032	COMP237	
+Glutamate (mGluR1a) antagonist	0.051	COMP237	
+Glutamate (mGluR3) agonist	0.046	COMP237	
+Glutamate (mGluR3) antagonist	0.050	COMP237	
+Glutamate (mGluR4) antagonist	0.057	COMP237	
+Glutamate (mGluR6) agonist	0.014	COMP237	
+Glutamate (mGluR6) antagonist	0.140	COMP237	
+Glutamate (mGluR7) agonist	0.124	COMP237	
+Glutamate (mGluR7) antagonist	0.107	COMP237	
+Glutamate (mGluR8) agonist	0.066	COMP237	
+Glutamate (mGluR8) antagonist	0.037	COMP237	
+Glutamate decarboxylase inhibitor	0.154	COMP237	
+Glutamate dehydrogenase inhibitor	0.202	COMP237	
+Glutamate release inhibitor	0.302	COMP235	(0.277 COMP237) (0.182 COMP234) (0.090 COMP238)
+Glutathione S-transferase inhibitor	0.168	COMP237	
+Glutathione S-transferase substrate	0.303	COMP237	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.315	COMP237	(0.174 COMP238)
+Glycine receptor agonist	0.236	COMP237	(0.100 COMP238)
+Glycine receptor antagonist	0.224	COMP235	(0.160 COMP238) (0.159 COMP234) (0.147 COMP237)
+Glycine transporter 2 inhibitor	0.082	COMP237	
+Gout treatment	0.142	COMP238	
+Granulocyte colony stimulating factor receptor agonist	0.019	COMP237	
+Granulocyte macrophage colony stimulating factor agonist	0.192	COMP237	
+Growth hormone agonist	0.269	COMP237	(0.123 COMP238)
+Growth stimulant	0.194	COMP234	(0.163 COMP235) (0.155 COMP237) (0.145 COMP238)
+Guanylate cyclase inhibitor	0.065	COMP237	
+HCV NS3/NS4A protease inhibitor	0.066	COMP237	
+HDL-cholesterol increasing	0.283	COMP238	(0.189 COMP234) (0.169 COMP235) (0.143 COMP237)
+HIV-1 integrase (Overall Integration) inhibitor	0.114	COMP237	
+HMG CoA reductase inhibitor	0.047	COMP237	(0.040 COMP238)
+Hair growth stimulant	0.344	COMP234	(0.340 COMP237) (0.335 COMP238) (0.265 COMP235)
+Hearing loss treatment	0.159	COMP237	
+Heart failure treatment	0.161	COMP237	
+Heat shock protein 70 antagonist	0.172	COMP237	
+Hedgehog signaling activator	0.040	COMP237	(0.029 COMP238)
+Heme oxygenase inhibitor	0.044	COMP238	
+Heme oxygenase stimulant	0.212	COMP238	(0.134 COMP234) (0.127 COMP235)
+Hemostatic	0.281	COMP235	(0.254 COMP234) (0.191 COMP237)
+Heparanase inhibitor	0.079	COMP234	(0.066 COMP235) (0.060 COMP237)
+Hepatic disorders treatment	0.829	COMP234	(0.828 COMP235) (0.809 COMP238) (0.314 COMP237)
+Hepatoprotectant	0.838	COMP235	(0.836 COMP234) (0.788 COMP238) (0.295 COMP237)
+Hexokinase inhibitor	0.169	COMP237	
+Histamine release inhibitor	0.546	COMP234	(0.517 COMP237) (0.446 COMP235) (0.429 COMP238)
+Histidine decarboxylase inhibitor	0.205	COMP237	
+Histone acetyltransferase inhibitor	0.203	COMP237	
+Histone deacetylase 7 inhibitor	0.034	COMP237	
+Histone deacetylase SIRT1 stimulant	0.068	COMP235	
+Histone deacetylase class III inhibitor	0.098	COMP237	
+Histone deacetylase stimulant	0.068	COMP235	
+Hyperparathyroidism treatment	0.116	COMP237	
+Hypoglycemic	0.765	COMP235	(0.760 COMP234) (0.622 COMP238) (0.375 COMP237)
+Hypolipemic	0.477	COMP237	(0.410 COMP234) (0.386 COMP235) (0.381 COMP238)
+Hypoxanthine phosphoribosyltransferase inhibitor	0.040	COMP237	
+Hypoxia-inducible factor 1 alpha inhibitor	0.659	COMP238	(0.428 COMP234) (0.267 COMP235) (0.257 COMP237)
+ICAM1 expression inhibitor	0.688	COMP238	(0.677 COMP235) (0.674 COMP234) (0.397 COMP237)
+Ileal bile acid transport inhibitor	0.032	COMP237	
+Immunoglobulin Fc receptor antagonist	0.063	COMP237	
+Immunomodulator	0.463	COMP234	(0.450 COMP235) (0.418 COMP237)
+Immunostimulant	0.912	COMP235	(0.892 COMP234) (0.579 COMP238) (0.411 COMP237)
+Immunosuppressant	0.560	COMP234	(0.556 COMP235) (0.481 COMP237) (0.414 COMP238)
+Inducible nitric-oxide synthase inhibitor	0.431	COMP238	(0.176 COMP235) (0.156 COMP234) (0.092 COMP237)
+Inosine monophosphate dehydrogenase 2 inhibitor	0.018	COMP237	
+Inosine monophosphate dehydrogenase inhibitor	0.041	COMP237	
+Insulin secretagoues	0.688	COMP238	(0.681 COMP234) (0.677 COMP235)
+Insulin sensitizer	0.604	COMP238	(0.303 COMP234/COMP237) (0.231 COMP235)
+Insulysin inhibitor	0.350	COMP237	
+Interferon agonist	0.251	COMP237	(0.072 COMP234)
+Interferon gamma antagonist	0.733	COMP234	(0.683 COMP238) (0.652 COMP235) (0.340 COMP237)
+Interferon inducer	0.174	COMP237	(0.066 COMP234)
+Interleukin 1 antagonist	0.165	COMP237	
+Interleukin 1 beta converting enzyme inhibitor	0.152	COMP237	
+Interleukin 12 antagonist	0.154	COMP237	
+Interleukin 1b antagonist	0.151	COMP234	(0.142 COMP238) (0.134 COMP235) (0.113 COMP237)
+Interleukin 2 agonist	0.469	COMP234	(0.445 COMP235) (0.337 COMP238) (0.318 COMP237)
+Interleukin 4 antagonist	0.364	COMP237	
+Interleukin 5 antagonist	0.171	COMP237	
+Interleukin 6 antagonist	0.309	COMP237	(0.298 COMP238) (0.235 COMP234) (0.218 COMP235)
+Interleukin 8 antagonist	0.158	COMP237	
+Interleukin agonist	0.382	COMP237	(0.342 COMP234) (0.249 COMP235)
+Interleukin antagonist	0.298	COMP237	
+Isoleucine-tRNA ligase inhibitor	0.039	COMP237	
+Kainate receptor 2 antagonist	0.037	COMP237	
+Kainate receptor agonist	0.069	COMP237	
+Keratolytic	0.114	COMP237	(0.080 COMP238)
+Kynurenine 3 monooxygenase inhibitor	0.060	COMP237	
+LDLR expression enhancer	0.165	COMP237	(0.158 COMP238)
+Lanosterol 14 alpha demethylase inhibitor	0.184	COMP238	(0.149 COMP237)
+Leukocyte elastase inhibitor	0.127	COMP237	
+Leukotriene A4 hydrolase inhibitor	0.053	COMP237	
+Leukotriene B4 antagonist	0.091	COMP237	
+Leukotriene B4 receptor 1 antagonist	0.036	COMP237	
+Leukotriene C antagonist	0.080	COMP237	
+Leukotriene C4 antagonist	0.055	COMP237	
+Leukotriene D4 antagonist	0.029	COMP237	
+Leukotriene antagonist	0.126	COMP237	
+Leukotriene synthesis inhibitor	0.153	COMP237	
+Lipase inhibitor	0.165	COMP235	(0.154 COMP234) (0.112 COMP237) (0.111 COMP238)
+Lipid peroxidase inhibitor	0.470	COMP234	(0.467 COMP235) (0.377 COMP238) (0.206 COMP237)
+Lipocortins synthesis agonist	0.080	COMP238	(0.079 COMP237) (0.077 COMP234) (0.071 COMP235)
+Lipocortins synthesis antagonist	0.338	COMP238	(0.269 COMP237) (0.198 COMP234) (0.184 COMP235)
+Lipoprotein disorders treatment	0.532	COMP237	(0.517 COMP234) (0.516 COMP235) (0.485 COMP238)
+Lipoxygenase inhibitor	0.349	COMP237	
+Liver X receptor agonist	0.039	COMP238	
+Liver X receptor alpha agonist	0.054	COMP238	(0.042 COMP237)
+Liver X receptor alpha antagonist	0.031	COMP237	
+Liver X receptor antagonist	0.028	COMP237	
+Liver X receptor beta agonist	0.031	COMP237	
+Liver X receptor beta antagonist	0.052	COMP237	
+Liver cirrhosis treatment	0.133	COMP238	
+Liver fibrosis treatment	0.536	COMP235	(0.518 COMP234) (0.381 COMP238)
+Lysine carboxypeptidase inhibitor	0.024	COMP237	
+Lysophosphatidic acid 1 receptor antagonist	0.034	COMP237	
+Lysophosphatidic acid 2 receptor antagonist	0.111	COMP237	
+Lysophosphatidic acid 3 receptor antagonist	0.123	COMP237	
+Lysophosphatidic acid receptor 1 agonist	0.098	COMP237	
+Lysophosphatidic acid receptor 3 agonist	0.106	COMP237	
+MAO A inhibitor	0.100	COMP237	
+MDM2 inhibitor	0.089	COMP237	
+Macrophage migration inhibitory factor inhibitor	0.128	COMP237	
+Maillard reaction inhibitor	0.091	COMP237	
+Male reproductive disfunction treatment	0.134	COMP237	
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.070	COMP237	
+Mannose-6-phosphate isomerase inhibitor	0.130	COMP237	
+Mannosidase inhibitor	0.073	COMP237	(0.064 COMP235) (0.045 COMP234)
+Matrix metalloproteinase (membrane-type) inhibitor	0.059	COMP237	
+Matrix metalloproteinase inhibitor	0.068	COMP237	
+Mediator release inhibitor	0.195	COMP237	
+Melanin inhibitor	0.417	COMP234	(0.338 COMP238) (0.259 COMP237) (0.233 COMP235)
+Melatonin 1 agonist	0.031	COMP237	
+Melatonin agonist	0.032	COMP237	
+Melatonin receptor 1A agonist	0.060	COMP237	
+Membrane dipeptidase inhibitor	0.088	COMP237	
+Menstruation disorders treatment	0.149	COMP237	
+Mental retardation treatment	0.122	COMP237	
+Metabolic disease treatment	0.496	COMP238	(0.434 COMP234) (0.413 COMP235)
+Metalloproteinase-2 inhibitor	0.082	COMP237	
+Metalloproteinase-3 inhibitor	0.056	COMP237	
+Metalloproteinase-9 inhibitor	0.067	COMP237	
+Methionyl aminopeptidase 1 inhibitor	0.054	COMP237	
+Methylmalonyl-CoA mutase inhibitor	0.021	COMP237	
+Microtubule formation inhibitor	0.212	COMP237	(0.129 COMP238) (0.110 COMP235)
+Microtubule stabilization	0.058	COMP238	(0.049 COMP235) (0.045 COMP234/COMP237)
+Monophenol monooxygenase inhibitor	0.627	COMP235	(0.503 COMP234) (0.223 COMP237) (0.152 COMP238)
+Movement disorders treatment	0.191	COMP237	
+Mucolytic	0.225	COMP237	
+Muscle relaxant	0.322	COMP237	(0.123 COMP238)
+Muscular dystrophy treatment	0.266	COMP237	
+Mutagenic	0.358	COMP237	(0.329 COMP235) (0.227 COMP234)
+Myasthenia Gravis treatment	0.160	COMP237	
+Myocardial infarction treatment	0.543	COMP234	(0.516 COMP235) (0.363 COMP237) (0.282 COMP238)
+Myocardial ischemia treatment	0.244	COMP237	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.093	COMP237	
+NADH dehydrogenase inhibitor	0.140	COMP237	
+NADPH oxidase inhibitor	0.178	COMP237	
+NAT1 substrate	0.100	COMP237	
+NAT2 substrate	0.112	COMP237	
+NMDA receptor agonist	0.126	COMP237	
+NMDA receptor glycine site agonist	0.100	COMP237	
+NOS2 expression inhibitor	0.889	COMP235	(0.741 COMP234) (0.596 COMP238) (0.435 COMP237)
+NOS3 expression enhancer	0.182	COMP235	(0.131 COMP234)
+NOS3 expression inhibitor	0.549	COMP234	(0.518 COMP235) (0.470 COMP238) (0.440 COMP237)
+Na+ K+ transporting ATPase inhibitor	0.218	COMP234	(0.196 COMP235) (0.158 COMP238) (0.115 COMP237)
+Narcolepsy treatment	0.080	COMP237	
+Narcotic antagonist	0.141	COMP237	
+Nav1.3 sodium channel blocker	0.106	COMP237	
+Nav1.6 sodium channel blocker	0.149	COMP237	
+Neuraminidase (Influenza A) inhibitor	0.059	COMP235	(0.058 COMP234) (0.055 COMP238)
+Neuraminidase (Influenza B) inhibitor	0.031	COMP237	
+Neuraminidase (influenza) inhibitor	0.075	COMP235	(0.074 COMP234) (0.066 COMP238) (0.064 COMP237)
+Neuraminidase inhibitor	0.062	COMP237	(0.053 COMP235)
+Neuropathy treatment	0.148	COMP237	
+Neuropeptide Y1 antagonist	0.164	COMP237	
+Neuropeptide Y2 antagonist	0.217	COMP237	
+Neurotensin receptor agonist	0.210	COMP237	
+Neurotrophic factor	0.154	COMP237	
+Neurotrophic factor enhancer	0.279	COMP237	(0.256 COMP238) (0.179 COMP234)
+Neutrophil collagenase inhibitor	0.057	COMP237	
+Nicotinic acid receptor 2 antagonist	0.037	COMP237	
+Nicotinic acid receptor agonist	0.049	COMP237	
+Nicotinic alpha3beta2 receptor antagonist	0.062	COMP237	
+Nicotinic alpha4beta2 receptor antagonist	0.073	COMP237	
+Nitric oxide antagonist	0.881	COMP235	(0.875 COMP234) (0.849 COMP238) (0.231 COMP237)
+Nitric oxide donor	0.103	COMP238	(0.102 COMP234/COMP235) (0.099 COMP237)
+Nitric-oxide synthase inhibitor	0.175	COMP238	(0.102 COMP237)
+Nitric-oxide synthase stimulant	0.237	COMP237	
+Non-steroidal antiinflammatory agent	0.476	COMP234	(0.432 COMP235) (0.350 COMP237) (0.273 COMP238)
+Oleamide hydrolase inhibitor	0.109	COMP237	
+Ornithine carbamoyltransferase inhibitor	0.106	COMP237	
+Ornithine decarboxylase inhibitor	0.192	COMP237	(0.121 COMP238)
+Oxytocin agonist	0.046	COMP237	
+P-glycoprotein inhibitor	0.231	COMP237	(0.218 COMP238) (0.163 COMP234) (0.137 COMP235)
+Paget's disease treatment	0.152	COMP237	
+Pancreatic disorders treatment	0.234	COMP237	
+Parathyroid hormone antagonist	0.043	COMP238	
+Peptide deformylase inhibitor	0.051	COMP237	
+Peptidyltransferase inhibitor	0.325	COMP234	(0.284 COMP235)
+Peroxidase inhibitor	0.341	COMP237	
+Peroxisome proliferator-activated receptor alpha agonist	0.096	COMP237	
+Peroxisome proliferator-activated receptor alpha antagonist	0.018	COMP237	
+Peroxisome proliferator-activated receptor delta agonist	0.046	COMP237	
+Peroxisome proliferator-activated receptor gamma agonist	0.153	COMP237	
+Peroxisome proliferator-activated receptor gamma antagonist	0.093	COMP237	
+Phenylalanine 4-hydroxylase inhibitor	0.071	COMP237	
+Phobic disorders treatment	0.234	COMP237	
+Phosphodiesterase 6D inhibitor	0.091	COMP237	
+Phosphodiesterase III inhibitor	0.058	COMP237	
+Phosphofructokinase-1 inhibitor	0.226	COMP237	
+Phosphoglycerate kinase inhibitor	0.060	COMP237	
+Phospholipase A2 inhibitor	0.330	COMP238	(0.312 COMP237) (0.180 COMP234)
+Phospholipase C inhibitor	0.812	COMP238	(0.444 COMP237) (0.270 COMP234) (0.217 COMP235)
+Phospholipase D inhibitor	0.103	COMP237	
+Phosphorylase inhibitor	0.894	COMP234	(0.870 COMP238) (0.600 COMP235)
+Photosensitizer	0.429	COMP237	
+Plasmepsin II inhibitor	0.045	COMP237	
+Plasminogen activator inhibitor antagonist	0.090	COMP237	
+Platelet adhesion inhibitor	0.571	COMP235	(0.570 COMP234) (0.374 COMP238) (0.369 COMP237)
+Platelet aggregation inhibitor	0.568	COMP237	
+Platelet antagonist	0.653	COMP237	(0.225 COMP235) (0.210 COMP234)
+Pneumotoxic	0.327	COMP237	
+Porphobilinogen synthase inhibitor	0.212	COMP237	
+Postcoital contraceptive	0.072	COMP238	(0.066 COMP237)
+Postmenopausal disorders treatment	0.070	COMP238	
+Posttraumatic stress disorder treatment	0.122	COMP237	
+Potassium channel (ATP-sensitive) activator	0.046	COMP237	
+Potassium channel (ATP-sensitive) blocker	0.069	COMP237	
+Potassium channel (Ca-activated) activator	0.189	COMP238	(0.105 COMP237)
+Potassium channel (Inward rectifier) activator	0.048	COMP237	
+Potassium channel (Tandem pore domain) blocker	0.087	COMP237	
+Potassium channel Kv1.3 blocker	0.078	COMP237	
+Potassium channel intermediate-conductance Ca-activated blocker	0.176	COMP237	
+Potassium channel large-conductance Ca-activated activator	0.114	COMP238	
+Pregnane X receptor agonist	0.155	COMP237	
+Pregnane X receptor antagonist	0.088	COMP237	
+Prokinetic	0.068	COMP234	(0.066 COMP235)
+Prolactin inhibitor	0.202	COMP237	
+Proliferative diseases treatment	0.744	COMP235	(0.685 COMP234) (0.346 COMP237) (0.345 COMP238)
+Prolyl endopeptidase inhibitor	0.055	COMP237	
+Prostacyclin agonist	0.058	COMP237	
+Prostacyclin antagonist	0.036	COMP237	
+Prostaglandin D2 agonist	0.063	COMP237	
+Prostaglandin E2 agonist	0.052	COMP237	
+Prostaglandin EP2 agonist	0.054	COMP237	
+Prostaglandin EP2 antagonist	0.129	COMP237	
+Prostaglandin EP4 agonist	0.044	COMP237	
+Prostaglandin EP4 antagonist	0.041	COMP237	
+Prostaglandin F2 alpha agonist	0.074	COMP237	
+Prostaglandin F2 alpha antagonist	0.108	COMP237	(0.064 COMP238)
+Prostaglandin H2 antagonist	0.028	COMP237	
+Prostaglandin agonist	0.117	COMP237	
+Prostate cancer treatment	0.767	COMP238	(0.700 COMP235) (0.675 COMP234) (0.216 COMP237)
+Prostate disorders treatment	0.384	COMP238	(0.217 COMP234) (0.206 COMP237) (0.186 COMP235)
+Prostatic (benign) hyperplasia treatment	0.329	COMP238	(0.124 COMP237)
+Protease 3C (Human rhinovirus) inhibitor	0.117	COMP237	
+Protease inhibitor	0.182	COMP238	(0.108 COMP235) (0.101 COMP234) (0.097 COMP237)
+Proteasome inhibitor	0.178	COMP237	
+Protein 30S ribosomal subunit inhibitor	0.062	COMP235	(0.059 COMP234)
+Protein 50S ribosomal subunit inhibitor	0.091	COMP234	(0.087 COMP235)
+Protein kinase C beta inhibitor	0.063	COMP237	
+Protein kinase C gamma inhibitor	0.118	COMP237	
+Protein kinase stimulant	0.445	COMP237	(0.349 COMP234) (0.333 COMP238) (0.293 COMP235)
+Protein-tyrosine phosphatase 1B inhibitor	0.749	COMP238	(0.570 COMP234) (0.546 COMP235) (0.166 COMP237)
+Protein-tyrosine phosphatase inhibitor	0.728	COMP238	(0.542 COMP234) (0.510 COMP235) (0.223 COMP237)
+Psychosexual dysfunction treatment	0.284	COMP234	(0.262 COMP235) (0.123 COMP238)
+Psychostimulant	0.457	COMP237	
+Pulmonary hypertension treatment	0.176	COMP237	
+Purinergic P2T antagonist	0.029	COMP237	
+Purinergic P2X1 antagonist	0.078	COMP237	
+Purinergic P2X3 antagonist	0.031	COMP237	
+Purinergic P2Y antagonist	0.089	COMP237	
+Purinergic P2Y1 agonist	0.016	COMP237	
+Purinergic P2Y12 antagonist	0.067	COMP237	
+Purinergic P2Y15 antagonist	0.037	COMP237	
+RNA-directed DNA polymerase inhibitor	0.410	COMP237	
+RNA-directed RNA polymerase stimulant	0.112	COMP238	(0.050 COMP234) (0.046 COMP235)
+Radioprotector	0.483	COMP237	(0.193 COMP234)
+Radiosensitizer	0.430	COMP237	
+Raynaud's phenomenon treatment	0.248	COMP237	
+Renal disease treatment	0.330	COMP238	(0.192 COMP235)
+Renal failure treatment	0.172	COMP237	
+Respiratory analeptic	0.555	COMP237	(0.521 COMP234) (0.439 COMP235) (0.196 COMP238)
+Restenosis treatment	0.241	COMP237	
+Restless leg syndrome treatment	0.197	COMP237	
+Retinoic acid alpha receptor agonist	0.043	COMP238	
+Retinoic acid alpha receptor antagonist	0.022	COMP238	
+Retinoic acid beta receptor agonist	0.020	COMP238	
+Retinoic acid gamma receptor agonist	0.025	COMP238	
+Retinoic acid receptor agonist	0.022	COMP238	
+Retinoic acid receptor antagonist	0.019	COMP238	
+Retinoid X alpha receptor agonist	0.048	COMP237	
+Retinoid X alpha receptor antagonist	0.047	COMP237	
+Retinoid X beta receptor agonist	0.022	COMP238	
+Retinoid X beta receptor antagonist	0.026	COMP237	
+Retinoid X gamma receptor agonist	0.028	COMP238	
+Retinoid X gamma receptor antagonist	0.028	COMP238	
+Retinoid X receptor agonist	0.071	COMP237	
+Retinoid X receptor antagonist	0.056	COMP237	
+Retinopathy treatment	0.106	COMP237	
+Retinoprotector	0.184	COMP237	(0.126 COMP234)
+Ribonucleoside-diphosphate reductase inhibitor	0.062	COMP237	
+Ribonucleotide reductase inhibitor	0.064	COMP237	
+Ryanodine receptor antagonist	0.106	COMP237	
+S-adenosyl-L-methionine decarboxylase inhibitor	0.081	COMP237	
+SULT1A1 substrate	0.216	COMP237	
+SULT1A2 substrate	0.079	COMP237	
+SULT1A3 substrate	0.207	COMP237	
+SULT1E1 substrate	0.096	COMP238	
+SULT2A1 substrate	0.088	COMP237	(0.082 COMP238)
+Sedative	0.452	COMP237	
+Selectin antagonist	0.363	COMP234	(0.342 COMP235) (0.108 COMP237)
+Sensitization	0.579	COMP237	(0.569 COMP238) (0.446 COMP234) (0.331 COMP235)
+Sepsis treatment	0.277	COMP235	(0.226 COMP234) (0.204 COMP237)
+Septic shock treatment	0.440	COMP234	(0.427 COMP237) (0.405 COMP235)
+Shock treatment	0.146	COMP237	
+Sirtuin 2 inhibitor	0.032	COMP237	
+Skeletal muscle relaxant	0.325	COMP237	(0.138 COMP238)
+Skin irritative effect	0.684	COMP237	
+Skin whitener	0.434	COMP235	(0.395 COMP234) (0.365 COMP238) (0.166 COMP237)
+Sleep apnea treatment	0.102	COMP237	
+Sodium-dependent vitamin C transporter 2 inhibitor	0.049	COMP237	
+Sodium/bile acid cotransporter inhibitor	0.402	COMP238	(0.382 COMP237) (0.270 COMP234) (0.237 COMP235)
+Spasmolytic	0.356	COMP237	(0.312 COMP235) (0.296 COMP234)
+Sphingomyelinase inhibitor	0.148	COMP237	
+Sphingosine 1-phosphate receptor 1 agonist	0.053	COMP237	
+Sphingosine 1-phosphate receptor 1 antagonist	0.085	COMP237	
+Sphingosine 1-phosphate receptor 2 antagonist	0.179	COMP237	
+Sphingosine 1-phosphate receptor 3 antagonist	0.077	COMP237	
+Sphingosine 1-phosphate receptor 4 agonist	0.135	COMP237	
+Sphingosine 1-phosphate receptor 4 antagonist	0.191	COMP237	
+Sphingosine 1-phosphate receptor 5 agonist	0.059	COMP237	
+Sphingosine 1-phosphate receptor 5 antagonist	0.177	COMP237	
+Sphingosine 1-phosphate receptor agonist	0.067	COMP237	
+Sphingosine 1-phosphate receptor antagonist	0.099	COMP237	
+Sphingosine kinase 2 inhibitor	0.051	COMP237	
+Sphingosine kinase inhibitor	0.061	COMP237	
+Squalene epoxidase inhibitor	0.075	COMP237	
+Squalene synthetase inhibitor	0.041	COMP237	
+Steroid 17-alpha-hydroxylase/17.20 lyase inhibitor	0.018	COMP238	
+Stroke treatment	0.460	COMP234	(0.397 COMP237) (0.396 COMP235)
+Succinate dehydrogenase inhibitor	0.386	COMP237	
+Sulfotransferase substrate	0.136	COMP237	(0.100 COMP238) (0.092 COMP234)
+Superoxide dismutase inhibitor	0.381	COMP237	
+T cell inhibitor	0.099	COMP237	
+TNF expression inhibitor	0.809	COMP238	(0.727 COMP234) (0.663 COMP235) (0.599 COMP237)
+TRPA1 agonist	0.198	COMP237	
+Telomerase stimulant	0.062	COMP235	(0.051 COMP234) (0.035 COMP238) (0.021 COMP237)
+Teratogen	0.683	COMP234	(0.663 COMP235) (0.610 COMP237) (0.199 COMP238)
+Thiol protease inhibitor	0.182	COMP237	
+Thioredoxin inhibitor	0.239	COMP237	
+Thioredoxin reductase inhibitor	0.081	COMP237	(0.080 COMP238)
+Thrombolytic	0.326	COMP234	(0.282 COMP235) (0.228 COMP237) (0.169 COMP238)
+Thromboxane A2 agonist	0.038	COMP237	
+Thromboxane A2 antagonist	0.090	COMP237	
+Thromboxane agonist	0.025	COMP237	
+Thromboxane antagonist	0.098	COMP237	
+Thromboxane synthase inhibitor	0.081	COMP237	
+Thymidylate synthase inhibitor	0.047	COMP237	
+Thyroid hormone agonist	0.033	COMP237	
+Thyroid hormone antagonist	0.264	COMP237	
+Thyroid hormone beta antagonist	0.252	COMP237	
+Tocolytic	0.145	COMP237	
+Toll-Like receptor 2 agonist	0.190	COMP237	
+Toll-Like receptor 2 antagonist	0.316	COMP237	
+Toll-Like receptor 4 agonist	0.042	COMP237	(0.030 COMP234) (0.026 COMP235)
+Toll-Like receptor 4 antagonist	0.247	COMP237	(0.135 COMP234) (0.117 COMP235)
+Toll-Like receptor 7 agonist	0.242	COMP237	
+Toll-Like receptor 8 agonist	0.029	COMP237	
+Toll-Like receptor agonist	0.331	COMP237	
+Toll-Like receptor antagonist	0.250	COMP237	
+Topoisomerase I inhibitor	0.269	COMP235	(0.261 COMP234) (0.133 COMP238)
+Topoisomerase II alpha inhibitor	0.195	COMP235	(0.194 COMP234) (0.102 COMP238)
+Topoisomerase II inhibitor	0.252	COMP235	(0.244 COMP234) (0.123 COMP238)
+Tourette's syndrome treatment	0.148	COMP237	
+Toxic. respiratory center	0.184	COMP237	
+Transcortin receptor antagonist	0.005	COMP238	
+Transcription factor AP-1 inhibitor	0.089	COMP238	(0.062 COMP234)
+Transcription factor NF kappa B inhibitor	0.995	COMP235	(0.991 COMP234) (0.926 COMP238) (0.419 COMP237)
+Transcription factor NF kappa B stimulant	0.433	COMP235	(0.409 COMP234) (0.375 COMP238) (0.141 COMP237)
+Transcription factor RelA inhibitor	0.063	COMP237	
+Transcription factor STAT inhibitor	0.305	COMP238	(0.294 COMP237)
+Transcription factor STAT3 inhibitor	0.395	COMP238	(0.323 COMP237) (0.199 COMP234)
+Triose-phosphate isomerase inhibitor	0.213	COMP237	
+Trypsin II inhibitor	0.026	COMP237	
+Tubulin agonist	0.054	COMP238	
+Tumour necrosis factor alpha release inhibitor	0.617	COMP235	(0.608 COMP234) (0.366 COMP238) (0.360 COMP237)
+Tumour necrosis factor antagonist	0.292	COMP237	
+Tyrosine 3 hydroxylase inhibitor	0.442	COMP237	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.212	COMP237	
+UDP-glucose 4-epimerase inhibitor	0.149	COMP237	
+UDP-glucuronosyltransferase substrate	0.602	COMP234	(0.523 COMP235) (0.357 COMP238) (0.158 COMP237)
+UGT1A1 substrate	0.533	COMP234	(0.340 COMP235) (0.292 COMP238) (0.240 COMP237)
+UGT1A3 substrate	0.259	COMP237	(0.154 COMP238)
+UGT1A4 substrate	0.429	COMP238	(0.265 COMP237)
+UGT1A6 substrate	0.375	COMP237	(0.251 COMP238)
+UGT1A9 substrate	0.416	COMP237	(0.281 COMP234) (0.211 COMP238) (0.188 COMP235)
+UGT2B1 substrate	0.204	COMP237	(0.117 COMP238)
+UGT2B10 substrate	0.291	COMP237	(0.216 COMP238)
+UGT2B11 substrate	0.169	COMP237	(0.141 COMP238)
+UGT2B15 substrate	0.229	COMP238	(0.204 COMP237)
+UGT2B4 substrate	0.472	COMP237	(0.450 COMP238) (0.408 COMP234) (0.297 COMP235)
+UGT2B7 substrate	0.353	COMP238	(0.300 COMP237) (0.121 COMP234)
+UGT2B9 substrate	0.250	COMP238	(0.245 COMP237)
+Ulceration	0.632	COMP237	
+Urate transporter 1 inhibitor	0.041	COMP237	
+Urease inhibitor	0.103	COMP237	
+Uric acid excretion stimulant	0.175	COMP235	(0.172 COMP234) (0.145 COMP238)
+Uridine phosphorylase inhibitor	0.036	COMP237	
+Uterine relaxant	0.100	COMP237	
+Uterine stimulant	0.287	COMP237	
+VCAM antagonist	0.037	COMP237	
+VCAM-1 antagonist	0.037	COMP237	
+VCAM1 expression inhibitor	0.386	COMP237	
+VEGF expression inhibitor	0.217	COMP237	
+VEGFR2 expression inhibitor	0.084	COMP237	
+Vanilloid 1 agonist	0.213	COMP237	
+Vanilloid 2 agonist	0.041	COMP237	
+Vanilloid 2 antagonist	0.057	COMP237	
+Vanilloid 3 antagonist	0.051	COMP237	
+Vanilloid 4 agonist	0.104	COMP237	
+Vanilloid agonist	0.125	COMP237	
+Vascular (periferal) disease treatment	0.684	COMP234	(0.673 COMP235) (0.580 COMP238) (0.326 COMP237)
+Vascular dementia treatment	0.195	COMP235	(0.162 COMP234) (0.116 COMP237)
+Vasodilator	0.455	COMP235	(0.453 COMP237) (0.426 COMP234) (0.332 COMP238)
+Vasodilator. coronary	0.447	COMP234	(0.407 COMP235) (0.405 COMP237) (0.311 COMP238)
+Vasodilator. peripheral	0.668	COMP237	(0.625 COMP234) (0.601 COMP238) (0.451 COMP235)
+Vitamin D receptor agonist	0.021	COMP237	(0.015 COMP238)
+Wound healing agent	0.644	COMP234	(0.642 COMP235) (0.536 COMP238) (0.182 COMP237)
+Xanthine oxidase inhibitor	0.187	COMP235	(0.140 COMP234) (0.130 COMP237) (0.116 COMP238)
+mTOR complex 2 inhibitor	0.091	COMP237	
+p53 inhibitor	0.034	COMP238	

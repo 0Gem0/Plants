@@ -1,0 +1,32 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.507	COMP27	(0.273 COMP927) (0.245 COMP789) (0.209 COMP2818)
+Adenosine uptake inhibitor	0.038	COMP2818	
+Antiviral (CMV)	0.156	COMP927	(0.131 COMP2818) (0.119 COMP27)
+Apical sodium codependent bile acid transporter inhibitor	0.037	COMP77	(0.027 COMP2818) (0.024 COMP285) (0.021 COMP27) (0.017 COMP789)
+Electron transport complex I inhibitor	0.187	COMP27	
+Endocannabinoid uptake inhibitor	0.225	COMP27	
+Equilibrative nucleoside transport protein inhibitor	0.104	COMP2818	
+Excitatory amino acid transporter 1 inhibitor	0.016	COMP27	
+Excitatory amino acid transporter 2 inhibitor	0.033	COMP27	
+Excitatory amino acid transporter 3 inhibitor	0.026	COMP27	
+Excitatory amino acid transporter EAAC1 inhibitor	0.281	COMP27	(0.161 COMP2818)
+Folate transporter 1 inhibitor	0.013	COMP27	
+GABA transporter 1 inhibitor	0.019	COMP27	
+GABA transporter 2 inhibitor	0.051	COMP27	
+GABA transporter 3 inhibitor	0.078	COMP27	
+GABA transporter inhibitor	0.031	COMP27	
+GABA uptake inhibitor	0.062	COMP27	(0.035 COMP789)
+Glycine transporter 2 inhibitor	0.334	COMP27	
+Ileal bile acid transport inhibitor	0.071	COMP2818/COMP77	(0.030 COMP285) (0.029 COMP27) (0.015 COMP789)
+Monocarboxylic acid transporter 1 inhibitor	0.026	COMP27	
+Monocarboxylic acid transporter inhibitor	0.026	COMP27	
+Nucleoside transporters inhibitor	0.085	COMP2818	
+P-glycoprotein inhibitor	0.268	COMP290	(0.258 COMP789) (0.232 COMP77) (0.203 COMP927) (0.189 COMP285) (0.181 COMP27) (0.154 COMP2818)
+Phosphate transporter inhibitor	0.041	COMP27	
+Sodium-dependent vitamin C transporter 2 inhibitor	0.059	COMP27	(0.046 COMP2818)
+Sodium/bile acid cotransporter inhibitor	0.573	COMP77	(0.517 COMP285) (0.482 COMP789) (0.440 COMP927) (0.426 COMP27) (0.404 COMP290)
+Sodium/glucose cotransporter 1 inhibitor	0.181	COMP2818	
+Sodium/glucose cotransporter 2 inhibitor	0.214	COMP2818	
+Sodium/glucose cotransporter inhibitor	0.290	COMP2818	
+Urate transporter 1 inhibitor	0.041	COMP27	
+Vesicular glutamate transport inhibitor	0.016	COMP27	

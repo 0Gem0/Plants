@@ -1,0 +1,31 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake inhibitor	0.517	COMP1690	(0.465 COMP1689) (0.129 COMP1700)
+5 Hydroxytryptamine uptake stimulant	0.601	COMP60	(0.414 COMP1700) (0.411 COMP1702) (0.358 COMP1689) (0.354 COMP1704) (0.339 COMP1690) (0.335 COMP167) (0.310 COMP1694) (0.264 COMP1706) (0.217 COMP1696) (0.201 COMP1692)
+Adrenaline uptake inhibitor	0.137	COMP1700	(0.097 COMP1689) (0.094 COMP167) (0.069 COMP1690) (0.056 COMP1702)
+Antiviral (CMV)	0.103	COMP1696	
+Dopamine transporter inhibitor	0.212	COMP1689	(0.166 COMP1690) (0.109 COMP1700) (0.052 COMP1702)
+Dopamine uptake inhibitor	0.616	COMP1690	(0.447 COMP1689) (0.053 COMP1700)
+Electron transport complex I inhibitor	0.231	COMP1694	(0.142 COMP1690) (0.132 COMP1704) (0.119 COMP1689) (0.111 COMP60) (0.100 COMP1700) (0.096 COMP1702)
+Endocannabinoid uptake inhibitor	0.104	COMP60	(0.062 COMP1689)
+Excitatory amino acid transporter EAAC1 inhibitor	0.361	COMP60	(0.245 COMP1689) (0.163 COMP1702) (0.156 COMP1694) (0.134 COMP1690)
+GABA transporter 1 inhibitor	0.018	COMP60	
+GABA transporter 2 inhibitor	0.050	COMP60	
+GABA transporter 3 inhibitor	0.072	COMP60	
+GABA transporter inhibitor	0.035	COMP60	(0.019 COMP1689)
+GABA uptake inhibitor	0.088	COMP60	(0.053 COMP167) (0.051 COMP1692)
+Glycine transporter inhibitor	0.066	COMP1689	
+Ileal bile acid transport inhibitor	0.015	COMP60	
+Multidrug resistance-associated protein 1 inhibitor	0.123	COMP60	(0.113 COMP1702)
+Nucleoside transporters inhibitor	0.038	COMP1702/COMP60	
+P-glycoprotein inhibitor	0.877	COMP1691	(0.868 COMP1703) (0.850 COMP1695) (0.768 COMP1701) (0.723 COMP1699) (0.702 COMP1698) (0.479 COMP1697) (0.314 COMP1693) (0.269 COMP1702) (0.262 COMP1696) (0.215 COMP1706) (0.199 COMP60) (0.195 COMP1700) (0.164 COMP167) (0.159 COMP1694)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.112	COMP60	(0.068 COMP1694) (0.052 COMP1689) (0.049 COMP1702) (0.034 COMP1690)
+Sodium/bile acid cotransporter inhibitor	0.440	COMP1696	(0.403 COMP1706) (0.402 COMP60) (0.387 COMP1692/COMP1693) (0.373 COMP1702) (0.326 COMP1694) (0.319 COMP1704) (0.312 COMP1691) (0.283 COMP1703) (0.270 COMP1700) (0.240 COMP1699/COMP1701) (0.227 COMP1689) (0.207 COMP1695)
+Sodium/glucose cotransporter 1 inhibitor	0.033	COMP1700	(0.025 COMP1702) (0.023 COMP60) (0.022 COMP1696)
+Sodium/glucose cotransporter 2 inhibitor	0.041	COMP1700	(0.039 COMP1702) (0.038 COMP1694) (0.026 COMP60)
+Sodium/glucose cotransporter inhibitor	0.037	COMP1700	(0.031 COMP1702) (0.029 COMP1694) (0.025 COMP60)
+Sodium/hydrogen exchanger 5 inhibitor	0.101	COMP1702	
+Tetracycline antiport transporter antagonist	0.002	COMP1702	
+Urate transporter 1 inhibitor	0.097	COMP60	
+Vesicle monoamine transporter inhibitor	0.755	COMP1689	(0.644 COMP1690)
+Vesicular acetylcholine transporter inhibitor	0.034	COMP1689	(0.026 COMP1702) (0.023 COMP1690)
+Vesicular glutamate transport inhibitor	0.062	COMP60	(0.016 COMP1694)

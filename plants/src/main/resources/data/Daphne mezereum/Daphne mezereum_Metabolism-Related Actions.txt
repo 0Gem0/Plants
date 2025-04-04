@@ -1,0 +1,25 @@
+Name	Activation_Prob	Compound	Another_Probs
+Aldose reductase substrate	0.490	COMP743	
+CYP1A2 inhibitor	0.297	COMP743	
+CYP1A2 substrate	0.511	COMP743	
+CYP2C19 inhibitor	0.287	COMP743	
+CYP2C19 substrate	0.587	COMP743	
+CYP2C9 substrate	0.715	COMP743	
+CYP2D6 substrate	0.373	COMP743	
+CYP3A4 substrate	0.655	COMP743	
+GST M1-1 substrate	0.206	COMP743	
+Glutathione S-transferase substrate	0.282	COMP743	
+SULT1A1 substrate	0.146	COMP743	
+SULT1A3 substrate	0.246	COMP743	
+SULT1E1 substrate	0.165	COMP743	
+Sulfotransferase substrate	0.830	COMP743	
+UDP-glucuronosyltransferase substrate	0.768	COMP743	
+UGT1A1 substrate	0.879	COMP743	
+UGT1A3 substrate	0.293	COMP743	
+UGT1A6 substrate	0.734	COMP743	
+UGT1A9 substrate	0.934	COMP743	
+UGT2B1 substrate	0.149	COMP743	
+UGT2B11 substrate	0.094	COMP743	
+UGT2B15 substrate	0.463	COMP743	
+UGT2B4 substrate	0.557	COMP743	
+UGT2B7 substrate	0.263	COMP743	

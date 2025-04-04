@@ -1,0 +1,128 @@
+0,889  0,003  Cardioprotectant
+0,790  0,004  Antiischemic
+0,663  0,004  Antianginal
+0,660  0,005  Anticoagulant
+0,643  0,005  Myocardial ischemia treatment
+0,635  0,004  Urolithiasis treatment
+0,620  0,005  Myocardial infarction treatment
+0,619  0,011  Stroke treatment
+0,600  0,014  Radioprotector
+0,595  0,028  Antidiabetic
+0,537  0,012  Cardiotonic
+0,528  0,011  Urologic disorders treatment
+0,522  0,012  Platelet antagonist
+0,506  0,004  Pancreatic disorders treatment
+0,508  0,010  Acute neurologic disorders treatment
+0,468  0,008  Antiseptic
+0,452  0,006  Antidote
+0,460  0,036  Antithrombotic
+0,427  0,014  Antiarrhythmic
+0,418  0,007  Muscular dystrophy treatment
+0,426  0,019  Antihypoxic
+0,437  0,029  Chemoprotective
+0,426  0,021  Radiosensitizer
+0,447  0,058  Antibacterial
+0,402  0,021  Angiogenesis stimulant
+0,408  0,032  Cytostatic
+0,387  0,012  Thrombolytic
+0,383  0,026  Vasodilator
+0,373  0,019  Antineoplastic (bladder cancer)
+0,346  0,009  Insulin sensitizer
+0,386  0,054  Immunostimulant
+0,355  0,035  Antidiabetic symptomatic
+0,336  0,026  Anesthetic general
+0,341  0,032  DNA synthesis inhibitor
+0,356  0,051  Spasmolytic
+0,330  0,027  Septic shock treatment
+0,309  0,011  Shock treatment
+0,308  0,013  Cystic fibrosis treatment
+0,295  0,006  Antineoplastic, alkylator
+0,323  0,044  Amyotrophic lateral sclerosis treatment
+0,288  0,015  Antineoplastic antimetabolite
+0,319  0,047  Tumour necrosis factor alpha release inhibitor
+0,290  0,039  Antiparkinsonian, rigidity relieving
+0,254  0,012  Antiviral (Poxvirus)
+0,292  0,052  Antiglaucomic
+0,303  0,074  Analeptic
+0,257  0,031  Antianorexic
+0,233  0,008  Mucolytic
+0,300  0,076  Respiratory analeptic
+0,267  0,044  Antihypotensive
+0,246  0,024  Corneal wound healing stimulator
+0,251  0,030  Diuretic
+0,212  0,004  Antidote, heavy metal
+0,243  0,040  Antimutagenic
+0,291  0,092  Antihypertensive
+0,271  0,075  Huntington's disease treatment
+0,207  0,014  Coagulant
+0,207  0,019  Expectorant
+0,247  0,060  Psychostimulant
+0,281  0,099  Apoptosis antagonist
+0,207  0,033  Uterine stimulant
+0,202  0,029  Cell wall synthesis inhibitor
+0,195  0,023  Retinoprotector
+0,191  0,023  Movement disorders treatment
+0,195  0,042  Skeletal muscle relaxant
+0,196  0,043  Antirickettsial
+0,189  0,037  Antiprotozoal (Coccidial)
+0,224  0,080  Hypolipemic
+0,158  0,015  Antifungal (Pneumocystis)
+0,194  0,059  Muscle relaxant
+0,208  0,076  Platelet aggregation inhibitor
+0,250  0,127  Vasodilator, peripheral
+0,198  0,076  Antiviral (Influenza)
+0,237  0,115  Metabolic disease treatment
+0,140  0,024  Actinic keratosis treatment
+0,161  0,046  Antifungal (Cryptococcus)
+0,200  0,085  Antialcoholic
+0,170  0,057  Antiischemic, cerebral
+0,215  0,107  Proliferative diseases treatment
+0,208  0,100  Cardiovascular analeptic
+0,130  0,022  Antidote, mercury
+0,180  0,075  Antipruritic, non-allergic
+0,144  0,038  Antiprotozoal (Babesia)
+0,157  0,059  Hemostatic
+0,138  0,044  Contraceptive female
+0,154  0,064  Antiparkinsonian, tremor relieving
+0,125  0,035  Anabolic
+0,236  0,148  Vasodilator, coronary
+0,102  0,014  Antidote, organophosphates
+0,106  0,020  Narcotic antagonist
+0,132  0,046  Antiviral (Influenza B)
+0,111  0,027  Hematopoietic
+0,219  0,138  Bone diseases treatment
+0,114  0,034  Antispirochetal
+0,110  0,031  Antibiotic
+0,090  0,012  Antihemophilic
+0,125  0,055  Constipation treatment
+0,189  0,119  Vascular (periferal) disease treatment
+0,182  0,117  Antihypercholesterolemic
+0,207  0,143  Antifungal
+0,136  0,072  Antieczematic
+0,164  0,100  Non-steroidal antiinflammatory agent
+0,143  0,081  Antidiarrheal
+0,080  0,019  Antimetabolite
+0,143  0,083  Raynaud's phenomenon treatment
+0,133  0,074  Bone formation stimulant
+0,137  0,084  Antianemic
+0,233  0,182  Antipruritic, allergic
+0,185  0,139  Antiosteoporotic
+0,137  0,091  Acute respiratory distress syndrome (ARDS) treatment
+0,114  0,070  Cell adhesion inhibitor
+0,088  0,044  Cell adhesion molecule inhibitor
+0,225  0,182  Antiobesity
+0,175  0,133  Age-related macular degeneration treatment
+0,103  0,063  Gastric antisecretory
+0,070  0,033  Antiviral (Parainfluenza)
+0,075  0,039  Anticholelithogenic
+0,146  0,114  Hepatoprotectant
+0,145  0,114  Wound healing agent
+0,105  0,081  Myasthenia Gravis treatment
+0,104  0,081  Photosensitizer
+0,052  0,034  Anesthetic inhalation
+0,037  0,025  Antibiotic Aminoglycoside-like
+0,116  0,104  Psychosexual dysfunction treatment
+0,082  0,074  Tocolytic
+0,068  0,064  Analgesic, opioid
+0,108  0,108  Hair growth stimulant
+

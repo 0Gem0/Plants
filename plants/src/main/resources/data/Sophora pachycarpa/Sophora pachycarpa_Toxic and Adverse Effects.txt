@@ -1,0 +1,17 @@
+Name	Activation_Prob	Compound	Another_Probs
+Abortion inducer	0.226	COMP2710	(0.222 COMP2709)
+Carcinogenic	0.637	COMP2710	(0.417 COMP2709)
+Carcinogenic. group 2B	0.911	COMP2710	
+Cytotoxic	0.469	COMP2709	(0.153 COMP2710)
+DNA damaging	0.207	COMP2709	
+Embryotoxic	0.724	COMP2710	(0.388 COMP2709)
+Eye irritation. high	0.296	COMP2709	
+Genotoxic	0.314	COMP2709	
+Hypoglycemic	0.538	COMP2709	
+Mutagenic	0.416	COMP2709	(0.400 COMP2710)
+Pneumotoxic	0.183	COMP2710	(0.168 COMP2709)
+Sensitization	0.714	COMP2709	
+Skin irritative effect	0.255	COMP2709	
+Teratogen	0.762	COMP2710	(0.362 COMP2709)
+Toxic. respiratory center	0.145	COMP2709	
+Ulceration	0.206	COMP2710	

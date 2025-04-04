@@ -1,0 +1,17 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.402	COMP1746	(0.377 COMP1747) (0.333 COMP1749)
+Apical sodium codependent bile acid transporter inhibitor	0.022	COMP1750	(0.021 COMP1751/COMP1752)
+Dopamine uptake inhibitor	0.062	COMP1747	
+Electron transport complex I inhibitor	0.145	COMP1747	(0.138 COMP1749)
+Equilibrative nucleoside transport protein inhibitor	0.055	COMP1743	
+Excitatory amino acid transporter EAAC1 inhibitor	0.167	COMP1746	(0.110 COMP1749)
+GABA transporter 2 inhibitor	0.033	COMP1746	
+GABA transporter 3 inhibitor	0.045	COMP1746	
+Multidrug resistance-associated protein 1 inhibitor	0.094	COMP1745/COMP1748	
+P-glycoprotein inhibitor	0.465	COMP45	(0.433 COMP288) (0.349 COMP1745/COMP1748) (0.339 COMP1746) (0.334 COMP1749) (0.305 COMP292) (0.275 COMP1750) (0.269 COMP1747) (0.268 COMP290) (0.170 COMP1752) (0.163 COMP1751) (0.145 COMP1743)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.106	COMP1746	(0.034 COMP1749)
+Sodium/bile acid cotransporter inhibitor	0.519	COMP1750	(0.512 COMP1751/COMP1752) (0.415 COMP292) (0.409 COMP1746) (0.404 COMP290) (0.388 COMP45) (0.375 COMP288) (0.338 COMP1749)
+Sodium/glucose cotransporter 1 inhibitor	0.032	COMP1743	
+Sodium/glucose cotransporter 2 inhibitor	0.098	COMP1743	(0.024 COMP1749)
+Sodium/glucose cotransporter inhibitor	0.080	COMP1743	
+Urate transporter 1 inhibitor	0.061	COMP1746	

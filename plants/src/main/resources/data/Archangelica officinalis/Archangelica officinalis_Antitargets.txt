@@ -1,0 +1,64 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.100	COMP999	(0.057 COMP1003)
+5 Hydroxytryptamine 3A agonist	0.145	COMP1000	(0.108 COMP995) (0.101 COMP1001)
+ATPase inhibitor	0.258	COMP1000	
+Acetylcholine M1 receptor agonist	0.079	COMP1000	
+Aconitate hydratase inhibitor	0.107	COMP1002	(0.061 COMP1000) (0.053 COMP997)
+Acyl-CoA dehydrogenase inhibitor	0.072	COMP1002	(0.068 COMP1000)
+Adenylate cyclase inhibitor	0.152	COMP1001	(0.110 COMP1003)
+Adenylate kinase inhibitor	0.160	COMP1002	(0.143 COMP1000) (0.112 COMP997) (0.103 COMP1001/COMP995)
+Alcohol dehydrogenase inhibitor	0.089	COMP1002	
+Aldosterone antagonist	0.066	COMP999	(0.053 COMP1000) (0.051 COMP1003)
+Alkaline phosphatase inhibitor	0.109	COMP997	
+Alpha-mannosidase inhibitor	0.060	COMP1000	(0.054 COMP1002)
+Androgen agonist	0.352	COMP999	(0.189 COMP1003) (0.123 COMP1000)
+Androgen antagonist	0.502	COMP999	(0.383 COMP1003) (0.200 COMP1000)
+Arginase inhibitor	0.037	COMP1000	
+Argininosuccinate synthase inhibitor	0.121	COMP1000	(0.080 COMP1002) (0.070 COMP1001)
+Aryl hydrocarbon receptor agonist	0.237	COMP997	
+Beta 2 adrenoreceptor agonist	0.060	COMP1000	
+CYP1A2 inhibitor	0.177	COMP1001	
+Ca2+-transporting ATPase inhibitor	0.183	COMP1000	(0.151 COMP1002) (0.131 COMP997)
+Cystathionine beta-synthase inhibitor	0.124	COMP1000	(0.090 COMP1002)
+DOPA decarboxylase inhibitor	0.150	COMP1000	(0.146 COMP1002) (0.136 COMP997) (0.120 COMP995)
+Diamine oxidase inhibitor	0.141	COMP1001	
+Dihydrofolate reductase inhibitor	0.089	COMP1001	
+Endothelin A receptor antagonist	0.020	COMP1002	
+Estrogen agonist	0.227	COMP999	(0.184 COMP1003)
+Fumarate hydratase inhibitor	0.058	COMP1002	(0.034 COMP997) (0.033 COMP1000) (0.030 COMP1001)
+GABA aminotransferase inhibitor	0.092	COMP1002	(0.076 COMP997) (0.073 COMP1000)
+GRP78 expression inhibitor	0.023	COMP1000	
+Glucocorticoid agonist	0.028	COMP1000	
+Glucocorticoid antagonist	0.097	COMP1000	(0.071 COMP1003) (0.059 COMP999)
+Glucose-6-phosphate isomerase inhibitor	0.062	COMP1000	(0.051 COMP1002)
+Glutamate dehydrogenase inhibitor	0.109	COMP1001	(0.103 COMP1002) (0.099 COMP1000) (0.087 COMP995)
+HMG CoA reductase inhibitor	0.076	COMP1003	(0.071 COMP999)
+Heat shock protein 70 antagonist	0.135	COMP1002	(0.132 COMP1000/COMP997)
+Histamine H1 receptor agonist	0.061	COMP1001	(0.053 COMP995) (0.041 COMP1000)
+Histamine H2 receptor agonist	0.101	COMP1001	(0.062 COMP998) (0.047 COMP995) (0.045 COMP1000)
+Histamine H2 receptor antagonist	0.093	COMP1001	
+Histamine H3 receptor agonist	0.036	COMP1001	
+Hypoxanthine phosphoribosyltransferase inhibitor	0.032	COMP1001	
+Lck kinase inhibitor	0.192	COMP1001	
+MAO A inhibitor	0.117	COMP997	(0.100 COMP995)
+MAO inhibitor	0.130	COMP1000	(0.126 COMP995) (0.101 COMP997)
+NMDA receptor agonist	0.117	COMP1002	(0.072 COMP1000)
+Na+ K+ transporting ATPase inhibitor	0.186	COMP1003	(0.179 COMP999) (0.105 COMP1000) (0.079 COMP1002)
+Nav1.5 sodium channel blocker	0.100	COMP1000	
+Nicotinic alpha4 receptor agonist	0.019	COMP995/COMP997	
+Opioid kappa receptor agonist	0.044	COMP1003	
+Ornithine carbamoyltransferase inhibitor	0.097	COMP1001	(0.058 COMP1000) (0.054 COMP1002)
+Peroxidase inhibitor	0.282	COMP1000	(0.261 COMP1001) (0.163 COMP1002) (0.129 COMP995)
+Phenylalanine 4-hydroxylase inhibitor	0.186	COMP1001	(0.082 COMP1000) (0.073 COMP1002)
+Phosphodiesterase 3A inhibitor	0.083	COMP997	
+Phosphofructokinase-1 inhibitor	0.140	COMP1000	(0.133 COMP1002) (0.068 COMP1001) (0.061 COMP995)
+Phospholipase A2 inhibitor	0.207	COMP1003	(0.150 COMP999) (0.134 COMP1002)
+Phospholipase C inhibitor	0.706	COMP999	(0.432 COMP1003) (0.159 COMP1000) (0.137 COMP1002)
+Prostaglandin F2 alpha agonist	0.022	COMP1003	
+Retinoic acid alpha receptor agonist	0.041	COMP1002	
+Succinate dehydrogenase inhibitor	0.224	COMP1000	(0.211 COMP1002) (0.149 COMP997) (0.144 COMP995)
+Superoxide dismutase inhibitor	0.270	COMP1000	(0.238 COMP1001) (0.205 COMP1002)
+Thyroid hormone agonist	0.046	COMP1002	(0.027 COMP995)
+Triose-phosphate isomerase inhibitor	0.150	COMP1000	(0.142 COMP1002)
+Tyrosine 3 hydroxylase inhibitor	0.387	COMP1000	(0.238 COMP1002) (0.232 COMP995) (0.192 COMP997) (0.189 COMP1001)
+UDP-glucose 4-epimerase inhibitor	0.242	COMP1002	(0.208 COMP1000) (0.117 COMP997) (0.113 COMP995)

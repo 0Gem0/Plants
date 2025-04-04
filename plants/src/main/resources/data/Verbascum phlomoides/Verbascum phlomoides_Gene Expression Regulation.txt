@@ -1,0 +1,10 @@
+Name	Activation_Prob	Compound	Another_Probs
+AR expression inhibitor	0.388	COMP1434	(0.298 COMP318)
+GRP78 expression inhibitor	0.022	COMP1434	
+ICAM1 expression inhibitor	0.597	COMP1434	(0.565 COMP318)
+LDLR expression enhancer	0.171	COMP318	
+NOS2 expression inhibitor	0.739	COMP1434	(0.390 COMP318)
+NOS3 expression enhancer	0.218	COMP1434	
+NOS3 expression inhibitor	0.577	COMP1434	(0.398 COMP318)
+TNF expression inhibitor	0.563	COMP1434	(0.506 COMP318)
+VCAM1 expression inhibitor	0.605	COMP1434	(0.182 COMP318)

@@ -1,0 +1,10 @@
+(1R,2R,6S,7R,9S,12R,15R)-13-Hydroxy-2,7,12,13-tetramethyl-10,14-dioxatetracyclo[7.5.1.02,6.012,15]pentadec-4-ene-3,11-dione
+(1R,2R,6S,7R,9S,12R,15R)-13-hydroxy-2,7,12,13-tetramethyl-10,14-dioxatetracyclo[7.5.1.02,6.012,15]pentadec-4-ene-3,11-dione
+CHEMBL1544783
+16745514
+None
+C17H22O5
+306.15
+InChI=1S/C17H22O5/c1-8-7-10-12-13(15(2)9(8)5-6-11(15)18)22-17(4,20)16(12,3)14(19)21-10/h5-6,8-10,12-13,20H,7H2,1-4H3/t8-,9-,10+,12-,13-,15+,16+,17?/m1/s1
+CNIULSUYTFOEHN-OEHPVWETSA-N
+C[C@@H]1C[C@@H]2OC(=O)[C@@]3([C@H]2[C@H]([C@]2([C@@H]1C=CC2=O)C)OC3(C)O)C

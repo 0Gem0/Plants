@@ -1,0 +1,28 @@
+Name	Activation_Prob	Compound	Another_Probs
+ATPase inhibitor	0.385	COMP1452	
+Adenosine A1 receptor agonist	0.025	COMP1452	
+Adenosine deaminase inhibitor	0.050	COMP1452	
+Adenylate cyclase inhibitor	0.195	COMP1452	
+Alcohol dehydrogenase inhibitor	0.235	COMP1452	
+Alkaline phosphatase inhibitor	0.198	COMP1452	
+Alpha-mannosidase inhibitor	0.141	COMP1452	
+Arginase inhibitor	0.051	COMP1452	
+Ca2+-transporting ATPase inhibitor	0.169	COMP1452	
+Cyclooxygenase 1 inhibitor	0.110	COMP1452	
+Cystathionine beta-synthase inhibitor	0.482	COMP1452	
+Estrogen agonist	0.120	COMP1452	
+GABA aminotransferase inhibitor	0.108	COMP1452	
+GRP78 expression inhibitor	0.029	COMP1452	
+Glucose-6-phosphate isomerase inhibitor	0.113	COMP1452	
+Glutamate dehydrogenase inhibitor	0.067	COMP1452	
+Heat shock protein 70 antagonist	0.183	COMP1452	
+Hexokinase inhibitor	0.656	COMP1452	
+Na+ K+ transporting ATPase inhibitor	0.143	COMP1452	
+Phosphofructokinase-1 inhibitor	0.229	COMP1452	
+Phospholipase C inhibitor	0.177	COMP1452	
+Phosphorylase inhibitor	0.128	COMP1452	
+Pyruvate kinase inhibitor	0.158	COMP1452	
+Topoisomerase I inhibitor	0.432	COMP1452	
+Topoisomerase II alpha inhibitor	0.352	COMP1452	
+Triose-phosphate isomerase inhibitor	0.333	COMP1452	
+UDP-glucose 4-epimerase inhibitor	0.440	COMP1452	

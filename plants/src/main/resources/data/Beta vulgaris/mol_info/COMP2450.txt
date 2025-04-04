@@ -1,0 +1,10 @@
+(S)-4-(2-Oxoethylidene)-1,2,3,4-Tetrahydropyridine-2,6-Dicarboxylic Acid
+(2S,4E)-4-(2-oxoethylidene)-2,3-dihydro-1H-pyridine-2,6-dicarboxylic acid
+CHEMBL2062984
+5281176
+CHEBI:27483
+C9H9NO5
+211.05
+InChI=1S/C9H9NO5/c11-2-1-5-3-6(8(12)13)10-7(4-5)9(14)15/h1-3,7,10H,4H2,(H,12,13)(H,14,15)/b5-1-/t7-/m0/s1
+YQDKULBMDMPFLH-FSRBREEPSA-N
+O=C/C=C/1C[C@H](NC(=C1)C(=O)O)C(=O)O

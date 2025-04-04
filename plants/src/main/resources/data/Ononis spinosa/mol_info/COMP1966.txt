@@ -1,0 +1,10 @@
+(4As,10As)-1,1,4A-Trimethyl-7-Propan-2-Yl-2,3,4,9,10,10A-Hexahydrophenanthrene
+(4aS,10aS)-1,1,4a-trimethyl-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthrene
+CHEMBL3343789
+6432211
+CHEBI:86062
+C20H30
+270.23
+InChI=1S/C20H30/c1-14(2)15-7-9-17-16(13-15)8-10-18-19(3,4)11-6-12-20(17,18)5/h7,9,13-14,18H,6,8,10-12H2,1-5H3/t18-,20+/m0/s1
+QUUCYKKMFLJLFS-AZUAARDMSA-N
+CC(c1ccc2c(c1)CC[C@@H]1[C@]2(C)CCCC1(C)C)C

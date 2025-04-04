@@ -1,0 +1,11 @@
+Name	Activation_Prob	Compound	Another_Probs
+ABCA1 expression enhancer	0.114	COMP214	
+CTGF expression inhibitor	0.374	COMP214	
+ICAM1 expression inhibitor	0.453	COMP214	
+LDLR expression enhancer	0.163	COMP214	
+NOS2 expression inhibitor	0.321	COMP214	
+NOS3 expression enhancer	0.119	COMP214	
+NOS3 expression inhibitor	0.410	COMP214	
+TNF expression inhibitor	0.457	COMP214	
+VCAM1 expression inhibitor	0.365	COMP214	
+VEGF expression inhibitor	0.222	COMP214	

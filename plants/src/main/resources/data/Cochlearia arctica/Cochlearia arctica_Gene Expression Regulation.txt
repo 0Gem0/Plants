@@ -1,0 +1,6 @@
+Name	Activation_Prob	Compound	Another_Probs
+ABCA1 expression enhancer	0.135	COMP1708	
+AR expression inhibitor	0.210	COMP1707	
+ICAM1 expression inhibitor	0.482	COMP1707	(0.477 COMP1708)
+NOS2 expression inhibitor	0.164	COMP1707	
+TNF expression inhibitor	0.282	COMP1707	

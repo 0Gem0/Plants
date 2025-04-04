@@ -1,0 +1,21 @@
+Name	Activation_Prob	Compound	Another_Probs
+ATPase inhibitor	0.286	COMP295	
+Acetylcholine M1 receptor antagonist	0.134	COMP295	
+Adenylate kinase inhibitor	0.095	COMP295	
+Aldosterone antagonist	0.087	COMP295	
+Alpha 2b adrenoreceptor agonist	0.028	COMP295	
+Androgen agonist	0.080	COMP295	
+Androgen antagonist	0.149	COMP295	
+Ca2+-transporting ATPase inhibitor	0.153	COMP295	
+Electron transport complex I inhibitor	0.139	COMP295	
+Estrogen agonist	0.081	COMP295	
+GABA aminotransferase inhibitor	0.106	COMP295	
+Na+ K+ transporting ATPase inhibitor	0.119	COMP295	
+Phosphofructokinase-1 inhibitor	0.062	COMP295	
+Phospholipase C inhibitor	0.155	COMP295	
+Prostaglandin F2 alpha agonist	0.021	COMP295	
+Retinoic acid alpha receptor agonist	0.044	COMP295	
+Succinate dehydrogenase inhibitor	0.250	COMP295	
+Triose-phosphate isomerase inhibitor	0.109	COMP295	
+Tyrosine 3 hydroxylase inhibitor	0.233	COMP295	
+UDP-glucose 4-epimerase inhibitor	0.086	COMP295	

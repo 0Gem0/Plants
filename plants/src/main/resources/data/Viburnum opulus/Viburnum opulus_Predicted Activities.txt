@@ -1,0 +1,539 @@
+Name	Activation_Prob	Compound	Another_Probs
+1.3-Beta-glucan synthase inhibitor	0.035	COMP285	(0.032 COMP301)
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.044	COMP285	
+12-Lipoxygenase inhibitor	0.194	COMP301	
+2.3-Oxidosqualene-lanosterol cyclase inhibitor	0.082	COMP285	
+3 Beta-hydroxy-delta 5-steroid dehydrogenase inhibitor	0.018	COMP285	
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.063	COMP285	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.471	COMP301	
+5 Hydroxytryptamine release inhibitor	0.541	COMP301	
+5 Hydroxytryptamine release stimulant	0.550	COMP301	(0.187 COMP285)
+5-Alpha-reductase 1 inhibitor	0.363	COMP285	
+5-Alpha-reductase 2 inhibitor	0.372	COMP285	
+5-Alpha-reductase inhibitor	0.451	COMP285	
+ABCA1 expression enhancer	0.240	COMP285	
+AMP-activated protein kinase stimulant	0.567	COMP301	(0.118 COMP285)
+AR expression inhibitor	0.771	COMP301	(0.457 COMP285)
+ATPase (Vacuolar H+) inhibitor	0.125	COMP301	(0.083 COMP285)
+ATPase inhibitor	0.248	COMP301	
+Abortion inducer	0.566	COMP285	
+Acetylcholinesterase inhibitor	0.231	COMP301	
+Actinic keratosis treatment	0.275	COMP285	(0.111 COMP301)
+Acute respiratory distress syndrome (ARDS) treatment	0.298	COMP301	(0.180 COMP285)
+Adenine nucleotide translocase inhibitor	0.060	COMP301	
+Adenosine A1 receptor agonist	0.024	COMP301	
+Adenosine deaminase inhibitor	0.074	COMP301	
+Adenylate cyclase inhibitor	0.136	COMP301	
+Adenylate cyclase stimulant	0.165	COMP301	(0.143 COMP285)
+Alcohol dehydrogenase inhibitor	0.491	COMP301	
+Alcohol dehydrogenase substrate	0.312	COMP285	
+Aldehyde dehydrogenase inhibitor	0.448	COMP301	
+Aldehyde oxidase inhibitor	0.173	COMP301	
+Aldose reductase inhibitor	0.352	COMP301	
+Aldose reductase substrate	0.442	COMP301	
+Aldosterone antagonist	0.091	COMP285	
+Alkaline phosphatase inhibitor	0.470	COMP301	
+Alkylator	0.516	COMP301	
+Alpha tubulin antagonist	0.048	COMP301	
+Alpha-N-acetylglucosaminidase inhibitor	0.332	COMP301	
+Alpha-glucosidase inhibitor	0.973	COMP301	
+Alpha-mannosidase inhibitor	0.106	COMP301	
+Alzheimer's disease treatment	0.600	COMP285	(0.526 COMP301)
+Aminoacyl-tRNA synthetase inhibitor	0.087	COMP301	
+Amylase inhibitor	0.928	COMP301	(0.461 COMP285)
+Amyloid beta aggregation inhibitor	0.690	COMP301	
+Amyotrophic lateral sclerosis treatment	0.701	COMP285	
+Anabolic	0.212	COMP285	
+Analeptic	0.587	COMP285	(0.531 COMP301)
+Analgesic	0.234	COMP285	
+Androgen agonist	0.288	COMP285	
+Androgen antagonist	0.687	COMP285	
+Andropause treatment	0.080	COMP285	
+Anesthetic	0.715	COMP285	
+Anesthetic general	0.691	COMP285	(0.172 COMP301)
+Anesthetic inhalation	0.060	COMP285	
+Anesthetic local	0.118	COMP285	
+Angiogenesis inhibitor	0.227	COMP301	
+Angiogenesis stimulant	0.764	COMP301	(0.318 COMP285)
+Angiotensin-converting enzyme inhibitor	0.056	COMP285	
+Antiacne	0.574	COMP285	(0.117 COMP301)
+Antialcoholic	0.254	COMP301	(0.240 COMP285)
+Antiamyloidogenic	0.670	COMP301	
+Antiarthritic	0.400	COMP301	
+Antibacterial	0.747	COMP301	(0.390 COMP285)
+Antibacterial (Helicobacter pylori)	0.149	COMP301	
+Antibiotic	0.229	COMP301	(0.085 COMP285)
+Antibiotic Aminoglycoside-like	0.094	COMP301	
+Antibiotic Anthracycline-like	0.026	COMP301	
+Antibiotic Glycopeptide-like	0.216	COMP301	
+Anticataract	0.480	COMP285	(0.200 COMP301)
+Anticholelithogenic	0.221	COMP285	
+Antidiabetic	0.864	COMP301	(0.637 COMP285)
+Antidiabetic (type 1)	0.164	COMP301	(0.149 COMP285)
+Antidiabetic (type 2)	0.431	COMP301	(0.395 COMP285)
+Antidiabetic symptomatic	0.459	COMP301	(0.418 COMP285)
+Antidiarrheal	0.262	COMP301	(0.121 COMP285)
+Antidote	0.701	COMP301	
+Antidote. heavy metal	0.106	COMP301	
+Antieczematic	0.149	COMP285	
+Antifungal	0.545	COMP301	(0.540 COMP285)
+Antifungal (Cryptococcus)	0.224	COMP301	(0.130 COMP285)
+Antifungal enhancer	0.486	COMP301	(0.265 COMP285)
+Antihelmintic	0.655	COMP301	(0.380 COMP285)
+Antihelmintic (Nematodes)	0.262	COMP301	
+Antihelmintic (Trematoda)	0.660	COMP301	
+Antihemorrhagic	0.892	COMP301	(0.160 COMP285)
+Antihypercholesterolemic	0.979	COMP285	(0.896 COMP301)
+Antihyperlipoproteinemic	0.699	COMP285	
+Antihypertensive	0.431	COMP285	
+Antihypertriglyceridemic	0.718	COMP301	(0.497 COMP285)
+Antihypotensive	0.823	COMP301	(0.193 COMP285)
+Antihypoxic	0.931	COMP301	
+Antiinfertility. female	0.402	COMP285	
+Antiinflammatory	0.898	COMP285	(0.859 COMP301)
+Antiischemic	0.468	COMP301	
+Antileukemic	0.689	COMP301	(0.544 COMP285)
+Antimutagenic	0.984	COMP301	
+Antimycobacterial	0.332	COMP301	
+Antimycoplasmal	0.132	COMP301	(0.058 COMP285)
+Antineoplastic (bladder cancer)	0.287	COMP301	
+Antineoplastic (bone cancer)	0.228	COMP301	
+Antineoplastic (brain cancer)	0.470	COMP301	(0.438 COMP285)
+Antineoplastic (breast cancer)	0.652	COMP285	(0.645 COMP301)
+Antineoplastic (carcinoma)	0.309	COMP301	
+Antineoplastic (cervical cancer)	0.563	COMP301	(0.321 COMP285)
+Antineoplastic (colon cancer)	0.542	COMP301	(0.205 COMP285)
+Antineoplastic (colorectal cancer)	0.582	COMP301	(0.213 COMP285)
+Antineoplastic (endocrine cancer)	0.324	COMP285	(0.267 COMP301)
+Antineoplastic (gastric cancer)	0.319	COMP301	
+Antineoplastic (glioblastoma multiforme)	0.446	COMP301	(0.315 COMP285)
+Antineoplastic (glioma)	0.492	COMP301	(0.358 COMP285)
+Antineoplastic (liver cancer)	0.501	COMP285	(0.461 COMP301)
+Antineoplastic (lung cancer)	0.625	COMP301	(0.400 COMP285)
+Antineoplastic (lymphocytic leukemia)	0.302	COMP301	
+Antineoplastic (lymphoma)	0.479	COMP301	(0.353 COMP285)
+Antineoplastic (melanoma)	0.450	COMP301	(0.346 COMP285)
+Antineoplastic (multiple myeloma)	0.399	COMP301	
+Antineoplastic (non-Hodgkin's lymphoma)	0.211	COMP301	
+Antineoplastic (non-small cell lung cancer)	0.366	COMP301	
+Antineoplastic (osteosarcoma)	0.626	COMP301	
+Antineoplastic (ovarian cancer)	0.533	COMP285	(0.472 COMP301)
+Antineoplastic (pancreatic cancer)	0.596	COMP285	(0.548 COMP301)
+Antineoplastic (renal cancer)	0.380	COMP285	(0.341 COMP301)
+Antineoplastic (sarcoma)	0.482	COMP301	(0.217 COMP285)
+Antineoplastic (small cell lung cancer)	0.404	COMP301	
+Antineoplastic (solid tumors)	0.466	COMP301	(0.389 COMP285)
+Antineoplastic (squamous cell carcinoma)	0.400	COMP301	
+Antineoplastic (uterine cancer)	0.170	COMP301	
+Antineoplastic alkaloid	0.082	COMP285	
+Antineoplastic antibiotic	0.330	COMP301	(0.227 COMP285)
+Antineoplastic enhancer	0.395	COMP301	(0.275 COMP285)
+Antineoplastic. alkylator	0.213	COMP301	(0.171 COMP285)
+Antinephritic	0.147	COMP301	
+Antiobesity	0.552	COMP285	
+Antiosteoporotic	0.802	COMP285	(0.483 COMP301)
+Antioxidant	0.938	COMP301	(0.507 COMP285)
+Antiparasitic	0.681	COMP301	(0.369 COMP285)
+Antiparkinsonian	0.253	COMP301	(0.218 COMP285)
+Antiparkinsonian. rigidity relieving	0.712	COMP285	
+Antiprotozoal	0.403	COMP301	
+Antiprotozoal (Coccidial)	0.215	COMP301	
+Antiprotozoal (Leishmania)	0.581	COMP301	(0.190 COMP285)
+Antiprotozoal (Plasmodium)	0.226	COMP301	
+Antiprotozoal (Trypanosoma)	0.269	COMP301	
+Antipruritic	0.163	COMP285	
+Antipruritic. allergic	0.652	COMP285	(0.647 COMP301)
+Antipruritic. non-allergic	0.498	COMP285	(0.350 COMP301)
+Antipsoriatic	0.791	COMP285	
+Antipyretic	0.612	COMP301	(0.286 COMP285)
+Antirickettsial	0.204	COMP301	
+Antispirochetal	0.217	COMP301	
+Antithrombotic	0.731	COMP301	
+Antitreponemal	0.089	COMP301	(0.077 COMP285)
+Antituberculosic	0.207	COMP301	
+Antitussive	0.556	COMP301	
+Antiulcerative	0.348	COMP301	(0.216 COMP285)
+Antiviral (Dengue virus)	0.143	COMP301	
+Antiviral (Ebola)	0.522	COMP301	
+Antiviral (HIV)	0.239	COMP301	(0.183 COMP285)
+Antiviral (Hepatitis B)	0.173	COMP301	
+Antiviral (Hepatitis C)	0.144	COMP301	
+Antiviral (Hepatitis)	0.206	COMP301	(0.139 COMP285)
+Antiviral (Herpes)	0.457	COMP301	(0.206 COMP285)
+Antiviral (Herpesvirus 3. Human)	0.047	COMP301	
+Antiviral (Influenza A)	0.377	COMP285	(0.313 COMP301)
+Antiviral (Influenza B)	0.445	COMP301	
+Antiviral (Influenza)	0.412	COMP301	(0.371 COMP285)
+Antiviral (Rhinovirus)	0.101	COMP301	
+Antiviral (Trachoma)	0.094	COMP301	
+Apical sodium codependent bile acid transporter inhibitor	0.024	COMP285	
+Apoptosis agonist	0.856	COMP301	(0.846 COMP285)
+Apoptosis antagonist	0.713	COMP301	(0.574 COMP285)
+Arachidonic acid antagonist	0.269	COMP285	
+Arginase inhibitor	0.177	COMP301	
+Aromatase inhibitor	0.222	COMP285	
+Aryl hydrocarbon receptor agonist	0.273	COMP301	
+Aryl hydrocarbon receptor antagonist	0.064	COMP301	
+Atherosclerosis treatment	0.681	COMP285	(0.294 COMP301)
+Autism spectrum disorders treatment	0.547	COMP285	
+Beta amyloid protein antagonist	0.100	COMP301	
+Beta glucuronidase inhibitor	0.671	COMP301	
+Bile acid receptor antagonist	0.274	COMP285	
+Bone diseases treatment	0.841	COMP285	(0.487 COMP301)
+Bone formation stimulant	0.320	COMP285	
+Breast cancer-resistant protein inhibitor	0.130	COMP301	
+CDC25A inhibitor	0.215	COMP285	(0.153 COMP301)
+CDC25B inhibitor	0.094	COMP301	(0.075 COMP285)
+CF transmembrane conductance regulator agonist	0.215	COMP301	
+CTGF expression inhibitor	0.767	COMP285	(0.664 COMP301)
+CYP1A2 inhibitor	0.397	COMP301	
+CYP1A2 substrate	0.572	COMP301	(0.236 COMP285)
+CYP24 inhibitor	0.060	COMP285	
+CYP2C19 inhibitor	0.354	COMP301	(0.219 COMP285)
+CYP2C19 substrate	0.783	COMP285	(0.648 COMP301)
+CYP2C9 substrate	0.750	COMP301	(0.677 COMP285)
+CYP2D6 substrate	0.391	COMP301	(0.312 COMP285)
+CYP3A4 inhibitor	0.193	COMP301	
+CYP3A4 substrate	0.899	COMP285	(0.673 COMP301)
+Carbonic anhydrase III inhibitor	0.629	COMP301	
+Carbonic anhydrase IX inhibitor	0.065	COMP301	
+Carbonic anhydrase V inhibitor	0.081	COMP301	
+Carbonic anhydrase VA inhibitor	0.088	COMP301	
+Carbonic anhydrase VI inhibitor	0.530	COMP301	
+Carbonic anhydrase VII inhibitor	0.404	COMP301	
+Carbonic anhydrase XII inhibitor	0.265	COMP301	
+Carbonic anhydrase XIII inhibitor	0.903	COMP301	
+Carbonic anhydrase XIV inhibitor	0.361	COMP301	
+Carbonic anhydrase XV inhibitor	0.123	COMP301	
+Carbonic anhydrase inhibitor	0.087	COMP301	
+Carcinogenic	0.944	COMP285	(0.912 COMP301)
+Carcinogenic. group 1	0.393	COMP301	
+Carcinogenic. group 2A	0.158	COMP301	
+Carcinogenic. group 2B	0.202	COMP301	
+Carcinogenic. group 3	0.395	COMP301	(0.114 COMP285)
+Cardiodepressant	0.270	COMP285	(0.135 COMP301)
+Cardioprotectant	0.900	COMP301	(0.243 COMP285)
+Cardiovascular analeptic	0.186	COMP285	
+Caspase 3 stimulant	0.728	COMP301	(0.510 COMP285)
+Caspase 9 stimulant	0.943	COMP301	(0.511 COMP285)
+Catechol O-methyltransferase inhibitor	0.031	COMP301	
+Cell adhesion inhibitor	0.163	COMP301	
+Cell wall synthesis inhibitor	0.263	COMP301	
+Chelator	0.278	COMP301	
+Chemopreventive	0.954	COMP301	(0.842 COMP285)
+Chemoprotective	0.993	COMP301	(0.628 COMP285)
+Choleretic	0.276	COMP301	(0.232 COMP285)
+Cholesterol absorption inhibitor	0.166	COMP301	(0.080 COMP285)
+Cholesterol antagonist	0.965	COMP285	(0.564 COMP301)
+Cholesterol synthesis inhibitor	0.681	COMP285	(0.109 COMP301)
+Cholinergic	0.144	COMP301	
+Chronic obstructive bronchitis treatment	0.197	COMP301	
+Contraceptive	0.529	COMP285	(0.140 COMP301)
+Contraceptive female	0.436	COMP285	
+Contraceptive male	0.268	COMP285	
+Corticosteroid-like	0.044	COMP285	
+Creatine kinase inhibitor	0.332	COMP301	
+Cushing's syndrome treatment	0.142	COMP285	
+Cyclic AMP phosphodiesterase inhibitor	0.472	COMP301	
+Cyclooxygenase 1 inhibitor	0.168	COMP301	
+Cyclooxygenase 2 inhibitor	0.186	COMP301	
+Cyclooxygenase 3 inhibitor	0.555	COMP301	(0.114 COMP285)
+Cyclooxygenase inhibitor	0.212	COMP301	
+Cyclophilin D inhibitor	0.864	COMP301	(0.637 COMP285)
+Cystathionine beta-synthase inhibitor	0.896	COMP301	
+Cystic fibrosis treatment	0.168	COMP301	
+Cytostatic	0.869	COMP301	(0.183 COMP285)
+Cytotoxic	0.626	COMP301	(0.586 COMP285)
+D-Ala-D-Ala ligase inhibitor	0.090	COMP301	
+DNA damaging	0.824	COMP301	
+DNA directed DNA polymerase inhibitor	0.241	COMP301	
+DNA gyrase inhibitor	0.072	COMP301	
+DNA intercalator	0.207	COMP301	
+DNA methylase inhibitor	0.494	COMP301	
+DNA methyltransferase I inhibitor	0.480	COMP301	
+DNA polymerase I inhibitor	0.627	COMP285	(0.268 COMP301)
+DNA repair enzyme inhibitor	0.415	COMP301	
+DNA synthesis inhibitor	0.465	COMP301	
+DOPA decarboxylase inhibitor	0.101	COMP301	
+Dementia treatment	0.354	COMP301	
+Diabetic nephropathy treatment	0.429	COMP285	(0.172 COMP301)
+Diabetic retinopathy treatment	0.194	COMP301	(0.173 COMP285)
+Diuretic	0.628	COMP285	(0.175 COMP301)
+Dopamine D1 agonist	0.025	COMP301	
+Dual specificity phosphatase 3 inhibitor	0.203	COMP301	
+Dual specificity phosphatase inhibitor	0.193	COMP301	
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.140	COMP301	
+Embryotoxic	0.899	COMP285	(0.768 COMP301)
+Endometrios treatment	0.296	COMP285	
+Equilibrative nucleoside transport protein inhibitor	0.062	COMP301	
+Estrogen agonist	0.209	COMP301	(0.200 COMP285)
+Estrogen antagonist	0.180	COMP301	(0.167 COMP285)
+Estrogen receptor alpha agonist	0.149	COMP285	(0.077 COMP301)
+Estrogen receptor alpha antagonist	0.102	COMP285	(0.079 COMP301)
+Estrogen receptor beta agonist	0.140	COMP285	(0.115 COMP301)
+Estrogen receptor beta antagonist	0.130	COMP301	(0.125 COMP285)
+Estrogen-related receptor beta agonist	0.085	COMP285	
+Estrogen-related receptor beta antagonist	0.038	COMP301	
+Estrone sulfatase inhibitor	0.050	COMP285	
+Expectorant	0.394	COMP301	
+Eye irritation. high	0.207	COMP285	(0.134 COMP301)
+Factor III inhibitor	0.054	COMP301	
+Falcipain 2 inhibitor	0.154	COMP301	
+Falcipain inhibitor	0.156	COMP301	
+Farnesoid X receptor agonist	0.094	COMP285	
+Farnesoid X receptor antagonist	0.427	COMP285	
+Fatty acid synthase inhibitor	0.280	COMP301	
+Free radical scavenger	0.899	COMP301	(0.389 COMP285)
+GABA C receptor rho-3 antagonist	0.247	COMP301	
+GRP78 expression inhibitor	0.020	COMP301	
+GST M1-1 substrate	0.206	COMP301	
+Gastrin inhibitor	0.193	COMP285	
+Gastritis treatment	0.206	COMP301	
+Genotoxic	0.963	COMP301	
+Glucocorticoid agonist	0.045	COMP285	
+Glucocorticoid antagonist	0.082	COMP285	
+Glucose-6-phosphate dehydrogenase inhibitor	0.100	COMP285	
+Glucose-6-phosphate isomerase inhibitor	0.097	COMP301	
+Glucose-6-phosphate translocase inhibitor	0.096	COMP301	
+Glutamate release inhibitor	0.086	COMP301	
+Glutathione S-transferase substrate	0.388	COMP301	(0.107 COMP285)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.572	COMP301	
+Glycine receptor agonist	0.371	COMP285	
+Glycine receptor antagonist	0.209	COMP285	(0.079 COMP301)
+Gout treatment	0.333	COMP301	
+Growth factor agonist	0.233	COMP285	
+Growth stimulant	0.209	COMP285	(0.152 COMP301)
+HDL-cholesterol increasing	0.226	COMP285	(0.166 COMP301)
+HIV-1 integrase (3'-Processing) inhibitor	0.200	COMP301	
+HIV-1 integrase (Strand Transfer) inhibitor	0.196	COMP301	
+HIV-1 integrase inhibitor	0.101	COMP301	
+HIV-1 protease inhibitor	0.039	COMP285	
+HMG CoA reductase inhibitor	0.068	COMP285	
+Hair growth stimulant	0.893	COMP285	(0.149 COMP301)
+Hearing loss treatment	0.153	COMP301	
+Heat shock protein 70 antagonist	0.257	COMP301	
+Hedgehog signaling activator	0.175	COMP285	
+Hedgehog signaling inhibitor	0.252	COMP285	
+Heme oxygenase stimulant	0.069	COMP285	
+Hemostatic	0.584	COMP301	(0.153 COMP285)
+Heparanase inhibitor	0.086	COMP301	
+Hepatic disorders treatment	0.712	COMP301	(0.692 COMP285)
+Hepatoprotectant	0.685	COMP301	(0.462 COMP285)
+Hexokinase inhibitor	0.403	COMP301	
+Histamine release inhibitor	0.717	COMP301	
+Histidine decarboxylase inhibitor	0.080	COMP301	
+Histone deacetylase SIRT1 stimulant	0.352	COMP301	
+Histone deacetylase stimulant	0.352	COMP301	
+Huntington's disease treatment	0.318	COMP301	
+Hypercalcemia treatment	0.250	COMP285	
+Hyperparathyroidism treatment	0.296	COMP285	
+Hypoglycemic	0.805	COMP301	(0.174 COMP285)
+Hypogonadism treatment	0.062	COMP285	
+Hypolipemic	0.626	COMP285	(0.235 COMP301)
+Hypoxia-inducible factor 1 alpha inhibitor	0.639	COMP301	(0.239 COMP285)
+ICAM1 expression inhibitor	0.578	COMP301	(0.405 COMP285)
+Ileal bile acid transport inhibitor	0.030	COMP285	
+Immunomodulator	0.778	COMP285	(0.478 COMP301)
+Immunostimulant	0.611	COMP301	(0.592 COMP285)
+Immunosuppressant	0.615	COMP285	(0.532 COMP301)
+Inducible nitric-oxide synthase inhibitor	0.218	COMP285	
+Inflammatory Bowel disease treatment	0.372	COMP285	
+Insulin secretagoues	0.311	COMP301	(0.133 COMP285)
+Insulin sensitizer	0.262	COMP301	
+Interferon agonist	0.116	COMP301	
+Interferon gamma antagonist	0.616	COMP285	(0.428 COMP301)
+Interferon inducer	0.082	COMP301	
+Interleukin 12 antagonist	0.323	COMP301	
+Interleukin 2 agonist	0.538	COMP285	(0.456 COMP301)
+Interleukin 2 antagonist	0.127	COMP285	
+Interleukin 4 antagonist	0.504	COMP301	(0.309 COMP285)
+Interleukin 5 antagonist	0.143	COMP301	
+Interleukin 6 antagonist	0.278	COMP301	(0.142 COMP285)
+Interleukin agonist	0.641	COMP285	(0.367 COMP301)
+Interleukin antagonist	0.288	COMP301	
+LDLR expression enhancer	0.256	COMP285	
+Lanosterol 14 alpha demethylase inhibitor	0.141	COMP285	
+Leukotriene B4 antagonist	0.060	COMP301	
+Lipase inhibitor	0.124	COMP301	
+Lipid peroxidase inhibitor	0.567	COMP301	(0.293 COMP285)
+Lipocortins synthesis agonist	0.112	COMP285	(0.060 COMP301)
+Lipocortins synthesis antagonist	0.448	COMP285	
+Lipoprotein disorders treatment	0.739	COMP285	(0.356 COMP301)
+Lipoxygenase inhibitor	0.196	COMP301	
+Liver X receptor agonist	0.221	COMP285	
+Liver X receptor alpha agonist	0.500	COMP285	
+Liver X receptor beta agonist	0.056	COMP285	
+Liver cirrhosis treatment	0.274	COMP285	
+Liver fibrosis treatment	0.325	COMP285	(0.232 COMP301)
+M18 aspartyl aminopeptidase inhibitor	0.143	COMP301	
+MAO A inhibitor	0.190	COMP301	
+MAO inhibitor	0.127	COMP301	
+Maillard reaction inhibitor	0.114	COMP301	
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.101	COMP301	
+Mannose-6-phosphate isomerase inhibitor	0.301	COMP301	
+Mannosidase inhibitor	0.098	COMP301	
+Mediator release inhibitor	0.687	COMP301	
+Melanin inhibitor	0.883	COMP301	(0.271 COMP285)
+Menstruation disorders treatment	0.152	COMP285	
+Metabolic disease treatment	0.467	COMP285	(0.279 COMP301)
+Microtubule formation inhibitor	0.234	COMP285	(0.102 COMP301)
+Microtubule stabilization	0.060	COMP285	
+Mineralocorticoid receptor antagonist	0.066	COMP285	
+Monophenol monooxygenase inhibitor	0.985	COMP301	(0.208 COMP285)
+Mucolytic	0.190	COMP301	
+Multidrug resistance-associated protein 1 inhibitor	0.220	COMP301	
+Multiple sclerosis treatment	0.209	COMP285	
+Muscle relaxant	0.289	COMP285	
+Muscular dystrophy treatment	0.183	COMP285	(0.179 COMP301)
+Mutagenic	0.957	COMP301	(0.193 COMP285)
+Myocardial infarction treatment	0.451	COMP301	(0.249 COMP285)
+NAD(P)H dehydrogenase (quinone) inhibitor	0.211	COMP301	
+NADH dehydrogenase inhibitor	0.278	COMP301	
+NADPH oxidase inhibitor	0.574	COMP301	
+NOS2 expression inhibitor	0.958	COMP301	(0.515 COMP285)
+NOS3 expression enhancer	0.721	COMP301	(0.324 COMP285)
+NOS3 expression inhibitor	0.862	COMP285	(0.837 COMP301)
+Na+ K+ transporting ATPase inhibitor	0.179	COMP285	(0.162 COMP301)
+Narcotic antagonist	0.122	COMP301	
+Neuraminidase (Influenza A) inhibitor	0.054	COMP301	
+Neuraminidase (influenza) inhibitor	0.135	COMP301	
+Neuraminidase inhibitor	0.116	COMP301	
+Neuropathy treatment	0.202	COMP301	
+Neurotrophic factor	0.419	COMP285	(0.121 COMP301)
+Neurotrophic factor enhancer	0.568	COMP301	(0.293 COMP285)
+Neutropenia treatment	0.121	COMP285	
+Nitric oxide antagonist	0.757	COMP301	(0.563 COMP285)
+Nitric oxide donor	0.079	COMP301	(0.056 COMP285)
+Nitric-oxide synthase stimulant	0.682	COMP301	
+Non-steroidal antiinflammatory agent	0.581	COMP301	
+Nucleoside transporters inhibitor	0.062	COMP301	
+P-glycoprotein inhibitor	0.388	COMP301	(0.189 COMP285)
+Paget's disease treatment	0.146	COMP285	
+Papain-like protease (SARS coronavirus) inhibitor	0.123	COMP301	
+Parathyroid hormone antagonist	0.120	COMP285	
+Peptidyltransferase inhibitor	0.341	COMP301	
+Peroxidase inhibitor	0.432	COMP301	
+Phosphodiesterase 6D inhibitor	0.219	COMP301	
+Phosphodiesterase VI inhibitor	0.203	COMP301	
+Phosphofructokinase-1 inhibitor	0.198	COMP301	
+Phospholipase A2 inhibitor	0.146	COMP285	
+Phospholipase C inhibitor	0.362	COMP285	(0.176 COMP301)
+Phosphorylase inhibitor	0.105	COMP301	
+Photosensitizer	0.448	COMP301	
+Platelet adhesion inhibitor	0.457	COMP301	(0.217 COMP285)
+Platelet antagonist	0.250	COMP301	
+Postcoital contraceptive	0.082	COMP285	(0.053 COMP301)
+Postmenopausal disorders treatment	0.223	COMP285	(0.164 COMP301)
+Posttraumatic stress disorder treatment	0.084	COMP285	
+Pregnane X receptor agonist	0.674	COMP285	
+Premenstrual syndrome treatment	0.109	COMP285	
+Progesterone agonist	0.040	COMP285	
+Progesterone antagonist	0.056	COMP285	
+Prolactin inhibitor	0.118	COMP285	
+Proliferative diseases treatment	0.938	COMP301	(0.839 COMP285)
+Prostate cancer treatment	0.649	COMP285	(0.573 COMP301)
+Prostate disorders treatment	0.534	COMP285	
+Prostatic (benign) hyperplasia treatment	0.689	COMP285	
+Protease inhibitor	0.102	COMP285	
+Protein 30S ribosomal subunit inhibitor	0.087	COMP301	
+Protein 50S ribosomal subunit inhibitor	0.102	COMP301	
+Protein kinase C beta I inhibitor	0.032	COMP301	
+Protein kinase C eta inhibitor	0.066	COMP301	
+Protein kinase C zeta inhibitor	0.094	COMP301	
+Protein kinase stimulant	0.646	COMP301	(0.250 COMP285)
+Protein-tyrosine phosphatase 1B inhibitor	0.297	COMP285	(0.229 COMP301)
+Protein-tyrosine phosphatase inhibitor	0.296	COMP285	(0.287 COMP301)
+Psychosexual dysfunction treatment	0.360	COMP301	(0.344 COMP285)
+Purinergic P2Y2 agonist	0.010	COMP301	
+Pyruvate kinase inhibitor	0.331	COMP301	
+RNA-directed DNA polymerase inhibitor	0.593	COMP301	
+RNA-directed RNA polymerase stimulant	0.288	COMP285	
+Radioprotector	0.909	COMP301	(0.602 COMP285)
+Radiosensitizer	0.534	COMP301	
+Renal disease treatment	0.414	COMP285	
+Respiratory analeptic	0.737	COMP285	(0.656 COMP301)
+Restless leg syndrome treatment	0.097	COMP301	
+Retinoprotector	0.340	COMP285	(0.222 COMP301)
+Ribosomal protein S6 kinase inhibitor	0.141	COMP301	
+SULT1A1 substrate	0.202	COMP301	(0.154 COMP285)
+SULT1A2 substrate	0.118	COMP285	(0.069 COMP301)
+SULT1A3 substrate	0.323	COMP301	
+SULT1E1 substrate	0.165	COMP301	(0.161 COMP285)
+SULT2A1 substrate	0.089	COMP285	
+Sedative	0.233	COMP285	(0.159 COMP301)
+Selectin antagonist	0.379	COMP301	
+Sensitization	0.684	COMP285	(0.674 COMP301)
+Sepsis treatment	0.156	COMP301	
+Septic shock treatment	0.359	COMP301	
+Skeletal muscle relaxant	0.238	COMP285	
+Skin irritative effect	0.386	COMP285	
+Skin whitener	0.736	COMP301	(0.278 COMP285)
+Sodium/bile acid cotransporter inhibitor	0.517	COMP285	
+Sodium/glucose cotransporter 1 inhibitor	0.135	COMP301	
+Sodium/glucose cotransporter 2 inhibitor	0.133	COMP301	
+Sodium/glucose cotransporter inhibitor	0.152	COMP301	
+Spasmolytic	0.689	COMP301	(0.255 COMP285)
+Sphingomyelinase inhibitor	0.152	COMP301	
+Squalene epoxidase inhibitor	0.051	COMP301	
+Squalene synthetase inhibitor	0.027	COMP285	
+Steroid 17-alpha-hydroxylase/17.20 lyase inhibitor	0.540	COMP285	
+Stroke treatment	0.515	COMP301	(0.428 COMP285)
+Sulfotransferase substrate	0.881	COMP301	(0.794 COMP285)
+T cell inhibitor	0.218	COMP301	
+TNF expression inhibitor	0.951	COMP301	(0.755 COMP285)
+TRPA1 agonist	0.097	COMP301	
+Telomerase inhibitor	0.094	COMP301	
+Telomerase stimulant	0.027	COMP301	(0.018 COMP285)
+Teratogen	0.906	COMP285	(0.807 COMP301)
+Thioredoxin inhibitor	0.233	COMP301	
+Thioredoxin reductase inhibitor	0.104	COMP301	
+Thrombolytic	0.318	COMP301	
+Toll-Like receptor 2 antagonist	0.172	COMP301	
+Toll-Like receptor 4 agonist	0.031	COMP301	
+Toll-Like receptor 4 antagonist	0.211	COMP301	(0.112 COMP285)
+Topoisomerase I inhibitor	0.416	COMP301	
+Topoisomerase II alpha inhibitor	0.416	COMP301	
+Topoisomerase II beta inhibitor	0.086	COMP301	
+Topoisomerase II inhibitor	0.517	COMP301	
+Toxic. respiratory center	0.242	COMP285	
+Transcortin receptor antagonist	0.017	COMP285	
+Transcription factor NF kappa B inhibitor	0.886	COMP301	(0.859 COMP285)
+Transcription factor NF kappa B stimulant	0.175	COMP301	(0.098 COMP285)
+Transcription factor STAT inhibitor	0.236	COMP301	
+Transcription factor STAT6 inhibitor	0.141	COMP301	
+Triose-phosphate isomerase inhibitor	0.221	COMP301	
+Tumour necrosis factor alpha release inhibitor	0.673	COMP301	(0.291 COMP285)
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.094	COMP301	
+UDP-glucose 4-epimerase inhibitor	0.398	COMP301	
+UDP-glucuronosyltransferase substrate	0.802	COMP301	(0.635 COMP285)
+UGT1A1 substrate	0.916	COMP301	(0.519 COMP285)
+UGT1A3 substrate	0.447	COMP301	(0.359 COMP285)
+UGT1A4 substrate	0.819	COMP285	(0.185 COMP301)
+UGT1A6 substrate	0.845	COMP301	(0.482 COMP285)
+UGT1A9 substrate	0.971	COMP301	(0.407 COMP285)
+UGT2B1 substrate	0.776	COMP285	(0.212 COMP301)
+UGT2B10 substrate	0.318	COMP285	(0.160 COMP301)
+UGT2B11 substrate	0.218	COMP285	(0.117 COMP301)
+UGT2B15 substrate	0.575	COMP301	(0.365 COMP285)
+UGT2B4 substrate	0.691	COMP285	(0.609 COMP301)
+UGT2B7 substrate	0.598	COMP285	(0.309 COMP301)
+UGT2B9 substrate	0.487	COMP285	(0.151 COMP301)
+Ulceration	0.676	COMP301	
+Uric acid excretion stimulant	0.238	COMP301	
+VCAM1 expression inhibitor	0.602	COMP301	
+VEGF expression inhibitor	0.217	COMP301	
+Vanilloid 1 agonist	0.152	COMP301	(0.126 COMP285)
+Vanilloid 1 antagonist	0.074	COMP285	
+Vanilloid 2 agonist	0.040	COMP301	
+Vanilloid agonist	0.104	COMP285	
+Vascular (periferal) disease treatment	0.747	COMP301	(0.279 COMP285)
+Vascular dementia treatment	0.351	COMP301	
+Vasodilator	0.554	COMP301	
+Vasodilator. coronary	0.888	COMP301	
+Vasodilator. peripheral	0.376	COMP301	
+Vitamin D receptor agonist	0.132	COMP285	
+Vitamin D receptor antagonist	0.182	COMP285	
+Vitamin D-like	0.020	COMP285	
+Wound healing agent	0.252	COMP301	(0.135 COMP285)
+Xanthine dehydrogenase inhibitor	0.211	COMP301	
+Xanthine oxidase inhibitor	0.961	COMP301	

@@ -1,0 +1,34 @@
+0,503  0,015  CYP1A2 inhibitor
+0,493  0,026  CYP2C9 inhibitor
+0,392  0,022  Pyruvate kinase inhibitor
+0,349  0,006  Cystathionine beta-synthase inhibitor
+0,303  0,007  Topoisomerase II alpha inhibitor
+0,302  0,011  Hexokinase inhibitor
+0,308  0,058  Aryl hydrocarbon receptor agonist
+0,259  0,020  Cyclooxygenase 1 inhibitor
+0,362  0,134  DNA polymerase beta inhibitor
+0,239  0,030  MAO inhibitor
+0,266  0,065  Superoxide dismutase inhibitor
+0,222  0,034  Succinate dehydrogenase inhibitor
+0,194  0,009  Electron transport complex I inhibitor
+0,208  0,028  MAO A inhibitor
+0,184  0,005  Ca2+-transporting ATPase inhibitor
+0,198  0,027  Topoisomerase I inhibitor
+0,214  0,056  Peroxidase inhibitor
+0,185  0,048  Cyclooxygenase inhibitor
+0,228  0,093  Tyrosine 3 hydroxylase inhibitor
+0,176  0,041  Acetylcholinesterase inhibitor
+0,177  0,044  Alkaline phosphatase inhibitor
+0,175  0,066  Phospholipase C inhibitor
+0,164  0,063  Phospholipase A2 inhibitor
+0,147  0,056  Cyclooxygenase 2 inhibitor
+0,217  0,152  CYP3A4 inhibitor
+0,110  0,058  DOPA decarboxylase inhibitor
+0,088  0,067  Alcohol dehydrogenase inhibitor
+0,081  0,065  Androgen antagonist
+0,048  0,032  Aldosterone antagonist
+0,046  0,038  Estrogen agonist
+0,084  0,077  Butyrylcholinesterase inhibitor
+0,085  0,080  UDP-glucose 4-epimerase inhibitor
+0,066  0,064  Na+ K+ transporting ATPase inhibitor
+

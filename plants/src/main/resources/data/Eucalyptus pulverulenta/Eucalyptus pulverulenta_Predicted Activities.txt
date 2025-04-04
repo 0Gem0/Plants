@@ -1,0 +1,388 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.278	COMP3152	
+15-Lipoxygenase inhibitor	0.263	COMP3152	
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.055	COMP3152	
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.042	COMP3152	
+4-Hydroxyphenylpyruvate dioxygenase inhibitor	0.015	COMP3152	
+5 Hydroxytryptamine release inhibitor	0.562	COMP3152	
+5 Hydroxytryptamine release stimulant	0.350	COMP3152	
+5 Hydroxytryptamine uptake stimulant	0.291	COMP3152	
+5-Alpha-reductase inhibitor	0.048	COMP3152	
+5-Lipoxygenase inhibitor	0.402	COMP3152	
+AR expression inhibitor	0.464	COMP3152	
+ATP citrate lysase inhibitor	0.031	COMP3152	
+ATPase (Vacuolar H+) inhibitor	0.080	COMP3152	
+Abortion inducer	0.518	COMP3152	
+Acaricide	0.159	COMP3152	
+Acetyl-CoA transferase 2 inhibitor	0.054	COMP3152	
+Acetylcholinesterase inhibitor	0.132	COMP3152	
+Adenine nucleotide translocase inhibitor	0.086	COMP3152	
+Adenylate cyclase stimulant	0.155	COMP3152	
+Alcohol dehydrogenase substrate	0.118	COMP3152	
+Aldehyde dehydrogenase substrate	0.111	COMP3152	
+Aldehyde oxidase inhibitor	0.400	COMP3152	
+Aldose reductase substrate	0.163	COMP3152	
+Alpha 1L adrenoreceptor antagonist	0.052	COMP3152	
+Alpha tubulin antagonist	0.047	COMP3152	
+Alpha-glucosidase inhibitor	0.289	COMP3152	
+Amylase inhibitor	0.275	COMP3152	
+Amyloid beta aggregation inhibitor	0.269	COMP3152	
+Anabolic	0.103	COMP3152	
+Analeptic	0.307	COMP3152	
+Androgen antagonist	0.119	COMP3152	
+Anesthetic	0.232	COMP3152	
+Anesthetic general	0.343	COMP3152	
+Anesthetic inhalation	0.053	COMP3152	
+Anesthetic local	0.186	COMP3152	
+Angiogenesis inhibitor	0.209	COMP3152	
+Angiogenesis stimulant	0.200	COMP3152	
+Antiacne	0.182	COMP3152	
+Antiallergic	0.215	COMP3152	
+Antiamyloidogenic	0.314	COMP3152	
+Antibacterial	0.519	COMP3152	
+Antibacterial (Helicobacter pylori)	0.112	COMP3152	
+Antibiotic	0.097	COMP3152	
+Antibiotic Anthracycline-like	0.018	COMP3152	
+Anticholelithogenic	0.094	COMP3152	
+Antidiabetic	0.245	COMP3152	
+Antifungal	0.466	COMP3152	
+Antifungal (Aspergillus)	0.096	COMP3152	
+Antifungal (Candida)	0.108	COMP3152	
+Antifungal (Cryptococcus)	0.166	COMP3152	
+Antifungal (Pneumocystis)	0.128	COMP3152	
+Antifungal enhancer	0.307	COMP3152	
+Antihelmintic	0.613	COMP3152	
+Antihelmintic (Nematodes)	0.272	COMP3152	
+Antihelmintic (Trematoda)	0.117	COMP3152	
+Antihemorrhagic	0.151	COMP3152	
+Antihypercholesterolemic	0.427	COMP3152	
+Antihyperlipoproteinemic	0.153	COMP3152	
+Antihypertriglyceridemic	0.319	COMP3152	
+Antihypotensive	0.531	COMP3152	
+Antihypoxic	0.195	COMP3152	
+Antiinflammatory	0.553	COMP3152	
+Antiischemic	0.309	COMP3152	
+Antiischemic. cerebral	0.137	COMP3152	
+Antileukemic	0.428	COMP3152	
+Antimutagenic	0.262	COMP3152	
+Antimycobacterial	0.184	COMP3152	
+Antineoplastic (bladder cancer)	0.183	COMP3152	
+Antineoplastic (bone cancer)	0.177	COMP3152	
+Antineoplastic (brain cancer)	0.268	COMP3152	
+Antineoplastic (breast cancer)	0.542	COMP3152	
+Antineoplastic (carcinoma)	0.239	COMP3152	
+Antineoplastic (cervical cancer)	0.363	COMP3152	
+Antineoplastic (colon cancer)	0.230	COMP3152	
+Antineoplastic (colorectal cancer)	0.239	COMP3152	
+Antineoplastic (glioblastoma multiforme)	0.191	COMP3152	
+Antineoplastic (glioma)	0.214	COMP3152	
+Antineoplastic (liver cancer)	0.201	COMP3152	
+Antineoplastic (lung cancer)	0.386	COMP3152	
+Antineoplastic (lymphocytic leukemia)	0.216	COMP3152	
+Antineoplastic (lymphoma)	0.289	COMP3152	
+Antineoplastic (melanoma)	0.275	COMP3152	
+Antineoplastic (multiple myeloma)	0.305	COMP3152	
+Antineoplastic (non-small cell lung cancer)	0.346	COMP3152	
+Antineoplastic (ovarian cancer)	0.399	COMP3152	
+Antineoplastic (pancreatic cancer)	0.539	COMP3152	
+Antineoplastic (renal cancer)	0.332	COMP3152	
+Antineoplastic (sarcoma)	0.241	COMP3152	
+Antineoplastic (small cell lung cancer)	0.247	COMP3152	
+Antineoplastic (squamous cell carcinoma)	0.322	COMP3152	
+Antineoplastic (uterine cancer)	0.120	COMP3152	
+Antineoplastic antibiotic	0.207	COMP3152	
+Antineoplastic enhancer	0.203	COMP3152	
+Antineurogenic pain	0.227	COMP3152	
+Antioxidant	0.579	COMP3152	
+Antiparasitic	0.613	COMP3152	
+Antiprotozoal	0.378	COMP3152	
+Antiprotozoal (Leishmania)	0.549	COMP3152	
+Antiprotozoal (Plasmodium)	0.312	COMP3152	
+Antiprotozoal (Toxoplasma)	0.099	COMP3152	
+Antiprotozoal (Trichomonas)	0.170	COMP3152	
+Antipruritic. allergic	0.480	COMP3152	
+Antipruritic. non-allergic	0.295	COMP3152	
+Antipyretic	0.523	COMP3152	
+Antirickettsial	0.188	COMP3152	
+Antischistosomal	0.456	COMP3152	
+Antiseptic	0.485	COMP3152	
+Antithrombotic	0.259	COMP3152	
+Antitreponemal	0.094	COMP3152	
+Antitussive	0.142	COMP3152	
+Antiulcerative	0.193	COMP3152	
+Antiviral (Coronavirus)	0.108	COMP3152	
+Antiviral (Ebola)	0.209	COMP3152	
+Antiviral (HIV)	0.209	COMP3152	
+Antiviral (Influenza A)	0.178	COMP3152	
+Antiviral (Influenza)	0.208	COMP3152	
+Antiviral (Parainfluenza)	0.063	COMP3152	
+Antiviral (SARS coronavirus)	0.108	COMP3152	
+Apoptosis agonist	0.582	COMP3152	
+Apoptosis antagonist	0.389	COMP3152	
+Arachidonic acid antagonist	0.211	COMP3152	
+Argininosuccinate synthase inhibitor	0.064	COMP3152	
+Beta glucuronidase inhibitor	0.111	COMP3152	
+Beta tubulin antagonist	0.087	COMP3152	
+Bile acid receptor antagonist	0.122	COMP3152	
+Bone diseases treatment	0.200	COMP3152	
+Bone formation stimulant	0.184	COMP3152	
+Breast cancer-resistant protein inhibitor	0.178	COMP3152	
+Bronchodilator	0.127	COMP3152	
+CDC25A inhibitor	0.072	COMP3152	
+CF transmembrane conductance regulator agonist	0.145	COMP3152	
+CNS active muscle relaxant	0.185	COMP3152	
+CTGF expression inhibitor	0.488	COMP3152	
+CYP1A2 inhibitor	0.170	COMP3152	
+CYP1A2 substrate	0.344	COMP3152	
+CYP2B6 inhibitor	0.150	COMP3152	
+CYP2C19 inhibitor	0.436	COMP3152	
+CYP2C19 substrate	0.580	COMP3152	
+CYP2C9 inhibitor	0.318	COMP3152	
+CYP2C9 substrate	0.379	COMP3152	
+CYP2D6 substrate	0.410	COMP3152	
+CYP3A4 inhibitor	0.192	COMP3152	
+CYP3A4 substrate	0.418	COMP3152	
+Ca(v)3.1 blocker	0.239	COMP3152	
+Ca2+-transporting ATPase inhibitor	0.163	COMP3152	
+Ca2+/calmodulin-dependent kinase II alpha inhibitor	0.198	COMP3152	
+Ca2+/calmodulin-dependent protein kinase kinase B inhibitor	0.132	COMP3152	
+Calcium channel activator	0.227	COMP3152	
+Calcium-dependent phospholipase A2 inhibitor	0.051	COMP3152	
+Calpain 2 inhibitor	0.344	COMP3152	
+Calpain inhibitor	0.225	COMP3152	
+Carbonic anhydrase III inhibitor	0.088	COMP3152	
+Carbonic anhydrase XV inhibitor	0.093	COMP3152	
+Carcinogenic	0.179	COMP3152	
+Carcinogenic. group 1	0.148	COMP3152	
+Cardiodepressant	0.269	COMP3152	
+Cardioprotectant	0.286	COMP3152	
+Cardiovascular analeptic	0.285	COMP3152	
+Caspase 3 inhibitor	0.106	COMP3152	
+Caspase 3 stimulant	0.412	COMP3152	
+Caspase 9 stimulant	0.395	COMP3152	
+Cell wall synthesis inhibitor	0.160	COMP3152	
+Chemopreventive	0.392	COMP3152	
+Chemoprotective	0.451	COMP3152	
+Choleretic	0.211	COMP3152	
+Cholesterol absorption inhibitor	0.040	COMP3152	
+Cholesterol antagonist	0.367	COMP3152	
+Cholesterol synthesis inhibitor	0.256	COMP3152	
+Chymotrypsin inhibitor	0.071	COMP3152	
+Coagulant	0.210	COMP3152	
+Contraceptive female	0.121	COMP3152	
+Cyclic AMP phosphodiesterase inhibitor	0.234	COMP3152	
+Cyclooxygenase 1 inhibitor	0.307	COMP3152	
+Cyclooxygenase 3 inhibitor	0.158	COMP3152	
+Cyclooxygenase inhibitor	0.201	COMP3152	
+Cyclophilin D inhibitor	0.245	COMP3152	
+Cystathionine beta-synthase inhibitor	0.212	COMP3152	
+Cytostatic	0.205	COMP3152	
+Cytotoxic	0.227	COMP3152	
+D-Ala-D-Ala ligase inhibitor	0.091	COMP3152	
+DNA polymerase I inhibitor	0.106	COMP3152	
+DNA synthesis inhibitor	0.218	COMP3152	
+DOPA decarboxylase inhibitor	0.140	COMP3152	
+Death-associated protein kinase 1 inhibitor	0.125	COMP3152	
+Dementia treatment	0.136	COMP3152	
+Dual specificity phosphatase 3 inhibitor	0.135	COMP3152	
+Dual specificity phosphatase inhibitor	0.135	COMP3152	
+Elastase inhibitor	0.048	COMP3152	
+Electron transport complex I inhibitor	0.155	COMP3152	
+Embryotoxic	0.190	COMP3152	
+Estrogen antagonist	0.128	COMP3152	
+Estrogen receptor alpha antagonist	0.093	COMP3152	
+Estrogen receptor beta antagonist	0.111	COMP3152	
+Estrogen-related receptor beta agonist	0.105	COMP3152	
+Expectorant	0.281	COMP3152	
+Eye irritation. high	0.328	COMP3152	
+FMO1 substrate	0.285	COMP3152	
+Factor III inhibitor	0.054	COMP3152	
+Falcipain 3 inhibitor	0.098	COMP3152	
+Farnesoid X receptor antagonist	0.211	COMP3152	
+Fatty acid synthase inhibitor	0.064	COMP3152	
+Free radical scavenger	0.577	COMP3152	
+Fructose-1.6-bisphosphatase 1 inhibitor	0.028	COMP3152	
+Fructose-1.6-bisphosphatase inhibitor	0.056	COMP3152	
+GABA B receptor agonist	0.084	COMP3152	
+GABA C receptor rho-3 antagonist	0.208	COMP3152	
+GST A substrate	0.334	COMP3152	
+GST M1-1 substrate	0.272	COMP3152	
+GST P1-1 substrate	0.092	COMP3152	
+Genotoxic	0.156	COMP3152	
+Glucose-6-phosphate translocase inhibitor	0.085	COMP3152	
+Glutamate (mGluR group II) agonist	0.113	COMP3152	
+Glutamate (mGluR2) agonist	0.106	COMP3152	
+Glutamate (mGluR3) agonist	0.061	COMP3152	
+Glutamate (mGluR7) antagonist	0.064	COMP3152	
+Glutamate release inhibitor	0.101	COMP3152	
+Glutathione S-transferase inhibitor	0.120	COMP3152	
+Glutathione S-transferase substrate	0.187	COMP3152	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.199	COMP3152	
+Glycine receptor agonist	0.160	COMP3152	
+Granulocyte macrophage colony stimulating factor agonist	0.110	COMP3152	
+Growth hormone agonist	0.129	COMP3152	
+Growth stimulant	0.110	COMP3152	
+HDL-cholesterol increasing	0.092	COMP3152	
+HIV-1 integrase (3'-Processing) inhibitor	0.104	COMP3152	
+HIV-1 integrase (Overall Integration) inhibitor	0.123	COMP3152	
+HIV-1 integrase (Strand Transfer) inhibitor	0.095	COMP3152	
+HIV-1 integrase inhibitor	0.114	COMP3152	
+Hair growth stimulant	0.108	COMP3152	
+Heat shock protein 70 antagonist	0.130	COMP3152	
+Heat shock protein 90 alpha antagonist	0.170	COMP3152	
+Heat shock protein 90 antagonist	0.168	COMP3152	
+Hedgehog signaling activator	0.027	COMP3152	
+Hepatic disorders treatment	0.251	COMP3152	
+Hepatoprotectant	0.255	COMP3152	
+Histamine release inhibitor	0.621	COMP3152	
+Hypercalcemia treatment	0.064	COMP3152	
+Hypoglycemic	0.325	COMP3152	
+Hypolipemic	0.171	COMP3152	
+Hypoxia-inducible factor 1 alpha inhibitor	0.261	COMP3152	
+ICAM1 expression inhibitor	0.439	COMP3152	
+Immunostimulant	0.215	COMP3152	
+Immunosuppressant	0.365	COMP3152	
+Inducible nitric-oxide synthase inhibitor	0.102	COMP3152	
+Insulin sensitizer	0.174	COMP3152	
+Interferon gamma antagonist	0.192	COMP3152	
+Interleukin 1 antagonist	0.230	COMP3152	
+Interleukin 1b antagonist	0.266	COMP3152	
+Interleukin 2 agonist	0.221	COMP3152	
+Interleukin 4 antagonist	0.117	COMP3152	
+Interleukin 5 antagonist	0.110	COMP3152	
+Interleukin 6 antagonist	0.136	COMP3152	
+Interleukin antagonist	0.257	COMP3152	
+Kainate receptor agonist	0.039	COMP3152	
+Kallikrein 7 inhibitor	0.075	COMP3152	
+Keratolytic	0.095	COMP3152	
+LDLR expression enhancer	0.158	COMP3152	
+Leukocyte elastase inhibitor	0.105	COMP3152	
+Leukotriene B4 antagonist	0.063	COMP3152	
+Leukotriene C antagonist	0.059	COMP3152	
+Leukotriene D4 antagonist	0.135	COMP3152	
+Leukotriene antagonist	0.233	COMP3152	
+Leukotriene synthesis inhibitor	0.078	COMP3152	
+Lipase inhibitor	0.188	COMP3152	
+Lipid peroxidase inhibitor	0.393	COMP3152	
+Lipoprotein disorders treatment	0.212	COMP3152	
+Lipoxygenase inhibitor	0.551	COMP3152	
+Maillard reaction inhibitor	0.075	COMP3152	
+Mediator release inhibitor	0.143	COMP3152	
+Melanin inhibitor	0.507	COMP3152	
+Microtubule formation inhibitor	0.128	COMP3152	
+Monophenol monooxygenase inhibitor	0.609	COMP3152	
+Mucolytic	0.268	COMP3152	
+Muscle relaxant	0.188	COMP3152	
+Mutagenic	0.192	COMP3152	
+Myocardial ischemia treatment	0.180	COMP3152	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.082	COMP3152	
+NADPH oxidase inhibitor	0.125	COMP3152	
+NOS2 expression inhibitor	0.708	COMP3152	
+NOS3 expression inhibitor	0.495	COMP3152	
+Neuraminidase (Influenza A) inhibitor	0.050	COMP3152	
+Neuraminidase (influenza) inhibitor	0.085	COMP3152	
+Neuraminidase inhibitor	0.084	COMP3152	
+Neurotensin receptor agonist	0.182	COMP3152	
+Neurotrophic factor	0.119	COMP3152	
+Neurotrophic factor enhancer	0.300	COMP3152	
+Nitric oxide antagonist	0.329	COMP3152	
+Nitric-oxide synthase stimulant	0.226	COMP3152	
+Non-steroidal antiinflammatory agent	0.254	COMP3152	
+Obsessive-compulsive disorder treatment	0.096	COMP3152	
+Ornithine decarboxylase inhibitor	0.100	COMP3152	
+P-glycoprotein inhibitor	0.281	COMP3152	
+Paget's disease treatment	0.080	COMP3152	
+Papain-like protease (SARS coronavirus) inhibitor	0.148	COMP3152	
+Peroxidase inhibitor	0.308	COMP3152	
+Peroxisome proliferator-activated receptor alpha agonist	0.044	COMP3152	
+Peroxisome proliferator-activated receptor gamma agonist	0.071	COMP3152	
+Peroxisome proliferator-activated receptor gamma antagonist	0.066	COMP3152	
+Phosphodiesterase 6D inhibitor	0.090	COMP3152	
+Phosphodiesterase VI inhibitor	0.071	COMP3152	
+Phospholipase A2 inhibitor	0.273	COMP3152	
+Phospholipase C inhibitor	0.218	COMP3152	
+Photosensitizer	0.148	COMP3152	
+Pneumotoxic	0.299	COMP3152	
+Postcoital contraceptive	0.054	COMP3152	
+Potassium channel (ATP-sensitive) blocker	0.071	COMP3152	
+Potassium channel (Ca-activated) activator	0.098	COMP3152	
+Potassium channel Kv1.3 blocker	0.110	COMP3152	
+Potassium channel large-conductance Ca-activated activator	0.094	COMP3152	
+Pregnane X receptor antagonist	0.061	COMP3152	
+Prolactin inhibitor	0.102	COMP3152	
+Proliferative diseases treatment	0.446	COMP3152	
+Prostaglandin-E synthase inhibitor	0.096	COMP3152	
+Prostate cancer treatment	0.530	COMP3152	
+Prostate disorders treatment	0.150	COMP3152	
+Proteasome inhibitor	0.117	COMP3152	
+Protein kinase stimulant	0.207	COMP3152	
+Protein-tyrosine phosphatase 1B inhibitor	0.184	COMP3152	
+Protein-tyrosine phosphatase inhibitor	0.202	COMP3152	
+Purinergic P2X2 antagonist	0.061	COMP3152	
+RNA-directed DNA polymerase inhibitor	0.180	COMP3152	
+Radioprotector	0.356	COMP3152	
+Radiosensitizer	0.191	COMP3152	
+Respiratory analeptic	0.377	COMP3152	
+Retinoid X alpha receptor antagonist	0.047	COMP3152	
+Retinoid X receptor antagonist	0.055	COMP3152	
+SULT1A1 substrate	0.167	COMP3152	
+SULT1A2 substrate	0.122	COMP3152	
+SULT1A3 substrate	0.192	COMP3152	
+Sensitization	0.690	COMP3152	
+Skeletal muscle relaxant	0.158	COMP3152	
+Skin irritative effect	0.276	COMP3152	
+Skin whitener	0.427	COMP3152	
+Sodium/bile acid cotransporter inhibitor	0.341	COMP3152	
+Sodium/glucose cotransporter 1 inhibitor	0.022	COMP3152	
+Spasmolytic	0.462	COMP3152	
+Sphingomyelinase inhibitor	0.093	COMP3152	
+Sphingosine 1-phosphate receptor 2 antagonist	0.149	COMP3152	
+Sphingosine 1-phosphate receptor 5 antagonist	0.154	COMP3152	
+Streptokinase A inhibitor	0.189	COMP3152	
+Stroke treatment	0.339	COMP3152	
+Succinate dehydrogenase inhibitor	0.364	COMP3152	
+Sulfotransferase substrate	0.161	COMP3152	
+Superoxide dismutase inhibitor	0.363	COMP3152	
+TNF expression inhibitor	0.621	COMP3152	
+TRPA1 agonist	0.167	COMP3152	
+Teratogen	0.212	COMP3152	
+Tocolytic	0.086	COMP3152	
+Toll-Like receptor 2 antagonist	0.162	COMP3152	
+Toll-Like receptor 4 antagonist	0.129	COMP3152	
+Toxic. respiratory center	0.168	COMP3152	
+Transcription factor AP-1 inhibitor	0.060	COMP3152	
+Transcription factor NF kappa B inhibitor	0.587	COMP3152	
+Transcription factor RelA inhibitor	0.069	COMP3152	
+Transcription factor STAT inhibitor	0.267	COMP3152	
+Transcription factor STAT3 inhibitor	0.324	COMP3152	
+Tubulin antagonist	0.146	COMP3152	
+Tumour necrosis factor antagonist	0.153	COMP3152	
+Tyrosine 3 hydroxylase inhibitor	0.341	COMP3152	
+UDP-glucuronosyltransferase substrate	0.222	COMP3152	
+UGT1A1 substrate	0.242	COMP3152	
+UGT1A3 substrate	0.197	COMP3152	
+UGT1A4 substrate	0.199	COMP3152	
+UGT1A6 substrate	0.324	COMP3152	
+UGT1A9 substrate	0.418	COMP3152	
+UGT2B1 substrate	0.196	COMP3152	
+UGT2B10 substrate	0.255	COMP3152	
+UGT2B11 substrate	0.157	COMP3152	
+UGT2B15 substrate	0.221	COMP3152	
+UGT2B4 substrate	0.425	COMP3152	
+UGT2B7 substrate	0.248	COMP3152	
+UGT2B9 substrate	0.255	COMP3152	
+Ulceration	0.334	COMP3152	
+Uric acid excretion stimulant	0.087	COMP3152	
+Uterine relaxant	0.062	COMP3152	
+Uterine stimulant	0.164	COMP3152	
+VCAM1 expression inhibitor	0.554	COMP3152	
+VEGF expression inhibitor	0.168	COMP3152	
+Vanilloid 1 agonist	0.181	COMP3152	
+Vanilloid 2 agonist	0.026	COMP3152	
+Vanilloid agonist	0.087	COMP3152	
+Vascular dementia treatment	0.130	COMP3152	
+Vasodilator	0.270	COMP3152	
+Vasodilator. coronary	0.354	COMP3152	
+Vasodilator. peripheral	0.498	COMP3152	
+Wound healing agent	0.211	COMP3152	
+Xanthine oxidase inhibitor	0.135	COMP3152	

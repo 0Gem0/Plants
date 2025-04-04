@@ -1,0 +1,153 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.207	COMP3169	
+Acetylcholine release stimulant	0.122	COMP3169	
+Actinic keratosis treatment	0.120	COMP3169	
+Anabolic	0.105	COMP3169	
+Analeptic	0.334	COMP3169	
+Anesthetic	0.228	COMP3169	
+Anesthetic general	0.249	COMP3169	
+Anesthetic inhalation	0.056	COMP3169	
+Anesthetic local	0.177	COMP3169	
+Angiogenesis stimulant	0.216	COMP3169	
+Antiacne	0.327	COMP3169	
+Antiallergic	0.292	COMP3169	
+Antiamyloidogenic	0.308	COMP3169	
+Antibacterial	0.400	COMP3169	
+Antibiotic	0.064	COMP3169	
+Anticholelithogenic	0.101	COMP3169	
+Antidiabetic	0.415	COMP3169	
+Antidiabetic (type 2)	0.268	COMP3169	
+Antidiabetic symptomatic	0.296	COMP3169	
+Antidote	0.208	COMP3169	
+Antieczematic	0.166	COMP3169	
+Antieczematic atopic	0.149	COMP3169	
+Antifungal	0.407	COMP3169	
+Antifungal (Aspergillus)	0.101	COMP3169	
+Antifungal (Candida)	0.101	COMP3169	
+Antifungal (Cryptococcus)	0.157	COMP3169	
+Antifungal (Pneumocystis)	0.133	COMP3169	
+Antifungal enhancer	0.206	COMP3169	
+Antiglaucomic	0.290	COMP3169	
+Antihelmintic	0.408	COMP3169	
+Antihelmintic (Nematodes)	0.292	COMP3169	
+Antihemorrhagic	0.134	COMP3169	
+Antihypercholesterolemic	0.505	COMP3169	
+Antihypertriglyceridemic	0.576	COMP3169	
+Antihypotensive	0.255	COMP3169	
+Antihypoxic	0.578	COMP3169	
+Antiinfertility. female	0.100	COMP3169	
+Antiinflammatory	0.590	COMP3169	
+Antiischemic	0.260	COMP3169	
+Antileukemic	0.520	COMP3169	
+Antimitotic	0.143	COMP3169	
+Antimutagenic	0.334	COMP3169	
+Antimycobacterial	0.331	COMP3169	
+Antimycoplasmal	0.082	COMP3169	
+Antineoplastic (bone cancer)	0.158	COMP3169	
+Antineoplastic (brain cancer)	0.350	COMP3169	
+Antineoplastic (breast cancer)	0.669	COMP3169	
+Antineoplastic (carcinoma)	0.240	COMP3169	
+Antineoplastic (cervical cancer)	0.511	COMP3169	
+Antineoplastic (colon cancer)	0.417	COMP3169	
+Antineoplastic (colorectal cancer)	0.431	COMP3169	
+Antineoplastic (endocrine cancer)	0.291	COMP3169	
+Antineoplastic (gastric cancer)	0.141	COMP3169	
+Antineoplastic (glioblastoma multiforme)	0.187	COMP3169	
+Antineoplastic (glioma)	0.314	COMP3169	
+Antineoplastic (liver cancer)	0.298	COMP3169	
+Antineoplastic (lung cancer)	0.647	COMP3169	
+Antineoplastic (lymphocytic leukemia)	0.217	COMP3169	
+Antineoplastic (lymphoma)	0.253	COMP3169	
+Antineoplastic (melanoma)	0.435	COMP3169	
+Antineoplastic (multiple myeloma)	0.241	COMP3169	
+Antineoplastic (non-small cell lung cancer)	0.325	COMP3169	
+Antineoplastic (osteosarcoma)	0.246	COMP3169	
+Antineoplastic (ovarian cancer)	0.374	COMP3169	
+Antineoplastic (pancreatic cancer)	0.230	COMP3169	
+Antineoplastic (renal cancer)	0.296	COMP3169	
+Antineoplastic (solid tumors)	0.302	COMP3169	
+Antineoplastic (squamous cell carcinoma)	0.300	COMP3169	
+Antineoplastic antibiotic	0.080	COMP3169	
+Antineoplastic enhancer	0.400	COMP3169	
+Antiosteoporotic	0.190	COMP3169	
+Antioxidant	0.645	COMP3169	
+Antiparasitic	0.438	COMP3169	
+Antiprotozoal	0.384	COMP3169	
+Antiprotozoal (Amoeba)	0.115	COMP3169	
+Antiprotozoal (Leishmania)	0.591	COMP3169	
+Antiprotozoal (Plasmodium)	0.227	COMP3169	
+Antiprotozoal (Trypanosoma)	0.332	COMP3169	
+Antipruritic. allergic	0.542	COMP3169	
+Antipruritic. non-allergic	0.246	COMP3169	
+Antipsoriatic	0.341	COMP3169	
+Antipyretic	0.318	COMP3169	
+Antirickettsial	0.184	COMP3169	
+Antiseptic	0.161	COMP3169	
+Antispirochetal	0.074	COMP3169	
+Antithrombotic	0.470	COMP3169	
+Antitreponemal	0.081	COMP3169	
+Antituberculosic	0.309	COMP3169	
+Antiulcerative	0.549	COMP3169	
+Antiviral (HIV)	0.183	COMP3169	
+Antiviral (Influenza A)	0.136	COMP3169	
+Antiviral (Influenza B)	0.128	COMP3169	
+Antiviral (Rhinovirus)	0.180	COMP3169	
+Apoptosis agonist	0.720	COMP3169	
+Apoptosis antagonist	0.504	COMP3169	
+Bone diseases treatment	0.229	COMP3169	
+Bone formation stimulant	0.141	COMP3169	
+Cardioprotectant	0.356	COMP3169	
+Cardiovascular analeptic	0.308	COMP3169	
+Cell adhesion inhibitor	0.107	COMP3169	
+Cell adhesion molecule inhibitor	0.070	COMP3169	
+Chemopreventive	0.560	COMP3169	
+Chemoprotective	0.655	COMP3169	
+Choleretic	0.168	COMP3169	
+Cholesterol synthesis inhibitor	0.252	COMP3169	
+Coagulant	0.154	COMP3169	
+Contraceptive female	0.134	COMP3169	
+Corneal wound healing stimulator	0.287	COMP3169	
+Cytostatic	0.212	COMP3169	
+DNA synthesis inhibitor	0.216	COMP3169	
+Dementia treatment	0.161	COMP3169	
+Expectorant	0.190	COMP3169	
+Gastric antisecretory	0.335	COMP3169	
+Gastritis treatment	0.258	COMP3169	
+Gout treatment	0.120	COMP3169	
+HDL-cholesterol increasing	0.091	COMP3169	
+Hair growth stimulant	0.147	COMP3169	
+Hepatic disorders treatment	0.276	COMP3169	
+Hepatoprotectant	0.289	COMP3169	
+Hyperparathyroidism treatment	0.063	COMP3169	
+Hypolipemic	0.442	COMP3169	
+Immunostimulant	0.253	COMP3169	
+Immunosuppressant	0.434	COMP3169	
+Insulin sensitizer	0.397	COMP3169	
+Keratolytic	0.149	COMP3169	
+Leukotriene synthesis inhibitor	0.112	COMP3169	
+Lipoprotein disorders treatment	0.521	COMP3169	
+Mucolytic	0.138	COMP3169	
+Myocardial infarction treatment	0.257	COMP3169	
+Myocardial ischemia treatment	0.147	COMP3169	
+Narcotic antagonist	0.070	COMP3169	
+Non-steroidal antiinflammatory agent	0.255	COMP3169	
+Phobic disorders treatment	0.318	COMP3169	
+Photosensitizer	0.235	COMP3169	
+Platelet antagonist	0.299	COMP3169	
+Postcoital contraceptive	0.081	COMP3169	
+Proliferative diseases treatment	0.369	COMP3169	
+Prostate cancer treatment	0.438	COMP3169	
+Radioprotector	0.480	COMP3169	
+Radiosensitizer	0.232	COMP3169	
+Respiratory analeptic	0.381	COMP3169	
+Skin whitener	0.510	COMP3169	
+Spasmolytic	0.398	COMP3169	
+Stroke treatment	0.293	COMP3169	
+Tumour necrosis factor alpha release inhibitor	0.327	COMP3169	
+Uric acid excretion stimulant	0.108	COMP3169	
+Uterine stimulant	0.251	COMP3169	
+Vascular (periferal) disease treatment	0.298	COMP3169	
+Vascular dementia treatment	0.155	COMP3169	
+Vasodilator	0.407	COMP3169	
+Vasodilator. coronary	0.440	COMP3169	
+Vasodilator. peripheral	0.571	COMP3169	

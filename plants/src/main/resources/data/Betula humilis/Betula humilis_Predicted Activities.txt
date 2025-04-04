@@ -1,0 +1,437 @@
+Name	Activation_Prob	Compound	Another_Probs
+15-Lipoxygenase inhibitor	0.492	COMP130	
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.047	COMP130	
+5 Hydroxytryptamine 1E antagonist	0.186	COMP130	
+5 Hydroxytryptamine 2 agonist	0.052	COMP130	
+5 Hydroxytryptamine 2A agonist	0.069	COMP130	
+5 Hydroxytryptamine 3E antagonist	0.188	COMP130	
+5 Hydroxytryptamine release inhibitor	0.357	COMP130	
+5 Hydroxytryptamine release stimulant	0.762	COMP130	
+5 Hydroxytryptamine uptake stimulant	0.433	COMP130	
+5-Lipoxygenase inhibitor	0.208	COMP130	
+AMP-activated protein kinase stimulant	0.119	COMP130	
+AR expression inhibitor	0.310	COMP130	
+ATPase (Vacuolar H+) inhibitor	0.082	COMP130	
+Abortion inducer	0.273	COMP130	
+Acaricide	0.258	COMP130	
+Acetylcholine M1 receptor agonist	0.042	COMP130	
+Acetylcholine M2 receptor agonist	0.076	COMP130	
+Acetylcholine M3 receptor agonist	0.177	COMP130	
+Acetylcholine M5 receptor agonist	0.105	COMP130	
+Acetylcholine muscarinic agonist	0.060	COMP130	
+Acetylcholine release stimulant	0.135	COMP130	
+Acetylcholinesterase inhibitor	0.323	COMP130	
+Actinic keratosis treatment	0.115	COMP130	
+Adenylate cyclase stimulant	0.158	COMP130	
+Adrenaline antagonist	0.110	COMP130	
+Adrenaline uptake inhibitor	0.083	COMP130	
+Aldehyde oxidase inhibitor	0.503	COMP130	
+Aldehyde oxidase substrate	0.184	COMP130	
+Aldosterone antagonist	0.044	COMP130	
+Alkylator	0.169	COMP130	
+Allergic rhinitis treatment	0.138	COMP130	
+Alpha 1 adrenoreceptor agonist	0.084	COMP130	
+Alpha 1 adrenoreceptor antagonist	0.077	COMP130	
+Alpha 1L adrenoreceptor antagonist	0.095	COMP130	
+Alpha 1a adrenoreceptor antagonist	0.070	COMP130	
+Alpha 2 adrenoreceptor antagonist	0.254	COMP130	
+Alpha 2a adrenoreceptor antagonist	0.256	COMP130	
+Alpha 2b adrenoreceptor antagonist	0.136	COMP130	
+Alpha 2c adrenoreceptor antagonist	0.274	COMP130	
+Alpha 2d adrenoreceptor antagonist	0.116	COMP130	
+Alpha adrenoreceptor agonist	0.102	COMP130	
+Alpha adrenoreceptor antagonist	0.158	COMP130	
+Alpha tubulin antagonist	0.094	COMP130	
+Alpha-N-acetylglucosaminidase inhibitor	0.112	COMP130	
+Alpha-glucosidase inhibitor	0.392	COMP130	
+Alpha-mannosidase inhibitor	0.069	COMP130	
+Alzheimer's disease treatment	0.703	COMP130	
+Amidase inhibitor	0.062	COMP130	
+Amylase inhibitor	0.322	COMP130	
+Amyloid beta aggregation inhibitor	0.193	COMP130	
+Anabolic	0.104	COMP130	
+Analeptic	0.308	COMP130	
+Analgesic	0.238	COMP130	
+Androgen agonist	0.068	COMP130	
+Androgen antagonist	0.083	COMP130	
+Anesthetic general	0.212	COMP130	
+Anesthetic inhalation	0.070	COMP130	
+Angiogenesis inhibitor	0.194	COMP130	
+Antiadrenergic	0.112	COMP130	
+Antialcoholic	0.162	COMP130	
+Antiallergic	0.433	COMP130	
+Antiamyloidogenic	0.459	COMP130	
+Antianorexic	0.173	COMP130	
+Antiarthritic	0.265	COMP130	
+Antibacterial	0.322	COMP130	
+Antibacterial (Helicobacter pylori)	0.232	COMP130	
+Anticholelithogenic	0.067	COMP130	
+Antidepressant	0.442	COMP130	
+Antidiabetic	0.500	COMP130	
+Antidiabetic (type 2)	0.292	COMP130	
+Antidiabetic symptomatic	0.496	COMP130	
+Antidiarrheal	0.380	COMP130	
+Antidote. mercury	0.091	COMP130	
+Antidote. organophosphates	0.081	COMP130	
+Antifungal (Aspergillus)	0.096	COMP130	
+Antifungal (Pneumocystis)	0.154	COMP130	
+Antifungal enhancer	0.203	COMP130	
+Antihelmintic	0.249	COMP130	
+Antihelmintic (Nematodes)	0.190	COMP130	
+Antihemorrhagic	0.180	COMP130	
+Antihypercholesterolemic	0.564	COMP130	
+Antihypertensive	0.296	COMP130	
+Antihypertriglyceridemic	0.240	COMP130	
+Antihypotensive	0.283	COMP130	
+Antihypoxic	0.248	COMP130	
+Antiinflammatory	0.753	COMP130	
+Antiischemic	0.349	COMP130	
+Antileukemic	0.677	COMP130	
+Antimitotic	0.737	COMP130	
+Antimutagenic	0.361	COMP130	
+Antimycoplasmal	0.063	COMP130	
+Antineoplastic (bone cancer)	0.268	COMP130	
+Antineoplastic (brain cancer)	0.754	COMP130	
+Antineoplastic (breast cancer)	0.767	COMP130	
+Antineoplastic (carcinoma)	0.281	COMP130	
+Antineoplastic (cervical cancer)	0.497	COMP130	
+Antineoplastic (colon cancer)	0.717	COMP130	
+Antineoplastic (colorectal cancer)	0.719	COMP130	
+Antineoplastic (gastric cancer)	0.174	COMP130	
+Antineoplastic (glioblastoma multiforme)	0.518	COMP130	
+Antineoplastic (glioma)	0.748	COMP130	
+Antineoplastic (liver cancer)	0.279	COMP130	
+Antineoplastic (lung cancer)	0.753	COMP130	
+Antineoplastic (lymphocytic leukemia)	0.270	COMP130	
+Antineoplastic (lymphoma)	0.313	COMP130	
+Antineoplastic (melanoma)	0.434	COMP130	
+Antineoplastic (multiple myeloma)	0.245	COMP130	
+Antineoplastic (non-small cell lung cancer)	0.414	COMP130	
+Antineoplastic (osteosarcoma)	0.236	COMP130	
+Antineoplastic (ovarian cancer)	0.538	COMP130	
+Antineoplastic (pancreatic cancer)	0.461	COMP130	
+Antineoplastic (renal cancer)	0.372	COMP130	
+Antineoplastic (sarcoma)	0.347	COMP130	
+Antineoplastic (small cell lung cancer)	0.343	COMP130	
+Antineoplastic (solid tumors)	0.402	COMP130	
+Antineoplastic (squamous cell carcinoma)	0.356	COMP130	
+Antineoplastic (uterine cancer)	0.175	COMP130	
+Antineoplastic antibiotic	0.108	COMP130	
+Antineurogenic pain	0.252	COMP130	
+Antiobesity	0.281	COMP130	
+Antiosteoporotic	0.291	COMP130	
+Antioxidant	0.644	COMP130	
+Antiparasitic	0.263	COMP130	
+Antiparkinsonian	0.589	COMP130	
+Antiparkinsonian. tremor relieving	0.189	COMP130	
+Antiprotozoal	0.332	COMP130	
+Antiprotozoal (Leishmania)	0.506	COMP130	
+Antiprotozoal (Plasmodium)	0.218	COMP130	
+Antiprotozoal (Trypanosoma)	0.232	COMP130	
+Antiprotozoal activity enhancer	0.101	COMP130	
+Antipruritic	0.141	COMP130	
+Antipruritic. allergic	0.488	COMP130	
+Antipruritic. non-allergic	0.301	COMP130	
+Antipyretic	0.467	COMP130	
+Antirickettsial	0.192	COMP130	
+Antismoking	0.117	COMP130	
+Antithrombotic	0.195	COMP130	
+Antitussive	0.197	COMP130	
+Antiviral (Ebola)	0.173	COMP130	
+Antiviral (Hepatitis A)	0.095	COMP130	
+Antiviral (Hepatitis B)	0.120	COMP130	
+Antiviral (Hepatitis)	0.184	COMP130	
+Antiviral (Influenza B)	0.112	COMP130	
+Anxiolytic	0.206	COMP130	
+Apoptosis agonist	0.748	COMP130	
+Apoptosis antagonist	0.460	COMP130	
+Arachidonic acid antagonist	0.209	COMP130	
+Aromatase inhibitor	0.084	COMP130	
+Benzodiazepine agonist	0.083	COMP130	
+Beta amyloid protein antagonist	0.314	COMP130	
+Beta glucuronidase inhibitor	0.237	COMP130	
+Beta tubulin antagonist	0.122	COMP130	
+Bile acid receptor antagonist	0.096	COMP130	
+Bipolar disorder treatment	0.322	COMP130	
+Bone diseases treatment	0.277	COMP130	
+Breast cancer-resistant protein inhibitor	0.097	COMP130	
+Bronchodilator	0.142	COMP130	
+CF transmembrane conductance regulator agonist	0.135	COMP130	
+CNS active muscle relaxant	0.209	COMP130	
+CTGF expression inhibitor	0.324	COMP130	
+CYP1A2 inhibitor	0.274	COMP130	
+CYP1A2 substrate	0.292	COMP130	
+CYP2B6 inhibitor	0.187	COMP130	
+CYP2C19 inhibitor	0.525	COMP130	
+CYP2C19 substrate	0.288	COMP130	
+CYP2C9 inhibitor	0.383	COMP130	
+CYP2C9 substrate	0.298	COMP130	
+CYP2D6 substrate	0.235	COMP130	
+CYP3A4 inhibitor	0.361	COMP130	
+CYP3A4 substrate	0.347	COMP130	
+Ca(v)3.1 blocker	0.090	COMP130	
+Ca2+-transporting ATPase inhibitor	0.160	COMP130	
+Ca2+/calmodulin-dependent protein kinase kinase A inhibitor	0.289	COMP130	
+Calcium antagonist	0.158	COMP130	
+Calcium channel P-type blocker	0.080	COMP130	
+Calcium channel activator	0.397	COMP130	
+Carbonic anhydrase III inhibitor	0.109	COMP130	
+Carbonic anhydrase VI inhibitor	0.078	COMP130	
+Carbonic anhydrase XIII inhibitor	0.074	COMP130	
+Carbonic anhydrase XV inhibitor	0.125	COMP130	
+Carcinogenic	0.155	COMP130	
+Carcinogenic. group 1	0.355	COMP130	
+Carcinogenic. group 2A	0.419	COMP130	
+Carcinogenic. group 2B	0.166	COMP130	
+Cardiodepressant	0.187	COMP130	
+Cardioprotectant	0.693	COMP130	
+Cardiovascular analeptic	0.699	COMP130	
+Caspase 3 stimulant	0.851	COMP130	
+Caspase 9 stimulant	0.690	COMP130	
+Cathepsin L2 inhibitor	0.045	COMP130	
+Chemopreventive	0.512	COMP130	
+Chemoprotective	0.250	COMP130	
+Cholesterol antagonist	0.284	COMP130	
+Cholesterol ester transfer protein antagonist	0.029	COMP130	
+Cholesterol synthesis inhibitor	0.167	COMP130	
+Cholinergic	0.354	COMP130	
+Coagulant	0.132	COMP130	
+Constipation treatment	0.130	COMP130	
+Contraceptive	0.121	COMP130	
+Contraceptive female	0.140	COMP130	
+Creatine kinase inhibitor	0.124	COMP130	
+Cyclic AMP phosphodiesterase inhibitor	0.552	COMP130	
+Cyclooxygenase 3 inhibitor	0.192	COMP130	
+Cyclophilin D inhibitor	0.500	COMP130	
+Cystathionine beta-synthase inhibitor	0.296	COMP130	
+Cytostatic	0.390	COMP130	
+Cytotoxic	0.433	COMP130	
+DNA damaging	0.327	COMP130	
+DNA methyltransferase I inhibitor	0.143	COMP130	
+Dementia treatment	0.086	COMP130	
+Diabetic nephropathy treatment	0.606	COMP130	
+Dopamine D1 agonist	0.021	COMP130	
+Dopamine D1 antagonist	0.109	COMP130	
+Dopamine D3 agonist	0.093	COMP130	
+Dopamine D3 antagonist	0.077	COMP130	
+Dopamine D5 agonist	0.043	COMP130	
+Dopamine D5 antagonist	0.049	COMP130	
+Dopamine agonist	0.064	COMP130	
+Dopamine antagonist	0.065	COMP130	
+Dopamine uptake inhibitor	0.053	COMP130	
+Electron transport complex I inhibitor	0.149	COMP130	
+Embryotoxic	0.173	COMP130	
+EphA2 antagonist	0.160	COMP130	
+ErbB-1 antagonist	0.269	COMP130	
+Estrogen agonist	0.481	COMP130	
+Estrogen antagonist	0.227	COMP130	
+Estrogen receptor alpha agonist	0.179	COMP130	
+Estrogen receptor alpha antagonist	0.103	COMP130	
+Estrogen receptor beta agonist	0.345	COMP130	
+Estrogen receptor beta antagonist	0.222	COMP130	
+Estrogen-related receptor beta agonist	0.092	COMP130	
+Excitatory amino acid transporter EAAC1 inhibitor	0.091	COMP130	
+Expectorant	0.172	COMP130	
+Exportin-1 inhibitor	0.076	COMP130	
+Eye irritation. high	0.140	COMP130	
+FMO1 substrate	0.314	COMP130	
+Free radical scavenger	0.500	COMP130	
+GABA C receptor antagonist	0.112	COMP130	
+GABA C receptor rho-2 antagonist	0.158	COMP130	
+GST A substrate	0.382	COMP130	
+GST M1-1 substrate	0.438	COMP130	
+GST P1-1 substrate	0.211	COMP130	
+GST T1-1 substrate	0.162	COMP130	
+Gastritis treatment	0.152	COMP130	
+Genotoxic	0.406	COMP130	
+Glucocorticoid antagonist	0.063	COMP130	
+Glucose-6-phosphate isomerase inhibitor	0.045	COMP130	
+Glucose-6-phosphate translocase inhibitor	0.057	COMP130	
+Glutamate (mGluR6) antagonist	0.079	COMP130	
+Glutamate (mGluR7) agonist	0.106	COMP130	
+Glutamate (mGluR7) antagonist	0.113	COMP130	
+Glutamate (mGluR8) agonist	0.038	COMP130	
+Glutamate release inhibitor	0.104	COMP130	
+Glutathione S-transferase substrate	0.318	COMP130	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.193	COMP130	
+Glycine receptor agonist	0.125	COMP130	
+Glycine receptor antagonist	0.109	COMP130	
+Granulocyte macrophage colony stimulating factor agonist	0.122	COMP130	
+Guanylate cyclase inhibitor	0.065	COMP130	
+HCV NS3/NS4A protease inhibitor	0.049	COMP130	
+HDL-cholesterol increasing	0.131	COMP130	
+HIV-1 integrase (Overall Integration) inhibitor	0.102	COMP130	
+Heat shock protein 70 antagonist	0.134	COMP130	
+Hedgehog signaling activator	0.027	COMP130	
+Hepatic disorders treatment	0.459	COMP130	
+Hepatoprotectant	0.387	COMP130	
+Histamine release inhibitor	0.425	COMP130	
+Histidine decarboxylase inhibitor	0.079	COMP130	
+Histone deacetylase SIRT1 stimulant	0.460	COMP130	
+Histone deacetylase stimulant	0.460	COMP130	
+Hypoglycemic	0.297	COMP130	
+Hypogonadism treatment	0.053	COMP130	
+Hypolipemic	0.216	COMP130	
+Hypoxia-inducible factor 1 alpha inhibitor	0.246	COMP130	
+ICAM1 expression inhibitor	0.642	COMP130	
+Imidazoline I1 receptor antagonist	0.022	COMP130	
+Imidazoline I2 receptor antagonist	0.011	COMP130	
+Immunosuppressant	0.306	COMP130	
+Insulin sensitizer	0.182	COMP130	
+Interferon gamma antagonist	0.195	COMP130	
+Kainate receptor agonist	0.042	COMP130	
+Keratolytic	0.103	COMP130	
+Kinesin antagonist	0.132	COMP130	
+Kinesin-like protein 1 inhibitor	0.132	COMP130	
+LDLR expression enhancer	0.251	COMP130	
+Leukotriene synthesis inhibitor	0.064	COMP130	
+Lipid peroxidase inhibitor	0.130	COMP130	
+Lipocortins synthesis agonist	0.057	COMP130	
+Lipocortins synthesis antagonist	0.168	COMP130	
+Lipoprotein disorders treatment	0.236	COMP130	
+Lipoxygenase inhibitor	0.344	COMP130	
+MAP kinase 1 inhibitor	0.255	COMP130	
+MAP kinase 3 inhibitor	0.152	COMP130	
+MAP kinase kinase 4 inhibitor	0.130	COMP130	
+MAP3K9 inhibitor	0.130	COMP130	
+MDM2 inhibitor	0.066	COMP130	
+Macrophage migration inhibitory factor inhibitor	0.128	COMP130	
+Mannose-6-phosphate isomerase inhibitor	0.126	COMP130	
+Mannosidase inhibitor	0.054	COMP130	
+Mcl-1 antagonist	0.135	COMP130	
+Melanin inhibitor	0.346	COMP130	
+Melatonin 1 agonist	0.164	COMP130	
+Melatonin agonist	0.161	COMP130	
+Melatonin receptor 1A agonist	0.033	COMP130	
+Microtubule formation inhibitor	0.244	COMP130	
+Microtubule stabilization	0.060	COMP130	
+Monophenol monooxygenase inhibitor	0.177	COMP130	
+Mood disorders treatment	0.460	COMP130	
+Mucolytic	0.176	COMP130	
+Multidrug resistance-associated protein 1 inhibitor	0.097	COMP130	
+Muscle relaxant	0.191	COMP130	
+Mutagenic	0.291	COMP130	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.081	COMP130	
+NADH dehydrogenase inhibitor	0.105	COMP130	
+NMDA receptor phencyclidine site antagonist	0.027	COMP130	
+NOS2 expression inhibitor	0.706	COMP130	
+NOS3 expression enhancer	0.290	COMP130	
+NOS3 expression inhibitor	0.323	COMP130	
+Na+ K+ transporting ATPase inhibitor	0.100	COMP130	
+Narcotic antagonist	0.086	COMP130	
+Neuraminidase inhibitor	0.054	COMP130	
+Neuropathy treatment	0.150	COMP130	
+Neurotrophic factor enhancer	0.299	COMP130	
+Nicotinic alpha4beta2 receptor antagonist	0.069	COMP130	
+Nitric oxide antagonist	0.613	COMP130	
+Nitric oxide donor	0.057	COMP130	
+Nitric-oxide synthase stimulant	0.469	COMP130	
+Non-steroidal antiinflammatory agent	0.160	COMP130	
+Nootropic	0.201	COMP130	
+Nucleoside transporters inhibitor	0.043	COMP130	
+Obsessive-compulsive disorder treatment	0.124	COMP130	
+Ornithine decarboxylase inhibitor	0.102	COMP130	
+P-glycoprotein inhibitor	0.317	COMP130	
+Paget's disease treatment	0.125	COMP130	
+Papain-like protease (SARS coronavirus) inhibitor	0.121	COMP130	
+Peroxidase inhibitor	0.150	COMP130	
+Phobic disorders treatment	0.190	COMP130	
+Phosphodiesterase IV inhibitor	0.121	COMP130	
+Phosphodiesterase inhibitor	0.205	COMP130	
+Phospholipase A2 inhibitor	0.127	COMP130	
+Photosensitizer	0.109	COMP130	
+Platelet activating factor antagonist	0.173	COMP130	
+Platelet adhesion inhibitor	0.131	COMP130	
+Platelet aggregation inhibitor	0.273	COMP130	
+Pneumotoxic	0.514	COMP130	
+Postcoital contraceptive	0.088	COMP130	
+Postmenopausal disorders treatment	0.141	COMP130	
+Potassium channel (Inward rectifier) 1 blocker	0.029	COMP130	
+Potassium channel (Inward rectifier) blocker	0.045	COMP130	
+Potassium channel Kv1.3 blocker	0.063	COMP130	
+Potassium channel intermediate-conductance Ca-activated blocker	0.058	COMP130	
+Pregnane X receptor agonist	0.147	COMP130	
+Pregnane X receptor antagonist	0.053	COMP130	
+Progesterone antagonist	0.069	COMP130	
+Prolactin inhibitor	0.125	COMP130	
+Proliferative diseases treatment	0.372	COMP130	
+Prostaglandin F2 alpha agonist	0.022	COMP130	
+Prostate cancer treatment	0.610	COMP130	
+Prostate disorders treatment	0.158	COMP130	
+Prostatic (benign) hyperplasia treatment	0.256	COMP130	
+Protein kinase stimulant	0.174	COMP130	
+Protein-tyrosine phosphatase 1B inhibitor	0.105	COMP130	
+Psychostimulant	0.323	COMP130	
+RNA-directed DNA polymerase inhibitor	0.196	COMP130	
+Radioprotector	0.177	COMP130	
+Radiosensitizer	0.250	COMP130	
+Respiratory analeptic	0.312	COMP130	
+Restless leg syndrome treatment	0.082	COMP130	
+Ryanodine receptor antagonist	0.065	COMP130	
+SULT1A1 substrate	0.122	COMP130	
+SULT1A3 substrate	0.179	COMP130	
+SULT2A1 substrate	0.077	COMP130	
+Secretase beta inhibitor	0.101	COMP130	
+Sedative	0.250	COMP130	
+Sensitization	0.371	COMP130	
+Sigma receptor agonist	0.162	COMP130	
+Skeletal muscle relaxant	0.194	COMP130	
+Skin irritative effect	0.126	COMP130	
+Skin whitener	0.254	COMP130	
+Sodium/bile acid cotransporter inhibitor	0.222	COMP130	
+Sodium/glucose cotransporter 1 inhibitor	0.033	COMP130	
+Sodium/glucose cotransporter 2 inhibitor	0.058	COMP130	
+Sodium/glucose cotransporter inhibitor	0.044	COMP130	
+Spasmolytic	0.235	COMP130	
+Sphingomyelinase inhibitor	0.101	COMP130	
+Squalene epoxidase inhibitor	0.048	COMP130	
+Stroke treatment	0.275	COMP130	
+Succinate dehydrogenase inhibitor	0.240	COMP130	
+Sulfotransferase substrate	0.117	COMP130	
+Superoxide dismutase inhibitor	0.254	COMP130	
+TNF expression inhibitor	0.515	COMP130	
+Teratogen	0.173	COMP130	
+Thioredoxin reductase inhibitor	0.102	COMP130	
+Toll-Like receptor 2 antagonist	0.138	COMP130	
+Toll-Like receptor 3 antagonist	0.114	COMP130	
+Topoisomerase I inhibitor	0.251	COMP130	
+Topoisomerase II alpha inhibitor	0.152	COMP130	
+Topoisomerase II beta inhibitor	0.083	COMP130	
+Topoisomerase II inhibitor	0.309	COMP130	
+Tourette's syndrome treatment	0.087	COMP130	
+Toxic. respiratory center	0.177	COMP130	
+Transcription factor NF kappa B inhibitor	0.593	COMP130	
+Transcription factor RelA inhibitor	0.089	COMP130	
+Tubulin agonist	0.041	COMP130	
+Tubulin antagonist	0.414	COMP130	
+Tumour necrosis factor alpha release inhibitor	0.247	COMP130	
+Tumour necrosis factor antagonist	0.206	COMP130	
+Tyrosine 3 hydroxylase inhibitor	0.235	COMP130	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.095	COMP130	
+UDP-glucose 4-epimerase inhibitor	0.092	COMP130	
+UDP-glucuronosyltransferase substrate	0.181	COMP130	
+UGT1A1 substrate	0.322	COMP130	
+UGT1A3 substrate	0.258	COMP130	
+UGT1A4 substrate	0.212	COMP130	
+UGT1A6 substrate	0.430	COMP130	
+UGT1A9 substrate	0.394	COMP130	
+UGT2B1 substrate	0.172	COMP130	
+UGT2B10 substrate	0.264	COMP130	
+UGT2B11 substrate	0.150	COMP130	
+UGT2B15 substrate	0.355	COMP130	
+UGT2B4 substrate	0.416	COMP130	
+UGT2B7 substrate	0.290	COMP130	
+UGT2B9 substrate	0.224	COMP130	
+Ulceration	0.399	COMP130	
+Urease inhibitor	0.096	COMP130	
+Uterine stimulant	0.150	COMP130	
+VCAM1 expression inhibitor	0.576	COMP130	
+VEGF expression inhibitor	0.229	COMP130	
+Vanilloid 1 agonist	0.140	COMP130	
+Vanilloid 3 antagonist	0.045	COMP130	
+Vascular (periferal) disease treatment	0.279	COMP130	
+Vascular dementia treatment	0.083	COMP130	
+Vasodilator	0.534	COMP130	
+Vasodilator. coronary	0.394	COMP130	
+Vasodilator. peripheral	0.452	COMP130	
+mTOR complex 2 inhibitor	0.091	COMP130	

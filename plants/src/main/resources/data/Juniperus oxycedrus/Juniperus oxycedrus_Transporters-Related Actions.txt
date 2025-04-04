@@ -1,0 +1,18 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake inhibitor	0.178	COMP1963/COMP1964	
+5 Hydroxytryptamine uptake stimulant	0.566	COMP69	(0.478 COMP1247) (0.354 COMP131) (0.297 COMP302) (0.289 COMP1072/COMP300) (0.280 COMP155) (0.261 COMP153) (0.255 COMP303) (0.229 COMP1966) (0.201 COMP1965)
+Adenosine uptake inhibitor	0.050	COMP300	(0.046 COMP1247) (0.034 COMP69)
+Adrenaline uptake inhibitor	0.104	COMP1963/COMP1964	(0.060 COMP1965)
+Antiviral (CMV)	0.130	COMP1247	(0.128 COMP69)
+Dopamine transporter inhibitor	0.151	COMP1963/COMP1964	(0.052 COMP1072/COMP1965)
+Dopamine uptake inhibitor	0.229	COMP1963/COMP1964	
+Electron transport complex I inhibitor	0.260	COMP302	(0.139 COMP1247) (0.108 COMP69)
+Endocannabinoid uptake inhibitor	0.078	COMP302	
+Excitatory amino acid transporter EAAC1 inhibitor	0.129	COMP131	(0.112 COMP155) (0.110 COMP302) (0.096 COMP1072)
+GABA uptake inhibitor	0.062	COMP131	(0.057 COMP303) (0.054 COMP155) (0.044 COMP153) (0.035 COMP300)
+P-glycoprotein inhibitor	0.443	COMP1072	(0.335 COMP303) (0.315 COMP300) (0.263 COMP1965) (0.230 COMP155) (0.226 COMP1963/COMP1964) (0.211 COMP1966) (0.189 COMP153)
+Sodium/bile acid cotransporter inhibitor	0.440	COMP1965	(0.416 COMP1966) (0.408 COMP303) (0.381 COMP1072) (0.363 COMP300) (0.331 COMP69) (0.277 COMP1963/COMP1964)
+Sodium/glucose cotransporter 1 inhibitor	0.027	COMP1072	
+Sodium/hydrogen exchanger 5 inhibitor	0.102	COMP1965	(0.088 COMP131)
+Vesicle monoamine transporter inhibitor	0.120	COMP1963/COMP1964	
+Vesicular acetylcholine transporter inhibitor	0.023	COMP1963/COMP1964	

@@ -1,0 +1,10 @@
+20R-Hydroxypregna-4,6-Diene-3,12-Dione
+(8R,9S,10R,13S,14S,17S)-17-[(1R)-1-hydroxyethyl]-10,13-dimethyl-2,8,9,11,14,15,16,17-octahydro-1H-cyclopenta[a]phenanthrene-3,12-dione
+CHEMBL376854
+16104854
+None
+C21H28O3
+328.2
+InChI=1S/C21H28O3/c1-12(22)16-6-7-17-15-5-4-13-10-14(23)8-9-20(13,2)18(15)11-19(24)21(16,17)3/h4-5,10,12,15-18,22H,6-9,11H2,1-3H3/t12-,15+,16-,17+,18+,20+,21-/m1/s1
+AXIMAQIOARWDAI-LYJJHTRHSA-N
+O=C1CC[C@]2(C(=C1)C=C[C@@H]1[C@@H]2CC(=O)[C@]2([C@H]1CC[C@@H]2[C@H](O)C)C)C

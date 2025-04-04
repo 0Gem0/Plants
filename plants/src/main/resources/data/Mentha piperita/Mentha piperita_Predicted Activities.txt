@@ -1,0 +1,665 @@
+Name	Activation_Prob	Compound	Another_Probs
+1.3-Beta-glucan synthase inhibitor	0.029	COMP1072	
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.060	COMP1072	
+12-Lipoxygenase inhibitor	0.786	COMP1975	
+15-Lipoxygenase inhibitor	0.672	COMP1975	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.181	COMP1975	
+3C-Like protease (SARS coronavirus) inhibitor	0.088	COMP1072	
+3C-like protease (Human coronavirus) inhibitor	0.151	COMP1976	(0.146 COMP1975)
+5 Hydroxytryptamine 1E antagonist	0.213	COMP1975	
+5 Hydroxytryptamine release inhibitor	0.616	COMP1975	(0.525 COMP1976) (0.317 COMP1072)
+5 Hydroxytryptamine release stimulant	0.459	COMP1975	(0.308 COMP1072)
+5 Hydroxytryptamine uptake stimulant	0.425	COMP1975	(0.379 COMP1976) (0.289 COMP1072)
+5-Alpha-reductase 2 inhibitor	0.018	COMP1072	
+5-Alpha-reductase inhibitor	0.114	COMP1072	
+5-Lipoxygenase inhibitor	0.340	COMP1975	(0.101 COMP1976)
+ABCA1 expression enhancer	0.121	COMP1976	(0.102 COMP1072)
+AMP-activated protein kinase stimulant	0.185	COMP1975	
+AR expression inhibitor	0.865	COMP1975	(0.440 COMP1072) (0.345 COMP1976)
+ATP citrate lysase inhibitor	0.106	COMP1072	(0.038 COMP1975)
+ATPase (Vacuolar H+) inhibitor	0.178	COMP1072	(0.104 COMP1976)
+ATPase inhibitor	0.370	COMP1072	(0.165 COMP1976) (0.138 COMP1975)
+Abortion inducer	0.448	COMP1072	(0.208 COMP1975)
+Acaricide	0.355	COMP1072	(0.132 COMP1975)
+Acetyl-CoA transferase 1 inhibitor	0.048	COMP1072	
+Acetyl-CoA transferase 2 inhibitor	0.138	COMP1976	(0.096 COMP1072)
+Acetyl-CoA transferase inhibitor	0.100	COMP1072	(0.055 COMP1976)
+Acetylcholine M1 receptor antagonist	0.129	COMP1072	
+Acetylcholine antagonist	0.120	COMP1072	
+Acetylcholine muscarinic antagonist	0.108	COMP1072	
+Acetylcholine nicotinic antagonist	0.113	COMP1072	
+Acetylcholinesterase inhibitor	0.452	COMP1975	(0.262 COMP1976)
+Aconitate hydratase inhibitor	0.056	COMP1072	
+Actinic keratosis treatment	0.202	COMP1072	
+Acyl-CoA dehydrogenase inhibitor	0.049	COMP1072	
+Adenosine A3 receptor antagonist	0.078	COMP1975	
+Adenylate cyclase 1 inhibitor	0.069	COMP1072	
+Adenylate cyclase inhibitor	0.116	COMP1072	
+Adenylate cyclase stimulant	0.192	COMP1072	(0.155 COMP1975)
+Adenylate kinase inhibitor	0.100	COMP1072	
+Alcohol dehydrogenase inhibitor	0.122	COMP1975	
+Alcohol oxidase inhibitor	0.085	COMP1975	(0.062 COMP1072)
+Aldehyde dehydrogenase inhibitor	0.257	COMP1975	
+Aldehyde oxidase inhibitor	0.819	COMP1975	(0.167 COMP1976)
+Aldose reductase inhibitor	0.409	COMP1975	(0.046 COMP1976)
+Alkaline phosphatase inhibitor	0.319	COMP1975	
+Alkylator	0.205	COMP1975	(0.134 COMP1072)
+Alpha 2c adrenoreceptor antagonist	0.087	COMP1975	
+Alpha tubulin antagonist	0.282	COMP1975	
+Alpha-N-acetylglucosaminidase inhibitor	0.256	COMP1072	(0.104 COMP1975)
+Alpha-glucosidase inhibitor	0.692	COMP1975	(0.285 COMP1976)
+Alzheimer's disease treatment	0.290	COMP1975	
+Amylase inhibitor	0.549	COMP1975	(0.206 COMP1976) (0.183 COMP1072)
+Amyloid beta aggregation inhibitor	0.683	COMP1975	(0.197 COMP1976)
+Amyloid beta precursor protein antagonist	0.290	COMP1975	
+Anabolic	0.169	COMP1072	(0.105 COMP1975)
+Analeptic	0.640	COMP1072	(0.300 COMP1976) (0.264 COMP1975)
+Analgesic	0.419	COMP1072	
+Analgesic. opioid	0.116	COMP1072	
+Androgen agonist	0.111	COMP1072	
+Androgen antagonist	0.159	COMP1976	(0.113 COMP1975) (0.101 COMP1072)
+Anesthetic	0.643	COMP1072	
+Anesthetic general	0.576	COMP1072	(0.226 COMP1975)
+Anesthetic inhalation	0.078	COMP1072	
+Anesthetic local	0.442	COMP1072	
+Angiogenesis inhibitor	0.210	COMP1976	
+Angiogenesis stimulant	0.297	COMP1975	(0.187 COMP1072)
+Antiacne	0.228	COMP1072	
+Antialcoholic	0.162	COMP1975	(0.157 COMP1072)
+Antiallergic	0.275	COMP1975	
+Antiamyloidogenic	0.505	COMP1975	
+Antiarrhythmic	0.156	COMP1976	
+Antibacterial	0.552	COMP1072	(0.422 COMP1975) (0.387 COMP1976)
+Antibacterial (Helicobacter pylori)	0.181	COMP1975	
+Antibiotic	0.184	COMP1072	(0.069 COMP1976)
+Antibiotic Anthracycline-like	0.018	COMP1072/COMP1975	
+Antibiotic Macrolide-like	0.016	COMP1072	
+Antibiotic Penem-like	0.006	COMP1072	
+Anticataract	0.118	COMP1975	(0.083 COMP1072)
+Anticholelithogenic	0.138	COMP1072	(0.069 COMP1975)
+Anticoagulant	0.149	COMP1072	
+Antidiabetic	0.518	COMP1976	(0.312 COMP1072) (0.256 COMP1975)
+Antidiabetic (type 2)	0.198	COMP1072	
+Antidiabetic symptomatic	0.298	COMP1975	
+Antidiarrheal	0.169	COMP1975	
+Antidote	0.222	COMP1975	(0.155 COMP1072)
+Antidote. heavy metal	0.078	COMP1975	
+Antidote. mercury	0.091	COMP1975	
+Antidote. organophosphates	0.093	COMP1072	
+Antieczematic	0.133	COMP1072	
+Antiepileptic	0.218	COMP1072	
+Antifungal	0.529	COMP1072	(0.347 COMP1976) (0.322 COMP1975)
+Antifungal (Aspergillus)	0.105	COMP1975	
+Antifungal (Cryptococcus)	0.148	COMP1072	
+Antifungal (Pneumocystis)	0.169	COMP1975	(0.139 COMP1976)
+Antifungal enhancer	0.359	COMP1072	(0.258 COMP1976) (0.179 COMP1975)
+Antiglaucomic	0.301	COMP1072	
+Antihelmintic	0.522	COMP1072	(0.509 COMP1976) (0.307 COMP1975)
+Antihelmintic (Fasciola)	0.104	COMP1975	
+Antihelmintic (Nematodes)	0.305	COMP1072	(0.140 COMP1976) (0.136 COMP1975)
+Antihelmintic (Trematoda)	0.384	COMP1975	
+Antihemorrhagic	0.454	COMP1975	(0.131 COMP1072)
+Antihypercholesterolemic	0.607	COMP1072	(0.506 COMP1975) (0.425 COMP1976)
+Antihyperlipoproteinemic	0.336	COMP1072	(0.158 COMP1975)
+Antihypertensive	0.274	COMP1072	
+Antihypertriglyceridemic	0.518	COMP1975	(0.408 COMP1976) (0.196 COMP1072)
+Antihypotensive	0.356	COMP1975	(0.251 COMP1976) (0.217 COMP1072)
+Antihypoxic	0.510	COMP1975	(0.264 COMP1072)
+Antiinflammatory	0.809	COMP1072	(0.613 COMP1975) (0.573 COMP1976)
+Antiischemic	0.207	COMP1975	
+Antileprosy	0.109	COMP1072	
+Antileukemic	0.768	COMP1975	(0.565 COMP1976) (0.376 COMP1072)
+Antimitotic	0.508	COMP1975	(0.323 COMP1072)
+Antimutagenic	0.920	COMP1975	(0.339 COMP1976) (0.110 COMP1072)
+Antimycobacterial	0.264	COMP1072	(0.252 COMP1976) (0.215 COMP1975)
+Antimycoplasmal	0.129	COMP1072	(0.057 COMP1976)
+Antineoplastic (bladder cancer)	0.328	COMP1975	
+Antineoplastic (bone cancer)	0.212	COMP1975	
+Antineoplastic (brain cancer)	0.526	COMP1975	(0.286 COMP1072)
+Antineoplastic (breast cancer)	0.822	COMP1975	(0.598 COMP1072) (0.497 COMP1976)
+Antineoplastic (carcinoma)	0.479	COMP1975	(0.253 COMP1976)
+Antineoplastic (cervical cancer)	0.711	COMP1975	(0.510 COMP1072) (0.301 COMP1976)
+Antineoplastic (colon cancer)	0.653	COMP1975	(0.527 COMP1976) (0.453 COMP1072)
+Antineoplastic (colorectal cancer)	0.665	COMP1975	(0.531 COMP1976) (0.491 COMP1072)
+Antineoplastic (endocrine cancer)	0.478	COMP1072	
+Antineoplastic (gastric cancer)	0.416	COMP1975	(0.199 COMP1072) (0.196 COMP1976)
+Antineoplastic (glioblastoma multiforme)	0.493	COMP1975	(0.256 COMP1976) (0.157 COMP1072)
+Antineoplastic (glioma)	0.535	COMP1975	(0.295 COMP1976) (0.223 COMP1072)
+Antineoplastic (liver cancer)	0.450	COMP1072	(0.434 COMP1975)
+Antineoplastic (lung cancer)	0.763	COMP1975	(0.685 COMP1976) (0.387 COMP1072)
+Antineoplastic (lymphocytic leukemia)	0.281	COMP1975	
+Antineoplastic (lymphoma)	0.325	COMP1072	(0.318 COMP1975)
+Antineoplastic (melanoma)	0.595	COMP1975	(0.259 COMP1072) (0.181 COMP1976)
+Antineoplastic (multiple myeloma)	0.346	COMP1975	(0.287 COMP1072)
+Antineoplastic (non-small cell lung cancer)	0.597	COMP1975	
+Antineoplastic (osteosarcoma)	0.501	COMP1975	(0.339 COMP1072)
+Antineoplastic (ovarian cancer)	0.527	COMP1975	(0.521 COMP1976) (0.397 COMP1072)
+Antineoplastic (pancreatic cancer)	0.454	COMP1975	(0.350 COMP1976) (0.323 COMP1072)
+Antineoplastic (renal cancer)	0.351	COMP1975	(0.263 COMP1072) (0.245 COMP1976)
+Antineoplastic (sarcoma)	0.404	COMP1975	(0.204 COMP1072)
+Antineoplastic (small cell lung cancer)	0.469	COMP1072	(0.404 COMP1975)
+Antineoplastic (solid tumors)	0.452	COMP1976	(0.287 COMP1072)
+Antineoplastic (squamous cell carcinoma)	0.525	COMP1975	(0.379 COMP1976) (0.126 COMP1072)
+Antineoplastic (uterine cancer)	0.269	COMP1975	(0.116 COMP1072)
+Antineoplastic alkaloid	0.149	COMP1072	
+Antineoplastic antibiotic	0.258	COMP1072	(0.234 COMP1976) (0.147 COMP1975)
+Antineoplastic antimetabolite	0.132	COMP1072	
+Antineoplastic enhancer	0.501	COMP1975	(0.198 COMP1072) (0.162 COMP1976)
+Antineoplastic. alkylator	0.220	COMP1072	
+Antineurogenic pain	0.320	COMP1072	
+Antiosteoporotic	0.446	COMP1975	(0.334 COMP1072)
+Antioxidant	0.815	COMP1975	(0.468 COMP1976) (0.303 COMP1072)
+Antiparasitic	0.533	COMP1072	(0.530 COMP1976) (0.305 COMP1975)
+Antiparkinsonian. rigidity relieving	0.378	COMP1072	
+Antiparkinsonian. tremor relieving	0.359	COMP1072	(0.123 COMP1976)
+Antiprotozoal	0.385	COMP1072	(0.364 COMP1975) (0.323 COMP1976)
+Antiprotozoal (Coccidial)	0.252	COMP1975	(0.210 COMP1072) (0.130 COMP1976)
+Antiprotozoal (Leishmania)	0.565	COMP1975	
+Antiprotozoal (Plasmodium)	0.386	COMP1072	(0.277 COMP1975)
+Antiprotozoal (Toxoplasma)	0.098	COMP1975	
+Antiprotozoal (Trichomonas)	0.116	COMP1975	
+Antiprotozoal (Trypanosoma)	0.299	COMP1975	
+Antiprotozoal activity enhancer	0.155	COMP1072	
+Antipruritic	0.288	COMP1072	
+Antipruritic. allergic	0.682	COMP1072	(0.506 COMP1975) (0.228 COMP1976)
+Antipruritic. non-allergic	0.502	COMP1072	(0.177 COMP1975)
+Antipsoriatic	0.250	COMP1072	
+Antipyretic	0.812	COMP1072	(0.347 COMP1975) (0.228 COMP1976)
+Antirickettsial	0.235	COMP1072	(0.193 COMP1975) (0.170 COMP1976)
+Antiseptic	0.593	COMP1975	(0.592 COMP1072) (0.120 COMP1976)
+Antispirochetal	0.155	COMP1072	
+Antithrombotic	0.524	COMP1072	(0.304 COMP1975)
+Antitreponemal	0.139	COMP1072	(0.079 COMP1975) (0.077 COMP1976)
+Antituberculosic	0.206	COMP1975	(0.180 COMP1072)
+Antitussive	0.298	COMP1072	(0.214 COMP1975)
+Antiulcerative	0.452	COMP1072	(0.226 COMP1975)
+Antiviral (Coronavirus)	0.147	COMP1975	(0.101 COMP1072)
+Antiviral (Dengue virus)	0.177	COMP1072	
+Antiviral (Ebola)	0.196	COMP1975	(0.171 COMP1072)
+Antiviral (Hepatitis A)	0.096	COMP1072/COMP1975	
+Antiviral (Hepatitis B)	0.212	COMP1072	
+Antiviral (Hepatitis C)	0.173	COMP1072	(0.160 COMP1975)
+Antiviral (Hepatitis)	0.243	COMP1072	(0.183 COMP1975)
+Antiviral (Herpes)	0.222	COMP1072	(0.123 COMP1975)
+Antiviral (Influenza A)	0.255	COMP1072	(0.234 COMP1975) (0.115 COMP1976)
+Antiviral (Influenza B)	0.145	COMP1975	(0.120 COMP1072)
+Antiviral (Influenza)	0.303	COMP1975	(0.261 COMP1072) (0.168 COMP1976)
+Antiviral (Parainfluenza)	0.077	COMP1072	
+Antiviral (Poxvirus)	0.173	COMP1072	
+Antiviral (Rhinovirus)	0.089	COMP1975	(0.084 COMP1072)
+Antiviral (SARS coronavirus)	0.147	COMP1975	(0.101 COMP1072)
+Antiviral (Trachoma)	0.105	COMP1072	
+Antiviral (West Nile virus)	0.199	COMP1975	
+Apoptosis agonist	0.864	COMP1975	(0.662 COMP1976) (0.646 COMP1072)
+Apoptosis antagonist	0.484	COMP1975	(0.339 COMP1072) (0.218 COMP1976)
+Arachidonic acid antagonist	0.244	COMP1072	(0.181 COMP1975) (0.159 COMP1976)
+Arginase inhibitor	0.037	COMP1975	(0.033 COMP1072)
+Argininosuccinate synthase inhibitor	0.051	COMP1072	
+Aromatase inhibitor	0.197	COMP1975	(0.150 COMP1072)
+Aryl hydrocarbon receptor agonist	0.543	COMP1975	(0.145 COMP1976)
+Aryl hydrocarbon receptor antagonist	0.101	COMP1975	
+Arylamine N-Acetyltransferase substrate	0.141	COMP1975	
+Atherosclerosis treatment	0.259	COMP1072	
+Autism spectrum disorders treatment	0.207	COMP1072	
+Beta 3 adrenoreceptor antagonist	0.073	COMP1975	
+Beta adrenoreceptor antagonist	0.063	COMP1975	
+Beta amyloid protein antagonist	0.125	COMP1975	
+Beta glucuronidase inhibitor	0.409	COMP1975	(0.111 COMP1976)
+Beta tubulin antagonist	0.287	COMP1975	
+Bile acid receptor antagonist	0.115	COMP1072	
+Bone diseases treatment	0.460	COMP1975	(0.381 COMP1072)
+Bone formation stimulant	0.293	COMP1975	
+Botulinum neurotoxin type A inhibitor	0.055	COMP1072	
+Breast cancer-resistant protein inhibitor	0.697	COMP1975	
+Bronchodilator	0.096	COMP1975	
+Butyrylcholinesterase inhibitor	0.247	COMP1975	(0.086 COMP1976)
+CD45 antagonist	0.060	COMP1975	
+CDC25A inhibitor	0.212	COMP1975	(0.068 COMP1072)
+CDC25B inhibitor	0.111	COMP1975	
+CF transmembrane conductance regulator agonist	0.209	COMP1072	(0.191 COMP1975)
+CTGF expression inhibitor	0.823	COMP1975	(0.359 COMP1072) (0.349 COMP1976)
+CYP1A2 inhibitor	0.919	COMP1975	(0.227 COMP1976)
+CYP1A2 substrate	0.603	COMP1975	(0.407 COMP1976) (0.265 COMP1072)
+CYP2A6 inhibitor	0.110	COMP1072	(0.092 COMP1975) (0.077 COMP1976)
+CYP2B6 inhibitor	0.371	COMP1975	(0.148 COMP1976)
+CYP2C19 inhibitor	0.595	COMP1975	(0.250 COMP1976)
+CYP2C19 substrate	0.487	COMP1975	(0.470 COMP1976) (0.436 COMP1072)
+CYP2C9 inhibitor	0.509	COMP1975	
+CYP2C9 substrate	0.662	COMP1072	(0.551 COMP1975) (0.402 COMP1976)
+CYP2D6 substrate	0.343	COMP1975	(0.255 COMP1976) (0.253 COMP1072)
+CYP3A4 inhibitor	0.344	COMP1975	(0.338 COMP1976)
+CYP3A4 substrate	0.690	COMP1072	(0.456 COMP1975) (0.314 COMP1976)
+Ca2+-transporting ATPase inhibitor	0.192	COMP1072	(0.142 COMP1975) (0.140 COMP1976)
+Calcineurin inhibitor	0.018	COMP1072	
+Calcium antagonist	0.173	COMP1976	(0.152 COMP1072) (0.116 COMP1975)
+Calcium channel (voltage-sensitive) blocker	0.110	COMP1072	
+Calcium channel L-type activator	0.480	COMP1975	
+Calcium channel L-type blocker	0.123	COMP1072	
+Calcium channel P-type blocker	0.071	COMP1072	
+Calcium channel activator	0.454	COMP1072	(0.345 COMP1975) (0.272 COMP1976)
+Calcium channel blocker	0.281	COMP1072	
+Carbamoyl phosphate synthetase inhibitor	0.067	COMP1072	
+Carbonic anhydrase III inhibitor	0.347	COMP1975	(0.127 COMP1976)
+Carbonic anhydrase V inhibitor	0.111	COMP1975	
+Carbonic anhydrase VA inhibitor	0.106	COMP1975	
+Carbonic anhydrase VB inhibitor	0.062	COMP1975	
+Carbonic anhydrase VI inhibitor	0.320	COMP1975	(0.112 COMP1976)
+Carbonic anhydrase VII inhibitor	0.191	COMP1975	
+Carbonic anhydrase XII inhibitor	0.059	COMP1975	
+Carbonic anhydrase XIII inhibitor	0.476	COMP1975	(0.208 COMP1976)
+Carbonic anhydrase XIV inhibitor	0.076	COMP1975	
+Carbonic anhydrase XV inhibitor	0.287	COMP1975	(0.165 COMP1976)
+Carboxypeptidase B inhibitor	0.032	COMP1072	
+Carcinogenic	0.448	COMP1975	(0.398 COMP1072) (0.150 COMP1976)
+Carcinogenic. group 1	0.296	COMP1975	(0.232 COMP1976) (0.210 COMP1072)
+Carcinogenic. group 2A	0.144	COMP1976	(0.074 COMP1975)
+Carcinogenic. group 2B	0.131	COMP1975	
+Carcinogenic. group 3	0.259	COMP1975	(0.162 COMP1976)
+Cardiodepressant	0.461	COMP1975	(0.132 COMP1072)
+Cardioprotectant	0.721	COMP1975	(0.237 COMP1072)
+Cardiovascular analeptic	0.687	COMP1976	(0.490 COMP1975) (0.478 COMP1072)
+Caspase 3 stimulant	0.752	COMP1975	(0.491 COMP1072) (0.374 COMP1976)
+Caspase 9 stimulant	0.914	COMP1975	(0.495 COMP1072) (0.460 COMP1976)
+Catechol O-methyltransferase inhibitor	0.044	COMP1975	
+Catenin beta inhibitor	0.304	COMP1976	(0.155 COMP1975)
+Cell wall synthesis inhibitor	0.175	COMP1072	
+Chelator	0.285	COMP1975	
+Chemopreventive	0.728	COMP1975	(0.451 COMP1976) (0.322 COMP1072)
+Chemoprotective	0.800	COMP1975	(0.313 COMP1072) (0.234 COMP1976)
+Choleretic	0.202	COMP1975	(0.128 COMP1976) (0.108 COMP1072)
+Cholesterol absorption inhibitor	0.055	COMP1072	
+Cholesterol antagonist	0.598	COMP1072	(0.236 COMP1976) (0.202 COMP1975)
+Cholesterol ester transfer protein antagonist	0.043	COMP1072	
+Cholesterol esterase inhibitor	0.090	COMP1072	
+Cholesterol synthesis inhibitor	0.387	COMP1072	(0.172 COMP1976) (0.127 COMP1975)
+Cholinergic	0.357	COMP1975	(0.213 COMP1976)
+Cholinergic antagonist	0.128	COMP1072	
+Chronic obstructive bronchitis treatment	0.109	COMP1975	
+Chymotrypsin inhibitor	0.080	COMP1976	
+Coagulant	0.149	COMP1975	
+Cocaine dependence treatment	0.231	COMP1072	
+Contraceptive	0.184	COMP1072	(0.122 COMP1975)
+Contraceptive female	0.148	COMP1072/COMP1975	(0.121 COMP1976)
+Creatine kinase inhibitor	0.442	COMP1975	
+Cyclic AMP phosphodiesterase inhibitor	0.297	COMP1975	(0.205 COMP1072)
+Cyclin B inhibitor	0.051	COMP1975	
+Cyclin B1 inhibitor	0.064	COMP1975	
+Cyclin B2 inhibitor	0.061	COMP1975	
+Cyclin B3 inhibitor	0.177	COMP1975	
+Cyclin D1 inhibitor	0.069	COMP1975	
+Cyclin-dependent kinase 9 inhibitor	0.094	COMP1975	
+Cyclooxygenase 1 inhibitor	0.211	COMP1975	
+Cyclooxygenase 2 inhibitor	0.202	COMP1975	(0.149 COMP1976)
+Cyclooxygenase 3 inhibitor	0.565	COMP1072	(0.196 COMP1975)
+Cyclooxygenase inhibitor	0.233	COMP1975	(0.144 COMP1976)
+Cyclophilin D inhibitor	0.518	COMP1976	(0.312 COMP1072) (0.256 COMP1975)
+Cystathionine beta-synthase inhibitor	0.817	COMP1975	(0.136 COMP1976) (0.101 COMP1072)
+Cytidine deaminase inhibitor	0.219	COMP1072	
+Cytokine production inhibitor	0.124	COMP1975	
+Cytostatic	0.655	COMP1975	(0.292 COMP1072) (0.211 COMP1976)
+Cytotoxic	0.465	COMP1072	(0.424 COMP1975) (0.232 COMP1976)
+D-Ala-D-Ala ligase inhibitor	0.169	COMP1975	
+DNA damaging	0.531	COMP1975	(0.374 COMP1072) (0.165 COMP1976)
+DNA directed DNA polymerase inhibitor	0.360	COMP1975	
+DNA gyrase subunit A inhibitor	0.056	COMP1976	
+DNA intercalator	0.110	COMP1975	(0.103 COMP1976)
+DNA methylase inhibitor	0.281	COMP1975	
+DNA methyltransferase I inhibitor	0.317	COMP1975	
+DNA polymerase beta inhibitor	0.389	COMP1975	
+DNA repair enzyme inhibitor	0.171	COMP1975	
+DNA synthesis inhibitor	0.346	COMP1072	(0.198 COMP1975) (0.180 COMP1976)
+DNA-dependent protein kinase inhibitor	0.074	COMP1975	
+DOPA decarboxylase inhibitor	0.210	COMP1975	
+Dementia treatment	0.150	COMP1975	(0.104 COMP1976)
+Dependence treatment	0.226	COMP1072	
+Dopamine D1 agonist	0.034	COMP1975	
+Dopamine D1 antagonist	0.077	COMP1975	
+Dopamine D2 agonist	0.039	COMP1975	
+Dopamine D5 agonist	0.087	COMP1975	
+Dopamine D5 antagonist	0.061	COMP1975	
+Dopamine agonist	0.108	COMP1975	
+Dopamine autoreceptor agonist	0.024	COMP1975	
+Dopamine transporter inhibitor	0.052	COMP1072	
+Dual specificity phosphatase 3 inhibitor	0.416	COMP1975	
+Dual specificity phosphatase inhibitor	0.428	COMP1975	
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.329	COMP1975	
+Dyrk kinase inhibitor	0.296	COMP1975	
+Elastase 1 inhibitor	0.087	COMP1072	(0.063 COMP1975)
+Elastase 2B inhibitor	0.040	COMP1072	
+Elastase 3A inhibitor	0.040	COMP1072	
+Elastase 3B inhibitor	0.040	COMP1072	
+Electron transport complex I inhibitor	0.628	COMP1976	(0.194 COMP1975)
+Embryotoxic	0.398	COMP1072	(0.242 COMP1975)
+Estradiol 17 beta-dehydrogenase 1 inhibitor	0.051	COMP1975	
+Estradiol 17 beta-dehydrogenase 2 inhibitor	0.062	COMP1975	
+Estradiol 17 beta-dehydrogenase 3 inhibitor	0.049	COMP1975	
+Estradiol 17 beta-dehydrogenase inhibitor	0.169	COMP1975	
+Estrogen agonist	0.195	COMP1975	
+Estrogen antagonist	0.268	COMP1975	(0.146 COMP1976)
+Estrogen receptor alpha agonist	0.093	COMP1975	
+Estrogen receptor alpha antagonist	0.179	COMP1975	(0.079 COMP1976)
+Estrogen receptor beta agonist	0.101	COMP1975	
+Estrogen receptor beta antagonist	0.288	COMP1975	(0.151 COMP1976)
+Estrogen-related receptor alpha antagonist	0.029	COMP1975	
+Estrogen-related receptor beta agonist	0.098	COMP1072	(0.089 COMP1975)
+Estrogen-related receptor beta antagonist	0.058	COMP1975	
+Estrone sulfatase inhibitor	0.027	COMP1975	
+Excitatory amino acid transporter EAAC1 inhibitor	0.096	COMP1072	
+Expectorant	0.496	COMP1072	(0.185 COMP1975) (0.101 COMP1976)
+Exportin-1 inhibitor	0.097	COMP1976	(0.083 COMP1072)
+Eye irritation. high	0.553	COMP1072	(0.118 COMP1975)
+FMO1 substrate	0.456	COMP1072	(0.349 COMP1975) (0.203 COMP1976)
+FMO3 substrate	0.204	COMP1975	
+Farnesoid X receptor agonist	0.043	COMP1072	
+Farnesoid X receptor antagonist	0.139	COMP1072	(0.116 COMP1975)
+Fatty acid synthase inhibitor	0.149	COMP1975	
+Flavin-containing monooxygenase substrate	0.205	COMP1072	
+Free radical scavenger	0.831	COMP1975	(0.468 COMP1976) (0.274 COMP1072)
+GABA B receptor antagonist	0.168	COMP1975	
+GABA C receptor agonist	0.157	COMP1072	
+GABA C receptor antagonist	0.196	COMP1975	(0.119 COMP1072)
+GABA C receptor rho-1 antagonist	0.222	COMP1975	
+GABA C receptor rho-2 antagonist	0.385	COMP1975	
+GABA C receptor rho-3 antagonist	0.666	COMP1975	
+GABA aminotransferase inhibitor	0.082	COMP1975	
+GABA receptor antagonist	0.052	COMP1975	
+GRP78 expression inhibitor	0.021	COMP1072	
+GST A substrate	0.381	COMP1072	(0.331 COMP1975) (0.220 COMP1976)
+GST M1-1 substrate	0.393	COMP1975	(0.297 COMP1976) (0.296 COMP1072)
+GST P1-1 substrate	0.106	COMP1975	(0.081 COMP1072)
+GST T1-1 substrate	0.162	COMP1072	(0.097 COMP1976)
+Gastrin inhibitor	0.363	COMP1072	
+Gastritis treatment	0.435	COMP1975	(0.211 COMP1072) (0.113 COMP1976)
+Genotoxic	0.620	COMP1975	(0.117 COMP1976)
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.440	COMP1975	
+Glucose-6-phosphate isomerase inhibitor	0.056	COMP1072	(0.049 COMP1976)
+Glucose-6-phosphate translocase inhibitor	0.078	COMP1975	
+Glutamate (mGluR group II) antagonist	0.037	COMP1072	
+Glutamate (mGluR3) agonist	0.109	COMP1072	
+Glutamate (mGluR3) antagonist	0.110	COMP1072	
+Glutamate (mGluR6) antagonist	0.089	COMP1072	
+Glutamate (mGluR7) agonist	0.097	COMP1072	
+Glutamate (mGluR7) antagonist	0.099	COMP1975	
+Glutamate (mGluR8) agonist	0.035	COMP1072	
+Glutamate decarboxylase inhibitor	0.083	COMP1975	
+Glutathione S-transferase inhibitor	0.095	COMP1975	
+Glutathione S-transferase substrate	0.270	COMP1975	(0.123 COMP1976)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.485	COMP1975	(0.269 COMP1072) (0.162 COMP1976)
+Glycine receptor agonist	0.227	COMP1072	
+Glycine receptor antagonist	0.134	COMP1072	
+Gout treatment	0.375	COMP1975	
+Granulocyte macrophage colony stimulating factor agonist	0.097	COMP1975	
+Growth hormone agonist	0.184	COMP1072	
+Growth stimulant	0.214	COMP1072	
+HCV NS3/NS4A protease inhibitor	0.062	COMP1072	
+HDL-cholesterol increasing	0.182	COMP1072	
+HIV-1 integrase (3'-Processing) inhibitor	0.257	COMP1975	
+HIV-1 integrase (Overall Integration) inhibitor	0.102	COMP1975	(0.085 COMP1072)
+HIV-1 integrase (Strand Transfer) inhibitor	0.263	COMP1975	
+HIV-1 integrase inhibitor	0.148	COMP1975	
+HMG CoA reductase inhibitor	0.075	COMP1072	
+Hair growth stimulant	0.253	COMP1072	
+Heat shock protein 70 antagonist	0.204	COMP1975	(0.132 COMP1976)
+Heat shock protein 90 alpha antagonist	0.181	COMP1975	
+Heat shock protein 90 antagonist	0.228	COMP1975	(0.149 COMP1072)
+Heat shock protein 90 beta antagonist	0.082	COMP1072	(0.055 COMP1975)
+Hedgehog signaling activator	0.030	COMP1072	
+Hemostatic	0.218	COMP1975	
+Hepatic disorders treatment	0.553	COMP1072	(0.460 COMP1975) (0.412 COMP1976)
+Hepatoprotectant	0.473	COMP1975	(0.292 COMP1072) (0.240 COMP1976)
+Hexokinase inhibitor	0.125	COMP1975	
+Histamine release inhibitor	0.686	COMP1975	(0.375 COMP1976) (0.216 COMP1072)
+Histidine decarboxylase inhibitor	0.241	COMP1975	
+Histone acetyltransferase inhibitor	0.181	COMP1975	
+Histone deacetylase SIRT1 stimulant	0.256	COMP1975	(0.091 COMP1976)
+Histone deacetylase stimulant	0.256	COMP1975	(0.091 COMP1976)
+Hypercalcemia treatment	0.069	COMP1072	
+Hyperparathyroidism treatment	0.105	COMP1072	
+Hypoglycemic	0.425	COMP1975	(0.335 COMP1976) (0.230 COMP1072)
+Hypolipemic	0.490	COMP1072	(0.383 COMP1976)
+Hypoxia-inducible factor 1 alpha inhibitor	0.507	COMP1975	(0.223 COMP1976)
+I kappa B kinase epsilon inhibitor	0.172	COMP1975	
+ICAM1 expression inhibitor	0.492	COMP1072	(0.480 COMP1975) (0.415 COMP1976)
+Immunomodulator	0.439	COMP1072	
+Immunostimulant	0.337	COMP1072	(0.218 COMP1975)
+Immunosuppressant	0.691	COMP1072	(0.347 COMP1976) (0.268 COMP1975)
+Inducible nitric-oxide synthase inhibitor	0.117	COMP1072	(0.077 COMP1975)
+Insulin secretagoues	0.196	COMP1975	(0.193 COMP1072)
+Insulin sensitizer	0.225	COMP1975	
+Insulysin inhibitor	0.289	COMP1975	
+Interferon agonist	0.103	COMP1072	
+Interferon gamma antagonist	0.482	COMP1072	(0.212 COMP1975)
+Interferon inducer	0.089	COMP1072	
+Interleukin 12 antagonist	0.115	COMP1975	
+Interleukin 1b antagonist	0.097	COMP1976	
+Interleukin 2 agonist	0.416	COMP1072	
+Interleukin 2 antagonist	0.129	COMP1072	
+Interleukin 4 antagonist	0.417	COMP1975	(0.109 COMP1072)
+Interleukin 5 antagonist	0.139	COMP1975	(0.099 COMP1072)
+Interleukin 6 antagonist	0.236	COMP1975	(0.163 COMP1072) (0.149 COMP1976)
+Interleukin agonist	0.424	COMP1072	
+Interleukin antagonist	0.263	COMP1975	
+Isoleucine-tRNA ligase inhibitor	0.022	COMP1072	
+Kainate receptor agonist	0.046	COMP1072	
+Keratolytic	0.123	COMP1975	(0.081 COMP1072)
+LDLR expression enhancer	0.266	COMP1975	(0.176 COMP1072)
+LFA antagonist	0.028	COMP1072	
+Lanosterol 14 alpha demethylase inhibitor	0.098	COMP1072	
+Leukotriene C antagonist	0.053	COMP1975	
+Leukotriene antagonist	0.068	COMP1975	
+Leukotriene synthesis inhibitor	0.134	COMP1976	(0.107 COMP1072) (0.092 COMP1975)
+Lipase inhibitor	0.125	COMP1976	(0.118 COMP1975)
+Lipid peroxidase inhibitor	0.432	COMP1975	(0.375 COMP1976) (0.127 COMP1072)
+Lipocortins synthesis agonist	0.088	COMP1072	
+Lipocortins synthesis antagonist	0.324	COMP1072	
+Lipoprotein disorders treatment	0.560	COMP1976	(0.518 COMP1072)
+Lipoxygenase inhibitor	0.653	COMP1975	(0.263 COMP1976)
+M18 aspartyl aminopeptidase inhibitor	0.320	COMP1975	
+MAO A inhibitor	0.570	COMP1975	(0.108 COMP1976)
+MAO B inhibitor	0.296	COMP1975	(0.095 COMP1976)
+MAO inhibitor	0.531	COMP1975	(0.150 COMP1976)
+Macrophage migration inhibitory factor inhibitor	0.177	COMP1975	
+Maillard reaction inhibitor	0.068	COMP1975	
+Male reproductive disfunction treatment	0.155	COMP1975	
+Mannose-6-phosphate isomerase inhibitor	0.202	COMP1975	
+Mcl-1 antagonist	0.243	COMP1975	
+Mediator release inhibitor	0.253	COMP1975	
+Melanin inhibitor	0.510	COMP1975	(0.362 COMP1976) (0.304 COMP1072)
+Membrane dipeptidase inhibitor	0.051	COMP1072	
+Microtubule formation inhibitor	0.265	COMP1072	(0.137 COMP1976) (0.115 COMP1975)
+Microtubule stabilization	0.084	COMP1072	
+Monocarboxylic acid transporter 1 inhibitor	0.023	COMP1975	
+Monocarboxylic acid transporter inhibitor	0.023	COMP1975	
+Monophenol monooxygenase inhibitor	0.583	COMP1975	(0.241 COMP1976)
+Mucolytic	0.249	COMP1072	(0.135 COMP1975) (0.093 COMP1976)
+Multidrug resistance-associated protein 1 inhibitor	0.349	COMP1975	
+Muscle relaxant	0.278	COMP1072	(0.132 COMP1975)
+Mutagenic	0.483	COMP1975	(0.305 COMP1976) (0.242 COMP1072)
+Myeloperoxidase inhibitor	0.168	COMP1975	
+Myocardial infarction treatment	0.259	COMP1975	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.335	COMP1975	(0.145 COMP1976)
+NADH dehydrogenase inhibitor	0.088	COMP1975	(0.080 COMP1072)
+NADPH oxidase inhibitor	0.650	COMP1975	(0.150 COMP1072)
+NOS2 expression inhibitor	0.818	COMP1975	(0.528 COMP1976) (0.301 COMP1072)
+NOS3 expression enhancer	0.314	COMP1975	
+NOS3 expression inhibitor	0.746	COMP1976	(0.669 COMP1072) (0.536 COMP1975)
+Na+ K+ transporting ATPase inhibitor	0.118	COMP1072	(0.099 COMP1976) (0.092 COMP1975)
+Narcolepsy treatment	0.072	COMP1072	
+Narcotic antagonist	0.094	COMP1072	(0.083 COMP1975)
+Neuraminidase (Influenza A) inhibitor	0.072	COMP1975	(0.058 COMP1976)
+Neuraminidase (influenza) inhibitor	0.134	COMP1975	(0.063 COMP1976)
+Neuraminidase inhibitor	0.122	COMP1975	
+Neurotensin receptor agonist	0.166	COMP1975	
+Neurotrophic factor	0.150	COMP1072	
+Neurotrophic factor enhancer	0.347	COMP1072	(0.272 COMP1975) (0.201 COMP1976)
+Nitric oxide antagonist	0.579	COMP1976	(0.532 COMP1072) (0.515 COMP1975)
+Nitric oxide donor	0.087	COMP1072	
+Nitric-oxide synthase stimulant	0.340	COMP1975	(0.208 COMP1072) (0.166 COMP1976)
+Nociceptin (N/OFQ) receptor agonist	0.024	COMP1072	
+Nociceptin (N/OFQ) receptor antagonist	0.040	COMP1072	
+Non-steroidal antiinflammatory agent	0.429	COMP1072	(0.308 COMP1975) (0.143 COMP1976)
+Nucleoside transporters inhibitor	0.051	COMP1975	
+Opioid agonist	0.115	COMP1072	
+Opioid antagonist	0.104	COMP1072	(0.077 COMP1975)
+Opioid kappa receptor agonist	0.179	COMP1072	
+Opioid kappa receptor antagonist	0.136	COMP1072	(0.084 COMP1975)
+Opioid mu receptor agonist	0.048	COMP1072	
+Ornithine decarboxylase inhibitor	0.130	COMP1072	(0.115 COMP1975)
+P-glycoprotein inhibitor	0.648	COMP1975	(0.520 COMP1976) (0.443 COMP1072)
+Paget's disease treatment	0.083	COMP1072	
+Papain-like protease (SARS coronavirus) inhibitor	0.188	COMP1975	
+Parathyroid hormone antagonist	0.070	COMP1072	
+Peroxidase inhibitor	0.648	COMP1975	(0.144 COMP1976)
+Peroxisome proliferator-activated receptor gamma antagonist	0.069	COMP1976	
+Phobic disorders treatment	0.208	COMP1976	(0.194 COMP1975)
+Phosphodiesterase 1C inhibitor	0.066	COMP1975	
+Phosphodiesterase 4D inhibitor	0.099	COMP1975	
+Phosphodiesterase I inhibitor	0.082	COMP1975	
+Phosphodiesterase IV inhibitor	0.107	COMP1975	
+Phosphofructokinase-1 inhibitor	0.081	COMP1072	(0.063 COMP1976)
+Phospholipase A2 inhibitor	0.130	COMP1975	
+Phospholipase C inhibitor	0.213	COMP1072	(0.144 COMP1975)
+Photosensitizer	0.467	COMP1072	(0.171 COMP1976) (0.160 COMP1975)
+Plasminogen activator inhibitor antagonist	0.821	COMP1072	
+Platelet adhesion inhibitor	0.349	COMP1072	(0.310 COMP1975) (0.279 COMP1976)
+Platelet antagonist	0.593	COMP1072	
+Pneumotoxic	0.491	COMP1975	(0.484 COMP1072) (0.188 COMP1976)
+Postcoital contraceptive	0.106	COMP1975	(0.073 COMP1072) (0.072 COMP1976)
+Postmenopausal disorders treatment	0.160	COMP1975	
+Posttraumatic stress disorder treatment	0.110	COMP1072	
+Potassium channel Kv1.3 blocker	0.138	COMP1975	(0.092 COMP1976) (0.082 COMP1072)
+Potassium channel blocker	0.152	COMP1976	
+Pregnane X receptor agonist	0.213	COMP1072	
+Pregnane X receptor antagonist	0.082	COMP1976	(0.077 COMP1072)
+Progesterone antagonist	0.076	COMP1976	(0.031 COMP1072)
+Progesterone receptor B antagonist	0.024	COMP1072	
+Prolactin inhibitor	0.187	COMP1072	(0.105 COMP1975)
+Proliferative diseases treatment	0.625	COMP1975	(0.459 COMP1976) (0.379 COMP1072)
+Prostacyclin agonist	0.014	COMP1072	
+Prostaglandin F2 alpha agonist	0.045	COMP1072	
+Prostaglandin agonist	0.030	COMP1072	
+Prostaglandin dehydrogenase inhibitor	0.483	COMP1975	
+Prostate cancer treatment	0.757	COMP1975	(0.283 COMP1976) (0.236 COMP1072)
+Prostate disorders treatment	0.265	COMP1072	
+Prostatic (benign) hyperplasia treatment	0.145	COMP1072	
+Protease activated receptor antagonist	0.086	COMP1975	
+Proteasome inhibitor	0.164	COMP1072	
+Protein 50S ribosomal subunit inhibitor	0.126	COMP1072	(0.053 COMP1976)
+Protein kinase (CK2) alpha inhibitor	0.184	COMP1975	
+Protein kinase (CK2) beta inhibitor	0.040	COMP1975	
+Protein kinase (CK2) inhibitor	0.137	COMP1975	
+Protein kinase C eta inhibitor	0.108	COMP1975	
+Protein kinase C zeta inhibitor	0.260	COMP1975	
+Protein kinase stimulant	0.403	COMP1975	(0.355 COMP1072) (0.269 COMP1976)
+Protein-tyrosine phosphatase 1B inhibitor	0.231	COMP1975	(0.214 COMP1976) (0.103 COMP1072)
+Protein-tyrosine phosphatase inhibitor	0.303	COMP1975	(0.233 COMP1976)
+Proto-oncogene tyrosine-protein kinase Yes inhibitor	0.231	COMP1975	
+Psychosexual dysfunction treatment	0.154	COMP1072	(0.139 COMP1975)
+Psychostimulant	0.364	COMP1072	(0.146 COMP1975)
+Purinergic P2 antagonist	0.058	COMP1072	
+Purinergic P2X4 antagonist	0.044	COMP1072	
+Purinergic P2Y antagonist	0.080	COMP1072	
+Purinergic P2Y12 antagonist	0.147	COMP1072	
+Purinergic P2Y15 antagonist	0.029	COMP1072	
+Pyruvate kinase inhibitor	0.483	COMP1975	
+RNA-directed DNA polymerase inhibitor	0.487	COMP1975	(0.373 COMP1072) (0.232 COMP1976)
+Radioprotector	0.504	COMP1975	(0.273 COMP1976) (0.206 COMP1072)
+Radiosensitizer	0.377	COMP1975	(0.203 COMP1072) (0.179 COMP1976)
+Raynaud's phenomenon treatment	0.226	COMP1072	
+Respiratory analeptic	0.613	COMP1072	(0.355 COMP1976) (0.288 COMP1975)
+Retinoid X receptor agonist	0.041	COMP1072	
+Retinoprotector	0.104	COMP1072	
+Ryanodine receptor antagonist	0.080	COMP1975	(0.079 COMP1072) (0.060 COMP1976)
+SULT1A1 substrate	0.350	COMP1975	(0.142 COMP1072)
+SULT1A2 substrate	0.103	COMP1975	
+SULT1A3 substrate	0.541	COMP1975	(0.151 COMP1072)
+SULT1E1 substrate	0.192	COMP1975	
+SULT2A1 substrate	0.085	COMP1072	(0.075 COMP1975)
+Sedative	0.500	COMP1072	
+Sensitization	0.532	COMP1072	(0.371 COMP1975) (0.272 COMP1976)
+Sepsis treatment	0.287	COMP1072	
+Shock treatment	0.102	COMP1072	
+Skeletal muscle relaxant	0.144	COMP1072	(0.122 COMP1975)
+Skin irritative effect	0.680	COMP1072	(0.093 COMP1976)
+Skin whitener	0.585	COMP1975	(0.172 COMP1976)
+Sodium/bile acid cotransporter inhibitor	0.381	COMP1072	(0.266 COMP1975)
+Sodium/glucose cotransporter 1 inhibitor	0.027	COMP1072	
+Spasmolytic	0.608	COMP1072	(0.564 COMP1975) (0.405 COMP1976)
+Sphingomyelinase inhibitor	0.110	COMP1975	
+Steroid 17-alpha-hydroxylase/17.20 lyase inhibitor	0.050	COMP1072	
+Streptokinase A inhibitor	0.249	COMP1975	
+Stroke treatment	0.205	COMP1975	
+Succinate dehydrogenase inhibitor	0.229	COMP1975	(0.152 COMP1072)
+Sulfotransferase substrate	0.516	COMP1975	(0.133 COMP1072) (0.091 COMP1976)
+Superoxide dismutase inhibitor	0.588	COMP1975	
+T cell inhibitor	0.157	COMP1072	
+TNF expression inhibitor	0.697	COMP1975	(0.661 COMP1072) (0.532 COMP1976)
+TRPA1 agonist	0.245	COMP1072	
+TRPM8 blocker	0.084	COMP1072	
+Telomerase inhibitor	0.267	COMP1975	
+Telomerase stimulant	0.020	COMP1072	
+Teratogen	0.401	COMP1072	(0.281 COMP1975)
+Thiazolidinedione	0.043	COMP1976	
+Thioredoxin inhibitor	0.136	COMP1975	
+Thioredoxin reductase inhibitor	0.188	COMP1975	
+Thrombolytic	0.446	COMP1072	
+Thyroid hormone antagonist	0.220	COMP1975	
+Thyroid hormone beta antagonist	0.213	COMP1975	
+Toll-Like receptor 2 antagonist	0.211	COMP1975	
+Toll-Like receptor 4 agonist	0.041	COMP1072	
+Toll-Like receptor 4 antagonist	0.143	COMP1975	(0.112 COMP1072)
+Topoisomerase I inhibitor	0.239	COMP1975	(0.122 COMP1976)
+Topoisomerase II alpha inhibitor	0.366	COMP1975	
+Topoisomerase II beta inhibitor	0.124	COMP1975	
+Topoisomerase II inhibitor	0.436	COMP1975	(0.101 COMP1976)
+Tourette's syndrome treatment	0.127	COMP1072	
+Toxic. respiratory center	0.225	COMP1072	(0.148 COMP1975)
+Transcription factor NF kappa B inhibitor	0.699	COMP1975	(0.544 COMP1072) (0.438 COMP1976)
+Transcription factor NF kappa B stimulant	0.086	COMP1072	
+Transcription factor RelA inhibitor	0.118	COMP1975	(0.063 COMP1976)
+Transcription factor STAT inhibitor	0.397	COMP1072	(0.318 COMP1975)
+Transcription factor STAT3 inhibitor	0.240	COMP1975	(0.202 COMP1072)
+Transcription factor STAT6 inhibitor	0.154	COMP1072	(0.133 COMP1975)
+Triose-phosphate isomerase inhibitor	0.132	COMP1072	
+Tubulin agonist	0.045	COMP1072	(0.037 COMP1976)
+Tubulin antagonist	0.638	COMP1975	(0.111 COMP1976)
+Tumour necrosis factor alpha release inhibitor	0.478	COMP1975	
+Tumour necrosis factor antagonist	0.299	COMP1975	
+Tyrosine 3 hydroxylase inhibitor	0.334	COMP1975	(0.206 COMP1072) (0.205 COMP1976)
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.118	COMP1072	
+UDP-glucose 4-epimerase inhibitor	0.157	COMP1072	(0.089 COMP1975)
+UDP-glucuronosyltransferase substrate	0.656	COMP1975	(0.328 COMP1072) (0.160 COMP1976)
+UGT1A1 substrate	0.714	COMP1975	(0.316 COMP1976) (0.240 COMP1072)
+UGT1A3 substrate	0.737	COMP1975	(0.201 COMP1976) (0.152 COMP1072)
+UGT1A4 substrate	0.673	COMP1072	(0.449 COMP1975) (0.123 COMP1976)
+UGT1A6 substrate	0.844	COMP1975	(0.380 COMP1976) (0.246 COMP1072)
+UGT1A9 substrate	0.822	COMP1975	(0.374 COMP1976) (0.190 COMP1072)
+UGT2B1 substrate	0.216	COMP1975	(0.210 COMP1072) (0.094 COMP1976)
+UGT2B10 substrate	0.239	COMP1975	(0.200 COMP1072) (0.176 COMP1976)
+UGT2B11 substrate	0.147	COMP1975	(0.129 COMP1072) (0.101 COMP1976)
+UGT2B15 substrate	0.669	COMP1975	(0.323 COMP1976) (0.133 COMP1072)
+UGT2B4 substrate	0.500	COMP1975	(0.448 COMP1976) (0.360 COMP1072)
+UGT2B7 substrate	0.468	COMP1072	(0.339 COMP1975) (0.238 COMP1976)
+UGT2B9 substrate	0.486	COMP1072	(0.265 COMP1975) (0.232 COMP1976)
+Ulceration	0.587	COMP1072	(0.513 COMP1975) (0.464 COMP1976)
+Urease inhibitor	0.203	COMP1975	
+Uric acid excretion stimulant	0.224	COMP1975	
+Uterine stimulant	0.189	COMP1072	(0.140 COMP1975)
+VCAM1 expression inhibitor	0.374	COMP1072	(0.324 COMP1975) (0.304 COMP1976)
+VEGF expression inhibitor	0.311	COMP1975	(0.239 COMP1072) (0.200 COMP1976)
+Vanilloid 1 agonist	0.286	COMP1072	
+Vanilloid 2 agonist	0.030	COMP1072	
+Vanilloid 3 antagonist	0.061	COMP1072	
+Vanilloid 4 agonist	0.078	COMP1072	
+Vanilloid agonist	0.417	COMP1072	
+Vascular (periferal) disease treatment	0.486	COMP1975	(0.282 COMP1072)
+Vascular dementia treatment	0.144	COMP1975	(0.099 COMP1976)
+Vasodilator	0.513	COMP1975	(0.329 COMP1072) (0.319 COMP1976)
+Vasodilator. coronary	0.636	COMP1975	(0.435 COMP1072) (0.426 COMP1976)
+Vasodilator. peripheral	0.580	COMP1072	(0.198 COMP1975)
+Vitamin D receptor agonist	0.017	COMP1072	
+Vitamin D receptor antagonist	0.024	COMP1072	
+Xanthine dehydrogenase inhibitor	0.319	COMP1975	
+Xanthine oxidase inhibitor	0.602	COMP1975	(0.097 COMP1976)
+mTOR complex 1 inhibitor	0.095	COMP1072	
+mTOR complex 2 inhibitor	0.094	COMP1072	(0.092 COMP1975)

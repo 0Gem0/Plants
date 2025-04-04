@@ -1,0 +1,367 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.873	COMP1352	(0.865 COMP1351) (0.860 COMP1354) (0.795 COMP1353) (0.289 COMP1350)
+15-Lipoxygenase inhibitor	0.867	COMP1352	(0.855 COMP1354) (0.854 COMP1351) (0.774 COMP1353) (0.314 COMP1350)
+2.3-Oxidosqualene-lanosterol cyclase inhibitor	0.133	COMP1349	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.068	COMP1352	(0.063 COMP1354) (0.057 COMP1351) (0.054 COMP1350)
+3C-like protease (Human coronavirus) inhibitor	0.169	COMP1354	(0.167 COMP1351) (0.163 COMP1352) (0.149 COMP1353)
+5 Hydroxytryptamine 1E antagonist	0.203	COMP1353	(0.198 COMP1352) (0.190 COMP1354) (0.189 COMP1351)
+5 Hydroxytryptamine 3E antagonist	0.237	COMP1353	
+5 Hydroxytryptamine release inhibitor	0.422	COMP1352	(0.408 COMP1351/COMP1354) (0.378 COMP1353) (0.342 COMP1350)
+5 Hydroxytryptamine release stimulant	0.401	COMP1350	(0.318 COMP1353) (0.222 COMP1351) (0.203 COMP1352) (0.193 COMP1355) (0.186 COMP1354)
+5 Hydroxytryptamine uptake stimulant	0.305	COMP1351	(0.280 COMP1352/COMP1354) (0.187 COMP1355)
+5-Alpha-reductase inhibitor	0.075	COMP1355	
+5-Lipoxygenase inhibitor	0.302	COMP1351	(0.298 COMP1354) (0.296 COMP1352) (0.134 COMP1353)
+ABCA1 expression enhancer	0.146	COMP1355	(0.112 COMP1354) (0.111 COMP1352) (0.108 COMP1353) (0.106 COMP1351)
+AMP-activated protein kinase stimulant	0.372	COMP1350	(0.143 COMP1352) (0.141 COMP1354) (0.137 COMP1351)
+ATP citrate lysase inhibitor	0.030	COMP1352	
+ATPase (Vacuolar H+) inhibitor	0.124	COMP1355	(0.121 COMP1350)
+ATPase inhibitor	0.188	COMP1350	(0.177 COMP1355)
+Acetyl-CoA transferase 2 inhibitor	0.081	COMP1353	
+Acetylcholinesterase inhibitor	0.416	COMP1351	(0.379 COMP1354) (0.371 COMP1352) (0.324 COMP1353) (0.176 COMP1350)
+Adenine nucleotide translocase inhibitor	0.055	COMP1350	
+Adenosine A1 receptor agonist	0.024	COMP1350	
+Adenylate cyclase stimulant	0.150	COMP1351/COMP1355	(0.142 COMP1352) (0.139 COMP1353) (0.138 COMP1350) (0.136 COMP1354)
+Alcohol dehydrogenase inhibitor	0.271	COMP1352	(0.243 COMP1351) (0.237 COMP1350) (0.234 COMP1354) (0.115 COMP1353)
+Alcohol oxidase inhibitor	0.066	COMP1352	(0.049 COMP1354)
+Aldehyde dehydrogenase inhibitor	0.670	COMP1350	(0.655 COMP1352) (0.637 COMP1354) (0.567 COMP1351) (0.500 COMP1353)
+Aldehyde oxidase inhibitor	0.968	COMP1352	(0.965 COMP1351) (0.963 COMP1354) (0.749 COMP1353) (0.525 COMP1350)
+Aldose reductase inhibitor	0.246	COMP1352	(0.238 COMP1351) (0.228 COMP1354) (0.225 COMP1350) (0.100 COMP1353)
+Alkaline phosphatase inhibitor	0.297	COMP1352	(0.294 COMP1354) (0.261 COMP1351) (0.201 COMP1350) (0.134 COMP1353)
+Alkylator	0.418	COMP1350	(0.169 COMP1351) (0.144 COMP1352) (0.137 COMP1354) (0.131 COMP1353)
+Alpha tubulin antagonist	0.282	COMP1351	(0.232 COMP1354) (0.229 COMP1352) (0.191 COMP1353) (0.062 COMP1350)
+Alpha-N-acetylglucosaminidase inhibitor	0.225	COMP1350	(0.101 COMP1351)
+Alpha-mannosidase inhibitor	0.087	COMP1350	
+Amylase inhibitor	0.907	COMP1350	(0.648 COMP1353) (0.623 COMP1352) (0.616 COMP1351) (0.594 COMP1354)
+Amyloid beta aggregation inhibitor	0.645	COMP1351	(0.621 COMP1352) (0.602 COMP1354) (0.554 COMP1353) (0.549 COMP1350)
+Amyloid beta precursor protein antagonist	0.350	COMP1352	(0.347 COMP1351) (0.346 COMP1354) (0.242 COMP1353) (0.144 COMP1350)
+Anabolic	0.138	COMP1349	(0.128 COMP1355) (0.096 COMP1351) (0.095 COMP1352) (0.090 COMP1354)
+Androgen agonist	0.060	COMP1355	
+Androgen antagonist	0.125	COMP1355	(0.079 COMP1352)
+Anesthetic general	0.164	COMP1350	
+Angiogenesis inhibitor	0.287	COMP1350	(0.269 COMP1351) (0.215 COMP1352) (0.213 COMP1354)
+Angiogenesis stimulant	0.728	COMP1350	(0.347 COMP1352) (0.343 COMP1351) (0.336 COMP1354) (0.188 COMP1349) (0.154 COMP1353)
+Antiamyloidogenic	0.554	COMP1350	(0.455 COMP1351) (0.452 COMP1352) (0.437 COMP1354) (0.287 COMP1353)
+Antibacterial	0.704	COMP1350	(0.551 COMP1349) (0.482 COMP1355) (0.428 COMP1352) (0.422 COMP1353) (0.412 COMP1351) (0.409 COMP1354)
+Antibiotic Aminoglycoside-like	0.083	COMP1350	
+Antibiotic Anthracycline-like	0.022	COMP1350	
+Antiinflammatory	0.797	COMP1350	(0.740 COMP1355) (0.557 COMP1351) (0.549 COMP1352) (0.531 COMP1354) (0.451 COMP1353) (0.440 COMP1349)
+Antimitotic	0.540	COMP1351	(0.466 COMP1354) (0.463 COMP1352) (0.449 COMP1353) (0.317 COMP1350)
+Antineoplastic alkaloid	0.145	COMP1353	
+Antineoplastic antibiotic	0.284	COMP1350	(0.270 COMP1349) (0.191 COMP1355) (0.161 COMP1351) (0.156 COMP1352) (0.149 COMP1353) (0.147 COMP1354)
+Antioxidant	0.862	COMP1350	(0.772 COMP1351) (0.768 COMP1352) (0.741 COMP1354) (0.670 COMP1353) (0.525 COMP1355) (0.334 COMP1349)
+Antithrombotic	0.586	COMP1350	(0.369 COMP1349) (0.207 COMP1351) (0.196 COMP1352) (0.194 COMP1354)
+Apoptosis agonist	0.858	COMP1353	(0.832 COMP1350) (0.829 COMP1351) (0.807 COMP1352) (0.799 COMP1354) (0.747 COMP1349) (0.694 COMP1355)
+Apoptosis antagonist	0.644	COMP1350	(0.565 COMP1349) (0.485 COMP1352) (0.483 COMP1351) (0.467 COMP1353) (0.462 COMP1354) (0.385 COMP1355)
+Arachidonic acid antagonist	0.234	COMP1349	(0.216 COMP1355) (0.181 COMP1351) (0.173 COMP1354) (0.166 COMP1352)
+Aromatase inhibitor	0.196	COMP1352	(0.182 COMP1354) (0.177 COMP1351) (0.061 COMP1353)
+Aryl hydrocarbon receptor agonist	0.737	COMP1352	(0.732 COMP1354) (0.694 COMP1351) (0.681 COMP1353) (0.239 COMP1350)
+Aryl hydrocarbon receptor antagonist	0.068	COMP1352/COMP1354	(0.062 COMP1351)
+Beta amyloid protein antagonist	0.102	COMP1350	(0.096 COMP1351)
+Beta glucuronidase inhibitor	0.673	COMP1350	(0.408 COMP1352) (0.352 COMP1354) (0.351 COMP1351) (0.146 COMP1353)
+Beta tubulin antagonist	0.308	COMP1351	(0.247 COMP1354) (0.242 COMP1352) (0.123 COMP1353) (0.055 COMP1350)
+Bone formation stimulant	0.457	COMP1351/COMP1352	(0.449 COMP1354) (0.379 COMP1353) (0.239 COMP1350) (0.187 COMP1349)
+Breast cancer-resistant protein inhibitor	0.702	COMP1351	(0.652 COMP1352) (0.649 COMP1354) (0.642 COMP1353) (0.177 COMP1350)
+Bronchodilator	0.150	COMP1350	(0.128 COMP1351) (0.100 COMP1352) (0.092 COMP1354)
+Butyrylcholinesterase inhibitor	0.201	COMP1351	(0.191 COMP1354) (0.179 COMP1352) (0.174 COMP1353)
+CC chemokine 6 receptor antagonist	0.126	COMP1350	(0.124 COMP1351/COMP1354) (0.123 COMP1352)
+CD45 antagonist	0.064	COMP1354	(0.060 COMP1352) (0.058 COMP1351/COMP1353)
+CDC-like kinase 1 inhibitor	0.305	COMP1353	
+CDC-like kinase 3 inhibitor	0.216	COMP1353	
+CDC-like kinase 4 inhibitor	0.253	COMP1353	
+CDC25A inhibitor	0.207	COMP1355	(0.172 COMP1354) (0.171 COMP1352) (0.165 COMP1351) (0.103 COMP1350) (0.070 COMP1353) (0.069 COMP1349)
+CDC25B inhibitor	0.149	COMP1352	(0.147 COMP1354) (0.143 COMP1351) (0.099 COMP1353) (0.083 COMP1350)
+CF transmembrane conductance regulator agonist	0.418	COMP1352	(0.399 COMP1354) (0.314 COMP1351) (0.289 COMP1350) (0.236 COMP1353)
+CXC chemokine 1 receptor antagonist	0.049	COMP1353	
+CYP2A6 inhibitor	0.176	COMP1353	(0.096 COMP1352) (0.085 COMP1354) (0.075 COMP1351)
+Ca2+-transporting ATPase inhibitor	0.139	COMP1355	(0.137 COMP1351/COMP1352/COMP1354) (0.129 COMP1353)
+Calcium channel L-type activator	0.279	COMP1352	
+Calcium channel activator	0.284	COMP1351	(0.281 COMP1352) (0.280 COMP1354) (0.236 COMP1355)
+Carbonic anhydrase III inhibitor	0.228	COMP1352	(0.203 COMP1354) (0.196 COMP1351) (0.169 COMP1350)
+Carbonic anhydrase VA inhibitor	0.060	COMP1352	
+Carbonic anhydrase VI inhibitor	0.186	COMP1352	(0.165 COMP1351) (0.152 COMP1354) (0.138 COMP1350) (0.077 COMP1353)
+Carbonic anhydrase VII inhibitor	0.096	COMP1352	(0.092 COMP1350) (0.088 COMP1351) (0.082 COMP1354) (0.049 COMP1353)
+Carbonic anhydrase XII inhibitor	0.065	COMP1350	(0.045 COMP1352)
+Carbonic anhydrase XIII inhibitor	0.461	COMP1350	(0.238 COMP1352) (0.231 COMP1351) (0.217 COMP1354)
+Carbonic anhydrase XIV inhibitor	0.079	COMP1350	
+Carbonic anhydrase XV inhibitor	0.209	COMP1352	(0.194 COMP1354) (0.166 COMP1351)
+Caspase 3 stimulant	0.799	COMP1353	(0.762 COMP1351) (0.744 COMP1352) (0.741 COMP1354) (0.726 COMP1350) (0.350 COMP1355) (0.312 COMP1349)
+Caspase 9 stimulant	0.903	COMP1350	(0.849 COMP1351) (0.846 COMP1352) (0.845 COMP1354) (0.740 COMP1353) (0.488 COMP1355) (0.295 COMP1349)
+Catenin beta inhibitor	0.185	COMP1355	
+Cell adhesion inhibitor	0.162	COMP1350	
+Cell wall synthesis inhibitor	0.131	COMP1350	
+Chelator	0.288	COMP1352	(0.287 COMP1351) (0.278 COMP1354) (0.162 COMP1350)
+Cholesterol antagonist	0.580	COMP1350	(0.247 COMP1354) (0.230 COMP1352) (0.229 COMP1351) (0.205 COMP1349) (0.199 COMP1353) (0.194 COMP1355)
+Cholesterol esterase inhibitor	0.060	COMP1354	(0.051 COMP1352) (0.048 COMP1351)
+Cholesterol synthesis inhibitor	0.356	COMP1349	(0.141 COMP1351) (0.138 COMP1352) (0.133 COMP1354) (0.120 COMP1355)
+Cholinergic	0.354	COMP1351	(0.317 COMP1354) (0.308 COMP1352) (0.263 COMP1353) (0.115 COMP1350)
+Clk dual-specificity kinase inhibitor	0.298	COMP1353	
+Creatine kinase inhibitor	0.194	COMP1352	(0.159 COMP1354) (0.152 COMP1351) (0.130 COMP1353)
+Cyclic AMP phosphodiesterase inhibitor	0.547	COMP1350	(0.321 COMP1351) (0.279 COMP1352) (0.271 COMP1354) (0.151 COMP1355)
+Cyclin-dependent kinase 3 inhibitor	0.159	COMP1352	(0.152 COMP1354) (0.143 COMP1351) (0.136 COMP1353)
+Cyclooxygenase 1 inhibitor	0.158	COMP1352	(0.156 COMP1354) (0.148 COMP1351) (0.137 COMP1353)
+Cyclooxygenase 2 inhibitor	0.116	COMP1354	(0.113 COMP1352) (0.107 COMP1351)
+Cyclooxygenase 3 inhibitor	0.214	COMP1350	(0.134 COMP1353) (0.116 COMP1351) (0.111 COMP1354) (0.108 COMP1352)
+Cyclooxygenase inhibitor	0.156	COMP1354	(0.153 COMP1352) (0.144 COMP1351)
+Cyclophilin D inhibitor	0.753	COMP1350	(0.245 COMP1354)
+Cystathionine beta-synthase inhibitor	0.524	COMP1352	(0.477 COMP1354) (0.431 COMP1351) (0.285 COMP1350) (0.190 COMP1353)
+D-Ala-D-Ala ligase inhibitor	0.114	COMP1352	(0.113 COMP1354) (0.105 COMP1351)
+DNA damaging	0.718	COMP1350	(0.480 COMP1351) (0.439 COMP1352) (0.429 COMP1354) (0.425 COMP1353)
+DNA directed DNA polymerase inhibitor	0.404	COMP1354	(0.396 COMP1351) (0.394 COMP1352) (0.292 COMP1353)
+DNA directed RNA polymerase inhibitor	0.087	COMP1355	
+DNA helicase inhibitor	0.093	COMP1353	
+DNA intercalator	0.204	COMP1350/COMP1353	(0.156 COMP1351) (0.143 COMP1352) (0.136 COMP1354)
+DNA methylase inhibitor	0.526	COMP1350	(0.335 COMP1351) (0.290 COMP1352) (0.280 COMP1354)
+DNA methyltransferase I inhibitor	0.507	COMP1350	(0.363 COMP1351) (0.319 COMP1352) (0.307 COMP1354)
+DNA polymerase I inhibitor	0.201	COMP1349	(0.184 COMP1350) (0.106 COMP1355)
+DNA polymerase beta inhibitor	0.439	COMP1354	(0.427 COMP1352) (0.426 COMP1351) (0.339 COMP1353)
+DNA repair enzyme inhibitor	0.453	COMP1350	(0.192 COMP1354) (0.190 COMP1353) (0.189 COMP1352) (0.187 COMP1351)
+DNA synthesis inhibitor	0.413	COMP1350	(0.281 COMP1353) (0.176 COMP1351) (0.174 COMP1352)
+DNA-dependent protein kinase inhibitor	0.036	COMP1351	
+DOPA decarboxylase inhibitor	0.431	COMP1353	(0.393 COMP1352) (0.364 COMP1351) (0.357 COMP1354) (0.118 COMP1350)
+Dopamine D1 agonist	0.053	COMP1351	(0.052 COMP1352) (0.049 COMP1354) (0.036 COMP1350)
+Dopamine D1 antagonist	0.057	COMP1351	(0.056 COMP1352)
+Dopamine D2 agonist	0.048	COMP1352	(0.042 COMP1354)
+Dopamine D2 antagonist	0.058	COMP1352	(0.056 COMP1354) (0.055 COMP1351)
+Dopamine D5 agonist	0.048	COMP1352	(0.047 COMP1351) (0.039 COMP1354)
+Dopamine D5 antagonist	0.052	COMP1352	(0.050 COMP1351) (0.046 COMP1354)
+Dopamine agonist	0.105	COMP1352	(0.099 COMP1354) (0.090 COMP1351)
+Dopamine antagonist	0.064	COMP1351/COMP1352	(0.063 COMP1354)
+Dopamine autoreceptor agonist	0.057	COMP1353	
+Dual specificity phosphatase 3 inhibitor	0.318	COMP1354	(0.312 COMP1352) (0.306 COMP1351) (0.132 COMP1350) (0.127 COMP1353)
+Dual specificity phosphatase inhibitor	0.367	COMP1354	(0.364 COMP1352) (0.362 COMP1351) (0.175 COMP1353) (0.142 COMP1350)
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.412	COMP1353	(0.274 COMP1352) (0.240 COMP1354) (0.239 COMP1351)
+Dual specificity tyrosine-phosphorylation regulated kinase 1B inhibitor	0.194	COMP1353	
+Dyrk kinase inhibitor	0.372	COMP1353	(0.251 COMP1352) (0.221 COMP1354) (0.220 COMP1351)
+Elastase 1 inhibitor	0.069	COMP1352	(0.068 COMP1354)
+Electron transport complex I inhibitor	0.155	COMP1349	(0.145 COMP1351) (0.132 COMP1354) (0.124 COMP1352) (0.100 COMP1350)
+Endothelin A receptor antagonist	0.057	COMP1353	
+Endothelin B receptor antagonist	0.078	COMP1353	
+Endothelin receptor antagonist	0.096	COMP1353	
+Enoyl-[acyl-carrier-protein] reductase inhibitor	0.065	COMP1352	(0.059 COMP1354)
+Estradiol 17 beta-dehydrogenase 1 inhibitor	0.096	COMP1352	(0.074 COMP1354) (0.069 COMP1351) (0.021 COMP1353)
+Estrogen agonist	0.305	COMP1352	(0.221 COMP1354) (0.215 COMP1353) (0.213 COMP1351) (0.127 COMP1350)
+Estrogen antagonist	0.387	COMP1353	(0.333 COMP1352) (0.254 COMP1354) (0.241 COMP1351) (0.133 COMP1350) (0.110 COMP1355)
+Estrogen receptor alpha antagonist	0.309	COMP1352	(0.268 COMP1354) (0.224 COMP1353) (0.204 COMP1351)
+Estrogen receptor beta antagonist	0.435	COMP1353	(0.345 COMP1352) (0.252 COMP1354) (0.234 COMP1351) (0.101 COMP1350) (0.096 COMP1355)
+Estrogen-related receptor alpha antagonist	0.058	COMP1351	(0.056 COMP1352) (0.045 COMP1354) (0.029 COMP1350)
+Estrogen-related receptor beta antagonist	0.109	COMP1352	(0.094 COMP1351) (0.092 COMP1354) (0.079 COMP1353) (0.044 COMP1350)
+Expectorant	0.732	COMP1350	(0.310 COMP1351) (0.277 COMP1352) (0.274 COMP1354) (0.103 COMP1353)
+Factor III inhibitor	0.070	COMP1353	(0.065 COMP1350) (0.058 COMP1352) (0.057 COMP1351) (0.055 COMP1354)
+Factor V inhibitor	0.134	COMP1349	
+Farnesoid X receptor antagonist	0.239	COMP1349	
+Fatty acid synthase inhibitor	0.218	COMP1352	(0.194 COMP1354) (0.189 COMP1351) (0.134 COMP1350) (0.073 COMP1353)
+Free radical scavenger	0.772	COMP1350	(0.707 COMP1351) (0.705 COMP1352) (0.681 COMP1354) (0.570 COMP1353) (0.553 COMP1355) (0.183 COMP1349)
+GABA B receptor agonist	0.074	COMP1353	
+GABA C receptor agonist	0.088	COMP1355	
+GABA C receptor rho-1 antagonist	0.092	COMP1352	(0.087 COMP1351)
+GABA C receptor rho-2 antagonist	0.186	COMP1352	(0.176 COMP1351) (0.173 COMP1354)
+GABA C receptor rho-3 antagonist	0.429	COMP1352	(0.404 COMP1354) (0.360 COMP1353) (0.308 COMP1351)
+GABA aminotransferase inhibitor	0.112	COMP1353	(0.110 COMP1352) (0.094 COMP1354) (0.084 COMP1351)
+Gastrin inhibitor	0.214	COMP1355	
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.320	COMP1351	(0.304 COMP1354) (0.276 COMP1352)
+Glucose-6-phosphate isomerase inhibitor	0.085	COMP1350	
+Glucose-6-phosphate translocase inhibitor	0.088	COMP1350	(0.076 COMP1355) (0.064 COMP1351) (0.062 COMP1352) (0.061 COMP1354)
+Glutamate (mGluR7) antagonist	0.098	COMP1353	(0.090 COMP1354) (0.089 COMP1352) (0.077 COMP1351)
+Glutamate decarboxylase inhibitor	0.125	COMP1353	(0.070 COMP1352)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.424	COMP1350	(0.357 COMP1352) (0.350 COMP1354) (0.348 COMP1351) (0.236 COMP1353)
+Glycine receptor agonist	0.079	COMP1355	
+Granulocyte macrophage colony stimulating factor agonist	0.119	COMP1351	(0.117 COMP1354) (0.109 COMP1352)
+Growth factor agonist	0.209	COMP1349	
+HIV-1 integrase (3'-Processing) inhibitor	0.279	COMP1351	(0.270 COMP1352) (0.256 COMP1354) (0.158 COMP1353) (0.145 COMP1350) (0.061 COMP1349) (0.055 COMP1355)
+HIV-1 integrase (Strand Transfer) inhibitor	0.269	COMP1351	(0.258 COMP1352) (0.246 COMP1354) (0.145 COMP1353) (0.139 COMP1350) (0.113 COMP1355) (0.070 COMP1349)
+HIV-1 integrase inhibitor	0.152	COMP1351	(0.151 COMP1352) (0.147 COMP1354) (0.117 COMP1355) (0.095 COMP1353) (0.086 COMP1350)
+HMG CoA reductase inhibitor	0.035	COMP1349	(0.032 COMP1355)
+Heat shock protein 70 antagonist	0.173	COMP1352	(0.168 COMP1350/COMP1354) (0.165 COMP1351) (0.150 COMP1353)
+Heat shock protein 90 alpha antagonist	0.351	COMP1352	(0.330 COMP1354) (0.314 COMP1351) (0.285 COMP1353)
+Heat shock protein 90 antagonist	0.323	COMP1352	(0.311 COMP1351) (0.305 COMP1354) (0.292 COMP1353)
+Heat shock protein 90 beta antagonist	0.062	COMP1351	(0.057 COMP1352) (0.055 COMP1353) (0.054 COMP1354)
+Heme oxygenase stimulant	0.064	COMP1355	
+Hemostatic	0.323	COMP1350	
+Heparanase inhibitor	0.067	COMP1350	
+Hepatoprotectant	0.639	COMP1350	(0.599 COMP1353) (0.577 COMP1349) (0.484 COMP1351) (0.467 COMP1352) (0.452 COMP1354) (0.316 COMP1355)
+Hexokinase inhibitor	0.406	COMP1350	(0.203 COMP1352) (0.197 COMP1354) (0.190 COMP1351) (0.130 COMP1353)
+Histamine release inhibitor	0.579	COMP1353	(0.518 COMP1352) (0.510 COMP1351) (0.508 COMP1350/COMP1354)
+Histidine decarboxylase inhibitor	0.558	COMP1352	(0.545 COMP1353) (0.540 COMP1351) (0.516 COMP1354) (0.177 COMP1350)
+Histone acetyltransferase inhibitor	0.192	COMP1354	(0.185 COMP1352) (0.181 COMP1351)
+Histone deacetylase SIRT1 stimulant	0.128	COMP1350	
+Histone deacetylase stimulant	0.128	COMP1350	
+Human rhinovirus A protease inhibitor	0.049	COMP1355	
+Hypoglycemic	0.679	COMP1350	(0.384 COMP1354) (0.382 COMP1352) (0.358 COMP1351) (0.304 COMP1353) (0.239 COMP1349)
+Hypolipemic	0.406	COMP1349	(0.145 COMP1350)
+I kappa B kinase epsilon inhibitor	0.252	COMP1354	(0.247 COMP1352) (0.245 COMP1351)
+Immunomodulator	0.296	COMP1350	
+Immunostimulant	0.504	COMP1350	(0.207 COMP1349) (0.200 COMP1352) (0.176 COMP1351) (0.174 COMP1354) (0.159 COMP1355)
+Immunosuppressant	0.499	COMP1355	(0.482 COMP1350) (0.457 COMP1349) (0.238 COMP1351) (0.229 COMP1352) (0.224 COMP1354) (0.210 COMP1353)
+Inducible nitric-oxide synthase inhibitor	0.119	COMP1355	
+Insulin secretagoues	0.264	COMP1350	(0.179 COMP1354) (0.171 COMP1352) (0.158 COMP1351)
+Insulin sensitizer	0.215	COMP1354	(0.202 COMP1352) (0.192 COMP1351) (0.174 COMP1350)
+Insulysin inhibitor	0.269	COMP1352	(0.255 COMP1351) (0.244 COMP1354)
+Interferon agonist	0.079	COMP1350	
+Interferon gamma antagonist	0.468	COMP1350	(0.202 COMP1351) (0.194 COMP1352) (0.184 COMP1354) (0.167 COMP1355) (0.134 COMP1349)
+Interleukin 1 antagonist	0.270	COMP1355	(0.203 COMP1354) (0.198 COMP1352) (0.196 COMP1351) (0.132 COMP1350) (0.113 COMP1353)
+Interleukin 12 antagonist	0.117	COMP1350	
+Interleukin 1b antagonist	0.235	COMP1354	(0.225 COMP1351) (0.223 COMP1352) (0.219 COMP1355) (0.184 COMP1350) (0.161 COMP1353)
+Interleukin 2 agonist	0.404	COMP1350	(0.203 COMP1349)
+Interleukin 4 antagonist	0.216	COMP1352	(0.201 COMP1350) (0.198 COMP1351) (0.188 COMP1354) (0.128 COMP1353)
+Interleukin 5 antagonist	0.390	COMP1352	(0.382 COMP1351) (0.377 COMP1354) (0.279 COMP1353) (0.249 COMP1350)
+Interleukin 6 antagonist	0.233	COMP1350	(0.181 COMP1349) (0.137 COMP1351) (0.134 COMP1352) (0.132 COMP1354)
+Interleukin 8 antagonist	0.122	COMP1353	(0.121 COMP1351) (0.117 COMP1352) (0.112 COMP1354)
+Interleukin agonist	0.293	COMP1350	
+Interleukin antagonist	0.362	COMP1352	(0.318 COMP1354) (0.301 COMP1351) (0.219 COMP1350) (0.218 COMP1353)
+Kainate receptor agonist	0.041	COMP1355	
+Keratolytic	0.124	COMP1352	(0.113 COMP1351) (0.111 COMP1354) (0.087 COMP1353)
+Leukotriene synthesis inhibitor	0.104	COMP1354	(0.099 COMP1351) (0.096 COMP1352)
+Lipase inhibitor	0.135	COMP1349	(0.126 COMP1352) (0.122 COMP1351) (0.121 COMP1354) (0.099 COMP1350) (0.095 COMP1353)
+Lipid peroxidase inhibitor	0.468	COMP1350	(0.425 COMP1351) (0.417 COMP1352) (0.395 COMP1354) (0.327 COMP1353) (0.225 COMP1349) (0.119 COMP1355)
+Lipocortins synthesis agonist	0.078	COMP1355	(0.072 COMP1349) (0.056 COMP1350)
+Lipocortins synthesis antagonist	0.278	COMP1349	(0.139 COMP1355)
+Lipoxygenase inhibitor	0.754	COMP1354	(0.748 COMP1352) (0.743 COMP1351) (0.581 COMP1353) (0.276 COMP1350)
+M18 aspartyl aminopeptidase inhibitor	0.314	COMP1352	(0.307 COMP1351) (0.296 COMP1354)
+MAO A inhibitor	0.659	COMP1352	(0.655 COMP1354) (0.583 COMP1351) (0.550 COMP1353) (0.160 COMP1350)
+MAO B inhibitor	0.457	COMP1353	(0.427 COMP1354) (0.409 COMP1352) (0.343 COMP1351)
+MAO inhibitor	0.617	COMP1354	(0.604 COMP1352) (0.555 COMP1353) (0.511 COMP1351) (0.097 COMP1350)
+MAP kinase 1 inhibitor	0.354	COMP1351	(0.302 COMP1354) (0.289 COMP1352)
+MAP kinase kinase 4 inhibitor	0.230	COMP1353	(0.198 COMP1352) (0.186 COMP1351) (0.185 COMP1354)
+MAP-kinase-activated kinase 5 inhibitor	0.209	COMP1352	(0.200 COMP1351) (0.189 COMP1354) (0.165 COMP1353)
+Macrophage migration inhibitory factor inhibitor	0.426	COMP1352	(0.386 COMP1354) (0.346 COMP1351) (0.271 COMP1353)
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.062	COMP1350	
+Mannose-6-phosphate isomerase inhibitor	0.349	COMP1350	(0.279 COMP1354) (0.266 COMP1351) (0.257 COMP1352) (0.155 COMP1353)
+Mannosidase inhibitor	0.072	COMP1350	
+Mcl-1 antagonist	0.380	COMP1351	(0.379 COMP1354) (0.378 COMP1352) (0.204 COMP1353)
+Mediator release inhibitor	0.504	COMP1350	(0.125 COMP1352) (0.117 COMP1354) (0.113 COMP1351)
+Melanin inhibitor	0.892	COMP1350	(0.638 COMP1352) (0.612 COMP1353) (0.605 COMP1354) (0.595 COMP1351) (0.323 COMP1349) (0.216 COMP1355)
+Melatonin 2 agonist	0.039	COMP1350	(0.035 COMP1351) (0.032 COMP1354)
+Membrane dipeptidase inhibitor	0.047	COMP1355	
+Microtubule formation inhibitor	0.237	COMP1349	(0.222 COMP1355) (0.146 COMP1353) (0.124 COMP1351) (0.117 COMP1350) (0.111 COMP1354) (0.107 COMP1352)
+Microtubule stabilization	0.051	COMP1349/COMP1355	
+Monophenol monooxygenase inhibitor	0.955	COMP1350	(0.656 COMP1352) (0.616 COMP1354) (0.615 COMP1351) (0.420 COMP1353) (0.124 COMP1355)
+Mucolytic	0.232	COMP1350	(0.154 COMP1351) (0.140 COMP1354) (0.139 COMP1352)
+Multidrug resistance-associated protein 1 inhibitor	0.253	COMP1351	(0.238 COMP1352) (0.236 COMP1354) (0.167 COMP1350) (0.166 COMP1353)
+Myeloperoxidase inhibitor	0.127	COMP1352	(0.119 COMP1351/COMP1354) (0.095 COMP1353)
+NAD(P)H dehydrogenase (quinone) inhibitor	0.304	COMP1352	(0.284 COMP1354) (0.280 COMP1351) (0.129 COMP1353) (0.093 COMP1350)
+NADH dehydrogenase inhibitor	0.170	COMP1350	
+NADPH oxidase inhibitor	0.627	COMP1351	(0.624 COMP1352) (0.609 COMP1354) (0.419 COMP1353) (0.415 COMP1350)
+NOS3 expression enhancer	0.663	COMP1350	(0.643 COMP1352) (0.618 COMP1351) (0.607 COMP1354) (0.495 COMP1353)
+Na+ K+ transporting ATPase inhibitor	0.140	COMP1350	(0.136 COMP1349) (0.116 COMP1355) (0.096 COMP1352) (0.095 COMP1351) (0.091 COMP1354)
+Neuraminidase (Influenza A) inhibitor	0.052	COMP1350	(0.051 COMP1351) (0.049 COMP1352) (0.047 COMP1354)
+Neuraminidase (influenza) inhibitor	0.113	COMP1350	(0.111 COMP1352) (0.106 COMP1351) (0.096 COMP1354) (0.066 COMP1353)
+Neuraminidase inhibitor	0.128	COMP1352	(0.126 COMP1351) (0.117 COMP1354) (0.114 COMP1350) (0.099 COMP1353) (0.053 COMP1355)
+Neurotrophic factor	0.293	COMP1349	(0.253 COMP1351) (0.238 COMP1352) (0.234 COMP1354) (0.209 COMP1350) (0.128 COMP1355) (0.122 COMP1353)
+Neurotrophic factor enhancer	0.391	COMP1349	(0.369 COMP1350) (0.264 COMP1353) (0.216 COMP1352) (0.212 COMP1351) (0.211 COMP1355) (0.193 COMP1354)
+Nitric oxide antagonist	0.670	COMP1350	(0.529 COMP1355) (0.516 COMP1351) (0.498 COMP1352) (0.484 COMP1353) (0.479 COMP1354) (0.472 COMP1349)
+Nitric oxide donor	0.087	COMP1350	(0.068 COMP1351) (0.066 COMP1354) (0.063 COMP1352)
+Nitric-oxide synthase stimulant	0.303	COMP1350	(0.255 COMP1351) (0.234 COMP1352) (0.230 COMP1354)
+Non-steroidal antiinflammatory agent	0.441	COMP1350	(0.219 COMP1351) (0.209 COMP1354) (0.203 COMP1352)
+Ornithine decarboxylase inhibitor	0.156	COMP1349	(0.114 COMP1355) (0.076 COMP1351)
+P-glycoprotein inhibitor	0.559	COMP1351	(0.542 COMP1353) (0.509 COMP1354) (0.502 COMP1352) (0.429 COMP1350) (0.161 COMP1349)
+Peptidyltransferase inhibitor	0.325	COMP1350	(0.213 COMP1349) (0.177 COMP1353)
+Peroxidase inhibitor	0.519	COMP1352	(0.447 COMP1351) (0.446 COMP1354) (0.224 COMP1353)
+Phosphodiesterase 11A inhibitor	0.113	COMP1353	
+Phosphodiesterase 5A inhibitor	0.123	COMP1353	
+Phosphodiesterase 6C inhibitor	0.050	COMP1353	
+Phosphodiesterase 6D inhibitor	0.159	COMP1350	(0.092 COMP1353)
+Phosphodiesterase V inhibitor	0.140	COMP1353	
+Phosphodiesterase VI inhibitor	0.250	COMP1350	(0.120 COMP1353) (0.111 COMP1354) (0.110 COMP1352) (0.106 COMP1351)
+Phosphodiesterase XI inhibitor	0.113	COMP1353	
+Phosphofructokinase-1 inhibitor	0.133	COMP1350	
+Phospholipase A2 inhibitor	0.134	COMP1349	(0.122 COMP1354)
+Phospholipase C inhibitor	0.207	COMP1352	(0.193 COMP1354) (0.191 COMP1353) (0.187 COMP1351) (0.157 COMP1350)
+Photosensitizer	0.299	COMP1350	(0.183 COMP1352) (0.171 COMP1354) (0.170 COMP1351) (0.131 COMP1353) (0.098 COMP1355)
+Platelet adhesion inhibitor	0.502	COMP1349	(0.445 COMP1350) (0.368 COMP1355) (0.300 COMP1351) (0.287 COMP1352) (0.279 COMP1354) (0.184 COMP1353)
+Platelet antagonist	0.239	COMP1349	(0.178 COMP1355) (0.153 COMP1350)
+Potassium channel (Ca-activated) activator	0.078	COMP1352	
+Potassium channel Kv1.3 blocker	0.105	COMP1353	(0.094 COMP1354) (0.080 COMP1352) (0.066 COMP1351)
+Pregnane X receptor antagonist	0.078	COMP1355	(0.067 COMP1349)
+Progesterone receptor B antagonist	0.027	COMP1355	(0.026 COMP1349)
+Prolactin inhibitor	0.099	COMP1352	(0.086 COMP1354)
+Prostacyclin agonist	0.027	COMP1355	
+Prostaglandin D2 agonist	0.039	COMP1355	(0.029 COMP1349)
+Prostaglandin EP2 antagonist	0.128	COMP1355	
+Prostaglandin F2 alpha agonist	0.024	COMP1355	
+Prostaglandin F2 alpha antagonist	0.080	COMP1355	
+Prostaglandin dehydrogenase inhibitor	0.533	COMP1354	(0.517 COMP1352) (0.491 COMP1351) (0.488 COMP1353)
+Protease 3C (Human rhinovirus) inhibitor	0.067	COMP1355	
+Proteasome inhibitor	0.147	COMP1352	(0.145 COMP1354) (0.141 COMP1351)
+Protein 30S ribosomal subunit inhibitor	0.085	COMP1350	(0.023 COMP1351) (0.022 COMP1352/COMP1354)
+Protein 50S ribosomal subunit inhibitor	0.099	COMP1350	(0.087 COMP1349) (0.066 COMP1355)
+Protein kinase (CK2) alpha inhibitor	0.098	COMP1351	(0.095 COMP1352)
+Protein kinase C alpha inhibitor	0.211	COMP1349	
+Protein kinase C zeta inhibitor	0.215	COMP1352	(0.197 COMP1351) (0.183 COMP1354)
+Protein kinase stimulant	0.508	COMP1350	(0.329 COMP1349) (0.196 COMP1355) (0.189 COMP1352) (0.184 COMP1351) (0.176 COMP1354) (0.126 COMP1353)
+Protein-tyrosine phosphatase 1B inhibitor	0.256	COMP1352	(0.253 COMP1354) (0.247 COMP1351) (0.198 COMP1353) (0.182 COMP1350) (0.103 COMP1349)
+Protein-tyrosine phosphatase inhibitor	0.334	COMP1352	(0.331 COMP1354) (0.326 COMP1351) (0.288 COMP1353) (0.226 COMP1350) (0.138 COMP1355)
+Proto-oncogene tyrosine-protein kinase Fyn inhibitor	0.191	COMP1351	(0.173 COMP1353) (0.171 COMP1352) (0.164 COMP1354)
+Psychostimulant	0.261	COMP1353	(0.133 COMP1352)
+Pyruvate kinase inhibitor	0.603	COMP1352	(0.597 COMP1354) (0.573 COMP1351) (0.519 COMP1353) (0.268 COMP1350)
+RNA-directed RNA polymerase stimulant	0.027	COMP1349	
+Retinoic acid alpha receptor agonist	0.045	COMP1349	(0.040 COMP1355)
+Retinoic acid alpha receptor antagonist	0.019	COMP1355	
+Retinoic acid beta receptor agonist	0.022	COMP1355	(0.018 COMP1349)
+Retinoic acid gamma receptor agonist	0.029	COMP1355	(0.027 COMP1349)
+Retinoic acid receptor agonist	0.045	COMP1349	(0.025 COMP1355)
+Retinoic acid receptor antagonist	0.040	COMP1355	
+Retinoid X alpha receptor agonist	0.034	COMP1355	
+Retinoid X alpha receptor antagonist	0.031	COMP1355	
+Retinoid X beta receptor agonist	0.026	COMP1355	
+Retinoid X beta receptor antagonist	0.023	COMP1355	
+Retinoid X gamma receptor agonist	0.035	COMP1355	
+Retinoid X gamma receptor antagonist	0.031	COMP1349/COMP1355	
+Retinoid X receptor agonist	0.055	COMP1355	
+Retinoid X receptor antagonist	0.035	COMP1355	
+Ryanodine receptor antagonist	0.057	COMP1354	(0.056 COMP1353)
+Selectin antagonist	0.342	COMP1350	
+Sodium/bile acid cotransporter inhibitor	0.249	COMP1349	(0.231 COMP1351) (0.229 COMP1352) (0.209 COMP1354)
+Sodium/glucose cotransporter 2 inhibitor	0.137	COMP1350	(0.031 COMP1353) (0.027 COMP1354) (0.026 COMP1352)
+Sodium/glucose cotransporter inhibitor	0.146	COMP1350	(0.024 COMP1353)
+Spasmolytic	0.580	COMP1350	(0.458 COMP1351) (0.450 COMP1352) (0.448 COMP1353) (0.433 COMP1354)
+Sphingomyelinase inhibitor	0.127	COMP1350	(0.095 COMP1354)
+Sphingosine 1-phosphate receptor 2 agonist	0.129	COMP1353	
+Sphingosine 1-phosphate receptor 4 antagonist	0.153	COMP1355	
+Squalene synthetase inhibitor	0.127	COMP1349	
+Streptokinase A inhibitor	0.332	COMP1353	(0.290 COMP1352/COMP1354) (0.264 COMP1351)
+Succinate dehydrogenase inhibitor	0.337	COMP1351	(0.296 COMP1352/COMP1354) (0.189 COMP1353/COMP1355)
+Superoxide dismutase inhibitor	0.383	COMP1351	(0.363 COMP1352) (0.353 COMP1354) (0.167 COMP1355)
+T cell inhibitor	0.093	COMP1350	
+TRPA1 agonist	0.170	COMP1349	(0.168 COMP1355)
+Telomerase inhibitor	0.296	COMP1353	(0.225 COMP1351) (0.220 COMP1354) (0.217 COMP1352) (0.067 COMP1350)
+Telomerase stimulant	0.019	COMP1350	
+Thioredoxin glutathione reductase inhibitor	0.400	COMP1351	(0.399 COMP1354) (0.395 COMP1353) (0.389 COMP1352)
+Thioredoxin inhibitor	0.166	COMP1350	(0.101 COMP1352) (0.096 COMP1354) (0.095 COMP1351) (0.082 COMP1355)
+Thioredoxin reductase inhibitor	0.107	COMP1352	(0.106 COMP1354) (0.104 COMP1351) (0.090 COMP1350) (0.077 COMP1355)
+Thrombolytic	0.290	COMP1350	(0.142 COMP1349)
+Thyroid hormone antagonist	0.234	COMP1354	(0.218 COMP1351) (0.207 COMP1352)
+Thyroid hormone beta antagonist	0.193	COMP1354	(0.181 COMP1351)
+Toll-Like receptor 2 antagonist	0.278	COMP1351	(0.266 COMP1352) (0.249 COMP1354) (0.216 COMP1350) (0.104 COMP1353)
+Toll-Like receptor 4 agonist	0.033	COMP1350	
+Toll-Like receptor 4 antagonist	0.192	COMP1350	(0.118 COMP1352) (0.110 COMP1354) (0.108 COMP1351) (0.096 COMP1355)
+Topoisomerase I inhibitor	0.408	COMP1353	(0.392 COMP1350) (0.301 COMP1351) (0.285 COMP1352) (0.264 COMP1354)
+Topoisomerase II alpha inhibitor	0.409	COMP1351	(0.406 COMP1353) (0.400 COMP1352) (0.367 COMP1354) (0.346 COMP1350)
+Topoisomerase II beta inhibitor	0.085	COMP1351	(0.077 COMP1352) (0.061 COMP1350) (0.060 COMP1354) (0.053 COMP1353)
+Topoisomerase II inhibitor	0.662	COMP1353	(0.575 COMP1351) (0.562 COMP1352) (0.529 COMP1354) (0.510 COMP1350)
+Transcription factor AP-1 inhibitor	0.382	COMP1355	
+Transcription factor NF kappa B inhibitor	0.917	COMP1350	(0.726 COMP1355) (0.708 COMP1351) (0.707 COMP1352) (0.687 COMP1354) (0.613 COMP1349) (0.563 COMP1353)
+Transcription factor NF kappa B stimulant	0.150	COMP1350	(0.085 COMP1349) (0.079 COMP1355)
+Transcription factor RelA inhibitor	0.111	COMP1351	(0.109 COMP1352) (0.108 COMP1354)
+Transcription factor STAT inhibitor	0.275	COMP1352	(0.269 COMP1354) (0.237 COMP1351)
+Transcription factor STAT3 inhibitor	0.269	COMP1354	(0.264 COMP1352) (0.240 COMP1351)
+Transcription factor inhibitor	0.287	COMP1354	(0.286 COMP1353) (0.274 COMP1352) (0.265 COMP1351) (0.264 COMP1355)
+Triose-phosphate isomerase inhibitor	0.129	COMP1350	
+Tubulin agonist	0.053	COMP1355	(0.032 COMP1349)
+Tubulin antagonist	0.680	COMP1351	(0.591 COMP1354) (0.576 COMP1352) (0.474 COMP1353) (0.266 COMP1350)
+Tumour necrosis factor alpha release inhibitor	0.709	COMP1350	(0.534 COMP1351) (0.480 COMP1352) (0.476 COMP1354) (0.470 COMP1355) (0.404 COMP1353)
+Tumour necrosis factor antagonist	0.200	COMP1351	(0.187 COMP1354) (0.169 COMP1352)
+Tyrosine 3 hydroxylase inhibitor	0.308	COMP1352	(0.274 COMP1354) (0.249 COMP1351) (0.196 COMP1353)
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.094	COMP1355	
+UDP-glucose 4-epimerase inhibitor	0.272	COMP1350	
+Urease inhibitor	0.185	COMP1352	(0.180 COMP1351) (0.177 COMP1354) (0.102 COMP1353)
+Uric acid excretion stimulant	0.163	COMP1352	(0.157 COMP1351) (0.156 COMP1354) (0.142 COMP1350) (0.082 COMP1353)
+Vanilloid 1 agonist	0.160	COMP1350	(0.154 COMP1349) (0.129 COMP1355) (0.127 COMP1351) (0.120 COMP1352) (0.118 COMP1354)
+Vanilloid 2 antagonist	0.051	COMP1351	
+Vanilloid agonist	0.163	COMP1349	
+Vasodilator	0.496	COMP1350	(0.424 COMP1351) (0.420 COMP1353) (0.416 COMP1352) (0.403 COMP1354)
+Vasodilator. coronary	0.938	COMP1350	(0.640 COMP1351) (0.626 COMP1354) (0.618 COMP1352) (0.581 COMP1353)
+Vasodilator. peripheral	0.385	COMP1350	(0.311 COMP1355) (0.201 COMP1351)
+Vitamin D receptor agonist	0.016	COMP1355	
+Vitamin D receptor antagonist	0.022	COMP1349	
+Xanthine dehydrogenase inhibitor	0.240	COMP1352	(0.230 COMP1354) (0.207 COMP1351) (0.116 COMP1353) (0.099 COMP1350)
+Xanthine oxidase inhibitor	0.796	COMP1350	(0.500 COMP1352) (0.448 COMP1354) (0.440 COMP1351) (0.218 COMP1353)

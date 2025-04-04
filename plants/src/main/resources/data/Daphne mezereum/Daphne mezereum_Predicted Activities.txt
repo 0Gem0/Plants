@@ -1,0 +1,405 @@
+Name	Activation_Prob	Compound	Another_Probs
+1.3-Beta-glucan synthase inhibitor	0.033	COMP743	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.344	COMP743	
+5 Hydroxytryptamine release inhibitor	0.505	COMP743	
+5 Hydroxytryptamine release stimulant	0.668	COMP743	
+AMP-activated protein kinase stimulant	0.609	COMP743	
+AR expression inhibitor	0.725	COMP743	
+ATPase (Vacuolar H+) inhibitor	0.135	COMP743	
+ATPase inhibitor	0.287	COMP743	
+Acetylcholinesterase inhibitor	0.183	COMP743	
+Actinic keratosis treatment	0.108	COMP743	
+Acute respiratory distress syndrome (ARDS) treatment	0.352	COMP743	
+Adenine nucleotide translocase inhibitor	0.055	COMP743	
+Adenosine A1 receptor agonist	0.023	COMP743	
+Adenosine deaminase inhibitor	0.068	COMP743	
+Adenylate cyclase stimulant	0.150	COMP743	
+Alcohol dehydrogenase inhibitor	0.432	COMP743	
+Aldehyde dehydrogenase inhibitor	0.384	COMP743	
+Aldose reductase inhibitor	0.334	COMP743	
+Aldose reductase substrate	0.490	COMP743	
+Alkaline phosphatase inhibitor	0.340	COMP743	
+Alkylator	0.576	COMP743	
+Alpha-N-acetylglucosaminidase inhibitor	0.332	COMP743	
+Alpha-glucosidase inhibitor	0.952	COMP743	
+Alpha-mannosidase inhibitor	0.134	COMP743	
+Alzheimer's disease treatment	0.472	COMP743	
+Aminoacyl-tRNA synthetase inhibitor	0.080	COMP743	
+Amylase inhibitor	0.914	COMP743	
+Amyloid beta aggregation inhibitor	0.581	COMP743	
+Analeptic	0.589	COMP743	
+Andropause treatment	0.064	COMP743	
+Anesthetic general	0.183	COMP743	
+Angiogenesis inhibitor	0.253	COMP743	
+Angiogenesis stimulant	0.795	COMP743	
+Antiacne	0.137	COMP743	
+Antialcoholic	0.183	COMP743	
+Antiamyloidogenic	0.639	COMP743	
+Antiarthritic	0.423	COMP743	
+Antibacterial	0.779	COMP743	
+Antibacterial (Helicobacter pylori)	0.155	COMP743	
+Antibiotic	0.268	COMP743	
+Antibiotic Aminoglycoside-like	0.106	COMP743	
+Antibiotic Anthracycline-like	0.030	COMP743	
+Antibiotic Glycopeptide-like	0.236	COMP743	
+Antibiotic Macrolide-like	0.015	COMP743	
+Anticataract	0.183	COMP743	
+Anticoagulant	0.127	COMP743	
+Antidiabetic	0.866	COMP743	
+Antidiabetic (type 1)	0.130	COMP743	
+Antidiabetic (type 2)	0.429	COMP743	
+Antidiabetic symptomatic	0.457	COMP743	
+Antidiarrheal	0.251	COMP743	
+Antidote	0.711	COMP743	
+Antidote. heavy metal	0.132	COMP743	
+Antifungal	0.575	COMP743	
+Antifungal (Cryptococcus)	0.233	COMP743	
+Antifungal (Pneumocystis)	0.110	COMP743	
+Antifungal enhancer	0.408	COMP743	
+Antihelmintic	0.679	COMP743	
+Antihelmintic (Nematodes)	0.258	COMP743	
+Antihelmintic (Trematoda)	0.612	COMP743	
+Antihemorrhagic	0.914	COMP743	
+Antihypercholesterolemic	0.875	COMP743	
+Antihypertriglyceridemic	0.741	COMP743	
+Antihypotensive	0.722	COMP743	
+Antihypoxic	0.938	COMP743	
+Antiinflammatory	0.873	COMP743	
+Antiischemic	0.471	COMP743	
+Antileukemic	0.722	COMP743	
+Antimutagenic	0.972	COMP743	
+Antimycobacterial	0.320	COMP743	
+Antimycoplasmal	0.136	COMP743	
+Antineoplastic (bladder cancer)	0.293	COMP743	
+Antineoplastic (bone cancer)	0.201	COMP743	
+Antineoplastic (brain cancer)	0.483	COMP743	
+Antineoplastic (breast cancer)	0.630	COMP743	
+Antineoplastic (carcinoma)	0.300	COMP743	
+Antineoplastic (cervical cancer)	0.551	COMP743	
+Antineoplastic (colon cancer)	0.558	COMP743	
+Antineoplastic (colorectal cancer)	0.600	COMP743	
+Antineoplastic (endocrine cancer)	0.242	COMP743	
+Antineoplastic (gastric cancer)	0.293	COMP743	
+Antineoplastic (glioblastoma multiforme)	0.423	COMP743	
+Antineoplastic (glioma)	0.475	COMP743	
+Antineoplastic (liver cancer)	0.484	COMP743	
+Antineoplastic (lung cancer)	0.661	COMP743	
+Antineoplastic (lymphocytic leukemia)	0.297	COMP743	
+Antineoplastic (lymphoma)	0.506	COMP743	
+Antineoplastic (melanoma)	0.477	COMP743	
+Antineoplastic (multiple myeloma)	0.423	COMP743	
+Antineoplastic (non-Hodgkin's lymphoma)	0.210	COMP743	
+Antineoplastic (non-small cell lung cancer)	0.345	COMP743	
+Antineoplastic (osteosarcoma)	0.624	COMP743	
+Antineoplastic (ovarian cancer)	0.492	COMP743	
+Antineoplastic (pancreatic cancer)	0.563	COMP743	
+Antineoplastic (renal cancer)	0.329	COMP743	
+Antineoplastic (sarcoma)	0.527	COMP743	
+Antineoplastic (small cell lung cancer)	0.398	COMP743	
+Antineoplastic (solid tumors)	0.434	COMP743	
+Antineoplastic (squamous cell carcinoma)	0.395	COMP743	
+Antineoplastic (uterine cancer)	0.170	COMP743	
+Antineoplastic antibiotic	0.400	COMP743	
+Antineoplastic enhancer	0.417	COMP743	
+Antineoplastic. alkylator	0.222	COMP743	
+Antiosteoporotic	0.468	COMP743	
+Antioxidant	0.937	COMP743	
+Antiparasitic	0.706	COMP743	
+Antiprotozoal	0.414	COMP743	
+Antiprotozoal (Coccidial)	0.257	COMP743	
+Antiprotozoal (Leishmania)	0.586	COMP743	
+Antiprotozoal (Plasmodium)	0.228	COMP743	
+Antiprotozoal (Trypanosoma)	0.242	COMP743	
+Antipruritic. allergic	0.636	COMP743	
+Antipruritic. non-allergic	0.307	COMP743	
+Antipyretic	0.507	COMP743	
+Antirickettsial	0.222	COMP743	
+Antispirochetal	0.280	COMP743	
+Antithrombotic	0.780	COMP743	
+Antitreponemal	0.098	COMP743	
+Antituberculosic	0.165	COMP743	
+Antitussive	0.621	COMP743	
+Antiulcerative	0.362	COMP743	
+Antiviral (Dengue virus)	0.143	COMP743	
+Antiviral (Ebola)	0.394	COMP743	
+Antiviral (HIV)	0.220	COMP743	
+Antiviral (Hepatitis B)	0.160	COMP743	
+Antiviral (Hepatitis C)	0.142	COMP743	
+Antiviral (Hepatitis)	0.200	COMP743	
+Antiviral (Herpes)	0.464	COMP743	
+Antiviral (Herpesvirus 3. Human)	0.046	COMP743	
+Antiviral (Influenza A)	0.354	COMP743	
+Antiviral (Influenza B)	0.438	COMP743	
+Antiviral (Influenza)	0.431	COMP743	
+Antiviral (Rhinovirus)	0.101	COMP743	
+Antiviral (Trachoma)	0.117	COMP743	
+Apoptosis agonist	0.870	COMP743	
+Apoptosis antagonist	0.736	COMP743	
+Arginase inhibitor	0.149	COMP743	
+Aryl hydrocarbon receptor agonist	0.176	COMP743	
+Atherosclerosis treatment	0.288	COMP743	
+Beta amyloid protein antagonist	0.114	COMP743	
+Beta glucuronidase inhibitor	0.524	COMP743	
+Bone diseases treatment	0.467	COMP743	
+Breast cancer-resistant protein inhibitor	0.099	COMP743	
+CC chemokine 6 receptor antagonist	0.130	COMP743	
+CDC25A inhibitor	0.120	COMP743	
+CDC25B inhibitor	0.075	COMP743	
+CF transmembrane conductance regulator agonist	0.215	COMP743	
+CTGF expression inhibitor	0.515	COMP743	
+CYP1A2 inhibitor	0.297	COMP743	
+CYP1A2 substrate	0.511	COMP743	
+CYP2C19 inhibitor	0.287	COMP743	
+CYP2C19 substrate	0.587	COMP743	
+CYP2C9 substrate	0.715	COMP743	
+CYP2D6 substrate	0.373	COMP743	
+CYP3A4 substrate	0.655	COMP743	
+Ca2+-transporting ATPase inhibitor	0.136	COMP743	
+Carbonic anhydrase III inhibitor	0.631	COMP743	
+Carbonic anhydrase IX inhibitor	0.050	COMP743	
+Carbonic anhydrase VA inhibitor	0.061	COMP743	
+Carbonic anhydrase VI inhibitor	0.518	COMP743	
+Carbonic anhydrase VII inhibitor	0.252	COMP743	
+Carbonic anhydrase XII inhibitor	0.230	COMP743	
+Carbonic anhydrase XIII inhibitor	0.792	COMP743	
+Carbonic anhydrase XIV inhibitor	0.281	COMP743	
+Carbonic anhydrase XV inhibitor	0.091	COMP743	
+Carbonic anhydrase inhibitor	0.067	COMP743	
+Carcinogenic	0.908	COMP743	
+Carcinogenic. group 1	0.450	COMP743	
+Carcinogenic. group 2A	0.180	COMP743	
+Carcinogenic. group 2B	0.237	COMP743	
+Carcinogenic. group 3	0.323	COMP743	
+Cardioprotectant	0.904	COMP743	
+Caspase 3 stimulant	0.741	COMP743	
+Caspase 9 stimulant	0.932	COMP743	
+Cell adhesion inhibitor	0.208	COMP743	
+Cell wall synthesis inhibitor	0.306	COMP743	
+Chelator	0.222	COMP743	
+Chemopreventive	0.955	COMP743	
+Chemoprotective	0.993	COMP743	
+Choleretic	0.215	COMP743	
+Cholesterol absorption inhibitor	0.158	COMP743	
+Cholesterol antagonist	0.563	COMP743	
+Chronic obstructive bronchitis treatment	0.222	COMP743	
+Contraceptive	0.125	COMP743	
+Creatine kinase inhibitor	0.232	COMP743	
+Cyclic AMP phosphodiesterase inhibitor	0.365	COMP743	
+Cyclooxygenase 1 inhibitor	0.154	COMP743	
+Cyclooxygenase 2 inhibitor	0.176	COMP743	
+Cyclooxygenase 3 inhibitor	0.577	COMP743	
+Cyclooxygenase inhibitor	0.197	COMP743	
+Cyclophilin D inhibitor	0.866	COMP743	
+Cystathionine beta-synthase inhibitor	0.755	COMP743	
+Cystic fibrosis treatment	0.238	COMP743	
+Cytokine production stimulant	0.046	COMP743	
+Cytostatic	0.879	COMP743	
+Cytotoxic	0.643	COMP743	
+DNA damaging	0.843	COMP743	
+DNA gyrase inhibitor	0.063	COMP743	
+DNA intercalator	0.225	COMP743	
+DNA methylase inhibitor	0.391	COMP743	
+DNA methyltransferase I inhibitor	0.360	COMP743	
+DNA polymerase I inhibitor	0.223	COMP743	
+DNA repair enzyme inhibitor	0.496	COMP743	
+DNA synthesis inhibitor	0.534	COMP743	
+Dementia treatment	0.389	COMP743	
+Diabetic nephropathy treatment	0.139	COMP743	
+Diabetic retinopathy treatment	0.220	COMP743	
+Diuretic	0.138	COMP743	
+Dual specificity phosphatase 3 inhibitor	0.157	COMP743	
+Dual specificity phosphatase inhibitor	0.154	COMP743	
+Embryotoxic	0.801	COMP743	
+Equilibrative nucleoside transport protein inhibitor	0.061	COMP743	
+Estrogen agonist	0.173	COMP743	
+Estrogen antagonist	0.159	COMP743	
+Estrogen receptor alpha agonist	0.053	COMP743	
+Estrogen receptor beta agonist	0.087	COMP743	
+Estrogen receptor beta antagonist	0.119	COMP743	
+Estrogen-related receptor beta antagonist	0.034	COMP743	
+Expectorant	0.445	COMP743	
+Eye irritation. high	0.154	COMP743	
+Factor III inhibitor	0.050	COMP743	
+Falcipain 2 inhibitor	0.139	COMP743	
+Falcipain inhibitor	0.141	COMP743	
+Fatty acid synthase inhibitor	0.252	COMP743	
+Free radical scavenger	0.889	COMP743	
+GABA C receptor rho-3 antagonist	0.247	COMP743	
+GRP78 expression inhibitor	0.025	COMP743	
+GST M1-1 substrate	0.206	COMP743	
+Gastritis treatment	0.202	COMP743	
+Gaucher disease treatment	0.071	COMP743	
+Genotoxic	0.923	COMP743	
+Glucose-6-phosphate isomerase inhibitor	0.097	COMP743	
+Glucose-6-phosphate translocase inhibitor	0.085	COMP743	
+Glutamate release inhibitor	0.111	COMP743	
+Glutathione S-transferase substrate	0.282	COMP743	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.497	COMP743	
+Glycine receptor antagonist	0.101	COMP743	
+Gout treatment	0.309	COMP743	
+Growth stimulant	0.155	COMP743	
+HDL-cholesterol increasing	0.153	COMP743	
+HIV-1 integrase (3'-Processing) inhibitor	0.149	COMP743	
+HIV-1 integrase (Strand Transfer) inhibitor	0.151	COMP743	
+HIV-1 integrase inhibitor	0.077	COMP743	
+Hair growth stimulant	0.114	COMP743	
+Hearing loss treatment	0.156	COMP743	
+Heat shock protein 70 antagonist	0.202	COMP743	
+Hemostatic	0.628	COMP743	
+Heparanase inhibitor	0.121	COMP743	
+Hepatic disorders treatment	0.727	COMP743	
+Hepatoprotectant	0.705	COMP743	
+Hexokinase inhibitor	0.397	COMP743	
+Histamine release inhibitor	0.730	COMP743	
+Histone deacetylase SIRT1 stimulant	0.392	COMP743	
+Histone deacetylase stimulant	0.392	COMP743	
+Huntington's disease treatment	0.256	COMP743	
+Hypoglycemic	0.818	COMP743	
+Hypolipemic	0.254	COMP743	
+Hypoxia-inducible factor 1 alpha inhibitor	0.531	COMP743	
+ICAM1 expression inhibitor	0.587	COMP743	
+Immunomodulator	0.536	COMP743	
+Immunostimulant	0.651	COMP743	
+Immunosuppressant	0.545	COMP743	
+Insulin secretagoues	0.362	COMP743	
+Insulin sensitizer	0.233	COMP743	
+Interferon agonist	0.119	COMP743	
+Interferon gamma antagonist	0.380	COMP743	
+Interferon inducer	0.089	COMP743	
+Interleukin 12 antagonist	0.401	COMP743	
+Interleukin 2 agonist	0.452	COMP743	
+Interleukin 4 antagonist	0.442	COMP743	
+Interleukin 5 antagonist	0.148	COMP743	
+Interleukin 6 antagonist	0.329	COMP743	
+Interleukin agonist	0.419	COMP743	
+Interleukin antagonist	0.307	COMP743	
+Leukotriene B4 antagonist	0.052	COMP743	
+Lipase inhibitor	0.135	COMP743	
+Lipid peroxidase inhibitor	0.552	COMP743	
+Lipocortins synthesis agonist	0.056	COMP743	
+Lipoprotein disorders treatment	0.376	COMP743	
+Liver fibrosis treatment	0.256	COMP743	
+MAO A inhibitor	0.084	COMP743	
+Maillard reaction inhibitor	0.127	COMP743	
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.101	COMP743	
+Mannose-6-phosphate isomerase inhibitor	0.245	COMP743	
+Mannosidase inhibitor	0.127	COMP743	
+Mediator release inhibitor	0.738	COMP743	
+Melanin inhibitor	0.841	COMP743	
+Metabolic disease treatment	0.281	COMP743	
+Monophenol monooxygenase inhibitor	0.987	COMP743	
+Mucolytic	0.176	COMP743	
+Multidrug resistance-associated protein 1 inhibitor	0.210	COMP743	
+Muscular dystrophy treatment	0.211	COMP743	
+Mutagenic	0.967	COMP743	
+Myocardial infarction treatment	0.475	COMP743	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.162	COMP743	
+NADH dehydrogenase inhibitor	0.248	COMP743	
+NADPH oxidase inhibitor	0.384	COMP743	
+NOS2 expression inhibitor	0.957	COMP743	
+NOS3 expression enhancer	0.698	COMP743	
+NOS3 expression inhibitor	0.817	COMP743	
+Na+ K+ transporting ATPase inhibitor	0.163	COMP743	
+Narcotic antagonist	0.108	COMP743	
+Neuraminidase (Influenza A) inhibitor	0.050	COMP743	
+Neuraminidase (influenza) inhibitor	0.131	COMP743	
+Neuraminidase inhibitor	0.114	COMP743	
+Neuropathy treatment	0.186	COMP743	
+Neurotrophic factor	0.124	COMP743	
+Neurotrophic factor enhancer	0.433	COMP743	
+Nitric oxide antagonist	0.772	COMP743	
+Nitric oxide donor	0.079	COMP743	
+Nitric-oxide synthase stimulant	0.630	COMP743	
+Non-steroidal antiinflammatory agent	0.521	COMP743	
+Nucleoside transporters inhibitor	0.051	COMP743	
+P-glycoprotein inhibitor	0.342	COMP743	
+Peptidyltransferase inhibitor	0.362	COMP743	
+Peroxidase inhibitor	0.288	COMP743	
+Phosphodiesterase 6D inhibitor	0.179	COMP743	
+Phosphodiesterase VI inhibitor	0.151	COMP743	
+Phosphofructokinase-1 inhibitor	0.231	COMP743	
+Phospholipase C inhibitor	0.149	COMP743	
+Phosphorylase inhibitor	0.078	COMP743	
+Photosensitizer	0.472	COMP743	
+Platelet adhesion inhibitor	0.489	COMP743	
+Platelet antagonist	0.287	COMP743	
+Postmenopausal disorders treatment	0.120	COMP743	
+Proliferative diseases treatment	0.941	COMP743	
+Prostate cancer treatment	0.580	COMP743	
+Protein 30S ribosomal subunit inhibitor	0.097	COMP743	
+Protein 50S ribosomal subunit inhibitor	0.124	COMP743	
+Protein kinase C eta inhibitor	0.048	COMP743	
+Protein kinase stimulant	0.652	COMP743	
+Protein-tyrosine phosphatase 1B inhibitor	0.203	COMP743	
+Protein-tyrosine phosphatase inhibitor	0.254	COMP743	
+Psychosexual dysfunction treatment	0.402	COMP743	
+Purinergic P2Y2 agonist	0.009	COMP743	
+Pyruvate kinase inhibitor	0.197	COMP743	
+RNA-directed DNA polymerase inhibitor	0.583	COMP743	
+Radioprotector	0.891	COMP743	
+Radiosensitizer	0.497	COMP743	
+Respiratory analeptic	0.711	COMP743	
+Retinoprotector	0.251	COMP743	
+Ribosomal protein S6 kinase inhibitor	0.111	COMP743	
+SULT1A1 substrate	0.146	COMP743	
+SULT1A3 substrate	0.246	COMP743	
+SULT1E1 substrate	0.165	COMP743	
+Selectin antagonist	0.415	COMP743	
+Sensitization	0.667	COMP743	
+Sepsis treatment	0.182	COMP743	
+Septic shock treatment	0.373	COMP743	
+Skin whitener	0.722	COMP743	
+Sodium/glucose cotransporter 1 inhibitor	0.111	COMP743	
+Sodium/glucose cotransporter 2 inhibitor	0.127	COMP743	
+Sodium/glucose cotransporter inhibitor	0.133	COMP743	
+Spasmolytic	0.650	COMP743	
+Sphingomyelinase inhibitor	0.170	COMP743	
+Stroke treatment	0.498	COMP743	
+Sulfotransferase substrate	0.830	COMP743	
+T cell inhibitor	0.212	COMP743	
+TNF expression inhibitor	0.927	COMP743	
+Telomerase inhibitor	0.074	COMP743	
+Telomerase stimulant	0.031	COMP743	
+Teratogen	0.833	COMP743	
+Thioredoxin inhibitor	0.221	COMP743	
+Thioredoxin reductase inhibitor	0.101	COMP743	
+Thrombolytic	0.330	COMP743	
+Toll-Like receptor 2 antagonist	0.138	COMP743	
+Toll-Like receptor 4 agonist	0.031	COMP743	
+Toll-Like receptor 4 antagonist	0.204	COMP743	
+Topoisomerase I inhibitor	0.405	COMP743	
+Topoisomerase II alpha inhibitor	0.451	COMP743	
+Topoisomerase II beta inhibitor	0.062	COMP743	
+Topoisomerase II inhibitor	0.546	COMP743	
+Transcription factor NF kappa B inhibitor	0.890	COMP743	
+Transcription factor NF kappa B stimulant	0.202	COMP743	
+Transcription factor STAT inhibitor	0.245	COMP743	
+Transcription factor STAT6 inhibitor	0.134	COMP743	
+Triose-phosphate isomerase inhibitor	0.221	COMP743	
+Tumour necrosis factor alpha release inhibitor	0.683	COMP743	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.094	COMP743	
+UDP-glucose 4-epimerase inhibitor	0.398	COMP743	
+UDP-glucuronosyltransferase substrate	0.768	COMP743	
+UGT1A1 substrate	0.879	COMP743	
+UGT1A3 substrate	0.293	COMP743	
+UGT1A6 substrate	0.734	COMP743	
+UGT1A9 substrate	0.934	COMP743	
+UGT2B1 substrate	0.149	COMP743	
+UGT2B11 substrate	0.094	COMP743	
+UGT2B15 substrate	0.463	COMP743	
+UGT2B4 substrate	0.557	COMP743	
+UGT2B7 substrate	0.263	COMP743	
+Ulceration	0.570	COMP743	
+Uric acid excretion stimulant	0.232	COMP743	
+VCAM1 expression inhibitor	0.654	COMP743	
+VEGF expression inhibitor	0.182	COMP743	
+Vanilloid 1 agonist	0.142	COMP743	
+Vanilloid 2 agonist	0.046	COMP743	
+Vascular (periferal) disease treatment	0.750	COMP743	
+Vascular dementia treatment	0.386	COMP743	
+Vasodilator	0.547	COMP743	
+Vasodilator. coronary	0.856	COMP743	
+Vasodilator. peripheral	0.316	COMP743	
+Wound healing agent	0.272	COMP743	
+Xanthine dehydrogenase inhibitor	0.181	COMP743	
+Xanthine oxidase inhibitor	0.950	COMP743	

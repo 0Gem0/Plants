@@ -1,0 +1,18 @@
+Name	Activation_Prob	Compound	Another_Probs
+Abortion inducer	0.199	COMP566	(0.162 COMP567)
+Carcinogenic	0.278	COMP567	
+Carcinogenic. group 1	0.203	COMP567	
+Carcinogenic. group 2A	0.214	COMP567	
+Carcinogenic. group 2B	0.228	COMP567	
+Cardiodepressant	0.240	COMP566	
+Cytotoxic	0.543	COMP567	(0.145 COMP566)
+DNA damaging	0.320	COMP566	(0.188 COMP567)
+Embryotoxic	0.530	COMP567	
+Genotoxic	0.184	COMP566	(0.160 COMP567)
+Hypoglycemic	0.656	COMP567	(0.204 COMP566)
+Mutagenic	0.848	COMP567	
+Pneumotoxic	0.293	COMP566	
+Sedative	0.285	COMP566	
+Sensitization	0.581	COMP567	
+Teratogen	0.563	COMP567	
+Ulceration	0.380	COMP566	

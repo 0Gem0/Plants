@@ -1,0 +1,10 @@
+Voleneol
+(1S,2S,4aR,5R,8aS)-4a-methyl-8-methylidene-2-propan-2-yl-1,2,3,4,5,6,7,8a-octahydronaphthalene-1,5-diol
+CHEMBL461399
+14137570
+CHEBI:68001
+C15H26O2
+238.19
+InChI=1S/C15H26O2/c1-9(2)11-7-8-15(4)12(16)6-5-10(3)13(15)14(11)17/h9,11-14,16-17H,3,5-8H2,1-2,4H3/t11-,12+,13+,14-,15-/m0/s1
+WKKJGHCXVKEJNU-QRTUWBSPSA-N
+C=C1CC[C@H]([C@]2([C@H]1[C@@H](O)[C@@H](CC2)C(C)C)C)O

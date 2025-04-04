@@ -1,0 +1,18 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.508	COMP237	
+Adenosine uptake inhibitor	0.035	COMP237	
+Apical sodium codependent bile acid transporter inhibitor	0.026	COMP237	
+Dopamine uptake inhibitor	0.057	COMP237	
+Electron transport complex I inhibitor	0.164	COMP237	
+Endocannabinoid uptake inhibitor	0.148	COMP237	
+Excitatory amino acid transporter 2 inhibitor	0.031	COMP237	
+Excitatory amino acid transporter 3 inhibitor	0.027	COMP237	
+Excitatory amino acid transporter EAAC1 inhibitor	0.224	COMP237	
+GABA transporter 3 inhibitor	0.041	COMP237	
+GABA uptake inhibitor	0.056	COMP237	
+Glycine transporter 2 inhibitor	0.082	COMP237	
+Ileal bile acid transport inhibitor	0.032	COMP237	
+P-glycoprotein inhibitor	0.231	COMP237	(0.218 COMP238) (0.163 COMP234) (0.137 COMP235)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.049	COMP237	
+Sodium/bile acid cotransporter inhibitor	0.402	COMP238	(0.382 COMP237) (0.270 COMP234) (0.237 COMP235)
+Urate transporter 1 inhibitor	0.041	COMP237	

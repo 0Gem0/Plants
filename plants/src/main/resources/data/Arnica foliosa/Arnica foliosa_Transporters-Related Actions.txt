@@ -1,0 +1,10 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.460	COMP286	(0.422 COMP284) (0.415 COMP289) (0.297 COMP282) (0.283 COMP283)
+Antiviral (CMV)	0.156	COMP282	
+Apical sodium codependent bile acid transporter inhibitor	0.037	COMP77	(0.036 COMP287) (0.024 COMP285)
+Electron transport complex I inhibitor	0.231	COMP286	(0.112 COMP289) (0.104 COMP284)
+Excitatory amino acid transporter EAAC1 inhibitor	0.094	COMP284/COMP289	
+Ileal bile acid transport inhibitor	0.071	COMP77	(0.063 COMP287) (0.030 COMP285)
+Multidrug resistance-associated protein 1 inhibitor	0.102	COMP284	
+P-glycoprotein inhibitor	0.433	COMP288	(0.379 COMP286) (0.305 COMP292) (0.302 COMP291) (0.268 COMP290) (0.245 COMP282) (0.243 COMP289) (0.241 COMP287) (0.240 COMP283) (0.232 COMP77) (0.192 COMP284) (0.189 COMP285)
+Sodium/bile acid cotransporter inhibitor	0.576	COMP287	(0.573 COMP77) (0.517 COMP285) (0.447 COMP282) (0.415 COMP292) (0.404 COMP290) (0.375 COMP288) (0.374 COMP291)

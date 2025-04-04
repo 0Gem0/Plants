@@ -1,0 +1,6 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.284	COMP1971	
+Electron transport complex I inhibitor	0.190	COMP1970	(0.132 COMP1968) (0.107 COMP1971) (0.099 COMP1958/COMP1967)
+P-glycoprotein inhibitor	0.485	COMP1969	(0.330 COMP1968) (0.302 COMP1958/COMP1967) (0.298 COMP1970)
+Sodium/bile acid cotransporter inhibitor	0.246	COMP1971	(0.234 COMP1968)
+Sodium/hydrogen exchanger 5 inhibitor	0.094	COMP1968	(0.084 COMP1969)

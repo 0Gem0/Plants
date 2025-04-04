@@ -1,0 +1,40 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.792	COMP226	
+ATPase inhibitor	0.256	COMP224	
+Acetylcholinesterase inhibitor	0.300	COMP225	(0.283 COMP223) (0.119 COMP224)
+Adenosine A2a receptor antagonist	0.074	COMP223	(0.066 COMP225)
+Aldosterone antagonist	0.050	COMP225	(0.046 COMP223)
+Alkaline phosphatase inhibitor	0.169	COMP223	(0.164 COMP225)
+Androgen agonist	0.110	COMP226	(0.103 COMP224)
+Androgen antagonist	0.095	COMP226	(0.075 COMP224)
+Aryl hydrocarbon receptor agonist	0.387	COMP225	(0.357 COMP223)
+CYP1A2 inhibitor	0.962	COMP223	(0.952 COMP225)
+CYP2C9 inhibitor	0.544	COMP225	(0.423 COMP223)
+CYP2D6 inhibitor	0.233	COMP223	(0.220 COMP225)
+CYP3A4 inhibitor	0.555	COMP223	(0.528 COMP225)
+Ca2+-transporting ATPase inhibitor	0.162	COMP224	
+Cyclooxygenase 1 inhibitor	0.114	COMP224	
+Cyclooxygenase 2 inhibitor	0.202	COMP225	(0.186 COMP223) (0.123 COMP224)
+Cyclooxygenase inhibitor	0.214	COMP225	(0.196 COMP223) (0.122 COMP224)
+Cystathionine beta-synthase inhibitor	0.124	COMP223	(0.120 COMP225)
+DNA polymerase beta inhibitor	0.638	COMP225	(0.542 COMP223)
+DOPA decarboxylase inhibitor	0.109	COMP225	(0.099 COMP223)
+Electron transport complex I inhibitor	0.145	COMP225	(0.137 COMP223) (0.120 COMP224)
+Estrogen agonist	0.097	COMP226	
+GABA aminotransferase inhibitor	0.091	COMP223	
+HMG CoA reductase inhibitor	0.034	COMP224	
+Heat shock protein 70 antagonist	0.129	COMP224	
+MAO A inhibitor	0.339	COMP223	(0.330 COMP225)
+MAO inhibitor	0.363	COMP225	(0.340 COMP223)
+Na+ K+ transporting ATPase inhibitor	0.146	COMP226	(0.110 COMP224)
+Opioid kappa receptor agonist	0.108	COMP226	(0.045 COMP223)
+Peroxidase inhibitor	0.128	COMP223	(0.115 COMP225)
+Phosphofructokinase-1 inhibitor	0.069	COMP224	
+Phospholipase A2 inhibitor	0.207	COMP224	
+Phospholipase C inhibitor	0.167	COMP226	
+Pyruvate kinase inhibitor	0.353	COMP223	(0.346 COMP225)
+Retinoic acid alpha receptor agonist	0.042	COMP226	
+Succinate dehydrogenase inhibitor	0.210	COMP225	(0.198 COMP223) (0.140 COMP224)
+Topoisomerase I inhibitor	0.128	COMP225	(0.099 COMP224) (0.097 COMP223)
+Topoisomerase II alpha inhibitor	0.198	COMP225	(0.155 COMP223)
+Tyrosine 3 hydroxylase inhibitor	0.244	COMP223/COMP225	

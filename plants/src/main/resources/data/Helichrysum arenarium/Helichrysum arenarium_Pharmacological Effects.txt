@@ -1,0 +1,178 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.150	COMP1881	
+Actinic keratosis treatment	0.145	COMP1881	
+Alzheimer's disease treatment	0.545	COMP1881	
+Anabolic	0.148	COMP1881	
+Analeptic	0.503	COMP1881	
+Analgesic. opioid	0.126	COMP1881	
+Angiogenesis inhibitor	0.211	COMP1881	
+Angiogenesis stimulant	0.269	COMP1881	
+Antialcoholic	0.249	COMP1881	
+Antiamyloidogenic	0.597	COMP1881	
+Antiarrhythmic	0.163	COMP1881	
+Antibacterial	0.518	COMP1881	
+Antibiotic	0.090	COMP1881	
+Antibiotic Aminoglycoside-like	0.032	COMP1881	
+Antibiotic Anthracycline-like	0.020	COMP1881	
+Antibiotic Glycopeptide-like	0.054	COMP1881	
+Anticholelithogenic	0.081	COMP1881	
+Antidiabetic	0.651	COMP1881	
+Antidiabetic (type 2)	0.293	COMP1881	
+Antidiabetic symptomatic	0.440	COMP1881	
+Antidiarrheal	0.299	COMP1881	
+Antidote	0.313	COMP1881	
+Antidote. heavy metal	0.105	COMP1881	
+Antidote. mercury	0.091	COMP1881	
+Antieczematic atopic	0.157	COMP1881	
+Antifungal	0.454	COMP1881	
+Antifungal (Pneumocystis)	0.116	COMP1881	
+Antifungal enhancer	0.222	COMP1881	
+Antihelmintic	0.396	COMP1881	
+Antihelmintic (Fasciola)	0.104	COMP1881	
+Antihelmintic (Nematodes)	0.250	COMP1881	
+Antihelmintic (Trematoda)	0.211	COMP1881	
+Antihemorrhagic	0.628	COMP1881	
+Antihypercholesterolemic	0.781	COMP1881	
+Antihyperlipoproteinemic	0.140	COMP1881	
+Antihypertriglyceridemic	0.595	COMP1881	
+Antihypotensive	0.417	COMP1881	
+Antihypoxic	0.566	COMP1881	
+Antiinflammatory	0.758	COMP1881	
+Antiischemic	0.272	COMP1881	
+Antiischemic. cerebral	0.162	COMP1881	
+Antileukemic	0.519	COMP1881	
+Antimitotic	0.277	COMP1881	
+Antimutagenic	0.814	COMP1881	
+Antimycobacterial	0.268	COMP1881	
+Antimycoplasmal	0.060	COMP1881	
+Antineoplastic (bladder cancer)	0.256	COMP1881	
+Antineoplastic (brain cancer)	0.558	COMP1881	
+Antineoplastic (breast cancer)	0.680	COMP1881	
+Antineoplastic (carcinoma)	0.217	COMP1881	
+Antineoplastic (cervical cancer)	0.478	COMP1881	
+Antineoplastic (colon cancer)	0.485	COMP1881	
+Antineoplastic (colorectal cancer)	0.506	COMP1881	
+Antineoplastic (gastric cancer)	0.181	COMP1881	
+Antineoplastic (glioblastoma multiforme)	0.413	COMP1881	
+Antineoplastic (glioma)	0.494	COMP1881	
+Antineoplastic (liver cancer)	0.342	COMP1881	
+Antineoplastic (lung cancer)	0.473	COMP1881	
+Antineoplastic (lymphoma)	0.150	COMP1881	
+Antineoplastic (melanoma)	0.385	COMP1881	
+Antineoplastic (non-small cell lung cancer)	0.327	COMP1881	
+Antineoplastic (osteosarcoma)	0.358	COMP1881	
+Antineoplastic (ovarian cancer)	0.358	COMP1881	
+Antineoplastic (pancreatic cancer)	0.395	COMP1881	
+Antineoplastic (renal cancer)	0.224	COMP1881	
+Antineoplastic (sarcoma)	0.359	COMP1881	
+Antineoplastic (small cell lung cancer)	0.252	COMP1881	
+Antineoplastic (squamous cell carcinoma)	0.318	COMP1881	
+Antineoplastic (uterine cancer)	0.249	COMP1881	
+Antineoplastic antibiotic	0.209	COMP1881	
+Antineoplastic enhancer	0.492	COMP1881	
+Antineurogenic pain	0.306	COMP1881	
+Antiosteoporotic	0.587	COMP1881	
+Antioxidant	0.824	COMP1881	
+Antiparasitic	0.431	COMP1881	
+Antiparkinsonian	0.342	COMP1881	
+Antiprotozoal	0.246	COMP1881	
+Antiprotozoal (Coccidial)	0.312	COMP1881	
+Antiprotozoal (Leishmania)	0.395	COMP1881	
+Antiprotozoal (Trichomonas)	0.113	COMP1881	
+Antiprotozoal (Trypanosoma)	0.221	COMP1881	
+Antipruritic	0.186	COMP1881	
+Antipruritic. allergic	0.468	COMP1881	
+Antipruritic. non-allergic	0.236	COMP1881	
+Antipyretic	0.500	COMP1881	
+Antirickettsial	0.212	COMP1881	
+Antiseptic	0.165	COMP1881	
+Antispirochetal	0.104	COMP1881	
+Antithrombotic	0.319	COMP1881	
+Antitreponemal	0.087	COMP1881	
+Antituberculosic	0.238	COMP1881	
+Antitussive	0.495	COMP1881	
+Antiulcerative	0.346	COMP1881	
+Antiviral (Hepatitis A)	0.157	COMP1881	
+Antiviral (Hepatitis B)	0.101	COMP1881	
+Antiviral (Hepatitis C)	0.167	COMP1881	
+Antiviral (Hepatitis)	0.202	COMP1881	
+Antiviral (Herpes)	0.219	COMP1881	
+Antiviral (Influenza A)	0.217	COMP1881	
+Antiviral (Influenza B)	0.210	COMP1881	
+Antiviral (Influenza)	0.305	COMP1881	
+Antiviral (Rhinovirus)	0.099	COMP1881	
+Apoptosis agonist	0.808	COMP1881	
+Apoptosis antagonist	0.584	COMP1881	
+Atherosclerosis treatment	0.333	COMP1881	
+Bone diseases treatment	0.571	COMP1881	
+Bone formation stimulant	0.160	COMP1881	
+Bronchodilator	0.131	COMP1881	
+Cardioprotectant	0.604	COMP1881	
+Cardiovascular analeptic	0.403	COMP1881	
+Cell wall synthesis inhibitor	0.184	COMP1881	
+Chemopreventive	0.731	COMP1881	
+Chemoprotective	0.865	COMP1881	
+Choleretic	0.131	COMP1881	
+Cholesterol absorption inhibitor	0.052	COMP1881	
+Cholesterol synthesis inhibitor	0.391	COMP1881	
+Coagulant	0.137	COMP1881	
+Constipation treatment	0.164	COMP1881	
+Contraceptive	0.133	COMP1881	
+Contraceptive female	0.154	COMP1881	
+Cystic fibrosis treatment	0.180	COMP1881	
+Cytostatic	0.554	COMP1881	
+DNA intercalator	0.120	COMP1881	
+DNA synthesis inhibitor	0.206	COMP1881	
+Dementia treatment	0.313	COMP1881	
+Diabetic nephropathy treatment	0.310	COMP1881	
+Endometrios treatment	0.102	COMP1881	
+Expectorant	0.363	COMP1881	
+Gastric antisecretory	0.088	COMP1881	
+Gastritis treatment	0.331	COMP1881	
+Gout treatment	0.194	COMP1881	
+Growth stimulant	0.134	COMP1881	
+HDL-cholesterol increasing	0.211	COMP1881	
+Hair growth stimulant	0.178	COMP1881	
+Hemostatic	0.131	COMP1881	
+Hepatic disorders treatment	0.596	COMP1881	
+Hepatoprotectant	0.536	COMP1881	
+Hypolipemic	0.212	COMP1881	
+Immunostimulant	0.244	COMP1881	
+Immunosuppressant	0.330	COMP1881	
+Insulin sensitizer	0.246	COMP1881	
+Keratolytic	0.137	COMP1881	
+Leukotriene synthesis inhibitor	0.071	COMP1881	
+Lipoprotein disorders treatment	0.333	COMP1881	
+Liver fibrosis treatment	0.272	COMP1881	
+Mucolytic	0.334	COMP1881	
+Myocardial infarction treatment	0.404	COMP1881	
+Narcotic antagonist	0.122	COMP1881	
+Neuropathy treatment	0.137	COMP1881	
+Non-steroidal antiinflammatory agent	0.179	COMP1881	
+Paget's disease treatment	0.158	COMP1881	
+Phobic disorders treatment	0.142	COMP1881	
+Photosensitizer	0.176	COMP1881	
+Platelet antagonist	0.190	COMP1881	
+Postcoital contraceptive	0.108	COMP1881	
+Postmenopausal disorders treatment	0.383	COMP1881	
+Proliferative diseases treatment	0.643	COMP1881	
+Prostate cancer treatment	0.534	COMP1881	
+Prostate disorders treatment	0.148	COMP1881	
+Prostatic (benign) hyperplasia treatment	0.152	COMP1881	
+Psychosexual dysfunction treatment	0.146	COMP1881	
+Psychostimulant	0.335	COMP1881	
+Radioprotector	0.383	COMP1881	
+Radiosensitizer	0.201	COMP1881	
+Respiratory analeptic	0.529	COMP1881	
+Shock treatment	0.102	COMP1881	
+Skin whitener	0.824	COMP1881	
+Spasmolytic	0.541	COMP1881	
+Stroke treatment	0.390	COMP1881	
+Tumour necrosis factor alpha release inhibitor	0.469	COMP1881	
+Uric acid excretion stimulant	0.210	COMP1881	
+Uterine stimulant	0.166	COMP1881	
+Vascular (periferal) disease treatment	0.579	COMP1881	
+Vascular dementia treatment	0.307	COMP1881	
+Vasodilator	0.502	COMP1881	
+Vasodilator. coronary	0.314	COMP1881	
+Vasodilator. peripheral	0.249	COMP1881	

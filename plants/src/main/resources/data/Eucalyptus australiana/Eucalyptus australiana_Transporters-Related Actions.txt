@@ -1,0 +1,30 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.506	COMP3035	(0.460 COMP48) (0.441 COMP49) (0.421 COMP2700) (0.414 COMP823) (0.331 COMP2526) (0.260 COMP3151) (0.223 COMP2079) (0.217 COMP774) (0.187 COMP2485)
+Adenosine uptake inhibitor	0.038	COMP2079	(0.033 COMP2700)
+Antiviral (CMV)	0.114	COMP2079	
+Apical sodium codependent bile acid transporter inhibitor	0.036	COMP2700	(0.023 COMP2079)
+Electron transport complex I inhibitor	0.375	COMP3151	(0.205 COMP49) (0.195 COMP48) (0.190 COMP3035) (0.136 COMP3150) (0.130 COMP2003) (0.109 COMP2700) (0.107 COMP348/COMP46)
+Endocannabinoid uptake inhibitor	0.111	COMP2526	(0.069 COMP2700)
+Equilibrative nucleoside transport protein inhibitor	0.081	COMP1940/COMP2079	(0.065 COMP2692) (0.062 COMP3150) (0.056 COMP2700) (0.046 COMP348)
+Excitatory amino acid transporter 1 inhibitor	0.040	COMP823	
+Excitatory amino acid transporter 2 inhibitor	0.086	COMP823	
+Excitatory amino acid transporter 3 inhibitor	0.028	COMP823	
+Excitatory amino acid transporter EAAC1 inhibitor	0.503	COMP823	(0.237 COMP2700) (0.113 COMP2526) (0.104 COMP49) (0.098 COMP3035)
+Folate transporter 1 inhibitor	0.017	COMP823	
+GABA transporter 3 inhibitor	0.031	COMP2700	
+GABA uptake inhibitor	0.047	COMP2526	(0.037 COMP2700)
+Glycine transporter 2 inhibitor	0.048	COMP823	
+Ileal bile acid transport inhibitor	0.070	COMP2079	(0.048 COMP2700) (0.028 COMP2692) (0.022 COMP1940) (0.016 COMP3150)
+Monocarboxylic acid transporter 1 inhibitor	0.023	COMP49	
+Monocarboxylic acid transporter inhibitor	0.023	COMP49	
+Multidrug resistance-associated protein 1 inhibitor	0.369	COMP49	(0.364 COMP48) (0.218 COMP3150) (0.217 COMP2003) (0.212 COMP46) (0.209 COMP348) (0.158 COMP3035) (0.148 COMP3151)
+Nucleoside transporters inhibitor	0.097	COMP3150	(0.071 COMP2700) (0.069 COMP2079) (0.057 COMP49) (0.053 COMP48) (0.044 COMP1940) (0.043 COMP3035) (0.041 COMP3151) (0.035 COMP2692) (0.031 COMP2003)
+P-glycoprotein inhibitor	0.666	COMP774	(0.660 COMP2485) (0.632 COMP2526) (0.612 COMP49) (0.606 COMP48) (0.491 COMP2700) (0.457 COMP3150) (0.394 COMP2003) (0.351 COMP46) (0.344 COMP348) (0.298 COMP2692) (0.296 COMP3035) (0.281 COMP3151) (0.185 COMP2079)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.078	COMP2700	(0.050 COMP2526) (0.039 COMP49) (0.038 COMP3035) (0.036 COMP2079) (0.032 COMP823) (0.031 COMP48)
+Sodium/bile acid cotransporter inhibitor	0.366	COMP2700	(0.317 COMP3035) (0.311 COMP2485) (0.300 COMP774) (0.285 COMP3151) (0.257 COMP2079) (0.244 COMP2526) (0.220 COMP823) (0.208 COMP49) (0.206 COMP2692) (0.204 COMP48)
+Sodium/calcium exchanger inhibitor	0.054	COMP3035	
+Sodium/glucose cotransporter 1 inhibitor	0.245	COMP2079	(0.158 COMP1940) (0.150 COMP3150) (0.135 COMP2692) (0.090 COMP348) (0.084 COMP46) (0.065 COMP3035) (0.063 COMP2003) (0.041 COMP2700) (0.031 COMP2526) (0.023 COMP3151)
+Sodium/glucose cotransporter 2 inhibitor	0.264	COMP2079	(0.204 COMP1940) (0.146 COMP3150) (0.138 COMP348) (0.130 COMP2692) (0.129 COMP46) (0.120 COMP2003) (0.098 COMP2700) (0.096 COMP3035) (0.034 COMP3151) (0.026 COMP2526)
+Sodium/glucose cotransporter inhibitor	0.355	COMP2079	(0.279 COMP1940) (0.180 COMP3150) (0.149 COMP348) (0.137 COMP2692) (0.135 COMP46) (0.111 COMP2003) (0.084 COMP3035) (0.080 COMP2700) (0.028 COMP3151) (0.025 COMP2526)
+Vesicular acetylcholine transporter inhibitor	0.033	COMP2700	
+Vesicular glutamate transport inhibitor	0.022	COMP2526	(0.018 COMP2700)

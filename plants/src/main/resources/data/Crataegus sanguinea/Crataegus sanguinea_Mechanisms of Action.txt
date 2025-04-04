@@ -1,0 +1,87 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.192	COMP464	
+ATPase (Vacuolar H+) inhibitor	0.096	COMP464	
+ATPase inhibitor	0.192	COMP464	(0.154 COMP465)
+Adenylate cyclase stimulant	0.179	COMP464	(0.136 COMP465)
+Aldehyde oxidase inhibitor	0.198	COMP464	
+Aldosterone antagonist	0.074	COMP464	
+Alkylator	0.138	COMP464	
+Alpha-N-acetylglucosaminidase inhibitor	0.111	COMP465	
+Anabolic	0.165	COMP464	(0.130 COMP465)
+Androgen agonist	0.103	COMP464	(0.080 COMP465)
+Androgen antagonist	0.122	COMP464	(0.088 COMP465)
+Angiogenesis stimulant	0.264	COMP465	
+Antibacterial	0.566	COMP464	(0.477 COMP465)
+Antiinflammatory	0.774	COMP465	(0.469 COMP464)
+Antimitotic	0.444	COMP464	
+Antineoplastic antibiotic	0.638	COMP464	(0.513 COMP465)
+Antioxidant	0.367	COMP465	(0.223 COMP464)
+Apoptosis agonist	0.958	COMP464	(0.931 COMP465)
+Apoptosis antagonist	0.363	COMP465	(0.219 COMP464)
+Arachidonic acid antagonist	0.244	COMP464	(0.229 COMP465)
+Aromatase inhibitor	0.070	COMP464	
+CC chemokine 6 receptor antagonist	0.124	COMP465	
+Ca2+-transporting ATPase inhibitor	0.149	COMP464	(0.142 COMP465)
+Calcium channel L-type activator	0.240	COMP465	
+Calcium channel activator	0.213	COMP464	
+Caspase 3 stimulant	0.242	COMP464	
+Caspase 9 stimulant	0.479	COMP464	(0.309 COMP465)
+Cholesterol antagonist	0.495	COMP464	(0.332 COMP465)
+Cholesterol synthesis inhibitor	0.147	COMP464	(0.126 COMP465)
+Corticosteroid-like	0.027	COMP465	(0.021 COMP464)
+Cyclophilin D inhibitor	0.802	COMP465	(0.457 COMP464)
+DNA polymerase I inhibitor	0.173	COMP465	
+DNA synthesis inhibitor	0.562	COMP464	(0.544 COMP465)
+Estrogen agonist	0.166	COMP464	(0.084 COMP465)
+Estrogen antagonist	0.158	COMP464	(0.100 COMP465)
+Estrogen receptor alpha antagonist	0.075	COMP464	
+Estrogen receptor beta antagonist	0.138	COMP464	
+Expectorant	0.087	COMP464	
+Farnesoid X receptor antagonist	0.262	COMP464	(0.166 COMP465)
+Free radical scavenger	0.258	COMP465	
+Glucocorticoid antagonist	0.033	COMP464	
+Glucose-6-phosphate dehydrogenase inhibitor	0.039	COMP464	
+Glucose-6-phosphate isomerase inhibitor	0.044	COMP465	
+Glucose-6-phosphate translocase inhibitor	0.084	COMP465	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.222	COMP465	(0.170 COMP464)
+Glycine receptor agonist	0.073	COMP464	
+Glycine receptor antagonist	0.099	COMP464	
+Growth hormone agonist	0.159	COMP464	
+Hepatoprotectant	0.347	COMP465	(0.276 COMP464)
+Hypoglycemic	0.194	COMP465	
+Hypolipemic	0.176	COMP465	
+Immunomodulator	0.771	COMP465	(0.267 COMP464)
+Immunostimulant	0.642	COMP465	(0.420 COMP464)
+Immunosuppressant	0.804	COMP465	(0.760 COMP464)
+Interferon gamma antagonist	0.258	COMP465	(0.249 COMP464)
+Interleukin 2 agonist	0.227	COMP465	
+Interleukin 6 antagonist	0.183	COMP464	
+Lipid peroxidase inhibitor	0.209	COMP465	
+Lipocortins synthesis agonist	0.087	COMP465	(0.081 COMP464)
+Lipocortins synthesis antagonist	0.409	COMP464	(0.399 COMP465)
+Melanin inhibitor	0.152	COMP465	(0.137 COMP464)
+Microtubule formation inhibitor	0.263	COMP464	(0.251 COMP465)
+Microtubule stabilization	0.101	COMP464	(0.073 COMP465)
+Mineralocorticoid receptor antagonist	0.054	COMP464	
+Mucolytic	0.103	COMP464	
+Na+ K+ transporting ATPase inhibitor	0.127	COMP465	(0.126 COMP464)
+Neurotrophic factor enhancer	0.203	COMP464	(0.172 COMP465)
+Nitric oxide antagonist	0.655	COMP465	(0.477 COMP464)
+P-glycoprotein inhibitor	0.269	COMP464	(0.146 COMP465)
+Phosphofructokinase-1 inhibitor	0.064	COMP465	
+Protein 50S ribosomal subunit inhibitor	0.074	COMP464	(0.056 COMP465)
+Protein kinase stimulant	0.207	COMP464	(0.180 COMP465)
+RNA-directed RNA polymerase stimulant	0.072	COMP464	(0.030 COMP465)
+Sigma receptor agonist	0.285	COMP464	
+Sodium/bile acid cotransporter inhibitor	0.338	COMP464	(0.228 COMP465)
+Sodium/glucose cotransporter inhibitor	0.082	COMP465	(0.047 COMP464)
+Spasmolytic	0.213	COMP464	
+T cell inhibitor	0.091	COMP464	
+Telomerase stimulant	0.022	COMP465	(0.018 COMP464)
+Transcription factor NF kappa B inhibitor	0.906	COMP464	(0.759 COMP465)
+Transcription factor NF kappa B stimulant	0.095	COMP464/COMP465	
+Transcription factor inhibitor	0.249	COMP464	
+Tubulin agonist	0.048	COMP464	(0.037 COMP465)
+Tumour necrosis factor alpha release inhibitor	0.215	COMP465	
+UDP-glucose 4-epimerase inhibitor	0.096	COMP465	(0.086 COMP464)
+Vitamin D receptor antagonist	0.020	COMP465	

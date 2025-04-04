@@ -1,0 +1,10 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.284	COMP362	(0.245 COMP363)
+Electron transport complex I inhibitor	0.137	COMP362	(0.132 COMP363) (0.107 COMP366)
+Equilibrative nucleoside transport protein inhibitor	0.069	COMP363	(0.068 COMP362) (0.060 COMP366) (0.055 COMP364) (0.051 COMP365)
+Multidrug resistance-associated protein 1 inhibitor	0.198	COMP366	(0.197 COMP362) (0.194 COMP363)
+Nucleoside transporters inhibitor	0.084	COMP362	(0.079 COMP363) (0.039 COMP366)
+P-glycoprotein inhibitor	0.462	COMP366	(0.375 COMP362) (0.354 COMP363) (0.145 COMP364)
+Sodium/glucose cotransporter 1 inhibitor	0.162	COMP363	(0.151 COMP362) (0.111 COMP366) (0.040 COMP365) (0.032 COMP364)
+Sodium/glucose cotransporter 2 inhibitor	0.161	COMP363	(0.147 COMP362) (0.136 COMP366) (0.104 COMP365) (0.098 COMP364)
+Sodium/glucose cotransporter inhibitor	0.208	COMP363	(0.187 COMP362) (0.140 COMP366) (0.091 COMP365) (0.080 COMP364)

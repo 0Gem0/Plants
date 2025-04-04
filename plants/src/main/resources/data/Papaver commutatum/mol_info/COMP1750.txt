@@ -1,0 +1,10 @@
+Obtusifoliol
+(3S,4S,5S,10S,13R,14R,17R)-4,10,13,14-tetramethyl-17-[(2R)-6-methyl-5-methylideneheptan-2-yl]-1,2,3,4,5,6,7,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-ol
+CHEMBL481434
+65252
+None
+C30H50O
+426.39
+InChI=1S/C30H50O/c1-19(2)20(3)9-10-21(4)23-13-17-30(8)26-12-11-24-22(5)27(31)15-16-28(24,6)25(26)14-18-29(23,30)7/h19,21-24,27,31H,3,9-18H2,1-2,4-8H3/t21-,22+,23-,24+,27+,28+,29-,30+/m1/s1
+MMNYKQIDRZNIKT-VSADUBDNSA-N
+CC(C(=C)CC[C@H]([C@H]1CC[C@@]2([C@]1(C)CCC1=C2CC[C@@H]2[C@]1(C)CC[C@@H]([C@H]2C)O)C)C)C

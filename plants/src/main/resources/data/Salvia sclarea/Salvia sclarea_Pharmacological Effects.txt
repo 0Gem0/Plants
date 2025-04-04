@@ -1,0 +1,256 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.305	COMP31	(0.134 COMP3071) (0.121 COMP3069)
+Acetylcholine release stimulant	0.108	COMP31	
+Actinic keratosis treatment	0.267	COMP3069	(0.212 COMP3070) (0.125 COMP3071) (0.114 COMP31)
+Acute neurologic disorders treatment	0.339	COMP31	
+Acute respiratory distress syndrome (ARDS) treatment	0.329	COMP31	
+Alzheimer's disease treatment	0.423	COMP3069	
+Anabolic	0.143	COMP31	(0.132 COMP3069) (0.121 COMP3070)
+Analeptic	0.374	COMP31	(0.182 COMP3070) (0.170 COMP3071) (0.164 COMP3069)
+Andropause treatment	0.071	COMP3071	
+Anesthetic	0.254	COMP31	
+Anesthetic general	0.347	COMP31	
+Anesthetic inhalation	0.356	COMP31	
+Anesthetic local	0.160	COMP31	
+Angiogenesis inhibitor	0.249	COMP3069	(0.190 COMP3070)
+Angiogenesis stimulant	0.317	COMP3069	(0.251 COMP3070) (0.229 COMP31)
+Antiacne	0.510	COMP3069	(0.468 COMP3070)
+Antialcoholic	0.166	COMP31	
+Antiallergic	0.393	COMP31	(0.336 COMP3069)
+Antianemic	0.246	COMP31	(0.240 COMP3070) (0.187 COMP3071) (0.129 COMP3069)
+Antianginal	0.198	COMP31	
+Antianorexic	0.165	COMP31	
+Antiarrhythmic	0.238	COMP31	
+Antiarthritic	0.320	COMP31	
+Antibacterial	0.443	COMP3069	(0.430 COMP31) (0.385 COMP3071) (0.316 COMP3070)
+Antibiotic	0.117	COMP31	
+Antibiotic Aminoglycoside-like	0.050	COMP31	
+Antibiotic Anthracycline-like	0.026	COMP31	
+Anticataract	0.121	COMP31	
+Anticholelithogenic	0.123	COMP31	
+Anticoagulant	0.137	COMP3069	
+Antidiabetic	0.798	COMP31	(0.270 COMP3070)
+Antidiabetic (type 1)	0.141	COMP3071	
+Antidiabetic (type 2)	0.399	COMP31	(0.210 COMP3069) (0.174 COMP3070)
+Antidiabetic symptomatic	0.450	COMP31	
+Antidiarrheal	0.383	COMP31	
+Antidote	0.454	COMP31	(0.125 COMP3069)
+Antidote. heavy metal	0.288	COMP31	
+Antidote. mercury	0.290	COMP31	(0.082 COMP3071)
+Antidote. organophosphates	0.139	COMP31	
+Antieczematic	0.231	COMP3069	(0.225 COMP31) (0.166 COMP3070)
+Antieczematic atopic	0.492	COMP31	
+Antifibrinolytic	0.241	COMP31	
+Antifungal	0.554	COMP31	(0.429 COMP3069) (0.329 COMP3071) (0.275 COMP3070)
+Antifungal (Aspergillus)	0.129	COMP31	(0.095 COMP3071)
+Antifungal (Candida)	0.149	COMP31	
+Antifungal (Cryptococcus)	0.447	COMP31	
+Antifungal (Pneumocystis)	0.157	COMP31	(0.110 COMP3071)
+Antifungal enhancer	0.183	COMP31	
+Antiglaucomic	0.577	COMP31	
+Antihelmintic	0.269	COMP31	(0.212 COMP3071) (0.153 COMP3070)
+Antihelmintic (Fasciola)	0.158	COMP31	
+Antihelmintic (Nematodes)	0.214	COMP31	
+Antihelmintic (Trematoda)	0.114	COMP3071	
+Antihemophilic	0.072	COMP31	(0.064 COMP3071)
+Antihemorrhagic	0.178	COMP3071	(0.170 COMP3070) (0.153 COMP3069)
+Antihypercholesterolemic	0.420	COMP31	(0.211 COMP3069) (0.168 COMP3070/COMP3071)
+Antihyperlipoproteinemic	0.227	COMP31	
+Antihypertensive	0.433	COMP31	
+Antihypertriglyceridemic	0.491	COMP31	(0.180 COMP3069)
+Antihypotensive	0.487	COMP31	(0.216 COMP3069) (0.208 COMP3071) (0.168 COMP3070)
+Antihypoxic	0.496	COMP31	(0.245 COMP3071) (0.182 COMP3070)
+Antiinflammatory	0.729	COMP3069	(0.674 COMP3070) (0.544 COMP3071) (0.506 COMP31)
+Antiischemic	0.195	COMP3070	
+Antileprosy	0.182	COMP31	
+Antileukemic	0.584	COMP3070	(0.538 COMP3071) (0.525 COMP3069)
+Antimetabolite	0.054	COMP31	
+Antimitotic	0.221	COMP3071	(0.199 COMP3070)
+Antimutagenic	0.242	COMP3071	(0.235 COMP31) (0.155 COMP3070)
+Antimycobacterial	0.276	COMP3071	
+Antimycoplasmal	0.109	COMP31	(0.065 COMP3069) (0.059 COMP3071)
+Antineoplastic (bladder cancer)	0.265	COMP3071	(0.197 COMP3069) (0.194 COMP3070)
+Antineoplastic (bone cancer)	0.184	COMP31	
+Antineoplastic (brain cancer)	0.305	COMP31	
+Antineoplastic (breast cancer)	0.569	COMP3069	(0.533 COMP3070) (0.521 COMP3071)
+Antineoplastic (carcinoma)	0.548	COMP3071	(0.423 COMP3070) (0.144 COMP3069)
+Antineoplastic (cervical cancer)	0.556	COMP3071	(0.455 COMP3070) (0.259 COMP3069)
+Antineoplastic (colon cancer)	0.451	COMP3071	(0.426 COMP3070) (0.383 COMP3069)
+Antineoplastic (colorectal cancer)	0.459	COMP3071	(0.434 COMP3070) (0.394 COMP3069)
+Antineoplastic (endocrine cancer)	0.323	COMP3069	(0.313 COMP3070) (0.273 COMP31)
+Antineoplastic (gastric cancer)	0.269	COMP3071	(0.250 COMP3070)
+Antineoplastic (glioblastoma multiforme)	0.500	COMP3071	(0.380 COMP3070) (0.214 COMP31) (0.190 COMP3069)
+Antineoplastic (glioma)	0.527	COMP3071	(0.453 COMP3070) (0.267 COMP3069) (0.179 COMP31)
+Antineoplastic (liver cancer)	0.292	COMP3070	(0.259 COMP3069) (0.193 COMP3071)
+Antineoplastic (lung cancer)	0.499	COMP3071	(0.488 COMP3070) (0.476 COMP3069)
+Antineoplastic (lymphocytic leukemia)	0.375	COMP3071	(0.324 COMP3070) (0.243 COMP3069)
+Antineoplastic (melanoma)	0.353	COMP3071	(0.230 COMP3070) (0.229 COMP31)
+Antineoplastic (multiple myeloma)	0.220	COMP3071	
+Antineoplastic (myeloid leukemia)	0.287	COMP31	
+Antineoplastic (non-Hodgkin's lymphoma)	0.215	COMP3069	
+Antineoplastic (non-small cell lung cancer)	0.302	COMP3071	(0.194 COMP3070)
+Antineoplastic (osteosarcoma)	0.434	COMP3070	(0.365 COMP3071) (0.341 COMP3069)
+Antineoplastic (ovarian cancer)	0.543	COMP3070	(0.520 COMP3071) (0.383 COMP3069) (0.258 COMP31)
+Antineoplastic (pancreatic cancer)	0.645	COMP3069	(0.555 COMP3071) (0.551 COMP3070)
+Antineoplastic (renal cancer)	0.317	COMP31	(0.291 COMP3071) (0.215 COMP3070)
+Antineoplastic (sarcoma)	0.192	COMP3069	
+Antineoplastic (solid tumors)	0.541	COMP31	
+Antineoplastic (squamous cell carcinoma)	0.261	COMP3070	(0.254 COMP3071) (0.239 COMP3069)
+Antineoplastic (uterine cancer)	0.124	COMP3071	(0.113 COMP3070)
+Antineoplastic antibiotic	0.199	COMP31	(0.146 COMP3071) (0.127 COMP3070) (0.113 COMP3069)
+Antineoplastic antimetabolite	0.207	COMP31	
+Antineoplastic enhancer	0.294	COMP3069	(0.225 COMP3070)
+Antineoplastic. alkylator	0.544	COMP31	
+Antineurogenic pain	0.271	COMP31	
+Antiobesity	0.314	COMP31	(0.218 COMP3070)
+Antiosteoporotic	0.345	COMP31	(0.336 COMP3070) (0.246 COMP3071)
+Antioxidant	0.506	COMP3069	(0.497 COMP3071) (0.496 COMP3070) (0.423 COMP31)
+Antiparasitic	0.463	COMP3069	(0.362 COMP3070) (0.310 COMP31) (0.304 COMP3071)
+Antiparkinsonian	0.460	COMP3069	(0.262 COMP3070)
+Antiparkinsonian. rigidity relieving	0.371	COMP31	
+Antiparkinsonian. tremor relieving	0.292	COMP31	(0.127 COMP3071) (0.109 COMP3070)
+Antiprotozoal (Amoeba)	0.131	COMP31	
+Antiprotozoal (Babesia)	0.139	COMP31	
+Antiprotozoal (Coccidial)	0.170	COMP31	
+Antiprotozoal (Leishmania)	0.314	COMP3069	(0.252 COMP31) (0.154 COMP3070) (0.153 COMP3071)
+Antiprotozoal (Trichomonas)	0.180	COMP31	
+Antiprotozoal (Trypanosoma)	0.321	COMP3071	(0.176 COMP3070)
+Antiprotozoal activity enhancer	0.124	COMP31	
+Antipruritic. allergic	0.555	COMP31	(0.528 COMP3069) (0.370 COMP3070) (0.223 COMP3071)
+Antipruritic. non-allergic	0.396	COMP31	(0.340 COMP3069) (0.259 COMP3070) (0.149 COMP3071)
+Antipsoriatic	0.688	COMP3070	(0.624 COMP3069)
+Antipyretic	0.402	COMP31	(0.197 COMP3071)
+Antirickettsial	0.258	COMP31	(0.155 COMP3071) (0.147 COMP3069)
+Antiseptic	0.314	COMP31	(0.119 COMP3071)
+Antispirochetal	0.339	COMP31	
+Antithrombotic	0.348	COMP31	
+Antitreponemal	0.143	COMP31	
+Antituberculosic	0.233	COMP3071	
+Antitussive	0.298	COMP31	
+Antiulcerative	0.234	COMP3071	(0.168 COMP3070)
+Antiviral (CMV)	0.175	COMP31	
+Antiviral (HIV)	0.523	COMP31	
+Antiviral (Hepatitis C)	0.191	COMP3069	(0.142 COMP3070)
+Antiviral (Hepatitis)	0.226	COMP3069	(0.176 COMP3070)
+Antiviral (Herpes)	0.411	COMP31	
+Antiviral (Herpesvirus 3. Human)	0.098	COMP31	
+Antiviral (Influenza A)	0.344	COMP31	(0.305 COMP3069) (0.229 COMP3070) (0.207 COMP3071)
+Antiviral (Influenza B)	0.196	COMP31	(0.128 COMP3071) (0.112 COMP3069)
+Antiviral (Influenza)	0.509	COMP31	(0.300 COMP3069) (0.217 COMP3070) (0.161 COMP3071)
+Antiviral (Papilloma)	0.143	COMP31	
+Antiviral (Parainfluenza)	0.257	COMP31	
+Antiviral (Poxvirus)	0.321	COMP31	
+Antiviral (Rhinovirus)	0.114	COMP31	(0.092 COMP3071)
+Apoptosis agonist	0.741	COMP3070	(0.700 COMP3069) (0.665 COMP3071)
+Apoptosis antagonist	0.193	COMP3071	
+Atherosclerosis treatment	0.442	COMP31	
+Bone diseases treatment	0.385	COMP31	(0.360 COMP3070) (0.265 COMP3071) (0.258 COMP3069)
+Bone formation stimulant	0.144	COMP31	(0.123 COMP3071) (0.118 COMP3070)
+CNS active muscle relaxant	0.395	COMP31	(0.136 COMP3071)
+Cardioprotectant	0.574	COMP31	(0.541 COMP3070) (0.489 COMP3071) (0.302 COMP3069)
+Cardiotonic	0.263	COMP31	
+Cardiovascular analeptic	0.584	COMP31	(0.346 COMP3069) (0.181 COMP3070)
+Cell wall synthesis inhibitor	0.267	COMP31	
+Chemopreventive	0.536	COMP3070	(0.449 COMP3071) (0.404 COMP3069) (0.241 COMP31)
+Chemoprotective	0.534	COMP31	(0.305 COMP3070) (0.261 COMP3069) (0.239 COMP3071)
+Choleretic	0.140	COMP31	
+Cholesterol absorption inhibitor	0.078	COMP31	
+Cholesterol synthesis inhibitor	0.211	COMP31	
+Chronic obstructive pulmonary disease treatment	0.359	COMP31	
+Coagulant	0.185	COMP3071	(0.164 COMP31)
+Constipation treatment	0.449	COMP31	
+Contraceptive	0.371	COMP3069	(0.340 COMP3070)
+Contraceptive female	0.175	COMP3069	(0.171 COMP3070) (0.164 COMP31) (0.115 COMP3071)
+Contraceptive male	0.093	COMP3069	
+Corneal wound healing stimulator	0.249	COMP31	
+Cushing's syndrome treatment	0.156	COMP3070	(0.085 COMP3069)
+Cystic fibrosis treatment	0.328	COMP31	
+Cytostatic	0.609	COMP31	(0.278 COMP3071) (0.172 COMP3069)
+DNA intercalator	0.216	COMP3071	(0.104 COMP3070)
+DNA synthesis inhibitor	0.496	COMP31	(0.219 COMP3071) (0.205 COMP3069) (0.187 COMP3070)
+Diabetic nephropathy treatment	0.367	COMP31	
+Diuretic	0.397	COMP31	(0.121 COMP3069)
+Dysmenorrhea treatment	0.102	COMP31	
+Expectorant	0.368	COMP31	
+Female sexual dysfunction treatment	0.082	COMP31	
+Gastric antisecretory	0.094	COMP31	
+Gastritis treatment	0.131	COMP31	
+Gaucher disease treatment	0.086	COMP31	
+Gout treatment	0.183	COMP3071	
+Growth stimulant	0.177	COMP31	
+HDL-cholesterol increasing	0.234	COMP31	
+Hair growth stimulant	0.328	COMP31	(0.282 COMP3069) (0.226 COMP3070)
+Heart failure treatment	0.188	COMP31	
+Hematopoietic	0.581	COMP31	
+Hemostatic	0.289	COMP31	(0.225 COMP3070) (0.213 COMP3071) (0.200 COMP3069)
+Hepatic disorders treatment	0.604	COMP31	(0.574 COMP3070) (0.548 COMP3069) (0.483 COMP3071)
+Hepatoprotectant	0.488	COMP31	(0.359 COMP3071) (0.353 COMP3069) (0.346 COMP3070)
+Hyperparathyroidism treatment	0.180	COMP31	
+Hypolipemic	0.609	COMP31	
+Immunomodulator	0.583	COMP31	
+Immunostimulant	0.443	COMP31	
+Immunosuppressant	0.631	COMP31	(0.506 COMP3069) (0.301 COMP3071) (0.256 COMP3070)
+Inflammatory Bowel disease treatment	0.558	COMP31	
+Insulin sensitizer	0.271	COMP3070	(0.250 COMP3071) (0.241 COMP31) (0.180 COMP3069)
+Irritable Bowel syndrome treatment	0.283	COMP31	
+Keratolytic	0.237	COMP31	(0.108 COMP3069) (0.084 COMP3070)
+Leukotriene synthesis inhibitor	0.138	COMP3071	(0.131 COMP3070)
+Lipoprotein disorders treatment	0.631	COMP31	(0.162 COMP3069)
+Liver cirrhosis treatment	0.110	COMP3069	
+Liver fibrosis treatment	0.195	COMP3069	(0.135 COMP3070)
+Male reproductive disfunction treatment	0.153	COMP3070	
+Menstruation disorders treatment	0.211	COMP31	
+Mental retardation treatment	0.127	COMP31	
+Metabolic disease treatment	0.553	COMP31	
+Movement disorders treatment	0.175	COMP31	(0.135 COMP3071)
+Mucolytic	0.340	COMP31	
+Muscle relaxant	0.305	COMP31	
+Muscular dystrophy treatment	0.422	COMP31	
+Myasthenia Gravis treatment	0.141	COMP3071	(0.130 COMP3070)
+Myocardial infarction treatment	0.158	COMP3070	
+Myocardial ischemia treatment	0.148	COMP31	
+Narcotic antagonist	0.087	COMP31	(0.076 COMP3070)
+Neuropathy treatment	0.283	COMP31	
+Non-steroidal antiinflammatory agent	0.189	COMP31	(0.156 COMP3071)
+Paget's disease treatment	0.168	COMP31	
+Phobic disorders treatment	0.159	COMP3071	(0.146 COMP31)
+Photosensitizer	0.367	COMP3071	(0.204 COMP3070) (0.137 COMP31) (0.101 COMP3069)
+Platelet antagonist	0.201	COMP31	(0.189 COMP3069)
+Postcoital contraceptive	0.076	COMP3070	(0.072 COMP3069/COMP31) (0.055 COMP3071)
+Postmenopausal disorders treatment	0.069	COMP3069	(0.053 COMP3070)
+Proliferative diseases treatment	0.299	COMP3070	(0.298 COMP3071) (0.271 COMP31) (0.244 COMP3069)
+Prostate cancer treatment	0.566	COMP3071	(0.549 COMP3070) (0.338 COMP3069)
+Prostate disorders treatment	0.160	COMP3069	
+Psychosexual dysfunction treatment	0.134	COMP3069	
+Psychostimulant	0.165	COMP31	
+Radioprotector	0.631	COMP31	(0.188 COMP3070) (0.168 COMP3071)
+Radiosensitizer	0.554	COMP31	(0.234 COMP3071)
+Raynaud's phenomenon treatment	0.256	COMP31	
+Renal disease treatment	0.428	COMP31	
+Renal failure treatment	0.271	COMP31	
+Respiratory analeptic	0.425	COMP31	(0.242 COMP3070) (0.236 COMP3071) (0.213 COMP3069)
+Restless leg syndrome treatment	0.086	COMP31	
+Retinoprotector	0.118	COMP31	
+Sepsis treatment	0.370	COMP31	
+Septic shock treatment	0.344	COMP31	
+Shock treatment	0.145	COMP31	
+Skeletal muscle relaxant	0.343	COMP31	
+Skin whitener	0.153	COMP3071	(0.146 COMP3070)
+Sleep apnea treatment	0.102	COMP31	
+Spasmolytic	0.288	COMP31	(0.242 COMP3071) (0.178 COMP3070)
+Stroke treatment	0.481	COMP31	
+T cell inhibitor	0.365	COMP3071	(0.099 COMP3069) (0.096 COMP3070)
+Thrombolytic	0.296	COMP3069	
+Tocolytic	0.183	COMP31	
+Tourette's syndrome treatment	0.119	COMP31	
+Transplant rejection treatment	0.164	COMP31	
+Tumour necrosis factor alpha release inhibitor	0.613	COMP3069	(0.527 COMP3070) (0.452 COMP3071)
+Urolithiasis treatment	0.478	COMP31	
+Urologic disorders treatment	0.202	COMP31	
+Uterine relaxant	0.065	COMP31	
+Uterine stimulant	0.234	COMP31	
+Vascular (periferal) disease treatment	0.649	COMP3070	(0.526 COMP3071) (0.457 COMP31) (0.420 COMP3069)
+Vasodilator	0.588	COMP3070	(0.563 COMP3071) (0.560 COMP3069) (0.442 COMP31)
+Vasodilator. coronary	0.512	COMP31	(0.252 COMP3071) (0.193 COMP3070)
+Vasodilator. peripheral	0.531	COMP31	
+Wound healing agent	0.368	COMP31	

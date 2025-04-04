@@ -1,0 +1,11 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.284	COMP362	(0.225 COMP2159) (0.192 COMP462)
+Antiviral (CMV)	0.302	COMP2398	
+Electron transport complex I inhibitor	0.155	COMP462	(0.140 COMP2159) (0.137 COMP362) (0.123 COMP357)
+Equilibrative nucleoside transport protein inhibitor	0.491	COMP2398	(0.068 COMP362/COMP462) (0.067 COMP2159) (0.062 COMP357)
+Multidrug resistance-associated protein 1 inhibitor	0.197	COMP362/COMP462	(0.175 COMP2159) (0.139 COMP357)
+Nucleoside transporters inhibitor	0.586	COMP2398	(0.086 COMP462) (0.084 COMP362) (0.069 COMP2159) (0.041 COMP357)
+P-glycoprotein inhibitor	0.385	COMP462	(0.375 COMP362) (0.315 COMP2159) (0.294 COMP357)
+Sodium/glucose cotransporter 1 inhibitor	0.218	COMP357	(0.184 COMP462) (0.177 COMP2159) (0.151 COMP362)
+Sodium/glucose cotransporter 2 inhibitor	0.238	COMP357	(0.176 COMP2159) (0.172 COMP462) (0.147 COMP362) (0.032 COMP2398)
+Sodium/glucose cotransporter inhibitor	0.309	COMP357	(0.235 COMP2159) (0.231 COMP462) (0.187 COMP362) (0.028 COMP2398)

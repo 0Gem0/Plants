@@ -1,0 +1,49 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.044	COMP2329	
+ATPase inhibitor	0.183	COMP2330	(0.166 COMP2329) (0.161 COMP1065)
+Acetylcholinesterase inhibitor	0.576	COMP2330	(0.439 COMP2328) (0.174 COMP2329)
+Alcohol dehydrogenase inhibitor	0.201	COMP2328	
+Aldosterone antagonist	0.071	COMP1065	(0.046 COMP2329)
+Alkaline phosphatase inhibitor	0.539	COMP2328	(0.127 COMP2330)
+Androgen agonist	0.142	COMP1065	(0.132 COMP2329)
+Androgen antagonist	0.252	COMP1065	(0.126 COMP2329) (0.107 COMP2328)
+Arginase inhibitor	0.053	COMP2328	
+Aryl hydrocarbon receptor agonist	0.733	COMP2328	(0.716 COMP2330)
+Butyrylcholinesterase inhibitor	0.442	COMP2330	(0.270 COMP2328)
+CYP1A2 inhibitor	0.975	COMP2328	(0.854 COMP2330)
+CYP2C9 inhibitor	0.629	COMP2330	(0.578 COMP2328)
+CYP2D6 inhibitor	0.360	COMP2330	
+CYP3A4 inhibitor	0.559	COMP2330	(0.356 COMP2328)
+Ca2+-transporting ATPase inhibitor	0.171	COMP1065	(0.155 COMP2329) (0.130 COMP2328)
+Cyclooxygenase 1 inhibitor	0.243	COMP2328	(0.174 COMP2330)
+Cyclooxygenase 2 inhibitor	0.200	COMP2328	(0.148 COMP2330)
+Cyclooxygenase inhibitor	0.235	COMP2328	(0.156 COMP2330)
+Cystathionine beta-synthase inhibitor	0.878	COMP2328	(0.283 COMP2330)
+DNA polymerase beta inhibitor	0.468	COMP2328	(0.430 COMP2330)
+DOPA decarboxylase inhibitor	0.222	COMP2328	(0.192 COMP2330)
+Electron transport complex I inhibitor	0.220	COMP2328	(0.125 COMP2330) (0.102 COMP1065)
+Endothelin A receptor antagonist	0.109	COMP2330	
+Estrogen agonist	0.165	COMP2328	(0.095 COMP1065) (0.086 COMP2329)
+GRP78 expression inhibitor	0.035	COMP2329	
+Glucocorticoid antagonist	0.057	COMP2329	(0.047 COMP1065)
+HMG CoA reductase inhibitor	0.050	COMP2329	(0.035 COMP1065)
+Heat shock protein 70 antagonist	0.212	COMP2328	(0.168 COMP2330)
+Hexokinase inhibitor	0.143	COMP2328	
+MAO A inhibitor	0.695	COMP2328	(0.406 COMP2330)
+MAO inhibitor	0.668	COMP2328	(0.424 COMP2330)
+Na+ K+ transporting ATPase inhibitor	0.131	COMP1065	(0.125 COMP2329) (0.086 COMP2328)
+Nav1.5 sodium channel blocker	0.107	COMP2328	
+Opioid kappa receptor agonist	0.045	COMP1065	
+Peroxidase inhibitor	0.738	COMP2328	(0.243 COMP2330)
+Phosphodiesterase 4D inhibitor	0.176	COMP2328	
+Phospholipase A2 inhibitor	0.138	COMP2328	
+Phospholipase C inhibitor	0.151	COMP2329	(0.149 COMP2328)
+Prostaglandin F2 alpha agonist	0.021	COMP2329	
+Pyruvate kinase inhibitor	0.509	COMP2328	(0.401 COMP2330)
+Succinate dehydrogenase inhibitor	0.275	COMP2328	(0.165 COMP2329) (0.164 COMP2330)
+Superoxide dismutase inhibitor	0.728	COMP2328	(0.239 COMP2330) (0.217 COMP2329)
+Topoisomerase I inhibitor	0.368	COMP2330	(0.247 COMP2328) (0.116 COMP2329)
+Topoisomerase II alpha inhibitor	0.420	COMP2328	(0.376 COMP2330)
+Triose-phosphate isomerase inhibitor	0.095	COMP2329	
+Tyrosine 3 hydroxylase inhibitor	0.239	COMP2328	(0.227 COMP2329)
+UDP-glucose 4-epimerase inhibitor	0.084	COMP2329	

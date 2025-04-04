@@ -1,0 +1,24 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.520	COMP1869	(0.447 COMP1871) (0.426 COMP1143) (0.413 COMP1120) (0.384 COMP212) (0.379 COMP1876) (0.354 COMP188) (0.345 COMP1873) (0.293 COMP1874) (0.271 COMP1872) (0.235 COMP1875) (0.189 COMP324)
+Antiviral (CMV)	0.145	COMP188	(0.101 COMP1120)
+Apical sodium codependent bile acid transporter inhibitor	0.037	COMP77	(0.035 COMP402)
+Dopamine uptake inhibitor	0.052	COMP1869	
+Electron transport complex I inhibitor	0.596	COMP324	(0.577 COMP188) (0.261 COMP1875) (0.215 COMP1120) (0.171 COMP1869) (0.155 COMP1871) (0.143 COMP1143) (0.118 COMP1873) (0.116 COMP1876) (0.112 COMP1872)
+Endocannabinoid uptake inhibitor	0.251	COMP1120	(0.103 COMP1143/COMP212) (0.093 COMP188) (0.065 COMP1870)
+Excitatory amino acid transporter EAAC1 inhibitor	0.269	COMP212	(0.213 COMP188) (0.125 COMP1143) (0.119 COMP1120)
+GABA transporter 1 inhibitor	0.018	COMP212	
+GABA transporter 3 inhibitor	0.109	COMP1143	(0.097 COMP212) (0.037 COMP1120)
+GABA transporter inhibitor	0.040	COMP212	(0.029 COMP1143)
+GABA uptake inhibitor	0.072	COMP1877	(0.055 COMP1868) (0.046 COMP212) (0.042 COMP188)
+Glycine transporter 2 inhibitor	0.235	COMP1120	
+Ileal bile acid transport inhibitor	0.071	COMP77	(0.070 COMP402)
+Multidrug resistance-associated protein 1 inhibitor	0.110	COMP1869	(0.103 COMP1876) (0.100 COMP1873)
+Nucleoside transporters inhibitor	0.044	COMP1143	(0.032 COMP212)
+P-glycoprotein inhibitor	0.487	COMP1872	(0.447 COMP1873) (0.416 COMP1874) (0.413 COMP1876) (0.336 COMP1871) (0.269 COMP1875) (0.260 COMP1869) (0.251 COMP188/COMP402) (0.245 COMP1120) (0.232 COMP77) (0.194 COMP324) (0.154 COMP1143)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.093	COMP212	(0.046 COMP1143) (0.042 COMP188)
+Sodium/bile acid cotransporter inhibitor	0.573	COMP77	(0.558 COMP402) (0.348 COMP1120) (0.288 COMP1875) (0.275 COMP212) (0.269 COMP1869) (0.268 COMP1143) (0.202 COMP1871)
+Sodium/glucose cotransporter 1 inhibitor	0.044	COMP1871	(0.041 COMP1874) (0.036 COMP1872) (0.032 COMP1869) (0.027 COMP1876) (0.025 COMP1873)
+Sodium/glucose cotransporter 2 inhibitor	0.056	COMP1874	(0.049 COMP1871) (0.040 COMP1872) (0.028 COMP212) (0.027 COMP1869) (0.026 COMP1876) (0.024 COMP1873)
+Sodium/glucose cotransporter inhibitor	0.051	COMP1871	(0.048 COMP1874) (0.037 COMP1872) (0.030 COMP1869) (0.026 COMP1876) (0.025 COMP1873/COMP212)
+Vesicle monoamine transporter inhibitor	0.048	COMP1868	(0.040 COMP1877)
+Vesicular glutamate transport inhibitor	0.025	COMP212	(0.018 COMP188)

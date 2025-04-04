@@ -1,0 +1,212 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.192	COMP464	
+AR expression inhibitor	0.362	COMP464	(0.314 COMP465)
+ATPase (Vacuolar H+) inhibitor	0.096	COMP464	
+ATPase inhibitor	0.192	COMP464	(0.154 COMP465)
+Abortion inducer	0.323	COMP464	(0.312 COMP465)
+Actinic keratosis treatment	0.091	COMP464	
+Adenylate cyclase stimulant	0.179	COMP464	(0.136 COMP465)
+Alcohol dehydrogenase substrate	0.126	COMP465	(0.121 COMP464)
+Aldehyde oxidase inhibitor	0.198	COMP464	
+Aldose reductase substrate	0.128	COMP465	
+Aldosterone antagonist	0.074	COMP464	
+Alkylator	0.138	COMP464	
+Alpha-N-acetylglucosaminidase inhibitor	0.111	COMP465	
+Anabolic	0.165	COMP464	(0.130 COMP465)
+Analeptic	0.490	COMP464	(0.376 COMP465)
+Androgen agonist	0.103	COMP464	(0.080 COMP465)
+Androgen antagonist	0.122	COMP464	(0.088 COMP465)
+Anesthetic	0.149	COMP465	(0.129 COMP464)
+Angiogenesis stimulant	0.264	COMP465	
+Antiacne	0.158	COMP464	(0.115 COMP465)
+Antibacterial	0.566	COMP464	(0.477 COMP465)
+Antibiotic	0.216	COMP464	(0.145 COMP465)
+Anticholelithogenic	0.064	COMP464	
+Antidiabetic	0.802	COMP465	(0.457 COMP464)
+Antidiabetic symptomatic	0.173	COMP464	
+Antifungal	0.771	COMP464	(0.602 COMP465)
+Antifungal enhancer	0.403	COMP464	(0.214 COMP465)
+Antihelmintic	0.720	COMP464	(0.384 COMP465)
+Antihelmintic (Nematodes)	0.554	COMP464	(0.309 COMP465)
+Antihemorrhagic	0.262	COMP465	(0.177 COMP464)
+Antihypercholesterolemic	0.219	COMP464	
+Antihypertriglyceridemic	0.416	COMP465	
+Antiinflammatory	0.774	COMP465	(0.469 COMP464)
+Antileukemic	0.821	COMP465	(0.756 COMP464)
+Antimitotic	0.444	COMP464	
+Antimutagenic	0.171	COMP465	(0.117 COMP464)
+Antimycoplasmal	0.097	COMP464	(0.086 COMP465)
+Antineoplastic (brain cancer)	0.321	COMP465	(0.300 COMP464)
+Antineoplastic (breast cancer)	0.861	COMP464	(0.784 COMP465)
+Antineoplastic (carcinoma)	0.781	COMP464	(0.244 COMP465)
+Antineoplastic (cervical cancer)	0.328	COMP464	(0.298 COMP465)
+Antineoplastic (colon cancer)	0.857	COMP465	(0.848 COMP464)
+Antineoplastic (colorectal cancer)	0.859	COMP465	(0.851 COMP464)
+Antineoplastic (endocrine cancer)	0.259	COMP465	
+Antineoplastic (glioblastoma multiforme)	0.410	COMP464	(0.298 COMP465)
+Antineoplastic (glioma)	0.522	COMP465	(0.514 COMP464)
+Antineoplastic (liver cancer)	0.719	COMP464	(0.660 COMP465)
+Antineoplastic (lung cancer)	0.768	COMP465	(0.737 COMP464)
+Antineoplastic (lymphocytic leukemia)	0.367	COMP464	(0.151 COMP465)
+Antineoplastic (lymphoma)	0.437	COMP464	(0.284 COMP465)
+Antineoplastic (melanoma)	0.834	COMP464	(0.794 COMP465)
+Antineoplastic (non-small cell lung cancer)	0.808	COMP464	(0.558 COMP465)
+Antineoplastic (ovarian cancer)	0.728	COMP464	(0.622 COMP465)
+Antineoplastic (pancreatic cancer)	0.348	COMP464	(0.325 COMP465)
+Antineoplastic (renal cancer)	0.823	COMP464	(0.637 COMP465)
+Antineoplastic (sarcoma)	0.335	COMP465	(0.248 COMP464)
+Antineoplastic (solid tumors)	0.285	COMP464	
+Antineoplastic (squamous cell carcinoma)	0.724	COMP464	(0.350 COMP465)
+Antineoplastic antibiotic	0.638	COMP464	(0.513 COMP465)
+Antioxidant	0.367	COMP465	(0.223 COMP464)
+Antiparasitic	0.734	COMP464	(0.438 COMP465)
+Antiprotozoal	0.622	COMP464	(0.510 COMP465)
+Antiprotozoal (Leishmania)	0.245	COMP465	
+Antiprotozoal (Plasmodium)	0.641	COMP464	(0.484 COMP465)
+Antipruritic. allergic	0.396	COMP464	(0.369 COMP465)
+Antipruritic. non-allergic	0.247	COMP464	(0.244 COMP465)
+Antirickettsial	0.227	COMP464	(0.204 COMP465)
+Antitreponemal	0.081	COMP465	(0.080 COMP464)
+Antiulcerative	0.168	COMP465	
+Antiviral (Dengue virus)	0.086	COMP465	
+Antiviral (HIV)	0.230	COMP464	
+Antiviral (Hepatitis B)	0.106	COMP465	
+Antiviral (Herpes)	0.179	COMP465	(0.148 COMP464)
+Antiviral (Influenza A)	0.115	COMP464	
+Antiviral (Influenza)	0.158	COMP464	
+Apoptosis agonist	0.958	COMP464	(0.931 COMP465)
+Apoptosis antagonist	0.363	COMP465	(0.219 COMP464)
+Arachidonic acid antagonist	0.244	COMP464	(0.229 COMP465)
+Aromatase inhibitor	0.070	COMP464	
+CC chemokine 6 receptor antagonist	0.124	COMP465	
+CTGF expression inhibitor	0.293	COMP464	(0.233 COMP465)
+CYP1A2 substrate	0.184	COMP464	
+CYP3A4 substrate	0.580	COMP464	(0.237 COMP465)
+Ca2+-transporting ATPase inhibitor	0.149	COMP464	(0.142 COMP465)
+Calcium channel L-type activator	0.240	COMP465	
+Calcium channel activator	0.213	COMP464	
+Carcinogenic	0.981	COMP465	(0.865 COMP464)
+Carcinogenic. group 3	0.623	COMP464	(0.508 COMP465)
+Cardioprotectant	0.453	COMP465	(0.197 COMP464)
+Cardiovascular analeptic	0.210	COMP464	(0.156 COMP465)
+Caspase 3 stimulant	0.242	COMP464	
+Caspase 9 stimulant	0.479	COMP464	(0.309 COMP465)
+Chemopreventive	0.429	COMP465	(0.336 COMP464)
+Chemoprotective	0.231	COMP465	(0.193 COMP464)
+Cholesterol antagonist	0.495	COMP464	(0.332 COMP465)
+Cholesterol synthesis inhibitor	0.147	COMP464	(0.126 COMP465)
+Contraceptive	0.340	COMP464	(0.200 COMP465)
+Contraceptive female	0.157	COMP464	
+Contraceptive male	0.114	COMP464	(0.084 COMP465)
+Corticosteroid-like	0.027	COMP465	(0.021 COMP464)
+Cyclophilin D inhibitor	0.802	COMP465	(0.457 COMP464)
+Cytostatic	0.922	COMP464	(0.652 COMP465)
+Cytotoxic	0.783	COMP465	(0.681 COMP464)
+DNA polymerase I inhibitor	0.173	COMP465	
+DNA synthesis inhibitor	0.562	COMP464	(0.544 COMP465)
+Embryotoxic	0.955	COMP465	(0.824 COMP464)
+Estrogen agonist	0.166	COMP464	(0.084 COMP465)
+Estrogen antagonist	0.158	COMP464	(0.100 COMP465)
+Estrogen receptor alpha agonist	0.083	COMP464	(0.051 COMP465)
+Estrogen receptor alpha antagonist	0.075	COMP464	
+Estrogen receptor beta agonist	0.116	COMP464	(0.070 COMP465)
+Estrogen receptor beta antagonist	0.138	COMP464	
+Expectorant	0.087	COMP464	
+Eye irritation. high	0.142	COMP464	
+Farnesoid X receptor antagonist	0.262	COMP464	(0.166 COMP465)
+Free radical scavenger	0.258	COMP465	
+GST A substrate	0.326	COMP464	(0.240 COMP465)
+GST M1-1 substrate	0.278	COMP464	(0.233 COMP465)
+GST T1-1 substrate	0.103	COMP464	
+Genotoxic	0.143	COMP464	(0.117 COMP465)
+Glucocorticoid antagonist	0.033	COMP464	
+Glucose-6-phosphate dehydrogenase inhibitor	0.039	COMP464	
+Glucose-6-phosphate isomerase inhibitor	0.044	COMP465	
+Glucose-6-phosphate translocase inhibitor	0.084	COMP465	
+Glutathione S-transferase substrate	0.314	COMP465	(0.217 COMP464)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.222	COMP465	(0.170 COMP464)
+Glycine receptor agonist	0.073	COMP464	
+Glycine receptor antagonist	0.099	COMP464	
+Growth hormone agonist	0.159	COMP464	
+Growth stimulant	0.136	COMP464	(0.130 COMP465)
+HDL-cholesterol increasing	0.117	COMP465	
+Hepatic disorders treatment	0.518	COMP465	(0.293 COMP464)
+Hepatoprotectant	0.347	COMP465	(0.276 COMP464)
+Hypoglycemic	0.194	COMP465	
+Hypolipemic	0.176	COMP465	
+Hypoxia-inducible factor 1 alpha inhibitor	0.191	COMP464	
+ICAM1 expression inhibitor	0.458	COMP464	(0.412 COMP465)
+Immunomodulator	0.771	COMP465	(0.267 COMP464)
+Immunostimulant	0.642	COMP465	(0.420 COMP464)
+Immunosuppressant	0.804	COMP465	(0.760 COMP464)
+Interferon gamma antagonist	0.258	COMP465	(0.249 COMP464)
+Interleukin 2 agonist	0.227	COMP465	
+Interleukin 6 antagonist	0.183	COMP464	
+Lipid peroxidase inhibitor	0.209	COMP465	
+Lipocortins synthesis agonist	0.087	COMP465	(0.081 COMP464)
+Lipocortins synthesis antagonist	0.409	COMP464	(0.399 COMP465)
+Lipoprotein disorders treatment	0.316	COMP465	
+Melanin inhibitor	0.152	COMP465	(0.137 COMP464)
+Microtubule formation inhibitor	0.263	COMP464	(0.251 COMP465)
+Microtubule stabilization	0.101	COMP464	(0.073 COMP465)
+Mineralocorticoid receptor antagonist	0.054	COMP464	
+Mucolytic	0.103	COMP464	
+Mutagenic	0.987	COMP465	(0.946 COMP464)
+NOS2 expression inhibitor	0.401	COMP464	(0.270 COMP465)
+NOS3 expression inhibitor	0.453	COMP464	(0.388 COMP465)
+Na+ K+ transporting ATPase inhibitor	0.127	COMP465	(0.126 COMP464)
+Neurotrophic factor enhancer	0.203	COMP464	(0.172 COMP465)
+Nitric oxide antagonist	0.655	COMP465	(0.477 COMP464)
+P-glycoprotein inhibitor	0.269	COMP464	(0.146 COMP465)
+Phosphofructokinase-1 inhibitor	0.064	COMP465	
+Pneumotoxic	0.250	COMP464	(0.160 COMP465)
+Postcoital contraceptive	0.063	COMP464	
+Postmenopausal disorders treatment	0.077	COMP464	
+Proliferative diseases treatment	0.402	COMP464	(0.335 COMP465)
+Prostate cancer treatment	0.590	COMP464	(0.472 COMP465)
+Prostate disorders treatment	0.235	COMP464	(0.166 COMP465)
+Prostatic (benign) hyperplasia treatment	0.123	COMP464	
+Protein 50S ribosomal subunit inhibitor	0.074	COMP464	(0.056 COMP465)
+Protein kinase stimulant	0.207	COMP464	(0.180 COMP465)
+RNA-directed DNA polymerase inhibitor	0.185	COMP464	(0.168 COMP465)
+RNA-directed RNA polymerase stimulant	0.072	COMP464	(0.030 COMP465)
+Respiratory analeptic	0.365	COMP464	(0.254 COMP465)
+SULT1A1 substrate	0.123	COMP464	(0.120 COMP465)
+SULT1A2 substrate	0.091	COMP464	
+SULT1A3 substrate	0.168	COMP465	(0.148 COMP464)
+SULT1E1 substrate	0.093	COMP464	
+SULT2A1 substrate	0.075	COMP464	
+Sensitization	0.612	COMP464	(0.439 COMP465)
+Sigma receptor agonist	0.285	COMP464	
+Skin irritative effect	0.915	COMP465	(0.672 COMP464)
+Sodium/bile acid cotransporter inhibitor	0.338	COMP464	(0.228 COMP465)
+Sodium/glucose cotransporter 1 inhibitor	0.049	COMP465	(0.039 COMP464)
+Sodium/glucose cotransporter inhibitor	0.082	COMP465	(0.047 COMP464)
+Spasmolytic	0.213	COMP464	
+Sulfotransferase substrate	0.153	COMP465	(0.102 COMP464)
+T cell inhibitor	0.091	COMP464	
+TNF expression inhibitor	0.370	COMP464	(0.293 COMP465)
+Telomerase stimulant	0.022	COMP465	(0.018 COMP464)
+Teratogen	0.953	COMP465	(0.838 COMP464)
+Toxic. respiratory center	0.294	COMP465	(0.153 COMP464)
+Transcription factor NF kappa B inhibitor	0.906	COMP464	(0.759 COMP465)
+Transcription factor NF kappa B stimulant	0.095	COMP464/COMP465	
+Transcription factor inhibitor	0.249	COMP464	
+Tubulin agonist	0.048	COMP464	(0.037 COMP465)
+Tumour necrosis factor alpha release inhibitor	0.215	COMP465	
+UDP-glucose 4-epimerase inhibitor	0.096	COMP465	(0.086 COMP464)
+UDP-glucuronosyltransferase substrate	0.818	COMP464	(0.662 COMP465)
+UGT1A1 substrate	0.217	COMP464	(0.206 COMP465)
+UGT1A3 substrate	0.163	COMP464	
+UGT1A4 substrate	0.273	COMP464	(0.245 COMP465)
+UGT1A6 substrate	0.245	COMP465	(0.218 COMP464)
+UGT1A9 substrate	0.251	COMP464	(0.235 COMP465)
+UGT2B1 substrate	0.119	COMP465	(0.116 COMP464)
+UGT2B10 substrate	0.197	COMP464	(0.193 COMP465)
+UGT2B11 substrate	0.151	COMP464	(0.130 COMP465)
+UGT2B15 substrate	0.269	COMP464	(0.200 COMP465)
+UGT2B4 substrate	0.395	COMP464	(0.344 COMP465)
+UGT2B7 substrate	0.317	COMP464	(0.272 COMP465)
+UGT2B9 substrate	0.251	COMP464	(0.224 COMP465)
+VCAM1 expression inhibitor	0.164	COMP465	
+Vitamin D receptor antagonist	0.020	COMP465	

@@ -1,0 +1,49 @@
+Name	Activation_Prob	Compound	Another_Probs
+ATPase inhibitor	0.230	COMP46	(0.135 COMP1529/COMP48)
+Acetylcholinesterase inhibitor	0.457	COMP48	(0.448 COMP1529) (0.206 COMP46)
+Adenosine deaminase inhibitor	0.064	COMP48	(0.052 COMP1529)
+Alcohol dehydrogenase inhibitor	0.530	COMP46	(0.435 COMP48) (0.278 COMP1529)
+Alkaline phosphatase inhibitor	0.435	COMP1529	(0.403 COMP48) (0.313 COMP46)
+Alpha-mannosidase inhibitor	0.058	COMP46	
+Androgen antagonist	0.193	COMP48	(0.148 COMP1529)
+Arginase inhibitor	0.135	COMP46	(0.110 COMP48) (0.071 COMP1529)
+Aryl hydrocarbon receptor agonist	0.850	COMP1529	(0.809 COMP48) (0.501 COMP46)
+Butyrylcholinesterase inhibitor	0.277	COMP1529/COMP48	
+CYP1A2 inhibitor	0.978	COMP1529	(0.945 COMP48) (0.280 COMP46)
+CYP2C9 inhibitor	0.670	COMP1529	(0.657 COMP48)
+CYP3A4 inhibitor	0.379	COMP1529	(0.359 COMP48) (0.198 COMP46)
+Ca2+-transporting ATPase inhibitor	0.142	COMP48	(0.134 COMP1529) (0.132 COMP46)
+Carbonic anhydrase inhibitor	0.078	COMP48	(0.055 COMP46) (0.054 COMP1529)
+Cyclooxygenase 1 inhibitor	0.271	COMP48	(0.254 COMP1529) (0.151 COMP46)
+Cyclooxygenase 2 inhibitor	0.217	COMP48	(0.209 COMP1529) (0.174 COMP46)
+Cyclooxygenase inhibitor	0.257	COMP48	(0.248 COMP1529) (0.189 COMP46)
+Cystathionine beta-synthase inhibitor	0.947	COMP48	(0.938 COMP1529) (0.884 COMP46)
+DNA polymerase beta inhibitor	0.517	COMP1529	(0.466 COMP48)
+DOPA decarboxylase inhibitor	0.304	COMP48	(0.238 COMP1529)
+Dopamine D2 agonist	0.052	COMP48	
+Electron transport complex I inhibitor	0.248	COMP1529	(0.195 COMP48) (0.107 COMP46)
+Estrogen agonist	0.368	COMP48	(0.199 COMP1529) (0.173 COMP46)
+GABA aminotransferase inhibitor	0.068	COMP48	
+Glucose-6-phosphate isomerase inhibitor	0.052	COMP46	
+Heat shock protein 70 antagonist	0.283	COMP48	(0.265 COMP1529) (0.190 COMP46)
+Hexokinase inhibitor	0.193	COMP46	(0.166 COMP48) (0.151 COMP1529)
+MAO A inhibitor	0.705	COMP48	(0.703 COMP1529)
+MAO inhibitor	0.690	COMP1529	(0.681 COMP48)
+Na+ K+ transporting ATPase inhibitor	0.184	COMP46	(0.105 COMP48) (0.091 COMP1529)
+Nav1.5 sodium channel blocker	0.121	COMP48	(0.115 COMP1529)
+Peroxidase inhibitor	0.868	COMP48	(0.803 COMP1529) (0.221 COMP46)
+Phenylalanine 4-hydroxylase inhibitor	0.073	COMP48	
+Phosphodiesterase 4D inhibitor	0.161	COMP1529	(0.114 COMP48)
+Phosphofructokinase-1 inhibitor	0.123	COMP46	
+Phospholipase A2 inhibitor	0.162	COMP48	(0.150 COMP1529)
+Phospholipase C inhibitor	0.193	COMP48	(0.158 COMP1529)
+Pyruvate kinase inhibitor	0.589	COMP1529	(0.579 COMP48) (0.394 COMP46)
+Retinoic acid alpha receptor agonist	0.040	COMP48	
+Succinate dehydrogenase inhibitor	0.279	COMP48	(0.272 COMP1529)
+Superoxide dismutase inhibitor	0.707	COMP1529	(0.685 COMP48)
+Thyroid hormone agonist	0.024	COMP48	
+Topoisomerase I inhibitor	0.383	COMP46	(0.302 COMP48) (0.260 COMP1529)
+Topoisomerase II alpha inhibitor	0.515	COMP48	(0.469 COMP46) (0.452 COMP1529)
+Triose-phosphate isomerase inhibitor	0.091	COMP46	(0.085 COMP48)
+Tyrosine 3 hydroxylase inhibitor	0.315	COMP48	(0.257 COMP1529)
+UDP-glucose 4-epimerase inhibitor	0.258	COMP46	(0.112 COMP48)

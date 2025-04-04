@@ -1,0 +1,10 @@
+(1S,4S,5S,7S,9R,10S,13S,15S,16R)-5-(Hydroxymethyl)-5,9-dimethyl-14-methylidenetetracyclo[11.2.1.01,10.04,9]hexadecane-7,15,16-triol
+(1S,4S,5S,7S,9R,10S,13S,15S,16R)-5-(hydroxymethyl)-5,9-dimethyl-14-methylidenetetracyclo[11.2.1.01,10.04,9]hexadecane-7,15,16-triol
+CHEMBL255516
+24800713
+None
+C20H32O4
+336.23
+InChI=1S/C20H32O4/c1-11-13-4-5-15-19(3)9-12(22)8-18(2,10-21)14(19)6-7-20(15,16(11)23)17(13)24/h12-17,21-24H,1,4-10H2,2-3H3/t12-,13+,14-,15+,16+,17-,18-,19-,20-/m1/s1
+CUGVUJOOXAEVRT-BASOQKIWSA-N
+OC[C@@]1(C)C[C@@H](O)C[C@@]2([C@@H]1CC[C@]13[C@H]2CC[C@H]([C@H]1O)C(=C)[C@@H]3O)C

@@ -1,0 +1,10 @@
+Neoorthosiphol A
+[(2S,3S,4R,4aS,4bS,5R,6S,7S,8aS,10R,10aR)-6,10-diacetyloxy-5-benzoyloxy-3-ethenyl-2,7,10a-trihydroxy-2,4b,8,8-tetramethyl-1-oxo-4,4a,5,6,7,8a,9,10-octahydro-3H-phenanthren-4-yl] benzoate
+CHEMBL525987
+10055454
+None
+C38H44O12
+692.28
+InChI=1S/C38H44O12/c1-8-24-27(49-32(42)22-15-11-9-12-16-22)29-36(6)25(19-26(47-20(2)39)38(29,46)34(44)37(24,7)45)35(4,5)30(41)28(48-21(3)40)31(36)50-33(43)23-17-13-10-14-18-23/h8-18,24-31,41,45-46H,1,19H2,2-7H3/t24-,25-,26+,27+,28-,29+,30+,31-,36-,37-,38-/m0/s1
+PBUZGANPVDYQRM-FRZINCLTSA-N
+C=C[C@H]1[C@@H](OC(=O)c2ccccc2)[C@@H]2[C@@]3(C)[C@@H](OC(=O)c4ccccc4)[C@@H](OC(=O)C)[C@H](C([C@@H]3C[C@H]([C@]2(C(=O)[C@@]1(C)O)O)OC(=O)C)(C)C)O

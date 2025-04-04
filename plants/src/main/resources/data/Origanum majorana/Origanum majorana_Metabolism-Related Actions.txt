@@ -1,0 +1,44 @@
+Name	Activation_Prob	Compound	Another_Probs
+Alcohol dehydrogenase substrate	0.161	COMP101	
+Aldehyde dehydrogenase substrate	0.172	COMP101	
+Aldehyde oxidase substrate	0.250	COMP101	
+Arylamine N-Acetyltransferase substrate	0.121	COMP101	
+CYP1A2 inhibitor	0.413	COMP101	
+CYP1A2 substrate	0.707	COMP101	
+CYP2A6 inhibitor	0.093	COMP101	
+CYP2B6 inhibitor	0.330	COMP101	
+CYP2C19 inhibitor	0.472	COMP101	(0.248 COMP1740/COMP1741)
+CYP2C19 substrate	0.588	COMP101	
+CYP2C9 inhibitor	0.411	COMP1740/COMP1741	(0.363 COMP101)
+CYP2C9 substrate	0.680	COMP101	
+CYP2D6 inhibitor	0.539	COMP1740/COMP1741	(0.196 COMP101)
+CYP2D6 substrate	0.648	COMP101	
+CYP3A4 inhibitor	0.380	COMP1740/COMP1741	(0.329 COMP101)
+CYP3A4 substrate	0.502	COMP101	
+FMO1 substrate	0.621	COMP101	
+FMO3 substrate	0.507	COMP101	
+Flavin-containing monooxygenase substrate	0.423	COMP101	
+GST A substrate	0.638	COMP101	
+GST M1-1 substrate	0.364	COMP101	
+GST P1-1 substrate	0.509	COMP101	
+GST T1-1 substrate	0.105	COMP101	
+Glutathione S-transferase substrate	0.273	COMP101	
+SULT1A1 substrate	0.248	COMP101	
+SULT1A2 substrate	0.122	COMP101	
+SULT1A3 substrate	0.284	COMP101	
+SULT1E1 substrate	0.089	COMP101	
+SULT2A1 substrate	0.087	COMP101	
+Sulfotransferase substrate	0.633	COMP101	
+UDP-glucuronosyltransferase substrate	0.430	COMP101	
+UGT1A1 substrate	0.614	COMP101	
+UGT1A3 substrate	0.596	COMP101	
+UGT1A4 substrate	0.614	COMP101	
+UGT1A6 substrate	0.576	COMP101	
+UGT1A9 substrate	0.530	COMP101	
+UGT2B1 substrate	0.324	COMP101	
+UGT2B10 substrate	0.449	COMP101	
+UGT2B11 substrate	0.245	COMP101	
+UGT2B15 substrate	0.536	COMP101	
+UGT2B4 substrate	0.624	COMP101	
+UGT2B7 substrate	0.354	COMP101	
+UGT2B9 substrate	0.341	COMP101	

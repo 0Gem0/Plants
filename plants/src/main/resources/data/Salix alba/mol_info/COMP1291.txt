@@ -1,0 +1,10 @@
+12,23-Dihydroxy-11Alpha-Methoxyurs-12-En-3-One
+(4R,4aR,6aR,6bS,8aR,11R,12S,12aR,14S,14aR,14bS)-13-hydroxy-4-(hydroxymethyl)-14-methoxy-4,6a,6b,8a,11,12,14b-heptamethyl-1,2,4a,5,6,7,8,9,10,11,12,12a,14,14a-tetradecahydropicen-3-one
+CHEMBL1783829
+44235900
+None
+C31H50O4
+486.37
+InChI=1S/C31H50O4/c1-18-9-12-27(3)15-16-30(6)23(22(27)19(18)2)24(34)25(35-8)26-28(4)13-11-21(33)29(5,17-32)20(28)10-14-31(26,30)7/h18-20,22,25-26,32,34H,9-17H2,1-8H3/t18-,19+,20-,22+,25-,26-,27-,28+,29+,30-,31-/m1/s1
+YPWRVIJLRQKSJU-MMACHFKXSA-N
+CO[C@@H]1C(=C2[C@@H]3[C@@H](C)[C@H](C)CC[C@]3(C)CC[C@]2([C@]2([C@H]1[C@@]1(C)CCC(=O)[C@@]([C@@H]1CC2)(C)CO)C)C)O

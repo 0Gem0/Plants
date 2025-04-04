@@ -1,0 +1,10 @@
+(1S,3R,4R,5R)-3-[3-(3,4-Dihydroxyphenyl)Prop-2-Enoyloxy]-1,4,5-Trihydroxycyclohexane-1-Carboxylic Acid
+(1S,3R,4R,5R)-3-[3-(3,4-dihydroxyphenyl)prop-2-enoyloxy]-1,4,5-trihydroxycyclohexane-1-carboxylic acid
+CHEMBL3186431
+9476
+None
+C16H18O9
+354.1
+InChI=1S/C16H18O9/c17-9-3-1-8(5-10(9)18)2-4-13(20)25-12-7-16(24,15(22)23)6-11(19)14(12)21/h1-5,11-12,14,17-19,21,24H,6-7H2,(H,22,23)/t11-,12-,14-,16+/m1/s1
+CWVRJTMFETXNAD-NCZKRNLISA-N
+O=C(O[C@@H]1C[C@@](O)(C[C@H]([C@H]1O)O)C(=O)O)C=Cc1ccc(c(c1)O)O

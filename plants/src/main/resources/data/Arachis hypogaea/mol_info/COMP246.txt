@@ -1,0 +1,10 @@
+Epigallocatechin-(4beta->8,2beta->O-7)-epicatechin
+(1R,5R,6R,13S,21R)-5-(3,4-dihydroxyphenyl)-13-(3,4,5-trihydroxyphenyl)-4,12,14-trioxapentacyclo[11.7.1.02,11.03,8.015,20]henicosa-2(11),3(8),9,15,17,19-hexaene-6,9,17,19,21-pentol
+CHEMBL501115
+637122
+CHEBI:65854
+C30H24O13
+592.12
+InChI=1S/C30H24O13/c31-12-6-17(35)23-21(7-12)42-30(11-4-18(36)26(39)19(37)5-11)29(40)25(23)24-22(43-30)9-15(33)13-8-20(38)27(41-28(13)24)10-1-2-14(32)16(34)3-10/h1-7,9,20,25,27,29,31-40H,8H2/t20-,25-,27-,29-,30+/m1/s1
+WODBGULXKVZGQF-QCPBNORNSA-N
+Oc1cc(O)c2c(c1)O[C@@]1([C@@H]([C@H]2c2c(O1)cc(c1c2O[C@@H]([C@@H](C1)O)c1ccc(c(c1)O)O)O)O)c1cc(O)c(c(c1)O)O

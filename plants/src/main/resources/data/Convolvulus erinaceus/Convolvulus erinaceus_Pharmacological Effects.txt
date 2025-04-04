@@ -1,0 +1,83 @@
+Name	Activation_Prob	Compound	Another_Probs
+Angiogenesis inhibitor	0.353	COMP382	
+Antiamyloidogenic	0.153	COMP382	
+Antianorexic	0.266	COMP382	
+Antiarthritic	0.252	COMP382	
+Anticholelithogenic	0.065	COMP382	
+Antifungal enhancer	0.167	COMP382	
+Antihypertensive	0.285	COMP382	
+Antihypertriglyceridemic	0.190	COMP382	
+Antiischemic	0.173	COMP382	
+Antiischemic. cerebral	0.175	COMP382	
+Antileukemic	0.322	COMP382	
+Antimitotic	0.161	COMP382	
+Antimycobacterial	0.182	COMP382	
+Antineoplastic (bladder cancer)	0.246	COMP382	
+Antineoplastic (bone cancer)	0.198	COMP382	
+Antineoplastic (brain cancer)	0.376	COMP382	
+Antineoplastic (breast cancer)	0.300	COMP382	
+Antineoplastic (carcinoma)	0.211	COMP382	
+Antineoplastic (cervical cancer)	0.230	COMP382	
+Antineoplastic (colon cancer)	0.356	COMP382	
+Antineoplastic (colorectal cancer)	0.360	COMP382	
+Antineoplastic (glioblastoma multiforme)	0.380	COMP382	
+Antineoplastic (glioma)	0.381	COMP382	
+Antineoplastic (liver cancer)	0.274	COMP382	
+Antineoplastic (lung cancer)	0.568	COMP382	
+Antineoplastic (lymphocytic leukemia)	0.248	COMP382	
+Antineoplastic (lymphoma)	0.415	COMP382	
+Antineoplastic (melanoma)	0.430	COMP382	
+Antineoplastic (multiple myeloma)	0.270	COMP382	
+Antineoplastic (non-small cell lung cancer)	0.376	COMP382	
+Antineoplastic (osteosarcoma)	0.221	COMP382	
+Antineoplastic (ovarian cancer)	0.257	COMP382	
+Antineoplastic (renal cancer)	0.335	COMP382	
+Antineoplastic (sarcoma)	0.189	COMP382	
+Antineoplastic (small cell lung cancer)	0.332	COMP382	
+Antineoplastic (solid tumors)	0.492	COMP382	
+Antineoplastic (squamous cell carcinoma)	0.222	COMP382	
+Antineoplastic alkaloid	0.132	COMP382	
+Antiosteoporotic	0.162	COMP382	
+Antiparkinsonian. rigidity relieving	0.209	COMP382	
+Antiprotozoal	0.310	COMP382	
+Antiprotozoal (Leishmania)	0.295	COMP382	
+Antiprotozoal (Plasmodium)	0.346	COMP382	
+Antiprotozoal (Toxoplasma)	0.155	COMP382	
+Antiseptic	0.099	COMP382	
+Antitreponemal	0.085	COMP382	
+Antituberculosic	0.193	COMP382	
+Antiviral (Papilloma)	0.147	COMP382	
+Apoptosis agonist	0.341	COMP382	
+Bone diseases treatment	0.223	COMP382	
+Bone formation stimulant	0.104	COMP382	
+Cell adhesion inhibitor	0.102	COMP382	
+Chemopreventive	0.176	COMP382	
+Choleretic	0.099	COMP382	
+Cystic fibrosis treatment	0.180	COMP382	
+Cytostatic	0.184	COMP382	
+DNA intercalator	0.201	COMP382	
+Erectile dysfunction treatment	0.349	COMP382	
+Fibrosis treatment	0.150	COMP382	
+Hepatic disorders treatment	0.243	COMP382	
+Hepatoprotectant	0.183	COMP382	
+Huntington's disease treatment	0.320	COMP382	
+Male reproductive disfunction treatment	0.340	COMP382	
+Muscle relaxant	0.147	COMP382	
+Non-steroidal antiinflammatory agent	0.140	COMP382	
+Obsessive-compulsive disorder treatment	0.140	COMP382	
+Phobic disorders treatment	0.223	COMP382	
+Proliferative diseases treatment	0.211	COMP382	
+Prostate cancer treatment	0.293	COMP382	
+Psychostimulant	0.182	COMP382	
+Pulmonary hypertension treatment	0.131	COMP382	
+Renal failure treatment	0.163	COMP382	
+Restless leg syndrome treatment	0.105	COMP382	
+Septic shock treatment	0.302	COMP382	
+Shock treatment	0.126	COMP382	
+Skeletal muscle relaxant	0.132	COMP382	
+Spasmolytic	0.158	COMP382	
+Stroke treatment	0.201	COMP382	
+Vasodilator	0.158	COMP382	
+Vasodilator. coronary	0.306	COMP382	
+Vasodilator. peripheral	0.195	COMP382	
+Wound healing agent	0.133	COMP382	

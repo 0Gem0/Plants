@@ -1,0 +1,16 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.518	COMP101	
+Adenosine uptake inhibitor	0.033	COMP101	
+Dopamine transporter inhibitor	0.050	COMP1740/COMP1741	
+Electron transport complex I inhibitor	0.193	COMP101	
+Endocannabinoid uptake inhibitor	0.141	COMP101	
+Excitatory amino acid transporter EAAC1 inhibitor	0.092	COMP101	
+GABA transporter 3 inhibitor	0.037	COMP101	
+Multidrug resistance-associated protein 1 inhibitor	0.105	COMP101	
+Nucleoside transporters inhibitor	0.029	COMP101	
+P-glycoprotein inhibitor	0.259	COMP101	
+Sodium-dependent vitamin C transporter 2 inhibitor	0.038	COMP101	
+Sodium/bile acid cotransporter inhibitor	0.281	COMP101	
+Sodium/glucose cotransporter 2 inhibitor	0.030	COMP101	
+Sodium/glucose cotransporter inhibitor	0.025	COMP101	
+Vesicle monoamine transporter inhibitor	0.049	COMP101	

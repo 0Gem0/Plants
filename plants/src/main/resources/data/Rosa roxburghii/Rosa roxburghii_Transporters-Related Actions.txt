@@ -1,0 +1,8 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.326	COMP2393	(0.274 COMP2391) (0.235 COMP2390) (0.214 COMP2392)
+Electron transport complex I inhibitor	0.566	COMP1417	(0.420 COMP2393) (0.391 COMP2391) (0.379 COMP2394) (0.370 COMP2395) (0.282 COMP2392) (0.184 COMP2390) (0.157 COMP1553)
+Multidrug resistance-associated protein 1 inhibitor	0.268	COMP1553	(0.176 COMP2391) (0.172 COMP2393) (0.133 COMP2392) (0.126 COMP2390)
+P-glycoprotein inhibitor	0.469	COMP1553	(0.438 COMP2393) (0.414 COMP2391) (0.336 COMP2394) (0.321 COMP2395) (0.316 COMP2390) (0.263 COMP2392) (0.207 COMP1417)
+Sodium/glucose cotransporter 1 inhibitor	0.077	COMP1553	
+Sodium/glucose cotransporter 2 inhibitor	0.115	COMP1553	
+Sodium/glucose cotransporter inhibitor	0.103	COMP1553	

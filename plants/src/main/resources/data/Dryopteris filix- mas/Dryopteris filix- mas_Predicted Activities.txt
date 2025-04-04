@@ -1,0 +1,492 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.399	COMP135	(0.194 COMP3015)
+15-Lipoxygenase inhibitor	0.523	COMP135	
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.098	COMP135	(0.081 COMP3015)
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.053	COMP135	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.067	COMP135	
+4-Hydroxyphenylpyruvate dioxygenase inhibitor	0.028	COMP3015	(0.016 COMP135)
+5 Hydroxytryptamine 4 antagonist	0.048	COMP135	
+5 Hydroxytryptamine 7 agonist	0.060	COMP135	
+5 Hydroxytryptamine release inhibitor	0.549	COMP135	(0.440 COMP3015)
+5 Hydroxytryptamine release stimulant	0.280	COMP135	(0.180 COMP3015)
+5 Hydroxytryptamine uptake stimulant	0.387	COMP135	(0.236 COMP3015)
+5-Alpha-reductase inhibitor	0.036	COMP135	
+5-Lipoxygenase inhibitor	0.706	COMP3015	(0.433 COMP135)
+AR expression inhibitor	0.444	COMP3015	(0.392 COMP135)
+Abortion inducer	0.464	COMP135	(0.411 COMP3015)
+Acaricide	0.243	COMP135	(0.141 COMP3015)
+Acetyl-CoA transferase 2 inhibitor	0.053	COMP135	
+Acetyl-CoA transferase inhibitor	0.078	COMP135	
+Acetylcholine release stimulant	0.098	COMP135	
+Acetylcholinesterase inhibitor	0.168	COMP135	
+Actinic keratosis treatment	0.082	COMP135	
+Adenine nucleotide translocase inhibitor	0.089	COMP135	(0.079 COMP3015)
+Adenylate cyclase stimulant	0.170	COMP3015	(0.162 COMP135)
+Alcohol dehydrogenase inhibitor	0.089	COMP135	
+Alcohol dehydrogenase substrate	0.130	COMP135	(0.115 COMP3015)
+Alcohol oxidase inhibitor	0.053	COMP135	
+Aldehyde dehydrogenase inhibitor	0.109	COMP135	
+Aldehyde dehydrogenase substrate	0.137	COMP135	
+Aldehyde oxidase inhibitor	0.503	COMP135	(0.348 COMP3015)
+Aldose reductase substrate	0.128	COMP135	
+Alkaline phosphatase inhibitor	0.118	COMP135	
+Alkylator	0.111	COMP135	
+Alpha 1L adrenoreceptor antagonist	0.056	COMP135	
+Alpha tubulin antagonist	0.059	COMP135	
+Alpha-N-acetylglucosaminidase inhibitor	0.107	COMP135	
+Alpha-glucosidase inhibitor	0.506	COMP135	(0.285 COMP3015)
+Amylase inhibitor	0.363	COMP135	(0.107 COMP3015)
+Amyloid beta aggregation inhibitor	0.340	COMP135	
+Anabolic	0.125	COMP135	(0.118 COMP3015)
+Analeptic	0.453	COMP135	(0.282 COMP3015)
+Androgen antagonist	0.107	COMP135	(0.104 COMP3015)
+Anesthetic	0.294	COMP135	(0.130 COMP3015)
+Anesthetic general	0.313	COMP135	(0.199 COMP3015)
+Anesthetic inhalation	0.066	COMP135	(0.049 COMP3015)
+Anesthetic local	0.259	COMP135	(0.094 COMP3015)
+Angiogenesis stimulant	0.220	COMP135	
+Antiacne	0.220	COMP3015	(0.133 COMP135)
+Antiallergic	0.271	COMP135	(0.249 COMP3015)
+Antiamyloidogenic	0.360	COMP135	
+Antianemic	0.118	COMP135	
+Antiarrhythmic	0.147	COMP135	
+Antiarthritic	0.399	COMP3015	(0.256 COMP135)
+Antibacterial	0.608	COMP3015	(0.454 COMP135)
+Antibacterial (Helicobacter pylori)	0.115	COMP135	
+Antibiotic	0.088	COMP3015	(0.077 COMP135)
+Antibiotic Anthracycline-like	0.019	COMP135	
+Anticholelithogenic	0.162	COMP135	(0.087 COMP3015)
+Antidiabetic	0.365	COMP3015	(0.299 COMP135)
+Antidiabetic symptomatic	0.377	COMP3015	
+Antidiarrheal	0.144	COMP135	
+Antidote	0.133	COMP135	
+Antidote. heavy metal	0.071	COMP135	
+Antifungal	0.422	COMP3015	(0.368 COMP135)
+Antifungal (Aspergillus)	0.101	COMP135	
+Antifungal (Cryptococcus)	0.158	COMP135	(0.131 COMP3015)
+Antifungal (Pneumocystis)	0.143	COMP135	(0.110 COMP3015)
+Antifungal enhancer	0.416	COMP135	(0.231 COMP3015)
+Antihelmintic	0.647	COMP3015	(0.446 COMP135)
+Antihelmintic (Fasciola)	0.094	COMP135	
+Antihelmintic (Nematodes)	0.356	COMP135	(0.184 COMP3015)
+Antihelmintic (Trematoda)	0.176	COMP135	(0.144 COMP3015)
+Antihemorrhagic	0.158	COMP135	(0.131 COMP3015)
+Antihypercholesterolemic	0.444	COMP135	(0.276 COMP3015)
+Antihyperlipoproteinemic	0.129	COMP135	
+Antihypertriglyceridemic	0.450	COMP135	(0.279 COMP3015)
+Antihypotensive	0.381	COMP135	(0.246 COMP3015)
+Antihypoxic	0.266	COMP135	(0.186 COMP3015)
+Antiinflammatory	0.806	COMP3015	(0.618 COMP135)
+Antiischemic	0.219	COMP135	
+Antileukemic	0.397	COMP3015	(0.395 COMP135)
+Antimutagenic	0.423	COMP135	(0.213 COMP3015)
+Antimycobacterial	0.232	COMP135	
+Antimycoplasmal	0.098	COMP3015	(0.092 COMP135)
+Antineoplastic (bladder cancer)	0.241	COMP135	
+Antineoplastic (bone cancer)	0.248	COMP135	(0.170 COMP3015)
+Antineoplastic (brain cancer)	0.275	COMP135	
+Antineoplastic (breast cancer)	0.477	COMP3015	(0.464 COMP135)
+Antineoplastic (carcinoma)	0.330	COMP3015	(0.180 COMP135)
+Antineoplastic (cervical cancer)	0.334	COMP135	(0.246 COMP3015)
+Antineoplastic (colon cancer)	0.324	COMP135	(0.295 COMP3015)
+Antineoplastic (colorectal cancer)	0.335	COMP135	(0.299 COMP3015)
+Antineoplastic (endocrine cancer)	0.289	COMP3015	
+Antineoplastic (glioblastoma multiforme)	0.217	COMP135	(0.143 COMP3015)
+Antineoplastic (glioma)	0.247	COMP135	(0.215 COMP3015)
+Antineoplastic (liver cancer)	0.162	COMP135	
+Antineoplastic (lung cancer)	0.577	COMP3015	(0.425 COMP135)
+Antineoplastic (lymphocytic leukemia)	0.174	COMP135	
+Antineoplastic (lymphoma)	0.393	COMP3015	(0.348 COMP135)
+Antineoplastic (melanoma)	0.308	COMP135	(0.256 COMP3015)
+Antineoplastic (multiple myeloma)	0.347	COMP135	
+Antineoplastic (non-small cell lung cancer)	0.339	COMP135	
+Antineoplastic (ovarian cancer)	0.291	COMP135	(0.224 COMP3015)
+Antineoplastic (pancreatic cancer)	0.726	COMP3015	(0.411 COMP135)
+Antineoplastic (renal cancer)	0.419	COMP135	(0.275 COMP3015)
+Antineoplastic (sarcoma)	0.211	COMP135	
+Antineoplastic (small cell lung cancer)	0.260	COMP135	
+Antineoplastic (squamous cell carcinoma)	0.466	COMP3015	(0.281 COMP135)
+Antineoplastic (uterine cancer)	0.135	COMP135	
+Antineoplastic antibiotic	0.140	COMP135	(0.127 COMP3015)
+Antineoplastic enhancer	0.204	COMP3015	
+Antiosteoporotic	0.163	COMP135	
+Antioxidant	0.665	COMP3015	(0.569 COMP135)
+Antiparasitic	0.667	COMP3015	(0.476 COMP135)
+Antiparkinsonian. rigidity relieving	0.229	COMP135	(0.208 COMP3015)
+Antiparkinsonian. tremor relieving	0.143	COMP3015	(0.140 COMP135)
+Antiprotozoal	0.481	COMP3015	(0.351 COMP135)
+Antiprotozoal (Coccidial)	0.122	COMP135	
+Antiprotozoal (Leishmania)	0.536	COMP135	(0.452 COMP3015)
+Antiprotozoal (Plasmodium)	0.328	COMP3015	(0.219 COMP135)
+Antiprotozoal (Toxoplasma)	0.098	COMP135	
+Antiprotozoal (Trichomonas)	0.263	COMP135	(0.255 COMP3015)
+Antiprotozoal (Trypanosoma)	0.250	COMP3015	(0.232 COMP135)
+Antipruritic. allergic	0.528	COMP135	(0.520 COMP3015)
+Antipruritic. non-allergic	0.324	COMP135	(0.268 COMP3015)
+Antipyretic	0.604	COMP135	(0.266 COMP3015)
+Antirickettsial	0.194	COMP135	(0.189 COMP3015)
+Antischistosomal	0.696	COMP3015	(0.343 COMP135)
+Antiseptic	0.792	COMP135	(0.534 COMP3015)
+Antispirochetal	0.076	COMP3015	
+Antithrombotic	0.246	COMP135	
+Antitreponemal	0.090	COMP135	(0.072 COMP3015)
+Antituberculosic	0.223	COMP135	
+Antitussive	0.112	COMP135	
+Antiulcerative	0.331	COMP135	(0.278 COMP3015)
+Antiviral (Ebola)	0.195	COMP135	
+Antiviral (HIV)	0.156	COMP135	
+Antiviral (Influenza A)	0.464	COMP3015	(0.206 COMP135)
+Antiviral (Influenza)	0.417	COMP3015	(0.236 COMP135)
+Antiviral (Parainfluenza)	0.057	COMP135	
+Antiviral (West Nile virus)	0.195	COMP135	
+Apoptosis agonist	0.828	COMP3015	(0.618 COMP135)
+Apoptosis antagonist	0.426	COMP3015	(0.417 COMP135)
+Arachidonic acid antagonist	0.221	COMP135	(0.217 COMP3015)
+Argininosuccinate synthase inhibitor	0.052	COMP3015	
+Aromatase inhibitor	0.057	COMP135	
+Beta 3 adrenoreceptor antagonist	0.059	COMP135	
+Beta glucuronidase inhibitor	0.141	COMP135	
+Beta tubulin antagonist	0.059	COMP135	
+Bile acid receptor antagonist	0.130	COMP135	(0.087 COMP3015)
+Bone diseases treatment	0.426	COMP3015	(0.312 COMP135)
+Bone formation stimulant	0.370	COMP3015	(0.190 COMP135)
+Breast cancer-resistant protein inhibitor	0.234	COMP135	
+Bronchodilator	0.132	COMP135	
+CDC25A inhibitor	0.160	COMP3015	(0.156 COMP135)
+CDC25B inhibitor	0.156	COMP135	(0.151 COMP3015)
+CF transmembrane conductance regulator agonist	0.183	COMP135	
+CNS active muscle relaxant	0.209	COMP135	
+CTGF expression inhibitor	0.581	COMP135	(0.336 COMP3015)
+CYP1A2 inhibitor	0.306	COMP135	
+CYP1A2 substrate	0.570	COMP135	(0.271 COMP3015)
+CYP2B6 inhibitor	0.184	COMP135	
+CYP2C19 inhibitor	0.555	COMP135	(0.384 COMP3015)
+CYP2C19 substrate	0.657	COMP135	(0.289 COMP3015)
+CYP2C9 inhibitor	0.451	COMP135	(0.323 COMP3015)
+CYP2C9 substrate	0.663	COMP135	(0.466 COMP3015)
+CYP2D6 inhibitor	0.241	COMP135	
+CYP2D6 substrate	0.567	COMP135	(0.275 COMP3015)
+CYP3A4 substrate	0.478	COMP135	(0.394 COMP3015)
+Ca(v)3.1 blocker	0.084	COMP3015	
+Ca2+-transporting ATPase inhibitor	0.180	COMP135	(0.166 COMP3015)
+Ca2+/calmodulin-dependent kinase I alpha inhibitor	0.249	COMP3015	(0.153 COMP135)
+Ca2+/calmodulin-dependent kinase II alpha inhibitor	0.270	COMP3015	(0.254 COMP135)
+Ca2+/calmodulin-dependent protein kinase kinase B inhibitor	0.154	COMP3015	(0.140 COMP135)
+Calcium channel L-type activator	0.372	COMP3015	(0.266 COMP135)
+Calcium channel P-type blocker	0.064	COMP135	
+Calcium channel activator	0.278	COMP135	
+Calcium-dependent phospholipase A2 inhibitor	0.216	COMP3015	(0.213 COMP135)
+Calpain 2 inhibitor	0.296	COMP135	
+Calpain inhibitor	0.255	COMP135	
+Carbonic anhydrase III inhibitor	0.107	COMP135	
+Carbonic anhydrase XIII inhibitor	0.086	COMP135	
+Carbonic anhydrase XV inhibitor	0.116	COMP135	
+Carcinogenic	0.292	COMP135	(0.165 COMP3015)
+Carcinogenic. group 1	0.159	COMP135	
+Carcinogenic. group 2B	0.163	COMP135	(0.107 COMP3015)
+Carcinogenic. group 3	0.098	COMP135	
+Cardiodepressant	0.477	COMP135	(0.211 COMP3015)
+Cardioprotectant	0.289	COMP135	(0.201 COMP3015)
+Cardiovascular analeptic	0.454	COMP135	(0.322 COMP3015)
+Caspase 3 inhibitor	0.112	COMP135	
+Caspase 3 stimulant	0.535	COMP135	(0.392 COMP3015)
+Caspase 9 stimulant	0.531	COMP135	(0.329 COMP3015)
+Catechol O-methyltransferase inhibitor	0.035	COMP3015	(0.033 COMP135)
+Catenin beta inhibitor	0.176	COMP3015	(0.149 COMP135)
+Cell wall synthesis inhibitor	0.171	COMP3015	
+Chelator	0.098	COMP135	
+Chemopreventive	0.419	COMP135	(0.352 COMP3015)
+Chemoprotective	0.510	COMP135	(0.306 COMP3015)
+Choleretic	0.370	COMP135	(0.166 COMP3015)
+Cholesterol antagonist	0.451	COMP135	(0.380 COMP3015)
+Cholesterol synthesis inhibitor	0.221	COMP135	(0.126 COMP3015)
+Cholinergic	0.124	COMP135	
+Chymotrypsin inhibitor	0.084	COMP3015	
+Coagulant	0.234	COMP135	(0.143 COMP3015)
+Cocaine dependence treatment	0.130	COMP135	
+Contraceptive female	0.125	COMP135	(0.107 COMP3015)
+Creatine kinase inhibitor	0.133	COMP135	(0.102 COMP3015)
+Cyclic AMP phosphodiesterase inhibitor	0.394	COMP135	(0.192 COMP3015)
+Cyclooxygenase 1 inhibitor	0.376	COMP3015	(0.304 COMP135)
+Cyclooxygenase 2 inhibitor	0.154	COMP135	
+Cyclooxygenase 3 inhibitor	0.128	COMP135	
+Cyclooxygenase inhibitor	0.228	COMP135	(0.223 COMP3015)
+Cyclophilin D inhibitor	0.365	COMP3015	(0.299 COMP135)
+Cystathionine beta-synthase inhibitor	0.377	COMP135	(0.238 COMP3015)
+Cytostatic	0.271	COMP135	(0.158 COMP3015)
+Cytotoxic	0.276	COMP135	(0.202 COMP3015)
+D-Ala-D-Ala ligase inhibitor	0.101	COMP135	
+DNA damaging	0.167	COMP135	
+DNA directed DNA polymerase inhibitor	0.292	COMP135	
+DNA directed RNA polymerase inhibitor	0.175	COMP3015	
+DNA gyrase subunit A inhibitor	0.041	COMP135	
+DNA methylase inhibitor	0.221	COMP135	
+DNA methyltransferase I inhibitor	0.255	COMP135	
+DNA polymerase I inhibitor	0.162	COMP135	(0.116 COMP3015)
+DNA polymerase beta inhibitor	0.231	COMP135	
+DNA synthesis inhibitor	0.286	COMP135	(0.266 COMP3015)
+DOPA decarboxylase inhibitor	0.127	COMP135	
+Death-associated protein kinase 1 inhibitor	0.185	COMP135	(0.138 COMP3015)
+Dementia treatment	0.250	COMP135	(0.097 COMP3015)
+Dopamine D1 antagonist	0.071	COMP135	
+Dual specificity phosphatase 3 inhibitor	0.385	COMP135	(0.190 COMP3015)
+Dual specificity phosphatase inhibitor	0.371	COMP135	(0.175 COMP3015)
+Electron transport complex I inhibitor	0.185	COMP135	(0.129 COMP3015)
+Embryotoxic	0.400	COMP135	(0.220 COMP3015)
+Endocannabinoid uptake inhibitor	0.100	COMP135	(0.064 COMP3015)
+Enoyl-[acyl-carrier-protein] reductase inhibitor	0.066	COMP135	
+Estradiol 17 beta-dehydrogenase 1 inhibitor	0.026	COMP135	
+Estradiol 17 beta-dehydrogenase 3 inhibitor	0.031	COMP135	
+Estradiol 17 beta-dehydrogenase inhibitor	0.074	COMP135	
+Estrogen antagonist	0.141	COMP135	(0.126 COMP3015)
+Estrogen receptor alpha antagonist	0.121	COMP135	(0.100 COMP3015)
+Estrogen receptor beta antagonist	0.122	COMP135	(0.108 COMP3015)
+Estrogen-related receptor beta agonist	0.094	COMP135	
+Expectorant	0.208	COMP135	
+Eye irritation. high	0.306	COMP135	(0.187 COMP3015)
+FMO1 substrate	0.452	COMP135	(0.427 COMP3015)
+FMO3 substrate	0.242	COMP135	(0.228 COMP3015)
+Falcipain 3 inhibitor	0.092	COMP135	
+Farnesoid X receptor antagonist	0.195	COMP135	
+Fatty acid synthase inhibitor	0.231	COMP3015	(0.129 COMP135)
+Flavin-containing monooxygenase substrate	0.215	COMP135	(0.214 COMP3015)
+Free radical scavenger	0.666	COMP3015	(0.553 COMP135)
+GABA B receptor agonist	0.092	COMP135	
+GABA C receptor antagonist	0.106	COMP135	
+GABA C receptor rho-1 antagonist	0.093	COMP135	
+GABA C receptor rho-2 antagonist	0.160	COMP135	
+GABA C receptor rho-3 antagonist	0.367	COMP135	(0.328 COMP3015)
+GABA aminotransferase inhibitor	0.075	COMP135	
+GST A substrate	0.493	COMP135	(0.412 COMP3015)
+GST M1-1 substrate	0.324	COMP135	(0.249 COMP3015)
+GST P1-1 substrate	0.220	COMP135	(0.082 COMP3015)
+GST T1-1 substrate	0.113	COMP135	
+Gastric antisecretory	0.138	COMP135	
+Gastrin inhibitor	0.237	COMP135	
+Gastritis treatment	0.112	COMP135	
+Genotoxic	0.273	COMP135	(0.185 COMP3015)
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.210	COMP135	
+Glucose-6-phosphate isomerase inhibitor	0.046	COMP135	
+Glucose-6-phosphate translocase inhibitor	0.082	COMP135	
+Glutamate (mGluR group II) agonist	0.163	COMP135	(0.141 COMP3015)
+Glutamate (mGluR group II) antagonist	0.035	COMP135	
+Glutamate (mGluR) agonist	0.098	COMP135	(0.068 COMP3015)
+Glutamate (mGluR2) agonist	0.156	COMP135	(0.133 COMP3015)
+Glutamate (mGluR3) agonist	0.069	COMP135	(0.043 COMP3015)
+Glutamate (mGluR6) antagonist	0.062	COMP135	
+Glutamate (mGluR7) antagonist	0.072	COMP135	
+Glutamate decarboxylase inhibitor	0.068	COMP135	
+Glutamate release inhibitor	0.087	COMP135	
+Glutathione S-transferase inhibitor	0.122	COMP135	
+Glutathione S-transferase substrate	0.314	COMP135	(0.190 COMP3015)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.244	COMP135	
+Glycine receptor agonist	0.165	COMP135	(0.078 COMP3015)
+Glycine receptor antagonist	0.077	COMP135	
+Granulocyte macrophage colony stimulating factor agonist	0.109	COMP135	
+Growth stimulant	0.158	COMP135	(0.128 COMP3015)
+H+/K+-transporting ATPase inhibitor	0.114	COMP135	(0.054 COMP3015)
+HIV-1 integrase (3'-Processing) inhibitor	0.174	COMP135	(0.112 COMP3015)
+HIV-1 integrase (Overall Integration) inhibitor	0.143	COMP135	
+HIV-1 integrase (Strand Transfer) inhibitor	0.182	COMP135	(0.126 COMP3015)
+HIV-1 integrase inhibitor	0.132	COMP3015	(0.121 COMP135)
+Hair growth stimulant	0.180	COMP135	(0.133 COMP3015)
+Heat shock protein 70 antagonist	0.134	COMP135	
+Heat shock protein 90 alpha antagonist	0.178	COMP135	
+Heat shock protein 90 antagonist	0.166	COMP135	
+Heat shock protein 90 beta antagonist	0.054	COMP135	
+Hedgehog signaling activator	0.028	COMP135	
+Heme oxygenase stimulant	0.133	COMP3015	
+Hepatic disorders treatment	0.199	COMP135	
+Hepatoprotectant	0.222	COMP135	(0.192 COMP3015)
+Histamine release inhibitor	0.657	COMP135	(0.499 COMP3015)
+Hypercalcemia treatment	0.069	COMP135	
+Hypoglycemic	0.429	COMP135	(0.372 COMP3015)
+Hypolipemic	0.206	COMP135	(0.144 COMP3015)
+Hypoxia-inducible factor 1 alpha inhibitor	0.441	COMP135	(0.347 COMP3015)
+ICAM1 expression inhibitor	0.473	COMP135	(0.431 COMP3015)
+Immunostimulant	0.192	COMP135	
+Immunosuppressant	0.338	COMP135	
+Inducible nitric-oxide synthase inhibitor	0.097	COMP135	
+Insulin sensitizer	0.205	COMP135	(0.147 COMP3015)
+Interferon agonist	0.104	COMP135	(0.095 COMP3015)
+Interferon gamma antagonist	0.200	COMP135	(0.193 COMP3015)
+Interleukin 1 antagonist	0.275	COMP135	(0.111 COMP3015)
+Interleukin 1b antagonist	0.316	COMP135	(0.138 COMP3015)
+Interleukin 2 agonist	0.210	COMP135	
+Interleukin 4 antagonist	0.160	COMP135	
+Interleukin 5 antagonist	0.123	COMP135	(0.097 COMP3015)
+Interleukin 6 antagonist	0.165	COMP135	(0.156 COMP3015)
+Interleukin agonist	0.178	COMP135	
+Interleukin antagonist	0.290	COMP135	
+Kallikrein 7 inhibitor	0.065	COMP135	
+Keratolytic	0.109	COMP135	
+LDLR expression enhancer	0.218	COMP135	
+Leukocyte elastase inhibitor	0.056	COMP135	(0.042 COMP3015)
+Leukotriene B4 antagonist	0.108	COMP135	(0.104 COMP3015)
+Leukotriene B4 receptor 1 antagonist	0.056	COMP3015	(0.040 COMP135)
+Leukotriene C antagonist	0.063	COMP135	
+Leukotriene C4 antagonist	0.041	COMP135	
+Leukotriene D4 antagonist	0.106	COMP3015	(0.057 COMP135)
+Leukotriene antagonist	0.222	COMP3015	(0.200 COMP135)
+Leukotriene synthesis inhibitor	0.138	COMP135	(0.114 COMP3015)
+Lipase inhibitor	0.342	COMP3015	(0.116 COMP135)
+Lipid peroxidase inhibitor	0.660	COMP3015	(0.507 COMP135)
+Lipocortins synthesis agonist	0.059	COMP3015	
+Lipocortins synthesis antagonist	0.158	COMP3015	(0.142 COMP135)
+Lipoprotein disorders treatment	0.267	COMP135	(0.212 COMP3015)
+Lipoxygenase inhibitor	0.814	COMP3015	(0.666 COMP135)
+Lysophosphatidic acid 2 receptor antagonist	0.073	COMP135	
+MAO A inhibitor	0.145	COMP135	(0.081 COMP3015)
+MAO B inhibitor	0.131	COMP135	
+MAO inhibitor	0.199	COMP135	(0.098 COMP3015)
+Macrophage migration inhibitory factor inhibitor	0.096	COMP135	
+Maillard reaction inhibitor	0.083	COMP135	
+Mediator release inhibitor	0.150	COMP135	
+Melanin inhibitor	0.580	COMP135	(0.545 COMP3015)
+Microtubule formation inhibitor	0.116	COMP135	(0.105 COMP3015)
+Monophenol monooxygenase inhibitor	0.517	COMP135	(0.455 COMP3015)
+Mucolytic	0.205	COMP135	
+Muscle relaxant	0.186	COMP135	
+Mutagenic	0.328	COMP135	(0.124 COMP3015)
+Myocardial ischemia treatment	0.133	COMP135	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.135	COMP135	(0.075 COMP3015)
+NADPH oxidase inhibitor	0.153	COMP135	
+NOS2 expression inhibitor	0.588	COMP135	(0.421 COMP3015)
+NOS3 expression inhibitor	0.590	COMP135	(0.511 COMP3015)
+Na+ K+ transporting ATPase inhibitor	0.070	COMP3015	(0.068 COMP135)
+Narcotic antagonist	0.096	COMP135	(0.093 COMP3015)
+Neuraminidase (Influenza A) inhibitor	0.179	COMP3015	(0.063 COMP135)
+Neuraminidase (influenza) inhibitor	0.242	COMP3015	(0.103 COMP135)
+Neuraminidase inhibitor	0.251	COMP3015	(0.097 COMP135)
+Neurotensin receptor agonist	0.144	COMP135	
+Neurotrophic factor enhancer	0.368	COMP135	(0.291 COMP3015)
+Neutropenia treatment	0.106	COMP135	
+Nitric oxide antagonist	0.657	COMP3015	(0.349 COMP135)
+Nitric-oxide synthase inhibitor	0.098	COMP135	
+Nitric-oxide synthase stimulant	0.229	COMP135	
+Non-steroidal antiinflammatory agent	0.319	COMP135	(0.139 COMP3015)
+Ornithine decarboxylase inhibitor	0.112	COMP135	(0.090 COMP3015)
+P-glycoprotein inhibitor	0.377	COMP135	(0.257 COMP3015)
+Paget's disease treatment	0.142	COMP135	
+Papain-like protease (SARS coronavirus) inhibitor	0.159	COMP135	(0.111 COMP3015)
+Peroxidase inhibitor	0.330	COMP135	
+Peroxisome proliferator-activated receptor alpha agonist	0.048	COMP135	
+Peroxisome proliferator-activated receptor gamma agonist	0.096	COMP135	(0.061 COMP3015)
+Peroxisome proliferator-activated receptor gamma antagonist	0.074	COMP135	
+Phosphofructokinase-1 inhibitor	0.069	COMP135	
+Phospholipase A2 inhibitor	0.394	COMP135	(0.361 COMP3015)
+Phospholipase C inhibitor	0.189	COMP135	(0.187 COMP3015)
+Photosensitizer	0.183	COMP135	
+Plasminogen activator inhibitor antagonist	0.057	COMP3015	(0.050 COMP135)
+Platelet adhesion inhibitor	0.136	COMP135	
+Platelet antagonist	0.165	COMP135	
+Pneumotoxic	0.398	COMP135	(0.289 COMP3015)
+Porphobilinogen synthase inhibitor	0.071	COMP135	
+Postcoital contraceptive	0.067	COMP135	(0.063 COMP3015)
+Potassium channel (ATP-sensitive) blocker	0.120	COMP135	
+Potassium channel (Ca-activated) activator	0.178	COMP135	(0.098 COMP3015)
+Potassium channel Kv1.3 blocker	0.113	COMP135	
+Potassium channel large-conductance Ca-activated activator	0.141	COMP135	(0.100 COMP3015)
+Pregnane X receptor antagonist	0.078	COMP3015	(0.072 COMP135)
+Prolactin inhibitor	0.115	COMP135	
+Proliferative diseases treatment	0.396	COMP135	(0.274 COMP3015)
+Prostaglandin dehydrogenase inhibitor	0.240	COMP135	
+Prostaglandin-E synthase inhibitor	0.354	COMP3015	(0.154 COMP135)
+Prostate cancer treatment	0.602	COMP3015	(0.404 COMP135)
+Prostate disorders treatment	0.134	COMP135	
+Protein kinase stimulant	0.239	COMP135	(0.202 COMP3015)
+Protein-tyrosine phosphatase 1B inhibitor	0.227	COMP135	(0.203 COMP3015)
+Protein-tyrosine phosphatase inhibitor	0.272	COMP135	(0.222 COMP3015)
+Purinergic P2X1 antagonist	0.065	COMP135	
+Purinergic P2X2 antagonist	0.056	COMP135	
+Purinergic P2Y12 antagonist	0.021	COMP135	
+Pyruvate kinase inhibitor	0.199	COMP135	
+RNA-directed DNA polymerase inhibitor	0.248	COMP135	(0.219 COMP3015)
+Radioprotector	0.462	COMP135	(0.204 COMP3015)
+Respiratory analeptic	0.582	COMP135	(0.305 COMP3015)
+Retinoid X alpha receptor antagonist	0.047	COMP3015	(0.043 COMP135)
+Retinoid X receptor antagonist	0.055	COMP3015	(0.050 COMP135)
+Ryanodine receptor antagonist	0.070	COMP135	
+SULT1A1 substrate	0.228	COMP135	(0.143 COMP3015)
+SULT1A2 substrate	0.142	COMP135	(0.107 COMP3015)
+SULT1A3 substrate	0.225	COMP135	(0.167 COMP3015)
+SULT1E1 substrate	0.082	COMP135	
+Sedative	0.205	COMP135	
+Sensitization	0.699	COMP135	(0.539 COMP3015)
+Skeletal muscle relaxant	0.172	COMP135	
+Skin irritative effect	0.240	COMP135	(0.147 COMP3015)
+Skin whitener	0.491	COMP135	(0.242 COMP3015)
+Sodium/bile acid cotransporter inhibitor	0.356	COMP135	(0.339 COMP3015)
+Sodium/glucose cotransporter 1 inhibitor	0.032	COMP135	
+Sodium/glucose cotransporter 2 inhibitor	0.037	COMP135	(0.026 COMP3015)
+Sodium/glucose cotransporter inhibitor	0.032	COMP135	(0.025 COMP3015)
+Spasmolytic	0.479	COMP135	(0.160 COMP3015)
+Sphingomyelinase inhibitor	0.092	COMP135	
+Sphingosine 1-phosphate receptor 2 antagonist	0.167	COMP135	
+Sphingosine 1-phosphate receptor 4 antagonist	0.122	COMP135	
+Sphingosine 1-phosphate receptor 5 antagonist	0.151	COMP135	
+Streptokinase A inhibitor	0.348	COMP135	
+Stroke treatment	0.205	COMP135	
+Succinate dehydrogenase inhibitor	0.383	COMP135	(0.287 COMP3015)
+Sulfotransferase substrate	0.265	COMP135	(0.107 COMP3015)
+Superoxide dismutase inhibitor	0.579	COMP135	(0.263 COMP3015)
+TNF expression inhibitor	0.661	COMP135	(0.596 COMP3015)
+TRPA1 agonist	0.168	COMP135	
+Teratogen	0.446	COMP135	(0.245 COMP3015)
+Thiazolidinedione	0.028	COMP135	
+Thioredoxin glutathione reductase inhibitor	0.203	COMP135	
+Thioredoxin inhibitor	0.101	COMP135	
+Thioredoxin reductase inhibitor	0.081	COMP135	
+Thrombolytic	0.120	COMP3015	
+Thromboxane A2 antagonist	0.066	COMP3015	(0.047 COMP135)
+Thromboxane antagonist	0.066	COMP3015	(0.051 COMP135)
+Thyroid hormone alpha antagonist	0.028	COMP135	(0.015 COMP3015)
+Thyroid hormone antagonist	0.385	COMP135	
+Thyroid hormone beta antagonist	0.358	COMP135	
+Tocolytic	0.082	COMP135	
+Toll-Like receptor 2 antagonist	0.150	COMP135	(0.103 COMP3015)
+Toll-Like receptor 4 antagonist	0.093	COMP135	
+Topoisomerase II inhibitor	0.095	COMP3015	
+Toxic. respiratory center	0.152	COMP135	(0.141 COMP3015)
+Transcription factor AP-1 inhibitor	0.072	COMP135	
+Transcription factor NF kappa B inhibitor	0.633	COMP135	(0.583 COMP3015)
+Transcription factor NF kappa B stimulant	0.122	COMP3015	
+Transcription factor RelA inhibitor	0.085	COMP135	
+Transcription factor STAT inhibitor	0.287	COMP135	
+Transcription factor STAT3 inhibitor	0.330	COMP135	(0.199 COMP3015)
+Transcription factor inhibitor	0.280	COMP135	
+Tubulin antagonist	0.130	COMP135	
+Tumour necrosis factor alpha release inhibitor	0.203	COMP135	
+Tumour necrosis factor antagonist	0.197	COMP135	
+Tyrosine 3 hydroxylase inhibitor	0.324	COMP135	(0.228 COMP3015)
+UDP-glucose 4-epimerase inhibitor	0.104	COMP135	
+UDP-glucuronosyltransferase substrate	0.288	COMP135	(0.218 COMP3015)
+UGT1A1 substrate	0.278	COMP135	(0.216 COMP3015)
+UGT1A3 substrate	0.226	COMP135	
+UGT1A4 substrate	0.253	COMP135	(0.158 COMP3015)
+UGT1A6 substrate	0.429	COMP135	(0.207 COMP3015)
+UGT1A9 substrate	0.514	COMP135	(0.266 COMP3015)
+UGT2B1 substrate	0.183	COMP135	(0.094 COMP3015)
+UGT2B10 substrate	0.293	COMP135	(0.220 COMP3015)
+UGT2B11 substrate	0.178	COMP135	(0.137 COMP3015)
+UGT2B15 substrate	0.274	COMP135	(0.192 COMP3015)
+UGT2B4 substrate	0.488	COMP135	(0.317 COMP3015)
+UGT2B7 substrate	0.274	COMP135	(0.242 COMP3015)
+UGT2B9 substrate	0.249	COMP135	(0.200 COMP3015)
+Ulceration	0.373	COMP135	
+Urease inhibitor	0.103	COMP135	
+Uterine stimulant	0.143	COMP135	(0.136 COMP3015)
+VCAM1 expression inhibitor	0.558	COMP135	(0.305 COMP3015)
+VEGF expression inhibitor	0.192	COMP135	
+Vanilloid 1 agonist	0.200	COMP135	(0.148 COMP3015)
+Vanilloid 2 agonist	0.028	COMP135	(0.024 COMP3015)
+Vanilloid 2 antagonist	0.057	COMP135	
+Vanilloid agonist	0.089	COMP135	
+Vascular (periferal) disease treatment	0.275	COMP135	(0.172 COMP3015)
+Vascular dementia treatment	0.241	COMP135	(0.094 COMP3015)
+Vasodilator	0.375	COMP135	(0.156 COMP3015)
+Vasodilator. coronary	0.441	COMP135	(0.270 COMP3015)
+Vasodilator. peripheral	0.553	COMP135	(0.266 COMP3015)
+Wound healing agent	0.267	COMP135	(0.153 COMP3015)
+Xanthine dehydrogenase inhibitor	0.054	COMP135	
+Xanthine oxidase inhibitor	0.156	COMP135	

@@ -1,0 +1,141 @@
+0,879  0,005  Teratogen
+0,852  0,006  Embryotoxic
+0,810  0,001  Antispirochetal
+0,801  0,004  Antibacterial
+0,750  0,006  Analeptic
+0,688  0,003  Antidote
+0,682  0,011  Respiratory analeptic
+0,652  0,001  Cell wall synthesis inhibitor
+0,646  0,003  Chelator
+0,653  0,011  Sensitization
+0,473  0,003  Excitatory amino acid transporter EAAC1 inhibitor
+0,472  0,009  Diuretic
+0,441  0,010  FMO3 substrate
+0,452  0,036  Immunostimulant
+0,410  0,015  Flavin-containing monooxygenase substrate
+0,398  0,010  Phospholipase C inhibitor
+0,390  0,004  Antibiotic
+0,387  0,031  Interleukin 2 agonist
+0,389  0,042  Radioprotector
+0,345  0,005  Antibacterial (Helicobacter pylori)
+0,335  0,034  DNA synthesis inhibitor
+0,314  0,021  DNA methyltransferase I inhibitor
+0,328  0,036  Interleukin agonist
+0,328  0,040  Mutagenic
+0,293  0,007  UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor
+0,300  0,028  DNA methylase inhibitor
+0,281  0,014  Antiviral (West Nile virus)
+0,293  0,038  Gastrin inhibitor
+0,253  0,004  Leukocyte elastase inhibitor
+0,288  0,047  Antiulcerative
+0,250  0,013  Aminopeptidase B inhibitor
+0,236  0,000  Antibiotic Penicillin-like
+0,306  0,084  Antithrombotic
+0,300  0,079  Streptokinase A inhibitor
+0,261  0,041  Growth hormone agonist
+0,259  0,041  Hepatoprotectant
+0,260  0,049  Antiviral (HIV)
+0,290  0,092  Antihypertensive
+0,266  0,073  Chemoprotective
+0,253  0,061  Cytotoxic
+0,222  0,031  Acute respiratory distress syndrome (ARDS) treatment
+0,257  0,067  Angiogenesis stimulant
+0,215  0,034  Carcinogenic, group 3
+0,190  0,010  Transcription factor NF kappa B stimulant
+0,196  0,034  Renal failure treatment
+0,158  0,005  Angiotensin-converting enzyme inhibitor
+0,254  0,101  NOS3 expression inhibitor
+0,223  0,073  Peptidyltransferase inhibitor
+0,153  0,009  Lipase inhibitor
+0,156  0,014  GST T1-1 substrate
+0,295  0,156  Antiarthritic
+0,146  0,008  Antiemphysemic
+0,160  0,027  Mucolytic
+0,205  0,071  Age-related macular degeneration treatment
+0,238  0,109  Insulysin inhibitor
+0,134  0,005  Elastase inhibitor
+0,139  0,018  Glutamate dehydrogenase inhibitor
+0,251  0,141  GST A substrate
+0,128  0,018  Glutamate decarboxylase inhibitor
+0,223  0,113  UGT2B4 substrate
+0,159  0,050  Alpha-N-acetylglucosaminidase inhibitor
+0,259  0,152  Beta lactamase inhibitor
+0,107  0,003  Excitatory amino acid transporter 2 inhibitor
+0,149  0,047  Cell adhesion inhibitor
+0,161  0,060  Corneal wound healing stimulator
+0,137  0,036  Protease inhibitor
+0,107  0,008  Glutamate (mGluR6) antagonist
+0,256  0,160  TNF expression inhibitor
+0,117  0,023  Hematopoietic
+0,092  0,001  Antibiotic beta Lactam-like
+0,173  0,084  Carcinogenic
+0,122  0,037  Folate antagonist
+0,174  0,091  Septic shock treatment
+0,133  0,053  Antineoplastic antimetabolite
+0,099  0,019  NMDA receptor agonist
+0,156  0,078  Thrombolytic
+0,125  0,047  Expectorant
+0,106  0,030  Somatostatin 1 agonist
+0,077  0,004  Elastase 2 inhibitor
+0,077  0,004  Elastase 2A inhibitor
+0,075  0,004  Glutamate (mGluR8) antagonist
+0,088  0,020  Neuraminidase inhibitor
+0,081  0,016  Antibiotic Glycopeptide-like
+0,102  0,038  Catalase inhibitor
+0,072  0,011  Leukotriene A4 hydrolase inhibitor
+0,145  0,085  Anticoagulant
+0,073  0,013  Adenine nucleotide translocase inhibitor
+0,114  0,058  Nav1.4 sodium channel blocker
+0,077  0,023  Ornithine carbamoyltransferase inhibitor
+0,074  0,022  Protein 50S ribosomal subunit inhibitor
+0,061  0,010  Arginase inhibitor
+0,058  0,008  Kainate receptor agonist
+0,106  0,057  Factor V inhibitor
+0,190  0,142  Antineoplastic (sarcoma)
+0,088  0,043  Thioredoxin reductase inhibitor
+0,172  0,130  Vasodilator
+0,045  0,004  Antibiotic Quinolone-like
+0,072  0,031  Nitric oxide donor
+0,073  0,032  Neuraminidase (influenza) inhibitor
+0,068  0,030  Maillard reaction inhibitor
+0,040  0,005  Human T-cell leukemia virus type I protease inhibitor
+0,039  0,003  Excitatory amino acid transporter 1 inhibitor
+0,044  0,009  Neutral endopeptidase inhibitor
+0,041  0,007  Baculoviral IAP repeat-containing protein 4 inhibitor
+0,051  0,018  Baculoviral IAP repeat-containing protein inhibitor
+0,051  0,022  Neuraminidase (Influenza A) inhibitor
+0,197  0,168  Immunomodulator
+0,028  0,002  Antibiotic Tetracycline-like
+0,042  0,019  Glutamate (mGluR8) agonist
+0,096  0,074  Adenylate kinase inhibitor
+0,023  0,001  Antibiotic Cephalosporin-like
+0,036  0,015  Glutamate (mGluR3) agonist
+0,116  0,095  Histone deacetylase SIRT1 inhibitor
+0,062  0,041  Carbamoyl phosphate synthetase inhibitor
+0,058  0,038  Argininosuccinate synthase inhibitor
+0,039  0,022  Glutamate (mGluR3) antagonist
+0,056  0,040  Neuropeptide agonist
+0,080  0,065  Factor XII inhibitor
+0,032  0,019  AMPA 2 receptor antagonist
+0,059  0,047  Opioid delta receptor antagonist
+0,047  0,035  GP IIb/IIIa receptor antagonist
+0,038  0,027  Somatostatin 1 antagonist
+0,058  0,046  Antidote, heavy metal
+0,073  0,063  Cell adhesion molecule inhibitor
+0,023  0,013  Kainate receptor 5 antagonist
+0,070  0,061  GABA aminotransferase inhibitor
+0,041  0,032  HIV-1 protease inhibitor
+0,027  0,019  Lysine carboxypeptidase inhibitor
+0,018  0,010  Kainate receptor 3 antagonist
+0,037  0,030  Integrin alpha1beta1 antagonist
+0,012  0,005  Excitatory amino acid transporter 4 inhibitor
+0,024  0,017  Glutamate (mGluR1) agonist
+0,018  0,011  Tryptophan hydroxylase 1 inhibitor
+0,024  0,018  Kainate receptor 4 antagonist
+0,037  0,032  AMPA 4 receptor antagonist
+0,041  0,036  Neurotensin receptor antagonist
+0,037  0,033  Integrin antagonist
+0,008  0,004  Antibiotic Penem-like
+0,006  0,004  Antibiotic Carbacephem-like
+0,035  0,035  Membrane dipeptidase inhibitor
+

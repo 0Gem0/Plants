@@ -1,0 +1,53 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine 1A agonist	0.042	COMP330/COMP332	
+5 Hydroxytryptamine 2A agonist	0.070	COMP330/COMP332	
+5 Hydroxytryptamine 2C antagonist	0.099	COMP330/COMP332	
+ATPase inhibitor	0.143	COMP329	
+Acetylcholine M1 receptor antagonist	0.132	COMP330/COMP332	
+Acetylcholinesterase inhibitor	0.466	COMP329	(0.215 COMP330/COMP332)
+Alcohol dehydrogenase inhibitor	0.176	COMP329	
+Alkaline phosphatase inhibitor	0.542	COMP329	
+Alpha 1a adrenoreceptor antagonist	0.120	COMP330/COMP332	
+Alpha 1b adrenoreceptor antagonist	0.061	COMP330/COMP332	
+Alpha 2a adrenoreceptor antagonist	0.248	COMP330/COMP332	
+Androgen antagonist	0.105	COMP329	
+Arginase inhibitor	0.056	COMP329	
+Aryl hydrocarbon receptor agonist	0.657	COMP329	
+Butyrylcholinesterase inhibitor	0.283	COMP329	(0.199 COMP330/COMP332)
+CYP1A2 inhibitor	0.963	COMP329	
+CYP2C9 inhibitor	0.587	COMP329	
+CYP2D6 inhibitor	0.225	COMP330/COMP332	
+CYP3A4 inhibitor	0.365	COMP329	(0.209 COMP330/COMP332)
+Ca2+-transporting ATPase inhibitor	0.135	COMP329	
+Calcium channel L-type blocker	0.121	COMP330/COMP332	
+Cyclooxygenase 1 inhibitor	0.234	COMP329	
+Cyclooxygenase 2 inhibitor	0.181	COMP329	
+Cyclooxygenase inhibitor	0.216	COMP329	
+Cystathionine beta-synthase inhibitor	0.775	COMP329	
+DNA polymerase beta inhibitor	0.432	COMP329	
+DOPA decarboxylase inhibitor	0.216	COMP329	
+Dopamine D2 agonist	0.286	COMP330/COMP332	
+Dopamine D2 antagonist	0.394	COMP330/COMP332	
+Dopamine uptake inhibitor	0.069	COMP330/COMP332	
+Electron transport complex I inhibitor	0.273	COMP329	(0.242 COMP330/COMP332)
+Estrogen agonist	0.160	COMP329	
+Heat shock protein 70 antagonist	0.218	COMP329	
+Hexokinase inhibitor	0.143	COMP329	
+MAO A inhibitor	0.662	COMP329	
+MAO inhibitor	0.618	COMP329	
+Na+ K+ transporting ATPase inhibitor	0.090	COMP329	
+Nav1.5 sodium channel blocker	0.102	COMP329	
+Opioid delta receptor agonist	0.134	COMP330/COMP332	
+Opioid delta receptor antagonist	0.289	COMP330/COMP332	
+Opioid kappa receptor agonist	0.238	COMP330/COMP332	
+Opioid mu receptor agonist	0.292	COMP330/COMP332	
+Peroxidase inhibitor	0.775	COMP329	
+Phosphodiesterase 4D inhibitor	0.180	COMP329	
+Phospholipase A2 inhibitor	0.136	COMP329	
+Phospholipase C inhibitor	0.158	COMP329	
+Pyruvate kinase inhibitor	0.481	COMP329	
+Succinate dehydrogenase inhibitor	0.317	COMP329	
+Superoxide dismutase inhibitor	0.662	COMP329	
+Topoisomerase I inhibitor	0.258	COMP329	
+Topoisomerase II alpha inhibitor	0.453	COMP329	
+Tyrosine 3 hydroxylase inhibitor	0.277	COMP330/COMP332	(0.233 COMP329)

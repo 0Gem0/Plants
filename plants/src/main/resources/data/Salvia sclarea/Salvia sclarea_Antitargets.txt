@@ -1,0 +1,75 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine 2A agonist	0.075	COMP3069	
+ATPase inhibitor	0.207	COMP31	
+Acetylcholinesterase inhibitor	0.222	COMP3069	(0.119 COMP3070)
+Aconitate hydratase inhibitor	0.212	COMP31	
+Acyl-CoA dehydrogenase inhibitor	0.231	COMP31	
+Adenosine deaminase inhibitor	0.094	COMP31	
+Adenylate cyclase inhibitor	0.160	COMP31	(0.102 COMP3069)
+Adenylate kinase inhibitor	0.334	COMP31	
+Alcohol dehydrogenase inhibitor	0.185	COMP31	(0.083 COMP3071)
+Aldosterone antagonist	0.102	COMP3069	(0.054 COMP31)
+Alkaline phosphatase inhibitor	0.147	COMP3071	
+Alpha-mannosidase inhibitor	0.360	COMP31	
+Aminopeptidase P inhibitor	0.022	COMP31	
+Androgen agonist	0.099	COMP3069	(0.077 COMP3070) (0.069 COMP3071) (0.057 COMP31)
+Androgen antagonist	0.266	COMP3070	(0.192 COMP3069) (0.185 COMP3071) (0.138 COMP31)
+Arginase inhibitor	0.053	COMP31	
+Argininosuccinate synthase inhibitor	0.128	COMP31	
+Aryl hydrocarbon receptor agonist	0.312	COMP3071	
+Beta 1 adrenoreceptor agonist	0.023	COMP31	
+Beta 1 adrenoreceptor antagonist	0.086	COMP31	
+Beta 2 adrenoreceptor agonist	0.068	COMP31	
+Beta 2 adrenoreceptor antagonist	0.072	COMP31	
+Butyrylcholinesterase inhibitor	0.084	COMP3069	
+CYP1A2 inhibitor	0.896	COMP3071	(0.722 COMP3070) (0.500 COMP3069)
+CYP2C9 inhibitor	0.333	COMP3071	
+CYP2D6 inhibitor	0.226	COMP3071	
+CYP3A4 inhibitor	0.220	COMP3071	
+Ca2+-transporting ATPase inhibitor	0.192	COMP31	(0.140 COMP3071)
+Catalase inhibitor	0.257	COMP31	
+Cyclooxygenase 1 inhibitor	0.113	COMP3071	(0.110 COMP3070)
+Cyclooxygenase 2 inhibitor	0.143	COMP3069	(0.119 COMP3071) (0.118 COMP3070)
+Cyclooxygenase inhibitor	0.212	COMP3071	(0.184 COMP3070) (0.135 COMP3069)
+Cystathionine beta-synthase inhibitor	0.230	COMP3071	(0.184 COMP31)
+DNA polymerase beta inhibitor	0.483	COMP3071	(0.326 COMP3070)
+DOPA decarboxylase inhibitor	0.150	COMP31	(0.103 COMP3071) (0.095 COMP3070)
+Electron transport complex I inhibitor	0.095	COMP3071	
+Estrogen agonist	0.098	COMP3069	(0.073 COMP3070) (0.054 COMP3071)
+Excitatory amino acid transporter 2 inhibitor	0.026	COMP31	
+Fumarate hydratase inhibitor	0.141	COMP31	
+GABA aminotransferase inhibitor	0.103	COMP31	
+GABA transporter 1 inhibitor	0.016	COMP31	
+GRP78 expression inhibitor	0.029	COMP31	
+Glucocorticoid antagonist	0.050	COMP3069	(0.035 COMP3070)
+Glucose-6-phosphate isomerase inhibitor	0.320	COMP31	
+Glutamate dehydrogenase inhibitor	0.255	COMP31	
+HMG CoA reductase inhibitor	0.053	COMP31	
+Heat shock protein 70 antagonist	0.147	COMP31	(0.130 COMP3071)
+Hexokinase inhibitor	0.351	COMP31	(0.200 COMP3071)
+Hypoxanthine phosphoribosyltransferase inhibitor	0.075	COMP31	
+Lysine carboxypeptidase inhibitor	0.044	COMP31	
+MAO A inhibitor	0.126	COMP3071	
+MAO inhibitor	0.113	COMP3071	
+NMDA receptor agonist	0.068	COMP31	
+Na+ K+ transporting ATPase inhibitor	0.118	COMP31	(0.113 COMP3070) (0.112 COMP3069) (0.083 COMP3071)
+Ornithine carbamoyltransferase inhibitor	0.191	COMP31	
+Peroxidase inhibitor	0.609	COMP31	
+Phenylalanine 4-hydroxylase inhibitor	0.468	COMP31	
+Phosphofructokinase-1 inhibitor	0.468	COMP31	
+Phosphoglycerate kinase inhibitor	0.110	COMP31	
+Phospholipase A2 inhibitor	0.164	COMP31	
+Phospholipase C inhibitor	0.283	COMP31	(0.207 COMP3071) (0.164 COMP3070) (0.142 COMP3069)
+Phosphorylase inhibitor	0.176	COMP31	
+Prostaglandin F2 alpha agonist	0.052	COMP31	
+Pyruvate kinase inhibitor	0.303	COMP3071	(0.232 COMP31)
+Retinoic acid alpha receptor agonist	0.304	COMP3070	(0.272 COMP3069)
+S-adenosyl-L-homocysteine hydrolase inhibitor	0.014	COMP31	
+Sodium channel blocker	0.121	COMP31	
+Succinate dehydrogenase inhibitor	0.653	COMP3070	(0.499 COMP3071) (0.403 COMP31) (0.299 COMP3069)
+Superoxide dismutase inhibitor	0.395	COMP31	
+Topoisomerase I inhibitor	0.106	COMP3071	(0.099 COMP31)
+Topoisomerase II alpha inhibitor	0.246	COMP3069	(0.168 COMP3071)
+Triose-phosphate isomerase inhibitor	0.696	COMP31	(0.086 COMP3071)
+Tyrosine 3 hydroxylase inhibitor	0.316	COMP31	(0.245 COMP3071)
+UDP-glucose 4-epimerase inhibitor	0.528	COMP31	(0.095 COMP3071)

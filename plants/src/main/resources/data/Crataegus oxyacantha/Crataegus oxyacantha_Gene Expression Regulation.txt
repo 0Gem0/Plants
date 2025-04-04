@@ -1,0 +1,13 @@
+Name	Activation_Prob	Compound	Another_Probs
+ABCA1 expression enhancer	0.086	COMP463	
+AR expression inhibitor	0.902	COMP462	(0.894 COMP463) (0.554 COMP461)
+CTGF expression inhibitor	0.758	COMP462	(0.551 COMP463) (0.276 COMP461)
+GRP78 expression inhibitor	0.038	COMP461	
+ICAM1 expression inhibitor	0.589	COMP461	(0.507 COMP462) (0.470 COMP463)
+LDLR expression enhancer	0.197	COMP462	(0.137 COMP463)
+NOS2 expression inhibitor	0.960	COMP462	(0.920 COMP461) (0.466 COMP463)
+NOS3 expression enhancer	0.767	COMP463	(0.731 COMP462) (0.514 COMP461)
+NOS3 expression inhibitor	0.804	COMP461	(0.713 COMP462) (0.564 COMP463)
+TNF expression inhibitor	0.905	COMP461	(0.748 COMP462) (0.636 COMP463)
+VCAM1 expression inhibitor	0.687	COMP461	(0.530 COMP463) (0.369 COMP462)
+VEGF expression inhibitor	0.246	COMP462	(0.174 COMP461) (0.156 COMP463)

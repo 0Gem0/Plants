@@ -1,0 +1,952 @@
+0,774  0,007  GST A substrate
+0,749  0,005  Cardiovascular analeptic
+0,736  0,005  5 Hydroxytryptamine release stimulant
+0,647  0,013  Aldehyde oxidase inhibitor
+0,652  0,029  Caspase 9 stimulant
+0,607  0,003  SULT1A3 substrate
+0,603  0,005  FMO1 substrate
+0,604  0,013  CTGF expression inhibitor
+0,581  0,003  Pneumotoxic
+0,566  0,012  GABA C receptor rho-3 antagonist
+0,560  0,017  5 Hydroxytryptamine release inhibitor
+0,530  0,004  5 Hydroxytryptamine uptake stimulant
+0,524  0,018  Ulceration
+0,503  0,004  GST M1-1 substrate
+0,503  0,005  Alpha-N-acetylglucosaminidase inhibitor
+0,511  0,029  Ca2+/calmodulin-dependent protein kinase kinase A inhibitor
+0,484  0,004  Tyrosine 3 hydroxylase inhibitor
+0,502  0,027  Calcium channel L-type activator
+0,484  0,009  Anesthetic general
+0,507  0,031  Cholesterol antagonist
+0,505  0,035  CYP2C9 substrate
+0,474  0,006  Antiparkinsonian, rigidity relieving
+0,467  0,007  FMO3 substrate
+0,466  0,009  Flavin-containing monooxygenase substrate
+0,488  0,033  Histamine release inhibitor
+0,478  0,022  UGT1A9 substrate
+0,471  0,016  Superoxide dismutase inhibitor
+0,453  0,004  Carcinogenic, group 1
+0,481  0,039  Antipruritic, allergic
+0,471  0,032  CYP2C19 substrate
+0,445  0,020  Cardiodepressant
+0,439  0,019  UGT1A6 substrate
+0,430  0,017  Peroxidase inhibitor
+0,452  0,040  Vasodilator, peripheral
+0,414  0,002  GST T1-1 substrate
+0,457  0,049  CYP3A4 substrate
+0,431  0,024  UGT2B4 substrate
+0,411  0,007  Acaricide
+0,437  0,033  CYP1A2 substrate
+0,395  0,004  Excitatory amino acid transporter EAAC1 inhibitor
+0,392  0,004  Ferrochelatase inhibitor
+0,408  0,022  Calcium channel activator
+0,425  0,040  Respiratory analeptic
+0,388  0,009  GST P1-1 substrate
+0,381  0,007  Neurotrophic factor enhancer
+0,386  0,011  Genotoxic
+0,412  0,041  CYP2D6 substrate
+0,388  0,017  UGT1A4 substrate
+0,388  0,017  Antimutagenic
+0,375  0,006  Carcinogenic, group 2B
+0,366  0,003  SULT1A1 substrate
+0,387  0,025  Psychostimulant
+0,394  0,037  Vasodilator, coronary
+0,361  0,004  GABA C receptor rho-2 antagonist
+0,411  0,055  Calpain 2 inhibitor
+0,387  0,031  Radiosensitizer
+0,369  0,022  RNA-directed DNA polymerase inhibitor
+0,418  0,071  TNF expression inhibitor
+0,345  0,007  GABA C receptor agonist
+0,380  0,043  Analeptic
+0,339  0,010  CNS active muscle relaxant
+0,340  0,010  CYP2B6 inhibitor
+0,329  0,004  GABA C receptor antagonist
+0,373  0,049  Antihypercholesterolemic
+0,362  0,040  NOS2 expression inhibitor
+0,347  0,026  Abortion inducer
+0,347  0,035  Insulysin inhibitor
+0,334  0,027  Sedative
+0,311  0,009  Nitric-oxide synthase stimulant
+0,335  0,034  Interleukin agonist
+0,341  0,043  Antipyretic
+0,319  0,022  Gastrin inhibitor
+0,310  0,015  Antiparkinsonian, tremor relieving
+0,323  0,033  Cyclic AMP phosphodiesterase inhibitor
+0,342  0,054  Radioprotector
+0,313  0,027  Eye irritation, high
+0,306  0,021  Antipruritic, non-allergic
+0,334  0,051  Sodium/bile acid cotransporter inhibitor
+0,285  0,004  GABA C receptor rho-1 antagonist
+0,345  0,064  ICAM1 expression inhibitor
+0,292  0,011  Aldehyde oxidase substrate
+0,309  0,030  UGT1A1 substrate
+0,297  0,019  Phospholipase C inhibitor
+0,334  0,058  Spasmolytic
+0,289  0,013  Toxic, respiratory center
+0,357  0,083  Immunosuppressant
+0,288  0,014  3C-like protease (Human coronavirus) inhibitor
+0,304  0,032  Antiviral (HIV)
+0,281  0,009  UGT2B1 substrate
+0,279  0,007  5 Hydroxytryptamine 3E antagonist
+0,296  0,027  VCAM1 expression inhibitor
+0,299  0,030  5 Hydroxytryptamine 1E antagonist
+0,276  0,008  UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor
+0,289  0,024  Antianorexic
+0,297  0,032  Muscle relaxant
+0,271  0,006  Porphobilinogen synthase inhibitor
+0,279  0,014  Succinate dehydrogenase inhibitor
+0,275  0,012  UDP-glucose 4-epimerase inhibitor
+0,314  0,052  Sensitization
+0,276  0,016  Antiviral (West Nile virus)
+0,272  0,012  Sulfotransferase substrate
+0,264  0,005  Photosensitizer
+0,266  0,009  UGT2B10 substrate
+0,260  0,003  SULT1A2 substrate
+0,313  0,059  Teratogen
+0,277  0,025  Skin irritative effect
+0,276  0,025  UGT1A3 substrate
+0,286  0,035  Antihypotensive
+0,305  0,058  Antihypoxic
+0,293  0,046  DNA synthesis inhibitor
+0,303  0,058  Embryotoxic
+0,270  0,026  Skeletal muscle relaxant
+0,276  0,032  UGT2B7 substrate
+0,320  0,077  Antithrombotic
+0,268  0,025  Carcinogenic, group 3
+0,312  0,073  12-Lipoxygenase inhibitor
+0,245  0,009  Antirickettsial
+0,241  0,005  Antineoplastic alkaloid
+0,294  0,059  Cardiotonic
+0,242  0,007  Antiprotozoal (Babesia)
+0,278  0,043  Calpain inhibitor
+0,262  0,028  Insulin sensitizer
+0,300  0,068  Lipoprotein disorders treatment
+0,318  0,086  Transcription factor NF kappa B inhibitor
+0,338  0,107  15-Lipoxygenase inhibitor
+0,234  0,004  Antidote, mercury
+0,279  0,049  Carcinogenic
+0,266  0,037  Non-steroidal antiinflammatory agent
+0,275  0,045  Antiarrhythmic
+0,234  0,005  CYP2A6 inhibitor
+0,232  0,005  Sphingosine 1-phosphate receptor 4 antagonist
+0,264  0,037  Antialcoholic
+0,232  0,006  Carcinogenic, group 2A
+0,329  0,104  CYP2C19 inhibitor
+0,242  0,018  Uterine stimulant
+0,290  0,067  Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor
+0,278  0,056  Hypolipemic
+0,253  0,031  Antihelmintic (Nematodes)
+0,283  0,064  Chemoprotective
+0,296  0,077  Interleukin 2 agonist
+0,248  0,029  Melanin inhibitor
+0,246  0,028  UGT2B15 substrate
+0,258  0,039  Glyceraldehyde-3-phosphate dehydrogenase inhibitor
+0,278  0,060  Proliferative diseases treatment
+0,295  0,077  NOS3 expression inhibitor
+0,230  0,012  Arachidonic acid antagonist
+0,237  0,020  Aldehyde dehydrogenase inhibitor
+0,239  0,022  Anesthetic local
+0,227  0,012  Cyclooxygenase 3 inhibitor
+0,236  0,020  VEGF expression inhibitor
+0,245  0,030  Anesthetic
+0,226  0,011  Antispirochetal
+0,297  0,084  AR expression inhibitor
+0,236  0,024  UGT2B9 substrate
+0,219  0,009  Triose-phosphate isomerase inhibitor
+0,215  0,006  Phenylalanine 4-hydroxylase inhibitor
+0,214  0,006  Alcohol oxidase inhibitor
+0,227  0,019  Mannose-6-phosphate isomerase inhibitor
+0,272  0,064  Hypoglycemic
+0,237  0,030  Muscular dystrophy treatment
+0,286  0,080  CYP2D6 inhibitor
+0,210  0,005  Potassium channel Kv1.5 blocker
+0,266  0,061  Cytostatic
+0,291  0,088  Antineoplastic (endocrine cancer)
+0,231  0,029  Phospholipase A2 inhibitor
+0,211  0,009  HIV-1 integrase (Overall Integration) inhibitor
+0,219  0,018  Shock treatment
+0,238  0,038  Lipocortins synthesis antagonist
+0,223  0,024  Hexokinase inhibitor
+0,207  0,009  Creatine kinase inhibitor
+0,218  0,020  Cystathionine beta-synthase inhibitor
+0,270  0,073  Ca(v)3.3 blocker
+0,215  0,018  Farnesoid X receptor antagonist
+0,210  0,013  Coagulant
+0,205  0,009  Sphingosine 1-phosphate receptor 5 antagonist
+0,205  0,010  TRPA1 agonist
+0,205  0,011  Phosphofructokinase-1 inhibitor
+0,218  0,024  Phobic disorders treatment
+0,266  0,072  Transcription factor STAT3 inhibitor
+0,253  0,059  Antiparasitic
+0,221  0,027  Neurotensin receptor agonist
+0,290  0,099  Thyroid hormone antagonist
+0,211  0,020  Cathepsin H inhibitor
+0,267  0,076  Transcription factor STAT inhibitor
+0,214  0,023  Catenin beta inhibitor
+0,204  0,014  5 Hydroxytryptamine 3A agonist
+0,248  0,058  Neuropeptide Y2 antagonist
+0,202  0,012  Alcohol dehydrogenase inhibitor
+0,212  0,024  Glutathione S-transferase substrate
+0,222  0,034  Antiseptic
+0,207  0,020  Aminopeptidase B inhibitor
+0,208  0,022  Raynaud's phenomenon treatment
+0,283  0,097  Antihypertensive
+0,204  0,019  CF transmembrane conductance regulator agonist
+0,200  0,015  Adenylate kinase inhibitor
+0,197  0,013  Vanilloid 1 agonist
+0,198  0,014  Adenylate cyclase stimulant
+0,214  0,030  Nav1.2 sodium channel blocker
+0,222  0,038  Cytidine deaminase inhibitor
+0,193  0,010  Prolactin inhibitor
+0,277  0,094  CYP3A4 inhibitor
+0,221  0,037  Amylase inhibitor
+0,196  0,013  Antihelmintic (Fasciola)
+0,210  0,028  Cocaine dependence treatment
+0,198  0,015  Hearing loss treatment
+0,217  0,035  Antiviral (Ebola)
+0,190  0,008  DOPA decarboxylase inhibitor
+0,190  0,010  HIV-1 reverse transcriptase inhibitor
+0,184  0,005  Ca2+-transporting ATPase inhibitor
+0,198  0,019  Antiprotozoal (Amoeba)
+0,183  0,005  GABA aminotransferase inhibitor
+0,235  0,057  Mutagenic
+0,231  0,053  Antihelmintic
+0,192  0,015  Contraceptive female
+0,211  0,035  Interleukin 6 antagonist
+0,198  0,022  Antismoking
+0,212  0,037  Interferon gamma antagonist
+0,190  0,016  NAT2 substrate
+0,184  0,010  Electrolyte absorption antagonist
+0,215  0,042  LDLR expression enhancer
+0,275  0,102  Thyroid hormone beta antagonist
+0,189  0,016  Antineoplastic, alkylator
+0,246  0,074  Acute neurologic disorders treatment
+0,202  0,031  Antifungal enhancer
+0,194  0,024  Retinoprotector
+0,197  0,027  Cholesterol synthesis inhibitor
+0,180  0,012  Heat shock protein 70 antagonist
+0,215  0,049  Histone acetyltransferase inhibitor
+0,190  0,023  Antiviral (Poxvirus)
+0,171  0,005  Sphingosine 1-phosphate receptor 4 agonist
+0,178  0,013  Actinic keratosis treatment
+0,172  0,008  Acetylcholine release stimulant
+0,178  0,013  Antiviral (Papilloma)
+0,201  0,037  ATPase inhibitor
+0,179  0,015  Sphingosine 1-phosphate receptor 2 antagonist
+0,206  0,042  Diuretic
+0,172  0,009  Antifungal (Pneumocystis)
+0,192  0,029  Antihyperlipoproteinemic
+0,187  0,024  Nav1.6 sodium channel blocker
+0,202  0,041  Neuropathy treatment
+0,168  0,008  Biliverdin reductase inhibitor
+0,197  0,037  Insulin secretagoues
+0,183  0,024  Antihelmintic (Trematoda)
+0,181  0,022  Carbonic anhydrase XV inhibitor
+0,204  0,046  Antipruritic
+0,167  0,009  NAT1 substrate
+0,172  0,015  Nitric-oxide synthase inhibitor
+0,173  0,016  Sphingomyelinase inhibitor
+0,176  0,021  Interleukin 8 antagonist
+0,164  0,010  Aminopeptidase I inhibitor
+0,220  0,067  DNA methylase inhibitor
+0,168  0,017  Histidine decarboxylase inhibitor
+0,221  0,070  Antihypertriglyceridemic
+0,176  0,026  Falcipain 3 inhibitor
+0,161  0,011  Glutamate decarboxylase inhibitor
+0,162  0,013  Inducible nitric-oxide synthase inhibitor
+0,179  0,031  Antifungal (Cryptococcus)
+0,159  0,012  UGT2B11 substrate
+0,204  0,057  Growth hormone agonist
+0,178  0,031  Adenylate cyclase inhibitor
+0,156  0,010  Lanosterol 14 alpha demethylase inhibitor
+0,178  0,032  Movement disorders treatment
+0,209  0,064  Age-related macular degeneration treatment
+0,160  0,015  NADH dehydrogenase inhibitor
+0,255  0,111  Antineoplastic (osteosarcoma)
+0,207  0,063  Chemopreventive
+0,208  0,065  DNA methyltransferase I inhibitor
+0,151  0,008  Mental retardation treatment
+0,163  0,021  Antiviral (Influenza B)
+0,157  0,015  Anabolic
+0,149  0,008  Glycine receptor antagonist
+0,170  0,029  Beta amyloid protein antagonist
+0,263  0,122  Antineoplastic (small cell lung cancer)
+0,244  0,104  Lipoxygenase inhibitor
+0,149  0,009  Alpha 2d adrenoreceptor antagonist
+0,176  0,036  Toll-Like receptor 2 antagonist
+0,186  0,047  Antidote
+0,143  0,005  Estrogen-related receptor beta agonist
+0,185  0,047  Protein kinase stimulant
+0,167  0,030  Microtubule formation inhibitor
+0,152  0,014  Paget's disease treatment
+0,183  0,047  Thiol protease inhibitor
+0,166  0,030  Pregnane X receptor agonist
+0,179  0,043  Antiprotozoal (Coccidial)
+0,235  0,101  CYP1A2 inhibitor
+0,273  0,140  CYP2C9 inhibitor
+0,175  0,042  NADPH oxidase inhibitor
+0,148  0,015  Histamine N-methyltransferase inhibitor
+0,160  0,027  Mucolytic
+0,140  0,007  Granulocyte macrophage colony stimulating factor agonist
+0,145  0,013  Antileprosy
+0,136  0,004  Complement C5a chemotactic receptor antagonist
+0,148  0,017  NMDA 2 receptor antagonist
+0,145  0,014  Antiviral (Rhinovirus)
+0,134  0,004  Antidote, organophosphates
+0,151  0,021  Posttraumatic stress disorder treatment
+0,155  0,025  Gastric antisecretory
+0,153  0,024  Chronic obstructive bronchitis treatment
+0,153  0,025  Catalase inhibitor
+0,279  0,152  Antibacterial
+0,137  0,010  Bile acid receptor antagonist
+0,137  0,010  Acyl-CoA dehydrogenase inhibitor
+0,149  0,023  Calcium antagonist
+0,139  0,013  Argininosuccinate synthase inhibitor
+0,204  0,079  Pyruvate kinase inhibitor
+0,140  0,015  Tourette's syndrome treatment
+0,156  0,031  Nav1.1 sodium channel blocker
+0,127  0,004  Anesthetic inhalation
+0,128  0,005  Sigma 1 receptor antagonist
+0,155  0,033  Gastritis treatment
+0,150  0,028  Carbonic anhydrase III inhibitor
+0,176  0,054  Acetylcholine M1 receptor antagonist
+0,199  0,078  Cytotoxic
+0,138  0,017  Glutamate (mGluR7) agonist
+0,125  0,004  Calcium channel P-type blocker
+0,139  0,018  Glutamate dehydrogenase inhibitor
+0,133  0,012  Sigma receptor antagonist
+0,130  0,010  Purinergic P2X1 antagonist
+0,125  0,005  S-adenosyl-L-methionine decarboxylase inhibitor
+0,135  0,016  Restless leg syndrome treatment
+0,164  0,046  Neuropeptide Y1 antagonist
+0,219  0,101  DNA damaging
+0,131  0,013  Nicotinic alpha4beta2 receptor antagonist
+0,185  0,067  Sigma receptor agonist
+0,140  0,023  Cathepsin G inhibitor
+0,124  0,007  3(or 17)beta-hydroxysteroid dehydrogenase inhibitor
+0,154  0,038  Antineoplastic antimetabolite
+0,233  0,117  Hypoxia-inducible factor 1 alpha inhibitor
+0,159  0,043  Monophenol monooxygenase inhibitor
+0,125  0,009  NMDA 2A receptor antagonist
+0,158  0,042  Proteasome inhibitor
+0,191  0,076  UDP-glucuronosyltransferase substrate
+0,144  0,029  Transcription factor STAT6 inhibitor
+0,119  0,006  Aconitate hydratase inhibitor
+0,118  0,004  SULT2A1 substrate
+0,119  0,006  Enoyl-[acyl-carrier-protein] reductase inhibitor
+0,116  0,003  Adenylate cyclase 1 inhibitor
+0,124  0,011  Narcotic antagonist
+0,137  0,024  Carbonic anhydrase VI inhibitor
+0,167  0,055  Contraceptive
+0,138  0,027  Antiprotozoal (Toxoplasma)
+0,160  0,049  M17 leucyl aminopeptidase inhibitor
+0,116  0,006  Potassium channel Kv1.3 blocker
+0,144  0,034  HDL-cholesterol increasing
+0,129  0,019  Tocolytic
+0,195  0,086  Anticonvulsant
+0,112  0,004  Dopamine D5 agonist
+0,167  0,059  Hair growth stimulant
+0,117  0,010  CC chemokine 5 receptor agonist
+0,112  0,005  Sphingosine 1-phosphate receptor 3 agonist
+0,151  0,044  Antitussive
+0,284  0,177  Cyclophilin D inhibitor
+0,284  0,177  Antidiabetic
+0,111  0,006  Sphingosine 1-phosphate receptor 3 antagonist
+0,112  0,006  Glutamate (mGluR7) antagonist
+0,125  0,019  Glutamate release inhibitor
+0,113  0,007  Aldosterone antagonist
+0,159  0,055  Pancreatic disorders treatment
+0,216  0,111  Immunostimulant
+0,126  0,022  Ornithine decarboxylase inhibitor
+0,118  0,013  Glycine receptor agonist
+0,114  0,010  5 Hydroxytryptamine 2A agonist
+0,248  0,144  Stroke treatment
+0,222  0,118  Antiepileptic
+0,114  0,011  Alpha 2 adrenoreceptor agonist
+0,108  0,006  Exportin-1 inhibitor
+0,145  0,043  Topoisomerase I inhibitor
+0,107  0,006  Sphingosine kinase 2 inhibitor
+0,140  0,039  Choleretic
+0,131  0,031  NMDA receptor antagonist
+0,276  0,175  DNA directed DNA polymerase inhibitor
+0,140  0,040  Expectorant
+0,123  0,023  5 Hydroxytryptamine 1F antagonist
+0,160  0,061  Antidiarrheal
+0,133  0,034  Urease inhibitor
+0,104  0,006  Antihemophilic
+0,111  0,013  NMDA 2C receptor antagonist
+0,149  0,051  Antiprotozoal (Trichomonas)
+0,111  0,013  Glutamate (mGluR1) antagonist
+0,113  0,015  Sphingosine 1-phosphate receptor antagonist
+0,114  0,017  Carbamoyl phosphate synthetase inhibitor
+0,111  0,014  Acetylcholine M5 receptor agonist
+0,104  0,007  Nicotinic alpha3beta2 receptor antagonist
+0,129  0,032  Folate antagonist
+0,168  0,071  Heat shock protein 90 alpha antagonist
+0,146  0,050  Nav1.3 sodium channel blocker
+0,171  0,076  Tumour necrosis factor antagonist
+0,116  0,021  Peroxisome proliferator-activated receptor gamma agonist
+0,104  0,009  Glutamate (mGluR6) antagonist
+0,099  0,005  Nicotinic acid receptor agonist
+0,160  0,065  Heat shock protein 90 antagonist
+0,139  0,045  Menstruation disorders treatment
+0,122  0,028  NAD(P)H dehydrogenase (quinone) inhibitor
+0,144  0,051  Antibacterial (Helicobacter pylori)
+0,107  0,014  Secretase beta inhibitor
+0,106  0,013  Vanilloid 4 agonist
+0,115  0,023  Keratolytic
+0,105  0,013  Endocannabinoid uptake inhibitor
+0,095  0,004  GABA uptake inhibitor
+0,095  0,004  Purinergic P2Y14 antagonist
+0,102  0,011  Antiviral (Parainfluenza)
+0,117  0,026  Antifungal (Candida)
+0,107  0,016  TRPA1 antagonist
+0,143  0,053  Antihemorrhagic
+0,095  0,005  Dihydroorotate oxidase inhibitor
+0,139  0,048  Interleukin 1b antagonist
+0,103  0,014  Protease 3C (Human rhinovirus) inhibitor
+0,205  0,116  Antiprotozoal (Trypanosoma)
+0,110  0,022  Interferon agonist
+0,102  0,014  Beta 3 adrenoreceptor antagonist
+0,092  0,004  Pregnane X receptor antagonist
+0,135  0,048  DNA repair enzyme inhibitor
+0,093  0,005  Retinoid X alpha receptor agonist
+0,114  0,027  Bromodomain-containing protein 2 inhibitor
+0,102  0,015  NMDA receptor glycine site agonist
+0,099  0,013  Antimycoplasmal
+0,151  0,065  Cell wall synthesis inhibitor
+0,121  0,035  Arylamine N-Acetyltransferase substrate
+0,100  0,014  Phospholipase D inhibitor
+0,114  0,028  Adrenaline agonist
+0,136  0,050  Papain-like protease (SARS coronavirus) inhibitor
+0,191  0,106  Antiamyloidogenic
+0,154  0,069  Pulmonary hypertension treatment
+0,127  0,042  Myasthenia Gravis treatment
+0,103  0,018  NMDA receptor agonist
+0,263  0,178  Transcription factor inhibitor
+0,119  0,034  Androgen antagonist
+0,136  0,052  Autism spectrum disorders treatment
+0,108  0,023  Estrogen receptor alpha antagonist
+0,089  0,004  Immunoglobulin Fc receptor antagonist
+0,099  0,014  Uterine relaxant
+0,100  0,016  GABA B receptor agonist
+0,175  0,091  Septic shock treatment
+0,088  0,004  Sodium-dependent vitamin C transporter 2 inhibitor
+0,129  0,045  Aldehyde dehydrogenase substrate
+0,100  0,016  Carbonic anhydrase VB inhibitor
+0,098  0,015  Mannitol-1-phosphate 5-dehydrogenase inhibitor
+0,098  0,015  Androgen agonist
+0,117  0,035  Estrogen receptor beta antagonist
+0,119  0,037  DNA directed RNA polymerase inhibitor
+0,094  0,012  Phosphodiesterase 1C inhibitor
+0,126  0,045  Estrogen antagonist
+0,091  0,010  Sphingosine kinase inhibitor
+0,085  0,005  Potassium channel Kv1.1 blocker
+0,107  0,027  Vanilloid agonist
+0,091  0,011  MDM2 inhibitor
+0,090  0,010  Sphingosine 1-phosphate receptor 5 agonist
+0,148  0,069  Antianemic
+0,134  0,054  Growth stimulant
+0,090  0,011  Sphingosine 1-phosphate receptor 1 antagonist
+0,104  0,025  D-Ala-D-Ala ligase inhibitor
+0,115  0,036  Potassium channel (Voltage-sensitive) activator
+0,086  0,007  Lysophosphatidic acid 3 receptor antagonist
+0,086  0,008  Squalene epoxidase inhibitor
+0,125  0,046  Alpha 2c adrenoreceptor antagonist
+0,093  0,015  Interferon inducer
+0,110  0,033  Carbonic anhydrase XIII inhibitor
+0,095  0,018  Potassium channel (ATP-sensitive) blocker
+0,101  0,024  Calcium channel L-type blocker
+0,089  0,012  NMDA receptor subunit 3B antagonist
+0,096  0,020  Anticholelithogenic
+0,083  0,007  Retinoid X receptor agonist
+0,098  0,023  Leukotriene antagonist
+0,096  0,021  Bulimia treatment
+0,127  0,052  Alpha 2b adrenoreceptor antagonist
+0,079  0,005  Geranyltranstransferase inhibitor
+0,147  0,072  Hemostatic
+0,091  0,016  Potassium channel (Tandem pore domain) blocker
+0,100  0,026  Adenosine A3 receptor antagonist
+0,109  0,035  Phosphodiesterase I inhibitor
+0,097  0,023  Hyperparathyroidism treatment
+0,182  0,109  Potassium channel (Voltage-sensitive) blocker
+0,098  0,026  Carbonic anhydrase VA inhibitor
+0,093  0,020  MAP kinase kinase 7 inhibitor
+0,086  0,014  Potassium channel intermediate-conductance Ca-activated blocker
+0,218  0,146  Prostaglandin dehydrogenase inhibitor
+0,083  0,011  NMDA receptor subunit 3A antagonist
+0,092  0,021  Peroxisome proliferator-activated receptor gamma antagonist
+0,092  0,021  Carbonic anhydrase stimulant
+0,140  0,069  Neurotrophic factor
+0,108  0,038  Phosphodiesterase 6D inhibitor
+0,074  0,004  Heme oxygenase inhibitor
+0,082  0,012  Postcoital contraceptive
+0,084  0,014  Corticotropin releasing factor 2 receptor antagonist
+0,078  0,008  Nicotinic acid receptor 2 agonist
+0,097  0,028  Carbonic anhydrase V inhibitor
+0,075  0,005  5 Hydroxytryptamine 2B agonist
+0,102  0,033  Myeloperoxidase inhibitor
+0,083  0,013  Antiviral (Herpesvirus 3, Human)
+0,077  0,008  Histamine H2 receptor agonist
+0,098  0,029  Alpha adrenoreceptor agonist
+0,074  0,006  Diamine oxidase inhibitor
+0,101  0,032  mTOR complex 2 inhibitor
+0,084  0,016  Beta 1 adrenoreceptor antagonist
+0,137  0,069  Alkaline phosphatase inhibitor
+0,076  0,008  Cholesterol esterase inhibitor
+0,072  0,005  Endothelial nitric-oxide synthase inhibitor
+0,185  0,117  Vasodilator
+0,089  0,022  Beta adrenoreceptor antagonist
+0,071  0,004  3-Hydroxyanthranilate 3,4-dioxygenase inhibitor
+0,076  0,009  Potassium channel (Inward rectifier) activator
+0,076  0,010  Sphingosine 1-phosphate receptor agonist
+0,073  0,007  Dopamine beta hydroxylase inhibitor
+0,076  0,009  Fructose-1,6-bisphosphatase inhibitor
+0,079  0,013  Leukocyte elastase inhibitor
+0,131  0,065  CC chemokine 6 receptor antagonist
+0,119  0,053  MAO A inhibitor
+0,072  0,006  Cytokine production stimulant
+0,070  0,004  Uridine phosphorylase inhibitor
+0,122  0,056  Caspase 3 inhibitor
+0,078  0,012  Alpha-mannosidase inhibitor
+0,081  0,015  Glucosylceramidase inhibitor
+0,151  0,085  Cystic fibrosis treatment
+0,124  0,058  Calcium channel N-type blocker
+0,073  0,008  Fumarate hydratase inhibitor
+0,100  0,035  Macrophage migration inhibitory factor inhibitor
+0,080  0,015  Leukotriene B4 antagonist
+0,075  0,010  Glucose-6-phosphate isomerase inhibitor
+0,106  0,042  Potassium channel activator
+0,067  0,003  Nicotinic acid receptor 2 antagonist
+0,119  0,055  Nav1.5 sodium channel blocker
+0,073  0,009  Potassium channel (ATP-sensitive) activator
+0,113  0,049  Bronchodilator
+0,068  0,005  Histamine H1 receptor agonist
+0,101  0,038  Acetylcholine nicotinic antagonist
+0,104  0,041  Polo-like kinase-1 inhibitor
+0,068  0,005  Guanylate cyclase inhibitor
+0,070  0,008  Sphingosine 1-phosphate receptor 1 agonist
+0,079  0,017  Phosphodiesterase 1A inhibitor
+0,176  0,114  Antiglaucomic
+0,096  0,035  Na+ K+ transporting ATPase inhibitor
+0,068  0,007  Vascular adhesion protein 1 inhibitor
+0,119  0,058  GABA receptor agonist
+0,084  0,023  Gaucher disease treatment
+0,081  0,020  Cannabinoid CB2 receptor antagonist
+0,134  0,073  Calcium channel blocker
+0,150  0,089  Prostate disorders treatment
+0,064  0,003  Imidazoline I1 receptor antagonist
+0,093  0,032  Cannabinoid receptor antagonist
+0,095  0,034  Caspase 7 inhibitor
+0,075  0,015  Potassium channel (Inward rectifier) blocker
+0,105  0,044  ABCA1 expression enhancer
+0,072  0,012  Leukotriene C antagonist
+0,183  0,123  Peptidyltransferase inhibitor
+0,110  0,050  Antifungal (Aspergillus)
+0,149  0,090  Antiviral (Hepatitis C)
+0,068  0,008  Alpha 1d adrenoreceptor agonist
+0,093  0,034  Acetylcholine M4 receptor antagonist
+0,066  0,007  Antiviral (Enterovirus)
+0,076  0,017  5 Hydroxytryptamine 2 agonist
+0,107  0,048  Interleukin 1 beta converting enzyme inhibitor
+0,071  0,013  Adenosine deaminase inhibitor
+0,063  0,005  Sodium/glucose cotransporter 2 inhibitor
+0,063  0,005  Kainate receptor agonist
+0,165  0,108  MAP kinase kinase 2 inhibitor
+0,062  0,005  Leukotriene B4 receptor 1 antagonist
+0,080  0,023  Phosphodiesterase 1B inhibitor
+0,068  0,011  Thymidine kinase inhibitor
+0,072  0,015  Beta 2 adrenoreceptor antagonist
+0,122  0,065  Acetylcholine muscarinic antagonist
+0,065  0,008  Dihydrofolate reductase inhibitor
+0,072  0,016  Beta 2 adrenoreceptor agonist
+0,064  0,007  Glutamate (mGluR3) antagonist
+0,132  0,075  Toll-Like receptor 9 antagonist
+0,113  0,057  Electron transport complex I inhibitor
+0,117  0,061  Calcium channel (voltage-sensitive) blocker
+0,061  0,005  Angiotensin AT1 receptor antagonist
+0,068  0,013  Mannosidase inhibitor
+0,118  0,063  5 Hydroxytryptamine 2B antagonist
+0,081  0,026  Cannabinoid CB1 receptor antagonist
+0,090  0,036  Ca(v)3.1 blocker
+0,076  0,022  Cyclin D1 inhibitor
+0,074  0,020  Peroxisome proliferator-activated receptor alpha agonist
+0,076  0,022  Histone deacetylase SIRT3 inhibitor
+0,248  0,194  DNA polymerase beta inhibitor
+0,071  0,017  Epithelial sodium channel blocker
+0,065  0,012  Urate transporter 1 inhibitor
+0,079  0,026  Antidote, heavy metal
+0,127  0,074  Antiacne
+0,060  0,007  Glutamate (mGluR8) agonist
+0,075  0,024  Heat shock protein 90 beta antagonist
+0,058  0,007  Retinoid X receptor antagonist
+0,054  0,004  Leukotriene B4 receptor 2 antagonist
+0,109  0,059  AMP-activated protein kinase stimulant
+0,129  0,080  Cytokine production inhibitor
+0,058  0,009  Vesicle monoamine transporter inhibitor
+0,061  0,012  G protein-coupled receptor agonist
+0,068  0,020  Ryanodine receptor antagonist
+0,093  0,044  Glutathione S-transferase inhibitor
+0,053  0,005  Angiotensin II receptor antagonist
+0,073  0,024  Ornithine carbamoyltransferase inhibitor
+0,118  0,070  Alkylator
+0,055  0,007  Free fatty acid receptor 1 antagonist
+0,053  0,006  Cholesterol ester transfer protein antagonist
+0,069  0,021  Glycine transporter 2 inhibitor
+0,082  0,035  Neuronal nicotinic receptor antagonist
+0,050  0,003  Vesicular glutamate transport inhibitor
+0,059  0,012  Kainate receptor 2 antagonist
+0,066  0,019  Prolyl endopeptidase inhibitor
+0,052  0,005  Sodium/glucose cotransporter inhibitor
+0,092  0,045  Histamine H2 receptor antagonist
+0,083  0,036  Benzodiazepine agonist
+0,076  0,029  Narcolepsy treatment
+0,074  0,028  3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor
+0,097  0,051  Thioredoxin inhibitor
+0,076  0,030  5 Hydroxytryptamine 3 agonist
+0,061  0,016  Oxytocin agonist
+0,074  0,028  Acetylcholine M5 receptor antagonist
+0,076  0,030  Aryl hydrocarbon receptor antagonist
+0,050  0,005  Tryptophan 5 hydroxylase inhibitor
+0,049  0,003  Alpha 2b adrenoreceptor agonist
+0,094  0,049  Antiviral (Hepatitis A)
+0,155  0,110  P-glycoprotein inhibitor
+0,165  0,120  Potassium channel blocker
+0,050  0,006  Retinoid X alpha receptor antagonist
+0,084  0,040  Polo-like kinase-2 inhibitor
+0,048  0,004  DNA polymerase III inhibitor
+0,075  0,031  Cannabinoid CB1 receptor agonist
+0,119  0,075  Glutamate receptor antagonist
+0,047  0,004  Acid ceramidase inhibitor
+0,093  0,049  Contraceptive male
+0,051  0,007  Melatonin receptor 1A agonist
+0,052  0,009  Peroxisome proliferator-activated receptor delta antagonist
+0,055  0,012  Sphingosine kinase 1 inhibitor
+0,062  0,019  Oleamide hydrolase inhibitor
+0,051  0,009  1-Alkyl-2-acetylglycerophosphocholine esterase inhibitor
+0,135  0,093  Urolithiasis treatment
+0,070  0,027  Acetylcholine muscarinic agonist
+0,057  0,014  Liver X receptor alpha agonist
+0,118  0,076  MAO inhibitor
+0,074  0,031  Aromatase inhibitor
+0,108  0,066  Antiviral (SARS coronavirus)
+0,108  0,066  Antiviral (Coronavirus)
+0,062  0,020  Heparanase inhibitor
+0,050  0,009  Lysophosphatidic acid 2 receptor antagonist
+0,117  0,076  Cholinergic antagonist
+0,087  0,046  Chymotrypsin inhibitor
+0,155  0,114  Interleukin antagonist
+0,044  0,004  Vanilloid 2 agonist
+0,135  0,095  Protein-tyrosine phosphatase inhibitor
+0,053  0,014  Membrane dipeptidase inhibitor
+0,080  0,040  Purinergic P2X2 antagonist
+0,055  0,015  GABA B receptor antagonist
+0,066  0,027  Acetyl-CoA transferase inhibitor
+0,070  0,031  Transcription factor RelA inhibitor
+0,048  0,010  Vanilloid 3 antagonist
+0,043  0,005  Sodium/glucose cotransporter 1 inhibitor
+0,055  0,016  Glutamate (mGluR group III) antagonist
+0,050  0,011  Antiviral (Bovine viral diarrhea virus)
+0,049  0,011  Leukotriene C4 antagonist
+0,043  0,005  Lysophosphatidic acid receptor 1 agonist
+0,047  0,009  Liver X receptor beta antagonist
+0,055  0,018  AICAR transformylase inhibitor
+0,052  0,015  Dihydropteroate synthase inhibitor
+0,113  0,077  Acetylcholine antagonist
+0,041  0,005  GRP78 expression inhibitor
+0,095  0,059  Potassium channel (Ca-activated) activator
+0,054  0,018  Glutamate (mGluR4) antagonist
+0,057  0,021  Purinergic P2Y antagonist
+0,044  0,008  Methionyl aminopeptidase 2 inhibitor
+0,064  0,028  Toll-Like receptor 8 antagonist
+0,061  0,026  Thromboxane synthase inhibitor
+0,040  0,005  Thymidine kinase (Herpes simplex virus 1) inhibitor
+0,050  0,015  AMPA 4 receptor antagonist
+0,164  0,129  Antineoplastic enhancer
+0,079  0,044  Antitreponemal
+0,090  0,055  Alpha 2 adrenoreceptor antagonist
+0,150  0,115  Antiviral (Hepatitis)
+0,057  0,023  Acetylcholine M1 receptor agonist
+0,120  0,085  Toll-Like receptor antagonist
+0,067  0,032  Dopamine uptake inhibitor
+0,078  0,044  Phosphodiesterase VI inhibitor
+0,047  0,013  Cholesterol absorption inhibitor
+0,220  0,187  Antiobesity
+0,037  0,003  Thymidine kinase (Herpes simplex virus 2) inhibitor
+0,069  0,036  Hypercalcemia treatment
+0,039  0,006  Glutamate (mGluR1a) agonist
+0,065  0,032  Calcium channel T-type blocker
+0,089  0,056  Acetylcholine agonist
+0,046  0,014  Delayed rectifier potassium channel blocker
+0,061  0,029  5 Hydroxytryptamine 7 agonist
+0,038  0,006  Estrogen-related receptor gamma antagonist
+0,053  0,021  Purinergic P2X4 antagonist
+0,059  0,028  Protease activated receptor 1 antagonist
+0,084  0,052  T cell inhibitor
+0,042  0,010  Methionyl aminopeptidase 1 inhibitor
+0,073  0,042  Protein kinase C beta inhibitor
+0,050  0,019  Nerve growth factor antagonist
+0,085  0,054  GABA A receptor agonist
+0,038  0,007  Thyroid hormone agonist
+0,065  0,034  Cathepsin L inhibitor
+0,045  0,014  Glucose-dependent insulinotropic receptor agonist
+0,035  0,005  Alpha 2a adrenoreceptor agonist
+0,045  0,015  2,3-Oxidosqualene-lanosterol cyclase inhibitor
+0,154  0,124  Focal adhesion kinase 2 inhibitor
+0,074  0,044  Orexin receptor 1 antagonist
+0,043  0,013  Melatonin 2 agonist
+0,062  0,032  VEGFR2 expression inhibitor
+0,034  0,004  Retinoid X beta receptor antagonist
+0,061  0,031  Bombesin 3 receptor antagonist
+0,074  0,044  Amidase inhibitor
+0,041  0,011  Adenosine uptake inhibitor
+0,058  0,029  Histamine agonist
+0,050  0,021  Glutamate (mGluR1a) antagonist
+0,047  0,018  TRPM8 blocker
+0,052  0,023  Benzodiazepine antagonist
+0,034  0,005  Fructose-1,6-bisphosphatase 1 inhibitor
+0,044  0,016  Antihyperaldosteronism
+0,052  0,024  Nicotinic receptor alpha3 subunit antagonist
+0,042  0,014  Liver X receptor beta agonist
+0,043  0,015  Peroxisome proliferator-activated receptor delta agonist
+0,039  0,011  Glutamate (mGluR3) agonist
+0,052  0,024  Thymidylate synthase inhibitor
+0,060  0,032  GABA receptor antagonist
+0,035  0,007  Hedgehog signaling activator
+0,142  0,115  Platelet adhesion inhibitor
+0,036  0,008  Myristoyl transferase inhibitor
+0,062  0,034  5 Hydroxytryptamine 5 antagonist
+0,140  0,113  Amyloid beta precursor protein antagonist
+0,033  0,005  Complement factor 1s inhibitor
+0,049  0,022  Kainate receptor antagonist
+0,047  0,019  Histone deacetylase 7 inhibitor
+0,045  0,018  Farnesoid X receptor agonist
+0,059  0,032  GABA A receptor antagonist
+0,037  0,010  Nicotinic alpha4beta2 receptor agonist
+0,057  0,030  Thromboxane A2 antagonist
+0,062  0,035  Cyclin A1 inhibitor
+0,046  0,019  Cathepsin F inhibitor
+0,130  0,103  Cyclin-dependent kinase 8 inhibitor
+0,044  0,017  Phosphoglycerate kinase inhibitor
+0,046  0,020  5-Alpha-reductase inhibitor
+0,055  0,028  Bombesin 2 receptor antagonist
+0,064  0,038  Prostaglandin EP2 antagonist
+0,117  0,091  Skin whitener
+0,036  0,010  Purinergic P2Y15 antagonist
+0,030  0,004  Nicotinic acid receptor 1 antagonist
+0,055  0,030  Diacylglycerol O-acyltransferase inhibitor
+0,029  0,003  Imidazoline I2 receptor antagonist
+0,082  0,056  Sleep apnea treatment
+0,029  0,003  Proline transporter inhibitor
+0,034  0,009  Thymidine phosphorylase inhibitor
+0,030  0,005  Alpha 2c adrenoreceptor agonist
+0,031  0,007  Prostaglandin EP4 agonist
+0,038  0,013  Calcium-independent phospholipase A2 inhibitor
+0,039  0,014  Prostaglandin agonist
+0,092  0,068  Xanthine oxidase inhibitor
+0,048  0,023  Beta adrenoreceptor agonist
+0,060  0,036  Fatty acid synthase inhibitor
+0,053  0,029  Topoisomerase II beta inhibitor
+0,029  0,005  Neuraminidase (Influenza B) inhibitor
+0,029  0,005  G-protein-coupled receptor 120 agonist
+0,034  0,010  Prostaglandin EP2 agonist
+0,058  0,034  Thromboxane antagonist
+0,032  0,009  Glucosylceramidase stimulant
+0,031  0,009  Glutamate (mGluR1) agonist
+0,167  0,144  Vascular (periferal) disease treatment
+0,062  0,039  Bombesin 1 receptor agonist
+0,043  0,021  Progesterone antagonist
+0,116  0,094  Interleukin 1 antagonist
+0,104  0,082  Cell adhesion inhibitor
+0,038  0,016  Acetylcholine M4 receptor agonist
+0,038  0,017  Estradiol 17 beta-dehydrogenase 3 inhibitor
+0,063  0,041  5 Hydroxytryptamine 5A antagonist
+0,038  0,017  Melatonin agonist
+0,146  0,124  I kappa B kinase epsilon inhibitor
+0,055  0,034  Nicotinic receptor alpha7 subunit antagonist
+0,066  0,045  5 Hydroxytryptamine 1B antagonist
+0,037  0,016  ATP citrate lysase inhibitor
+0,135  0,114  LIM domain kinase 1 inhibitor
+0,026  0,005  NMDA receptor phencyclidine site antagonist
+0,177  0,156  Amyotrophic lateral sclerosis treatment
+0,024  0,003  DNA polymerase III polC-type inhibitor
+0,036  0,015  Estrogen-related receptor beta antagonist
+0,065  0,044  Neutrophil collagenase inhibitor
+0,025  0,005  Antibiotic Anthracycline-like
+0,025  0,005  Estrogen-related receptor gamma agonist
+0,029  0,009  Prostaglandin F2 alpha agonist
+0,099  0,079  Protein-tyrosine phosphatase 1B inhibitor
+0,042  0,022  Glutamate (mGluR group II) antagonist
+0,027  0,006  Excitatory amino acid transporter 3 inhibitor
+0,036  0,016  Peptide deformylase inhibitor
+0,048  0,028  Glutamate (mGluR5) agonist
+0,096  0,076  Beta glucuronidase inhibitor
+0,063  0,043  Protease activated receptor antagonist
+0,036  0,017  GABA transporter 3 inhibitor
+0,038  0,019  Sirtuin 2 inhibitor
+0,045  0,026  Histone deacetylase 8 inhibitor
+0,080  0,061  Phosphodiesterase IV inhibitor
+0,024  0,004  Lysophosphatidic acid receptor 3 agonist
+0,050  0,031  Glutamate (mGluR group I) agonist
+0,099  0,079  Protein kinase C gamma inhibitor
+0,042  0,023  Histone deacetylase 9 inhibitor
+0,043  0,024  Cathepsin L1 inhibitor
+0,145  0,126  Sepsis treatment
+0,038  0,020  Ceramide glucosyltransferase inhibitor
+0,047  0,028  Dihydroorotase inhibitor
+0,068  0,049  Elastase 1 inhibitor
+0,033  0,014  Thiazolidinedione
+0,034  0,016  Epoxide hydrolase 1 inhibitor
+0,039  0,021  Estrogen receptor alpha agonist
+0,025  0,007  Toll-Like receptor 8 agonist
+0,065  0,048  Orexin receptor antagonist
+0,063  0,045  5 Hydroxytryptamine 1D antagonist
+0,078  0,060  Acetylcholine nicotinic agonist
+0,024  0,007  Calcium-sensing receptor antagonist
+0,026  0,008  GABA transporter inhibitor
+0,048  0,031  CC chemokine 4 receptor antagonist
+0,058  0,041  Botulinum neurotoxin type A inhibitor
+0,027  0,010  ICAM 1 antagonist
+0,052  0,035  Dihydroorotate dehydrogenase inhibitor
+0,041  0,024  CF transmembrane conductance regulator antagonist
+0,117  0,100  Activin receptor-like kinase 2 inhibitor
+0,034  0,017  AMPA 3 receptor antagonist
+0,107  0,091  Alcohol dehydrogenase substrate
+0,049  0,033  Histamine H4 receptor antagonist
+0,018  0,002  DNA topoisomerase III inhibitor
+0,059  0,043  Acetylcholine M3 receptor antagonist
+0,020  0,004  1-Deoxy-D-xylulose-5-phosphate reductoisomerase inhibitor
+0,039  0,023  Arginase inhibitor
+0,088  0,073  5-Lipoxygenase inhibitor
+0,049  0,034  HCV NS3/NS4A protease inhibitor
+0,028  0,012  Prostaglandin E2 agonist
+0,044  0,029  Carbonic anhydrase IV inhibitor
+0,043  0,028  Estradiol 17 beta-dehydrogenase inhibitor
+0,025  0,010  Isoleucine-tRNA ligase inhibitor
+0,026  0,011  Protease (Human cytomegalovirus) inhibitor
+0,025  0,010  Lysophosphatidic acid 1 receptor antagonist
+0,020  0,005  Melatonin receptor 1A antagonist
+0,032  0,018  Nicotinic alpha3beta4 receptor agonist
+0,069  0,055  Lipase inhibitor
+0,019  0,004  Antineoplastic (insulinoma)
+0,061  0,047  Glucagon-like peptide 1 agonist
+0,057  0,042  Adenosine A1 receptor antagonist
+0,088  0,074  Anticataract
+0,020  0,006  Angiotensin AT1B receptor antagonist
+0,021  0,007  Carbonic anhydrase VIII inhibitor
+0,021  0,007  Carbonic anhydrase X inhibitor
+0,116  0,103  Antiischemic, cerebral
+0,030  0,017  5 Hydroxytryptamine 6 agonist
+0,066  0,053  Andropause treatment
+0,038  0,024  Delayed rectifier potassium channel activator
+0,038  0,024  Potassium channel KCNQ activator
+0,069  0,055  Epoxide hydrolase inhibitor
+0,030  0,017  Thrombin receptor antagonist
+0,027  0,014  NMDA receptor glycine site antagonist
+0,077  0,064  5 Hydroxytryptamine 2C antagonist
+0,029  0,015  CXC chemokine 2 receptor antagonist
+0,028  0,015  Prostaglandin H2 antagonist
+0,034  0,021  Dipeptidyl peptidase II inhibitor
+0,021  0,008  CXC chemokine 5 receptor antagonist
+0,073  0,061  Metalloproteinase-2 inhibitor
+0,020  0,008  Telomerase stimulant
+0,159  0,147  Tumour necrosis factor alpha release inhibitor
+0,041  0,029  CC chemokine 3 receptor antagonist
+0,041  0,029  Plasmepsin II inhibitor
+0,025  0,013  Peroxisome proliferator-activated receptor alpha antagonist
+0,030  0,019  5 Hydroxytryptamine 1D agonist
+0,020  0,009  Ileal bile acid transport inhibitor
+0,037  0,025  Integrin alpha2 antagonist
+0,051  0,039  Vanilloid 2 antagonist
+0,020  0,009  Methylmalonyl-CoA mutase inhibitor
+0,069  0,058  Metalloproteinase-9 inhibitor
+0,051  0,040  Ribonucleoside-diphosphate reductase inhibitor
+0,085  0,074  Obsessive-compulsive disorder treatment
+0,017  0,007  GABA transporter 1 inhibitor
+0,086  0,076  MAP kinase kinase 1 inhibitor
+0,015  0,005  Melatonin 2 antagonist
+0,058  0,047  Acetylcholine M2 receptor antagonist
+0,230  0,220  Antiarthritic
+0,027  0,017  Integrin alpha2beta1 antagonist
+0,018  0,008  Thromboxane A2 agonist
+0,047  0,037  Carbonic anhydrase XIV inhibitor
+0,027  0,018  Retinoid X gamma receptor antagonist
+0,043  0,034  Potassium channel small-conductance Ca-activated blocker
+0,033  0,023  Carboxypeptidase B inhibitor
+0,087  0,078  Protease inhibitor
+0,098  0,089  DNA polymerase I inhibitor
+0,051  0,042  Ribonucleotide reductase inhibitor
+0,060  0,050  Dopamine D1 antagonist
+0,021  0,012  Vesicular acetylcholine transporter inhibitor
+0,044  0,035  Carbonic anhydrase VII inhibitor
+0,048  0,039  CD45 antagonist
+0,013  0,005  Angiotensin AT2 receptor agonist
+0,015  0,006  Cyclin D2 inhibitor
+0,022  0,014  Glutaminyl-peptide cyclotransferase inhibitor
+0,027  0,019  Lysine carboxypeptidase inhibitor
+0,172  0,163  Cardioprotectant
+0,026  0,018  Prostaglandin EP4 antagonist
+0,117  0,109  Corneal wound healing stimulator
+0,021  0,013  Factor XIII inhibitor
+0,039  0,031  Acetyl-CoA transferase 1 inhibitor
+0,051  0,044  Matrix metalloproteinase (membrane-type) inhibitor
+0,022  0,014  Alpha 2d adrenoreceptor agonist
+0,027  0,019  Baculoviral IAP repeat-containing protein 4 inhibitor
+0,126  0,118  MAP kinase 3 inhibitor
+0,107  0,099  Bone formation stimulant
+0,019  0,011  Complement factor D inhibitor
+0,148  0,140  Transplant rejection treatment
+0,052  0,045  5 Hydroxytryptamine 6 antagonist
+0,018  0,010  CC chemokine 9 receptor antagonist
+0,017  0,010  Thyroid hormone alpha agonist
+0,067  0,060  Antibiotic
+0,028  0,021  Melatonin antagonist
+0,029  0,022  Glutamate (mGluR2) antagonist
+0,035  0,029  Melanocortin 1 antagonist
+0,010  0,005  Folate transporter 1 inhibitor
+0,145  0,140  Aryl hydrocarbon receptor agonist
+0,043  0,038  Glycine transporter inhibitor
+0,021  0,016  Estradiol 17 beta-dehydrogenase 1 inhibitor
+0,019  0,014  5-Alpha-reductase 2 inhibitor
+0,031  0,026  Calcitonin receptor agonist
+0,021  0,017  Angiotensin AT1A receptor antagonist
+0,028  0,023  Liver X receptor alpha antagonist
+0,059  0,055  Matrix metalloproteinase inhibitor
+0,020  0,016  Retinoid X beta receptor agonist
+0,011  0,007  Thromboxane agonist
+0,054  0,050  Collagenase 3 inhibitor
+0,021  0,017  Geranylgeranyltransferase inhibitor
+0,033  0,029  Inosine monophosphate dehydrogenase inhibitor
+0,009  0,006  Corticotropin releasing factor antagonist
+0,026  0,022  Cyclin E2 inhibitor
+0,014  0,011  Adenosine A2a receptor agonist
+0,009  0,006  Thyroid hormone beta agonist
+0,017  0,013  Aminopeptidase A inhibitor
+0,015  0,012  Purinergic P2Y1 agonist
+0,019  0,016  Angiotensin AT2 receptor antagonist
+0,036  0,033  MAP3K5 inhibitor
+0,029  0,026  Nucleoside transporters inhibitor
+0,024  0,021  Kynurenine 3 monooxygenase inhibitor
+0,026  0,023  AMPA 1 receptor antagonist
+0,018  0,015  Apical sodium codependent bile acid transporter inhibitor
+0,119  0,116  Antidiabetic (type 1)
+0,041  0,039  Antimetabolite
+0,023  0,021  Sigma 2 receptor antagonist
+0,026  0,023  LFA antagonist
+0,048  0,046  Dipeptidyl peptidase inhibitor
+0,021  0,019  Retinoid X gamma receptor agonist
+0,021  0,019  CYP24 inhibitor
+0,024  0,022  Hypoxanthine phosphoribosyltransferase inhibitor
+0,011  0,009  Glutamate (mGluR6) agonist
+0,101  0,099  Cyclooxygenase 1 inhibitor
+0,016  0,015  Cyclin T1 inhibitor
+0,021  0,019  Beta 1 adrenoreceptor agonist
+0,015  0,014  Adenosine A2 receptor agonist
+0,062  0,061  Prostaglandin-E synthase inhibitor
+0,050  0,049  Cathepsin B inhibitor
+0,011  0,011  Calcium-dependent phospholipase A2 inhibitor
+0,046  0,046  Cathepsin D inhibitor
+0,030  0,029  Melatonin 1 agonist
+0,033  0,032  Factor XIIIa inhibitor
+0,012  0,012  Sodium/hydrogen exchanger 3 inhibitor
+

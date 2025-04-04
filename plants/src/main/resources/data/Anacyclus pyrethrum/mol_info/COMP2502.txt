@@ -1,0 +1,10 @@
+(4As,10As)-4A-Methyl-1-Methylidene-7-Propan-2-Yl-2,3,4,9,10,10A-Hexahydrophenanthrene
+(4aS,10aS)-4a-methyl-1-methylidene-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthrene
+CHEMBL12576
+44268166
+None
+C19H26
+254.2
+InChI=1S/C19H26/c1-13(2)15-7-10-18-16(12-15)8-9-17-14(3)6-5-11-19(17,18)4/h7,10,12-13,17H,3,5-6,8-9,11H2,1-2,4H3/t17-,19-/m0/s1
+ZPQHNIHJSIZREW-HKUYNNGSSA-N
+C=C1CCC[C@]2([C@H]1CCc1c2ccc(c1)C(C)C)C

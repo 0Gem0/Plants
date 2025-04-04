@@ -1,0 +1,13 @@
+Name	Activation_Prob	Compound	Another_Probs
+CYP1A2 inhibitor	0.399	COMP382	
+CYP1A2 substrate	0.362	COMP382	
+CYP2B6 inhibitor	0.207	COMP382	
+CYP2C19 inhibitor	0.604	COMP382	
+CYP2C19 substrate	0.210	COMP382	
+CYP2C9 inhibitor	0.558	COMP382	
+CYP2C9 substrate	0.309	COMP382	
+CYP2D6 inhibitor	0.504	COMP382	
+CYP2D6 substrate	0.329	COMP382	
+CYP3A4 inhibitor	0.504	COMP382	
+CYP3A4 substrate	0.270	COMP382	
+GST M1-1 substrate	0.288	COMP382	

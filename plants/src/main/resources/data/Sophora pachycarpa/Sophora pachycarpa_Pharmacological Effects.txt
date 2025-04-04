@@ -1,0 +1,124 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.118	COMP2710	
+Alzheimer's disease treatment	0.615	COMP2709	
+Anabolic	0.129	COMP2709	(0.121 COMP2710)
+Analeptic	0.415	COMP2709	
+Analgesic. opioid	0.068	COMP2709	
+Angiogenesis inhibitor	0.301	COMP2709	
+Angiogenesis stimulant	0.229	COMP2709	
+Antiacne	0.152	COMP2709	
+Antiamyloidogenic	0.380	COMP2709	
+Antibacterial	0.653	COMP2709	(0.466 COMP2710)
+Antibiotic	0.119	COMP2710	(0.108 COMP2709)
+Antidiabetic	0.659	COMP2709	
+Antidiabetic (type 2)	0.228	COMP2709	
+Antidiabetic symptomatic	0.173	COMP2709	
+Antidiarrheal	0.209	COMP2709	
+Antieczematic atopic	0.317	COMP2709	
+Antifungal	0.743	COMP2710	(0.507 COMP2709)
+Antifungal (Aspergillus)	0.303	COMP2710	
+Antifungal (Cryptococcus)	0.122	COMP2709	
+Antifungal (Pneumocystis)	0.109	COMP2710	
+Antifungal enhancer	0.242	COMP2709	
+Antihelmintic	0.271	COMP2709	
+Antihemorrhagic	0.375	COMP2709	(0.140 COMP2710)
+Antihypercholesterolemic	0.785	COMP2709	(0.261 COMP2710)
+Antihyperlipoproteinemic	0.113	COMP2710	
+Antihypertriglyceridemic	0.553	COMP2709	
+Antihypotensive	0.347	COMP2709	(0.194 COMP2710)
+Antihypoxic	0.318	COMP2709	
+Antiinflammatory	0.882	COMP2709	(0.767 COMP2710)
+Antileukemic	0.563	COMP2709	(0.545 COMP2710)
+Antimitotic	0.289	COMP2710	
+Antimutagenic	0.288	COMP2709	(0.199 COMP2710)
+Antimycobacterial	0.212	COMP2709	
+Antineoplastic (brain cancer)	0.516	COMP2709	(0.196 COMP2710)
+Antineoplastic (breast cancer)	0.904	COMP2710	(0.715 COMP2709)
+Antineoplastic (carcinoma)	0.346	COMP2709	(0.166 COMP2710)
+Antineoplastic (cervical cancer)	0.447	COMP2709	
+Antineoplastic (colon cancer)	0.446	COMP2709	(0.244 COMP2710)
+Antineoplastic (colorectal cancer)	0.458	COMP2709	(0.274 COMP2710)
+Antineoplastic (glioblastoma multiforme)	0.274	COMP2709	
+Antineoplastic (glioma)	0.422	COMP2709	(0.172 COMP2710)
+Antineoplastic (liver cancer)	0.267	COMP2709	
+Antineoplastic (lung cancer)	0.475	COMP2709	(0.419 COMP2710)
+Antineoplastic (lymphocytic leukemia)	0.241	COMP2709	
+Antineoplastic (lymphoma)	0.184	COMP2709	
+Antineoplastic (melanoma)	0.498	COMP2709	(0.164 COMP2710)
+Antineoplastic (multiple myeloma)	0.190	COMP2709	
+Antineoplastic (non-small cell lung cancer)	0.183	COMP2709	
+Antineoplastic (osteosarcoma)	0.957	COMP2710	(0.245 COMP2709)
+Antineoplastic (ovarian cancer)	0.514	COMP2709	
+Antineoplastic (pancreatic cancer)	0.391	COMP2709	
+Antineoplastic (renal cancer)	0.206	COMP2709	
+Antineoplastic (sarcoma)	0.184	COMP2709	
+Antineoplastic (squamous cell carcinoma)	0.441	COMP2709	(0.218 COMP2710)
+Antineoplastic antibiotic	0.230	COMP2709	(0.132 COMP2710)
+Antineoplastic enhancer	0.312	COMP2709	
+Antineurogenic pain	0.401	COMP2709	
+Antiosteoporotic	0.659	COMP2709	
+Antioxidant	0.905	COMP2709	(0.336 COMP2710)
+Antiparasitic	0.596	COMP2709	
+Antiparkinsonian	0.219	COMP2709	
+Antiprotozoal	0.482	COMP2710	(0.470 COMP2709)
+Antiprotozoal (Leishmania)	0.506	COMP2709	(0.301 COMP2710)
+Antiprotozoal (Plasmodium)	0.391	COMP2709	(0.213 COMP2710)
+Antiprotozoal (Trypanosoma)	0.256	COMP2710	
+Antipruritic. allergic	0.391	COMP2710	(0.239 COMP2709)
+Antipruritic. non-allergic	0.174	COMP2710	(0.123 COMP2709)
+Antipyretic	0.204	COMP2709	
+Antithrombotic	0.303	COMP2709	
+Antituberculosic	0.180	COMP2709	
+Antitussive	0.151	COMP2709	
+Antiulcerative	0.561	COMP2709	(0.179 COMP2710)
+Antiviral (Hepatitis A)	0.128	COMP2709	(0.084 COMP2710)
+Antiviral (Herpes)	0.346	COMP2709	(0.297 COMP2710)
+Antiviral (Influenza A)	0.125	COMP2710	(0.120 COMP2709)
+Antiviral (Influenza)	0.173	COMP2709	
+Apoptosis agonist	0.908	COMP2709	(0.763 COMP2710)
+Apoptosis antagonist	0.500	COMP2709	
+Atherosclerosis treatment	0.695	COMP2709	
+Bone diseases treatment	0.627	COMP2709	
+Cardioprotectant	0.372	COMP2709	
+Cardiovascular analeptic	0.263	COMP2709	
+Cell adhesion inhibitor	0.126	COMP2709	
+Chemopreventive	0.905	COMP2709	(0.157 COMP2710)
+Chemoprotective	0.805	COMP2709	
+Cholesterol synthesis inhibitor	0.443	COMP2709	(0.099 COMP2710)
+Contraceptive	0.249	COMP2710	
+Contraceptive male	0.098	COMP2710	
+Cytostatic	0.389	COMP2709	(0.168 COMP2710)
+Dementia treatment	0.155	COMP2709	
+Expectorant	0.239	COMP2709	
+Gastritis treatment	0.119	COMP2709	
+Hepatic disorders treatment	0.478	COMP2709	
+Hepatoprotectant	0.399	COMP2709	
+Hypolipemic	0.414	COMP2709	
+Immunostimulant	0.289	COMP2709	
+Immunosuppressant	0.516	COMP2709	(0.510 COMP2710)
+Immunosuppressant Cyclosporine-like	0.012	COMP2709	
+Insulin sensitizer	0.209	COMP2709	
+Lipoprotein disorders treatment	0.623	COMP2709	
+Male reproductive disfunction treatment	0.123	COMP2710	
+Mucolytic	0.245	COMP2709	
+Myocardial infarction treatment	0.388	COMP2709	
+Narcotic antagonist	0.091	COMP2709	
+Non-steroidal antiinflammatory agent	0.141	COMP2709	
+Photosensitizer	0.140	COMP2709	
+Platelet antagonist	0.168	COMP2709	
+Postcoital contraceptive	0.055	COMP2709	
+Postmenopausal disorders treatment	0.126	COMP2709	(0.049 COMP2710)
+Proliferative diseases treatment	0.621	COMP2709	(0.177 COMP2710)
+Prostate cancer treatment	0.519	COMP2709	
+Prostate disorders treatment	0.138	COMP2710	
+Radioprotector	0.394	COMP2709	
+Respiratory analeptic	0.570	COMP2709	
+Skin whitener	0.953	COMP2709	
+Spasmolytic	0.397	COMP2709	
+Thrombolytic	0.169	COMP2710	
+Tumour necrosis factor alpha release inhibitor	0.854	COMP2710	(0.589 COMP2709)
+Uterine stimulant	0.136	COMP2709	
+Vascular (periferal) disease treatment	0.312	COMP2709	
+Vascular dementia treatment	0.149	COMP2709	
+Vasodilator	0.607	COMP2709	(0.222 COMP2710)
+Vasodilator. coronary	0.224	COMP2710	

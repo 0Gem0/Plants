@@ -1,0 +1,19 @@
+0,944  0,003  Mutagenic
+0,933  0,002  Genotoxic
+0,884  0,004  Carcinogenic
+0,808  0,009  Teratogen
+0,794  0,004  DNA damaging
+0,794  0,004  Hypoglycemic
+0,773  0,010  Embryotoxic
+0,658  0,005  Ulceration
+0,652  0,011  Sensitization
+0,604  0,011  Cytotoxic
+0,320  0,008  Carcinogenic, group 1
+0,327  0,017  Carcinogenic, group 3
+0,237  0,015  Carcinogenic, group 2B
+0,209  0,008  Carcinogenic, group 2A
+0,214  0,065  Sedative
+0,177  0,061  Eye irritation, high
+0,168  0,107  Cardiodepressant
+0,149  0,145  Pneumotoxic
+

@@ -1,0 +1,264 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.789	COMP3121	(0.414 COMP3120) (0.368 COMP3119) (0.246 COMP3118)
+15-Lipoxygenase inhibitor	0.848	COMP3121	(0.674 COMP3123) (0.530 COMP3120) (0.460 COMP3119) (0.255 COMP3118) (0.213 COMP3122)
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.172	COMP3121	(0.115 COMP3120) (0.098 COMP3119) (0.064 COMP3118)
+5 Hydroxytryptamine release inhibitor	0.489	COMP3119	(0.473 COMP3118) (0.370 COMP3121)
+5 Hydroxytryptamine uptake stimulant	0.210	COMP3121	
+5-Alpha-reductase inhibitor	0.033	COMP3121	
+5-Lipoxygenase inhibitor	0.542	COMP3121	(0.458 COMP3119) (0.329 COMP3120) (0.238 COMP3118) (0.142 COMP3123)
+ABCA1 expression enhancer	0.157	COMP3121	(0.133 COMP3119) (0.129 COMP3120)
+AMP-activated protein kinase stimulant	0.286	COMP3119	(0.185 COMP3121)
+ATP citrate lysase inhibitor	0.033	COMP3119	(0.029 COMP3121)
+ATPase (Vacuolar H+) inhibitor	0.081	COMP3123	
+Acetyl-CoA transferase 2 inhibitor	0.066	COMP3123	(0.055 COMP3121) (0.054 COMP3120)
+Acetylcholinesterase inhibitor	0.404	COMP3118	(0.357 COMP3121) (0.281 COMP3123) (0.223 COMP3122) (0.215 COMP3120) (0.206 COMP3119)
+Adenylate cyclase stimulant	0.149	COMP3120	(0.126 COMP3118)
+Alcohol dehydrogenase inhibitor	0.154	COMP3118	(0.086 COMP3121)
+Aldehyde dehydrogenase inhibitor	0.177	COMP3121	(0.106 COMP3120)
+Aldehyde oxidase inhibitor	0.671	COMP3121	(0.301 COMP3120) (0.273 COMP3119) (0.261 COMP3122) (0.256 COMP3118)
+Aldose reductase inhibitor	0.193	COMP3121	(0.142 COMP3119) (0.091 COMP3118) (0.072 COMP3120) (0.048 COMP3123)
+Alkaline phosphatase inhibitor	0.593	COMP3121	(0.297 COMP3120) (0.255 COMP3119)
+Alpha tubulin antagonist	0.066	COMP3121	(0.050 COMP3122)
+Amylase inhibitor	0.476	COMP3121	(0.280 COMP3119) (0.232 COMP3120) (0.202 COMP3118) (0.186 COMP3123)
+Amyloid beta aggregation inhibitor	0.559	COMP3121	(0.309 COMP3119) (0.308 COMP3120) (0.224 COMP3118)
+Amyloid beta precursor protein antagonist	0.129	COMP3121	
+Anabolic	0.171	COMP3122	(0.124 COMP3120) (0.109 COMP3121) (0.107 COMP3118) (0.101 COMP3119)
+Androgen agonist	0.063	COMP3121	(0.056 COMP3120) (0.055 COMP3119)
+Androgen antagonist	0.131	COMP3121	(0.084 COMP3122) (0.079 COMP3119)
+Angiogenesis inhibitor	0.575	COMP3120	(0.554 COMP3119) (0.286 COMP3121)
+Angiogenesis stimulant	0.442	COMP3123	(0.314 COMP3121) (0.281 COMP3122) (0.271 COMP3119) (0.248 COMP3120) (0.178 COMP3118)
+Antiamyloidogenic	0.543	COMP3121	(0.239 COMP3119) (0.176 COMP3120)
+Antibacterial	0.693	COMP3119	(0.684 COMP3123) (0.643 COMP3121) (0.641 COMP3120) (0.612 COMP3118) (0.539 COMP3122)
+Antibiotic Tetracycline-like	0.019	COMP3123	
+Antiinflammatory	0.814	COMP3121	(0.809 COMP3123) (0.788 COMP3118) (0.776 COMP3120) (0.767 COMP3119) (0.660 COMP3122)
+Antimitotic	0.145	COMP3122	(0.143 COMP3118)
+Antineoplastic alkaloid	0.102	COMP3120	
+Antineoplastic antibiotic	0.407	COMP3123	(0.275 COMP3118) (0.267 COMP3119) (0.191 COMP3121) (0.178 COMP3120) (0.176 COMP3122)
+Antiobesity	0.693	COMP3122	(0.276 COMP3119)
+Antioxidant	0.878	COMP3119	(0.871 COMP3121) (0.810 COMP3120) (0.803 COMP3123) (0.714 COMP3118) (0.653 COMP3122)
+Antithrombotic	0.420	COMP3123	(0.327 COMP3121) (0.229 COMP3119) (0.206 COMP3120)
+Apoptosis agonist	0.935	COMP3119	(0.873 COMP3121) (0.862 COMP3118) (0.861 COMP3120/COMP3123) (0.823 COMP3122)
+Apoptosis antagonist	0.613	COMP3122	(0.508 COMP3121) (0.394 COMP3119) (0.373 COMP3123) (0.363 COMP3118) (0.345 COMP3120)
+Arachidonic acid antagonist	0.208	COMP3120/COMP3121	(0.171 COMP3119)
+Aromatase inhibitor	0.490	COMP3121	(0.395 COMP3122) (0.306 COMP3119) (0.273 COMP3120) (0.079 COMP3123) (0.052 COMP3118)
+Aryl hydrocarbon receptor agonist	0.596	COMP3121	(0.264 COMP3119) (0.169 COMP3120)
+Beta amyloid protein antagonist	0.140	COMP3121	
+Beta glucuronidase inhibitor	0.866	COMP3123	(0.689 COMP3121) (0.328 COMP3119) (0.233 COMP3120) (0.137 COMP3122) (0.117 COMP3118)
+Beta tubulin antagonist	0.097	COMP3118	(0.060 COMP3120) (0.058 COMP3121)
+Bombesin 2 receptor antagonist	0.092	COMP3121	(0.056 COMP3120) (0.051 COMP3123)
+Bombesin antagonist	0.045	COMP3123	
+Bone formation stimulant	0.371	COMP3121	(0.190 COMP3120) (0.188 COMP3119) (0.176 COMP3123) (0.128 COMP3118)
+Breast cancer-resistant protein inhibitor	0.613	COMP3121	(0.553 COMP3120) (0.253 COMP3119) (0.179 COMP3118) (0.128 COMP3123)
+Bronchodilator	0.148	COMP3118	
+Butyrylcholinesterase inhibitor	0.439	COMP3118	(0.247 COMP3121) (0.149 COMP3120) (0.105 COMP3119)
+CD45 antagonist	0.057	COMP3121	
+CDC25A inhibitor	0.157	COMP3121	(0.143 COMP3119) (0.125 COMP3120)
+CDC25B inhibitor	0.082	COMP3121	(0.076 COMP3120) (0.073 COMP3119)
+CF transmembrane conductance regulator agonist	0.180	COMP3121	(0.179 COMP3120) (0.152 COMP3118)
+CYP2A6 inhibitor	0.067	COMP3120	
+Ca2+-transporting ATPase inhibitor	0.138	COMP3118	(0.131 COMP3121)
+Cannabinoid CB1 receptor antagonist	0.055	COMP3122	
+Cannabinoid CB2 receptor antagonist	0.049	COMP3122	
+Carbonic anhydrase III inhibitor	0.152	COMP3121	(0.120 COMP3118)
+Carbonic anhydrase VI inhibitor	0.130	COMP3121	
+Carbonic anhydrase VII inhibitor	0.090	COMP3118	(0.046 COMP3121)
+Carbonic anhydrase XIII inhibitor	0.382	COMP3118	(0.250 COMP3121) (0.175 COMP3119) (0.090 COMP3120)
+Carbonic anhydrase XV inhibitor	0.121	COMP3121	(0.098 COMP3118)
+Caspase 3 stimulant	0.830	COMP3122	(0.649 COMP3121) (0.542 COMP3120) (0.517 COMP3119) (0.335 COMP3123) (0.306 COMP3118)
+Caspase 9 stimulant	0.896	COMP3122	(0.853 COMP3121) (0.847 COMP3119) (0.809 COMP3120) (0.497 COMP3118) (0.297 COMP3123)
+Cathepsin L2 inhibitor	0.186	COMP3123	(0.093 COMP3121)
+Chelator	0.360	COMP3121	(0.261 COMP3120) (0.120 COMP3119)
+Cholesterol antagonist	0.199	COMP3120	
+Cholesterol esterase inhibitor	0.058	COMP3121	
+Cholesterol synthesis inhibitor	0.253	COMP3121	(0.241 COMP3119/COMP3120) (0.165 COMP3118) (0.113 COMP3123)
+Cholinergic	0.310	COMP3118	(0.263 COMP3121) (0.220 COMP3123) (0.207 COMP3122) (0.158 COMP3120) (0.135 COMP3119)
+Creatine kinase inhibitor	0.248	COMP3121	(0.147 COMP3118) (0.120 COMP3119) (0.110 COMP3120)
+Cyclin B3 inhibitor	0.069	COMP3121	
+Cyclin-dependent kinase 3 inhibitor	0.152	COMP3118	
+Cyclooxygenase 1 inhibitor	0.353	COMP3121	(0.232 COMP3120) (0.226 COMP3119) (0.179 COMP3118) (0.174 COMP3123)
+Cyclooxygenase 2 inhibitor	0.161	COMP3121	(0.155 COMP3118) (0.130 COMP3119)
+Cyclooxygenase 3 inhibitor	0.140	COMP3121	(0.138 COMP3119) (0.105 COMP3120)
+Cyclooxygenase inhibitor	0.229	COMP3121	(0.168 COMP3118) (0.164 COMP3119) (0.138 COMP3120)
+Cyclophilin D inhibitor	0.543	COMP3121	(0.531 COMP3119) (0.517 COMP3122) (0.505 COMP3120) (0.487 COMP3123) (0.313 COMP3118)
+Cystathionine beta-synthase inhibitor	0.345	COMP3121	(0.286 COMP3118) (0.244 COMP3119) (0.149 COMP3120)
+Cytokine production stimulant	0.048	COMP3118	
+D-Ala-D-Ala ligase inhibitor	0.098	COMP3121	
+DNA damaging	0.395	COMP3118	(0.368 COMP3121) (0.283 COMP3119) (0.161 COMP3120)
+DNA gyrase subunit A inhibitor	0.065	COMP3121	(0.048 COMP3120) (0.042 COMP3119)
+DNA intercalator	0.164	COMP3119	
+DNA methylase inhibitor	0.152	COMP3121	
+DNA methyltransferase I inhibitor	0.201	COMP3121	
+DNA polymerase I inhibitor	0.228	COMP3118	(0.221 COMP3119) (0.212 COMP3121) (0.176 COMP3123) (0.145 COMP3122) (0.136 COMP3120)
+DOPA decarboxylase inhibitor	0.179	COMP3121	(0.120 COMP3120) (0.104 COMP3118) (0.096 COMP3119)
+Death-associated protein kinase 2 inhibitor	0.179	COMP3121	(0.141 COMP3119)
+Dihydroorotate oxidase inhibitor	0.074	COMP3121	(0.069 COMP3120)
+Diuretic	0.120	COMP3121	
+Dual specificity phosphatase 3 inhibitor	0.196	COMP3121	
+Dual specificity phosphatase inhibitor	0.382	COMP3121	(0.181 COMP3119) (0.173 COMP3120)
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.255	COMP3120	(0.152 COMP3121)
+Dyrk kinase inhibitor	0.229	COMP3120	
+Elastase inhibitor	0.064	COMP3119	
+Electron transport complex I inhibitor	0.432	COMP3118	(0.294 COMP3119) (0.214 COMP3121) (0.207 COMP3122) (0.180 COMP3120) (0.136 COMP3123)
+Estrogen agonist	0.499	COMP3118	(0.266 COMP3121) (0.185 COMP3119) (0.177 COMP3122) (0.175 COMP3120) (0.084 COMP3123)
+Estrogen antagonist	0.410	COMP3121	(0.265 COMP3118) (0.253 COMP3119) (0.252 COMP3120) (0.240 COMP3122) (0.186 COMP3123)
+Estrogen receptor alpha antagonist	0.610	COMP3121	(0.390 COMP3118) (0.327 COMP3119) (0.253 COMP3120) (0.235 COMP3122) (0.114 COMP3123)
+Estrogen receptor beta antagonist	0.451	COMP3121	(0.278 COMP3120) (0.273 COMP3119) (0.231 COMP3118) (0.190 COMP3122) (0.168 COMP3123)
+Estrogen-related receptor beta antagonist	0.045	COMP3121	(0.041 COMP3118) (0.034 COMP3119) (0.030 COMP3120)
+Expectorant	0.155	COMP3121	(0.109 COMP3119) (0.102 COMP3120)
+Farnesoid X receptor antagonist	0.213	COMP3121	(0.202 COMP3120) (0.161 COMP3123) (0.155 COMP3119) (0.119 COMP3118)
+Fatty acid synthase inhibitor	0.406	COMP3121	(0.155 COMP3120) (0.142 COMP3119)
+Free radical scavenger	0.858	COMP3118	(0.844 COMP3119) (0.833 COMP3121) (0.770 COMP3120) (0.613 COMP3123) (0.507 COMP3122)
+GABA C receptor antagonist	0.133	COMP3120	(0.118 COMP3121)
+GABA C receptor rho-1 antagonist	0.129	COMP3121	(0.110 COMP3120)
+GABA C receptor rho-2 antagonist	0.227	COMP3121	(0.207 COMP3120) (0.152 COMP3119) (0.142 COMP3118)
+GABA C receptor rho-3 antagonist	0.581	COMP3121	(0.563 COMP3120) (0.471 COMP3119) (0.456 COMP3118)
+Gastrin inhibitor	0.188	COMP3121	
+Glucose-6-phosphate translocase inhibitor	0.088	COMP3121	(0.058 COMP3120) (0.056 COMP3123) (0.047 COMP3119)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.342	COMP3121	(0.213 COMP3119) (0.173 COMP3120) (0.157 COMP3118)
+HIV-1 integrase (3'-Processing) inhibitor	0.199	COMP3121	(0.119 COMP3118) (0.093 COMP3120) (0.086 COMP3122) (0.078 COMP3119) (0.072 COMP3123)
+HIV-1 integrase (Strand Transfer) inhibitor	0.276	COMP3119	(0.163 COMP3121) (0.120 COMP3118) (0.084 COMP3120) (0.076 COMP3122) (0.063 COMP3123)
+HIV-1 integrase inhibitor	0.120	COMP3119	(0.118 COMP3121) (0.086 COMP3118)
+Heat shock protein 70 antagonist	0.169	COMP3118	(0.137 COMP3121) (0.129 COMP3120)
+Heat shock protein 90 alpha antagonist	0.341	COMP3120	(0.267 COMP3121) (0.153 COMP3118)
+Heat shock protein 90 antagonist	0.455	COMP3120	(0.401 COMP3121) (0.221 COMP3119) (0.162 COMP3118)
+Heme oxygenase stimulant	0.058	COMP3121	
+Hemostatic	0.146	COMP3121	
+Hepatoprotectant	0.606	COMP3120	(0.552 COMP3122) (0.457 COMP3121) (0.398 COMP3119) (0.360 COMP3118) (0.287 COMP3123)
+Histamine release inhibitor	0.788	COMP3121	(0.714 COMP3119) (0.563 COMP3118) (0.508 COMP3120)
+Histidine decarboxylase inhibitor	0.144	COMP3121	
+Histone deacetylase SIRT1 stimulant	0.117	COMP3118	(0.103 COMP3121)
+Histone deacetylase stimulant	0.117	COMP3118	(0.103 COMP3121)
+Hypoglycemic	0.526	COMP3121	(0.450 COMP3118) (0.420 COMP3119) (0.365 COMP3123) (0.325 COMP3120) (0.194 COMP3122)
+Hypolipemic	0.305	COMP3119	(0.259 COMP3121) (0.202 COMP3120)
+Immunostimulant	0.352	COMP3121	(0.253 COMP3120) (0.227 COMP3119)
+Immunosuppressant	0.497	COMP3121	(0.407 COMP3120) (0.403 COMP3123) (0.388 COMP3118) (0.365 COMP3119) (0.208 COMP3122)
+Inducible nitric-oxide synthase inhibitor	0.122	COMP3121	(0.083 COMP3120)
+Inosine monophosphate dehydrogenase 1 inhibitor	0.054	COMP3121	(0.018 COMP3120) (0.017 COMP3119)
+Inosine monophosphate dehydrogenase 2 inhibitor	0.020	COMP3121	
+Inosine monophosphate dehydrogenase inhibitor	0.043	COMP3121	
+Insulin secretagoues	0.227	COMP3118	
+Insulin sensitizer	0.285	COMP3121	(0.256 COMP3120) (0.235 COMP3119)
+Interferon gamma antagonist	0.179	COMP3121	(0.176 COMP3119) (0.166 COMP3120) (0.137 COMP3118) (0.126 COMP3122)
+Interleukin 4 antagonist	0.214	COMP3121	(0.180 COMP3120) (0.160 COMP3119) (0.144 COMP3118)
+Interleukin 5 antagonist	0.124	COMP3119	(0.116 COMP3121) (0.097 COMP3120) (0.090 COMP3118)
+Interleukin 6 antagonist	0.253	COMP3118	
+Interleukin antagonist	0.221	COMP3118	(0.187 COMP3121)
+Keratolytic	0.111	COMP3121	(0.086 COMP3118) (0.071 COMP3120) (0.069 COMP3119)
+Leukotriene B4 antagonist	0.160	COMP3121	(0.107 COMP3120) (0.105 COMP3119)
+Leukotriene B4 receptor 1 antagonist	0.130	COMP3119	(0.092 COMP3121) (0.055 COMP3120)
+Leukotriene B4 receptor 2 antagonist	0.081	COMP3121	(0.041 COMP3120) (0.038 COMP3119)
+Leukotriene C antagonist	0.070	COMP3121	(0.054 COMP3119) (0.053 COMP3120)
+Leukotriene C4 antagonist	0.046	COMP3121	
+Leukotriene D4 antagonist	0.042	COMP3121	
+Leukotriene antagonist	0.186	COMP3121	(0.104 COMP3119) (0.092 COMP3120)
+Leukotriene synthesis inhibitor	0.145	COMP3121	(0.095 COMP3120) (0.072 COMP3119)
+Lipase inhibitor	0.298	COMP3121	(0.201 COMP3120) (0.200 COMP3119) (0.113 COMP3123) (0.101 COMP3122) (0.091 COMP3118)
+Lipid peroxidase inhibitor	0.711	COMP3118	(0.590 COMP3121) (0.500 COMP3120) (0.481 COMP3119) (0.370 COMP3122) (0.331 COMP3123)
+Lipoxygenase inhibitor	0.917	COMP3121	(0.786 COMP3119) (0.662 COMP3120) (0.575 COMP3123) (0.464 COMP3118) (0.189 COMP3122)
+M18 aspartyl aminopeptidase inhibitor	0.113	COMP3121	
+MAO A inhibitor	0.720	COMP3121	(0.289 COMP3120) (0.275 COMP3119)
+MAO B inhibitor	0.546	COMP3121	(0.174 COMP3120) (0.125 COMP3119)
+MAO inhibitor	0.770	COMP3121	(0.286 COMP3120) (0.245 COMP3119) (0.124 COMP3118)
+Maillard reaction inhibitor	0.079	COMP3121	(0.056 COMP3118)
+Mcl-1 antagonist	0.280	COMP3121	(0.210 COMP3122) (0.134 COMP3118) (0.132 COMP3120/COMP3123) (0.130 COMP3119)
+Mediator release inhibitor	0.506	COMP3121	(0.181 COMP3119) (0.132 COMP3120)
+Melanin inhibitor	0.879	COMP3121	(0.836 COMP3120) (0.835 COMP3119) (0.736 COMP3118) (0.700 COMP3123) (0.553 COMP3122)
+Microtubule stabilization	0.044	COMP3123	
+Monophenol monooxygenase inhibitor	0.990	COMP3123	(0.968 COMP3118) (0.960 COMP3121) (0.906 COMP3120) (0.786 COMP3119) (0.526 COMP3122)
+Mucolytic	0.173	COMP3121	(0.133 COMP3119/COMP3120)
+Multidrug resistance-associated protein 1 inhibitor	0.164	COMP3121	(0.138 COMP3119) (0.100 COMP3118)
+Myeloperoxidase inhibitor	0.079	COMP3121	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.307	COMP3119/COMP3121	(0.265 COMP3118) (0.110 COMP3122) (0.093 COMP3120)
+NADPH oxidase inhibitor	0.450	COMP3121	(0.153 COMP3120) (0.129 COMP3119)
+NOS3 expression enhancer	0.669	COMP3121	(0.653 COMP3118) (0.630 COMP3120) (0.581 COMP3119) (0.361 COMP3122) (0.237 COMP3123)
+Na+ K+ transporting ATPase inhibitor	0.116	COMP3119	(0.109 COMP3121) (0.107 COMP3118) (0.099 COMP3120)
+Neuraminidase (Influenza A) inhibitor	0.058	COMP3121	(0.046 COMP3119) (0.043 COMP3120)
+Neuraminidase (Influenza B) inhibitor	0.036	COMP3121	(0.030 COMP3120) (0.021 COMP3119)
+Neuraminidase (influenza) inhibitor	0.222	COMP3121	(0.209 COMP3120) (0.144 COMP3119) (0.108 COMP3118)
+Neuraminidase inhibitor	0.304	COMP3120	(0.239 COMP3121) (0.229 COMP3119) (0.148 COMP3118) (0.064 COMP3123)
+Neurotrophic factor	0.228	COMP3121	(0.213 COMP3120) (0.202 COMP3122) (0.152 COMP3119) (0.148 COMP3123)
+Neurotrophic factor enhancer	0.340	COMP3121	(0.285 COMP3119) (0.257 COMP3120) (0.244 COMP3122) (0.216 COMP3123) (0.202 COMP3118)
+Nitric oxide antagonist	0.766	COMP3119	(0.683 COMP3120) (0.668 COMP3121) (0.621 COMP3118) (0.594 COMP3123) (0.545 COMP3122)
+Nitric-oxide synthase stimulant	0.217	COMP3121	(0.173 COMP3118) (0.172 COMP3119)
+Non-steroidal antiinflammatory agent	0.268	COMP3121	(0.154 COMP3120)
+Ornithine decarboxylase inhibitor	0.260	COMP3121	(0.215 COMP3120) (0.182 COMP3119) (0.166 COMP3118) (0.138 COMP3122) (0.104 COMP3123)
+P-glycoprotein inhibitor	0.481	COMP3121	(0.351 COMP3119) (0.263 COMP3118) (0.242 COMP3120) (0.234 COMP3123) (0.180 COMP3122)
+Peptidyltransferase inhibitor	0.183	COMP3118	(0.177 COMP3119)
+Peroxidase inhibitor	0.548	COMP3121	(0.485 COMP3118) (0.329 COMP3119) (0.228 COMP3120)
+Peroxisome proliferator-activated receptor alpha agonist	0.041	COMP3121	
+Peroxisome proliferator-activated receptor alpha antagonist	0.017	COMP3121	
+Peroxisome proliferator-activated receptor delta antagonist	0.039	COMP3121	
+Peroxisome proliferator-activated receptor gamma agonist	0.163	COMP3121	(0.099 COMP3119) (0.091 COMP3118) (0.089 COMP3120)
+Peroxisome proliferator-activated receptor gamma antagonist	0.084	COMP3121	
+Phosphodiesterase 2A inhibitor	0.143	COMP3118	
+Phosphodiesterase 4D inhibitor	0.942	COMP3118	(0.282 COMP3121) (0.271 COMP3120) (0.182 COMP3119)
+Phosphodiesterase 5A inhibitor	0.147	COMP3118	(0.085 COMP3121)
+Phosphodiesterase 9A inhibitor	0.044	COMP3118	
+Phosphodiesterase II inhibitor	0.156	COMP3118	
+Phosphodiesterase IV inhibitor	0.307	COMP3118	
+Phosphodiesterase IX inhibitor	0.039	COMP3118	
+Phosphodiesterase V inhibitor	0.145	COMP3118	(0.083 COMP3121)
+Phosphodiesterase VI inhibitor	0.139	COMP3121	(0.071 COMP3118) (0.069 COMP3120)
+Phosphodiesterase inhibitor	0.365	COMP3118	
+Phospholipase A2 inhibitor	0.244	COMP3121	(0.156 COMP3120)
+Phospholipase C inhibitor	0.170	COMP3121	
+Photosensitizer	0.162	COMP3121	(0.151 COMP3120) (0.101 COMP3119)
+Platelet adhesion inhibitor	0.835	COMP3118	(0.411 COMP3121) (0.358 COMP3119) (0.305 COMP3120)
+Platelet aggregation inhibitor	0.323	COMP3118	
+Platelet antagonist	0.660	COMP3118	(0.170 COMP3119) (0.164 COMP3121)
+Potassium channel Kv1.3 blocker	0.043	COMP3120/COMP3121	
+Pregnane X receptor antagonist	0.072	COMP3121	(0.059 COMP3119) (0.053 COMP3118)
+Prostaglandin dehydrogenase inhibitor	0.256	COMP3121	
+Prostaglandin-E synthase inhibitor	0.116	COMP3121	
+Protease activated receptor antagonist	0.068	COMP3121	(0.061 COMP3119)
+Protein 30S ribosomal subunit inhibitor	0.024	COMP3123	
+Protein kinase (CK2) alpha inhibitor	0.111	COMP3121	
+Protein kinase C zeta inhibitor	0.095	COMP3121	
+Protein kinase stimulant	0.306	COMP3119	(0.291 COMP3118) (0.231 COMP3121) (0.194 COMP3122) (0.188 COMP3120)
+Protein-tyrosine phosphatase 1B inhibitor	0.603	COMP3120	(0.579 COMP3123) (0.570 COMP3121) (0.530 COMP3118) (0.384 COMP3119) (0.297 COMP3122)
+Protein-tyrosine phosphatase inhibitor	0.594	COMP3120	(0.575 COMP3121) (0.557 COMP3123) (0.521 COMP3118) (0.424 COMP3119) (0.352 COMP3122)
+Psychostimulant	0.253	COMP3122	
+Pyruvate kinase inhibitor	0.284	COMP3121	(0.157 COMP3118)
+Retinoic acid alpha receptor agonist	0.193	COMP3119	(0.116 COMP3118) (0.104 COMP3120) (0.059 COMP3121)
+Retinoic acid receptor agonist	0.092	COMP3119	(0.044 COMP3120) (0.042 COMP3118) (0.023 COMP3121)
+Retinoid X alpha receptor agonist	0.133	COMP3120	(0.071 COMP3121) (0.055 COMP3119)
+Retinoid X alpha receptor antagonist	0.047	COMP3121	(0.041 COMP3120)
+Retinoid X gamma receptor antagonist	0.026	COMP3120	
+Retinoid X receptor agonist	0.112	COMP3120	(0.059 COMP3121) (0.053 COMP3119) (0.032 COMP3118)
+Retinoid X receptor antagonist	0.061	COMP3121	(0.054 COMP3120) (0.038 COMP3119)
+Sodium/bile acid cotransporter inhibitor	0.223	COMP3121	
+Spasmolytic	0.678	COMP3122	(0.591 COMP3121) (0.553 COMP3120) (0.445 COMP3118) (0.390 COMP3119) (0.164 COMP3123)
+Sphingomyelinase inhibitor	0.094	COMP3121	
+Sphingosine kinase inhibitor	0.069	COMP3121	
+Squalene synthetase inhibitor	0.029	COMP3120	
+Streptokinase A inhibitor	0.777	COMP3118	(0.629 COMP3120) (0.600 COMP3119) (0.556 COMP3121) (0.361 COMP3123)
+Succinate dehydrogenase inhibitor	0.177	COMP3121	(0.153 COMP3119) (0.150 COMP3118/COMP3120)
+Superoxide dismutase inhibitor	0.620	COMP3121	(0.365 COMP3120) (0.219 COMP3119)
+TRPA1 agonist	0.252	COMP3120	(0.247 COMP3121) (0.165 COMP3122) (0.119 COMP3119) (0.098 COMP3123)
+Telomerase inhibitor	0.068	COMP3121	
+Thioredoxin glutathione reductase inhibitor	0.244	COMP3122	
+Thioredoxin inhibitor	0.201	COMP3122	(0.137 COMP3121) (0.117 COMP3120) (0.109 COMP3119) (0.086 COMP3118/COMP3123)
+Thioredoxin reductase inhibitor	0.121	COMP3122	(0.084 COMP3121) (0.077 COMP3119/COMP3120)
+Toll-Like receptor 4 agonist	0.028	COMP3118	
+Toll-Like receptor 7 agonist	0.459	COMP3118	
+Toll-Like receptor agonist	0.495	COMP3118	
+Topoisomerase I inhibitor	0.461	COMP3119	(0.191 COMP3121) (0.183 COMP3118) (0.179 COMP3120)
+Topoisomerase II alpha inhibitor	0.397	COMP3121	(0.323 COMP3120) (0.267 COMP3119) (0.210 COMP3118) (0.117 COMP3123)
+Topoisomerase II inhibitor	0.467	COMP3119	(0.445 COMP3121) (0.350 COMP3122) (0.309 COMP3120) (0.304 COMP3118) (0.263 COMP3123)
+Transcription factor AP-1 inhibitor	0.059	COMP3121	
+Transcription factor NF kappa B inhibitor	0.937	COMP3123	(0.846 COMP3121) (0.832 COMP3120) (0.779 COMP3119) (0.706 COMP3118) (0.686 COMP3122)
+Transcription factor RelA inhibitor	0.193	COMP3121	(0.130 COMP3118) (0.127 COMP3119) (0.106 COMP3120)
+Transcription factor STAT inhibitor	0.239	COMP3119	(0.236 COMP3121) (0.186 COMP3118)
+Transcription factor STAT3 inhibitor	0.196	COMP3121	
+Tubulin antagonist	0.211	COMP3118	(0.201 COMP3122) (0.185 COMP3121) (0.136 COMP3120)
+Tumour necrosis factor alpha release inhibitor	0.308	COMP3123	(0.289 COMP3120) (0.248 COMP3121) (0.160 COMP3119)
+Tyrosine 3 hydroxylase inhibitor	0.218	COMP3121	
+Urease inhibitor	0.122	COMP3121	(0.101 COMP3118)
+Uric acid excretion stimulant	0.121	COMP3121	(0.092 COMP3118) (0.090 COMP3119)
+Vanilloid 1 agonist	0.136	COMP3120	(0.117 COMP3121)
+Vanilloid 2 antagonist	0.053	COMP3121	(0.051 COMP3120)
+Vanilloid agonist	0.291	COMP3123	(0.090 COMP3120)
+Vasodilator	0.584	COMP3119	(0.519 COMP3118) (0.486 COMP3121) (0.362 COMP3120) (0.304 COMP3123) (0.253 COMP3122)
+Vasodilator. coronary	0.312	COMP3118	(0.303 COMP3121) (0.280 COMP3119)
+Xanthine dehydrogenase inhibitor	0.121	COMP3121	(0.069 COMP3118) (0.065 COMP3120)
+Xanthine oxidase inhibitor	0.444	COMP3121	(0.274 COMP3118) (0.257 COMP3119) (0.215 COMP3120) (0.181 COMP3122)

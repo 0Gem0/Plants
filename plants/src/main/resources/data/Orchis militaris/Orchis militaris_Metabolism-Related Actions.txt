@@ -1,0 +1,33 @@
+Name	Activation_Prob	Compound	Another_Probs
+Alcohol dehydrogenase substrate	0.233	COMP3169	
+Aldehyde dehydrogenase substrate	0.140	COMP3169	
+CYP1A2 inhibitor	0.417	COMP3169	
+CYP1A2 substrate	0.248	COMP3169	
+CYP2B6 inhibitor	0.325	COMP3169	
+CYP2C19 inhibitor	0.451	COMP3169	
+CYP2C19 substrate	0.360	COMP3169	
+CYP2C9 inhibitor	0.289	COMP3169	
+CYP2C9 substrate	0.382	COMP3169	
+CYP2D6 substrate	0.321	COMP3169	
+CYP3A4 inhibitor	0.263	COMP3169	
+CYP3A4 substrate	0.236	COMP3169	
+FMO1 substrate	0.391	COMP3169	
+FMO3 substrate	0.189	COMP3169	
+GST A substrate	0.747	COMP3169	
+GST M1-1 substrate	0.305	COMP3169	
+GST P1-1 substrate	0.410	COMP3169	
+GST T1-1 substrate	0.113	COMP3169	
+Glutathione S-transferase substrate	0.139	COMP3169	
+SULT1A3 substrate	0.143	COMP3169	
+Sulfotransferase substrate	0.145	COMP3169	
+UDP-glucuronosyltransferase substrate	0.210	COMP3169	
+UGT1A1 substrate	0.304	COMP3169	
+UGT1A3 substrate	0.216	COMP3169	
+UGT1A6 substrate	0.215	COMP3169	
+UGT1A9 substrate	0.339	COMP3169	
+UGT2B10 substrate	0.165	COMP3169	
+UGT2B11 substrate	0.106	COMP3169	
+UGT2B15 substrate	0.122	COMP3169	
+UGT2B4 substrate	0.306	COMP3169	
+UGT2B7 substrate	0.255	COMP3169	
+UGT2B9 substrate	0.199	COMP3169	

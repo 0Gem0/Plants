@@ -1,0 +1,103 @@
+0,989  0,001  Carcinogenic, group 3
+0,956  0,003  Carcinogenic
+0,935  0,003  Mutagenic
+0,916  0,003  UDP-glucuronosyltransferase substrate
+0,797  0,003  Genotoxic
+0,724  0,015  Antineoplastic (lung cancer)
+0,671  0,021  CYP3A4 substrate
+0,612  0,022  Antineoplastic (colorectal cancer)
+0,619  0,045  Apoptosis agonist
+0,564  0,004  Pneumotoxic
+0,556  0,026  Antineoplastic (colon cancer)
+0,545  0,045  Antineoplastic (breast cancer)
+0,488  0,010  Antineoplastic (liver cancer)
+0,505  0,048  Analgesic
+0,469  0,013  Sigma receptor agonist
+0,487  0,042  Antileukemic
+0,469  0,029  Cytotoxic
+0,390  0,005  Topoisomerase I inhibitor
+0,469  0,101  Antiinflammatory
+0,387  0,020  Flavin-containing monooxygenase substrate
+0,420  0,056  Antineoplastic (myeloid leukemia)
+0,417  0,057  Immunosuppressant
+0,420  0,068  Antibacterial
+0,378  0,057  Prostate cancer treatment
+0,365  0,049  Apoptosis antagonist
+0,339  0,039  Antineoplastic (endocrine cancer)
+0,348  0,058  Antineoplastic (ovarian cancer)
+0,286  0,003  Antineoplastic alkaloid
+0,388  0,113  Antineoplastic (solid tumors)
+0,329  0,062  NOS3 expression inhibitor
+0,309  0,077  AR expression inhibitor
+0,304  0,075  Antineoplastic (small cell lung cancer)
+0,309  0,084  ICAM1 expression inhibitor
+0,281  0,061  Antineoplastic (renal cancer)
+0,305  0,091  Transcription factor NF kappa B inhibitor
+0,225  0,024  Bipolar disorder treatment
+0,227  0,033  Protein kinase stimulant
+0,274  0,082  Antineoplastic (multiple myeloma)
+0,226  0,036  Antineoplastic (squamous cell carcinoma)
+0,238  0,051  Antiviral (Influenza)
+0,204  0,020  Antineoplastic antibiotic
+0,232  0,057  Nitric oxide antagonist
+0,200  0,026  DNA intercalator
+0,234  0,063  Peptidyltransferase inhibitor
+0,208  0,052  Lipocortins synthesis antagonist
+0,234  0,078  DNA synthesis inhibitor
+0,166  0,017  Antibiotic
+0,213  0,065  Neurotrophic factor enhancer
+0,230  0,087  Antineoplastic (sarcoma)
+0,237  0,097  Spasmolytic
+0,236  0,101  Antineoplastic (melanoma)
+0,141  0,007  Protein 50S ribosomal subunit inhibitor
+0,159  0,025  Ca2+-transporting ATPase inhibitor
+0,152  0,040  Growth stimulant
+0,156  0,047  Topoisomerase II inhibitor
+0,193  0,089  Antineoplastic (glioblastoma multiforme)
+0,172  0,071  Toxic, respiratory center
+0,196  0,102  Antineoplastic (glioma)
+0,141  0,049  Acetylcholine muscarinic antagonist
+0,219  0,127  Antidepressant
+0,277  0,189  Alzheimer's disease treatment
+0,223  0,136  Mood disorders treatment
+0,195  0,111  Cardiovascular analeptic
+0,203  0,121  Proliferative diseases treatment
+0,167  0,091  Antirickettsial
+0,186  0,111  Antineoplastic (cervical cancer)
+0,202  0,126  Antineoplastic (pancreatic cancer)
+0,165  0,095  Hepatoprotectant
+0,104  0,036  Antiviral (Trachoma)
+0,175  0,108  Teratogen
+0,103  0,036  ATPase (Vacuolar H+) inhibitor
+0,118  0,052  Expectorant
+0,079  0,014  Lipocortins synthesis agonist
+0,090  0,025  Antitreponemal
+0,188  0,125  Antioxidant
+0,167  0,106  Antimitotic
+0,119  0,061  Microtubule formation inhibitor
+0,126  0,068  Cholinergic antagonist
+0,225  0,172  CYP2C9 substrate
+0,121  0,069  Acetylcholine antagonist
+0,092  0,043  Antiprotozoal activity enhancer
+0,131  0,085  Antineoplastic (carcinoma)
+0,167  0,129  NOS2 expression inhibitor
+0,134  0,095  Acute respiratory distress syndrome (ARDS) treatment
+0,081  0,046  Analgesic, opioid
+0,146  0,110  Platelet adhesion inhibitor
+0,152  0,118  Embryotoxic
+0,151  0,118  UGT1A1 substrate
+0,076  0,054  Na+ K+ transporting ATPase inhibitor
+0,062  0,042  Antimycoplasmal
+0,156  0,138  Antineoplastic (lymphoma)
+0,037  0,019  Tubulin agonist
+0,069  0,052  Prokinetic
+0,160  0,144  Cytostatic
+0,112  0,102  Antihemorrhagic
+0,016  0,009  Antibiotic Macrolide-like
+0,154  0,148  Antineoplastic (non-small cell lung cancer)
+0,021  0,016  Corticosteroid-like
+0,043  0,038  Microtubule stabilization
+0,109  0,106  Antifungal enhancer
+0,086  0,083  Antithrombocytopenic
+0,095  0,094  Alkylator
+

@@ -1,0 +1,10 @@
+Ilicic Acid
+2-[(2R,4aR,8R,8aR)-8-hydroxy-4a,8-dimethyl-1,2,3,4,5,6,7,8a-octahydronaphthalen-2-yl]prop-2-enoic acid
+CHEMBL408129
+11876195
+None
+C15H24O3
+252.17
+InChI=1S/C15H24O3/c1-10(13(16)17)11-5-8-14(2)6-4-7-15(3,18)12(14)9-11/h11-12,18H,1,4-9H2,2-3H3,(H,16,17)/t11-,12-,14-,15-/m1/s1
+FXKCXGBBUBCRPU-QHSBEEBCSA-N
+C=C([C@@H]1CC[C@@]2([C@@H](C1)[C@](C)(O)CCC2)C)C(=O)O

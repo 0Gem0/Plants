@@ -1,0 +1,39 @@
+0,826  0,001  Alpha-mannosidase inhibitor
+0,633  0,002  Triose-phosphate isomerase inhibitor
+0,564  0,001  UDP-glucose 4-epimerase inhibitor
+0,543  0,002  Phosphofructokinase-1 inhibitor
+0,447  0,005  Topoisomerase I inhibitor
+0,429  0,004  Hexokinase inhibitor
+0,366  0,003  Phosphorylase inhibitor
+0,323  0,001  Glucose-6-phosphate isomerase inhibitor
+0,305  0,005  ATPase inhibitor
+0,261  0,018  Adenylate cyclase inhibitor
+0,249  0,010  Adenylate kinase inhibitor
+0,243  0,010  Topoisomerase II alpha inhibitor
+0,240  0,027  Phospholipase C inhibitor
+0,190  0,004  Ca2+-transporting ATPase inhibitor
+0,172  0,003  Na+ K+ transporting ATPase inhibitor
+0,171  0,005  GABA aminotransferase inhibitor
+0,174  0,015  Heat shock protein 70 antagonist
+0,182  0,029  Cystathionine beta-synthase inhibitor
+0,178  0,043  Alkaline phosphatase inhibitor
+0,131  0,005  Phosphoglycerate kinase inhibitor
+0,130  0,020  Glutamate dehydrogenase inhibitor
+0,133  0,027  Alcohol dehydrogenase inhibitor
+0,116  0,013  Acyl-CoA dehydrogenase inhibitor
+0,114  0,016  Argininosuccinate synthase inhibitor
+0,097  0,006  Adenosine deaminase inhibitor
+0,165  0,087  Succinate dehydrogenase inhibitor
+0,076  0,002  GRP78 expression inhibitor
+0,079  0,007  Fumarate hydratase inhibitor
+0,075  0,007  Arginase inhibitor
+0,067  0,006  Hypoxanthine phosphoribosyltransferase inhibitor
+0,072  0,025  Ornithine carbamoyltransferase inhibitor
+0,049  0,006  Adenosine A1 receptor agonist
+0,078  0,036  Carbonic anhydrase inhibitor
+0,062  0,034  Carbonic anhydrase II inhibitor
+0,055  0,039  Carbonic anhydrase I inhibitor
+0,055  0,048  Androgen agonist
+0,016  0,009  S-adenosyl-L-homocysteine hydrolase inhibitor
+0,032  0,029  HMG CoA reductase inhibitor
+

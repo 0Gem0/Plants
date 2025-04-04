@@ -1,0 +1,42 @@
+Name	Activation_Prob	Compound	Another_Probs
+Actinic keratosis treatment	0.081	COMP1707	
+Anabolic	0.127	COMP1707	
+Anesthetic inhalation	0.050	COMP1708	(0.048 COMP1707)
+Antiacne	0.160	COMP1707	
+Antibacterial	0.704	COMP1707	(0.528 COMP1708)
+Antibiotic Carbacephem-like	0.011	COMP1707	
+Antiemphysemic	0.402	COMP1708	
+Antifungal	0.329	COMP1708	
+Antifungal enhancer	0.110	COMP1707	
+Antiglaucomic	0.588	COMP1708	
+Antihypoxic	0.254	COMP1707	
+Antiinflammatory	0.399	COMP1708	(0.357 COMP1707)
+Antileukemic	0.710	COMP1708	(0.471 COMP1707)
+Antineoplastic (breast cancer)	0.843	COMP1707	(0.335 COMP1708)
+Antineoplastic (cervical cancer)	0.979	COMP1707	(0.512 COMP1708)
+Antineoplastic (glioblastoma multiforme)	0.190	COMP1707	
+Antineoplastic (glioma)	0.211	COMP1707	(0.143 COMP1708)
+Antineoplastic (liver cancer)	0.283	COMP1707	(0.250 COMP1708)
+Antineoplastic (lymphoma)	0.212	COMP1708	
+Antineoplastic antibiotic	0.106	COMP1708	(0.080 COMP1707)
+Antiosteoporotic	0.460	COMP1707	
+Antipruritic. allergic	0.278	COMP1707	
+Antipruritic. non-allergic	0.203	COMP1707	(0.134 COMP1708)
+Antipsoriatic	0.645	COMP1707	
+Antiviral (HIV)	0.274	COMP1708	
+Apoptosis agonist	0.459	COMP1708	(0.313 COMP1707)
+Bone diseases treatment	0.561	COMP1707	
+Chemopreventive	0.115	COMP1707	
+Contraceptive	0.474	COMP1708	(0.276 COMP1707)
+Contraceptive male	0.084	COMP1707	
+Cytostatic	0.364	COMP1708	(0.302 COMP1707)
+DNA synthesis inhibitor	0.186	COMP1707	
+Gout treatment	0.442	COMP1707	(0.312 COMP1708)
+Hepatic disorders treatment	0.637	COMP1707	(0.332 COMP1708)
+Hepatoprotectant	0.359	COMP1707	(0.329 COMP1708)
+Hypercalcemia treatment	0.233	COMP1707	(0.065 COMP1708)
+Immunosuppressant	0.444	COMP1707	(0.230 COMP1708)
+Liver fibrosis treatment	0.696	COMP1707	(0.212 COMP1708)
+Proliferative diseases treatment	0.171	COMP1707	
+Renal disease treatment	0.567	COMP1707	(0.464 COMP1708)
+Renal failure treatment	0.729	COMP1707	(0.683 COMP1708)

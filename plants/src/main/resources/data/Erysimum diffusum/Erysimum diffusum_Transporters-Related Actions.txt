@@ -1,0 +1,8 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.312	COMP1006	(0.287 COMP1007) (0.267 COMP1010/COMP1012) (0.247 COMP1013) (0.244 COMP1009) (0.238 COMP1008) (0.218 COMP1011)
+Adenosine uptake inhibitor	0.045	COMP1012	(0.042 COMP1009) (0.035 COMP1010)
+Excitatory amino acid transporter EAAC1 inhibitor	0.241	COMP1013	(0.207 COMP1006) (0.179 COMP1012) (0.140 COMP1010) (0.123 COMP1009) (0.107 COMP1008) (0.102 COMP1007)
+Multidrug resistance-associated protein 1 inhibitor	0.200	COMP1011	(0.192 COMP1010) (0.175 COMP1009) (0.134 COMP1012) (0.133 COMP1007) (0.131 COMP1013)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.042	COMP1006	(0.030 COMP1013)
+Sodium/bile acid cotransporter inhibitor	0.241	COMP1011	
+Vesicular glutamate transport inhibitor	0.026	COMP1013	(0.025 COMP1009) (0.023 COMP1010/COMP1012) (0.020 COMP1006) (0.018 COMP1008)

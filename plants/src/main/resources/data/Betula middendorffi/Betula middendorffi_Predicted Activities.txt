@@ -1,0 +1,224 @@
+Name	Activation_Prob	Compound	Another_Probs
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.040	COMP3177	
+5 Hydroxytryptamine release inhibitor	0.503	COMP3177	
+AR expression inhibitor	0.227	COMP3177	
+Abortion inducer	0.144	COMP3177	
+Aconitate hydratase inhibitor	0.049	COMP3177	
+Adenine nucleotide translocase inhibitor	0.054	COMP3177	
+Adenylate kinase inhibitor	0.104	COMP3177	
+Alcohol dehydrogenase inhibitor	0.134	COMP3177	
+Alcohol oxidase inhibitor	0.097	COMP3177	
+Aldehyde oxidase inhibitor	0.471	COMP3177	
+Alpha 2d adrenoreceptor antagonist	0.086	COMP3177	
+Alpha-N-acetylglucosaminidase inhibitor	0.115	COMP3177	
+Alzheimer's disease treatment	0.339	COMP3177	
+Amylase inhibitor	0.175	COMP3177	
+Angiotensin AT1 receptor antagonist	0.059	COMP3177	
+Angiotensin AT1A receptor antagonist	0.024	COMP3177	
+Angiotensin AT1B receptor antagonist	0.014	COMP3177	
+Angiotensin II receptor antagonist	0.052	COMP3177	
+Antiamyloidogenic	0.230	COMP3177	
+Antianemic	0.186	COMP3177	
+Antianginal	0.181	COMP3177	
+Antidiabetic (type 1)	0.134	COMP3177	
+Antidiabetic symptomatic	0.182	COMP3177	
+Antidiarrheal	0.216	COMP3177	
+Antifibrinolytic	0.327	COMP3177	
+Antifungal	0.336	COMP3177	
+Antifungal (Aspergillus)	0.108	COMP3177	
+Antifungal (Pneumocystis)	0.145	COMP3177	
+Antiglaucomic	0.324	COMP3177	
+Antihypercholesterolemic	0.150	COMP3177	
+Antihypertensive	0.358	COMP3177	
+Antihypotensive	0.215	COMP3177	
+Antihypoxic	0.341	COMP3177	
+Antiinflammatory	0.277	COMP3177	
+Antiischemic	0.350	COMP3177	
+Antimutagenic	0.123	COMP3177	
+Antineoplastic (ovarian cancer)	0.191	COMP3177	
+Antiparkinsonian	0.458	COMP3177	
+Antipruritic. allergic	0.224	COMP3177	
+Antipsoriatic	0.191	COMP3177	
+Antirickettsial	0.149	COMP3177	
+Antithrombocytopenic	0.095	COMP3177	
+Antitussive	0.130	COMP3177	
+Antiviral (Dengue virus)	0.078	COMP3177	
+Antiviral (HIV)	0.180	COMP3177	
+Antiviral (Hepatitis D)	0.049	COMP3177	
+Antiviral (Influenza B)	0.169	COMP3177	
+Antiviral (Influenza)	0.190	COMP3177	
+Anxiolytic	0.218	COMP3177	
+Atherosclerosis treatment	0.590	COMP3177	
+Autoimmune disorders treatment	0.282	COMP3177	
+Biliverdin reductase inhibitor	0.065	COMP3177	
+CC chemokine 6 receptor antagonist	0.159	COMP3177	
+CF transmembrane conductance regulator antagonist	0.038	COMP3177	
+CYP2C9 inhibitor	0.252	COMP3177	
+CYP2C9 substrate	0.281	COMP3177	
+Ca2+-transporting ATPase inhibitor	0.141	COMP3177	
+Ca2+/calmodulin-dependent protein kinase kinase A inhibitor	0.279	COMP3177	
+Calcium channel L-type activator	0.429	COMP3177	
+Carbonic anhydrase III inhibitor	0.089	COMP3177	
+Cardiotonic	0.164	COMP3177	
+Catenin beta inhibitor	0.146	COMP3177	
+Cell wall synthesis inhibitor	0.202	COMP3177	
+Cholesterol antagonist	0.294	COMP3177	
+Cognition disorders treatment	0.283	COMP3177	
+Creatine kinase inhibitor	0.188	COMP3177	
+Cyclic AMP phosphodiesterase inhibitor	0.242	COMP3177	
+Cyclin B3 inhibitor	0.061	COMP3177	
+Cystathionine beta-synthase inhibitor	0.244	COMP3177	
+DNA synthesis inhibitor	0.205	COMP3177	
+DOPA decarboxylase inhibitor	0.117	COMP3177	
+Diabetic nephropathy treatment	0.206	COMP3177	
+Dihydroorotase inhibitor	0.050	COMP3177	
+Dihydroorotate dehydrogenase inhibitor	0.125	COMP3177	
+Diuretic	0.145	COMP3177	
+Dopamine beta hydroxylase inhibitor	0.046	COMP3177	
+Dysmenorrhea treatment	0.129	COMP3177	
+Egl nine homolog 1 inhibitor	0.014	COMP3177	
+Egl nine homolog 2 inhibitor	0.028	COMP3177	
+Egl nine homolog 3 inhibitor	0.011	COMP3177	
+Electrolyte absorption antagonist	0.098	COMP3177	
+Erectile dysfunction treatment	0.203	COMP3177	
+FMO1 substrate	0.215	COMP3177	
+FMO3 substrate	0.232	COMP3177	
+Factor IX inhibitor	0.019	COMP3177	
+Factor IXa inhibitor	0.105	COMP3177	
+Factor XI inhibitor	0.033	COMP3177	
+Factor XIa inhibitor	0.037	COMP3177	
+Female sexual dysfunction treatment	0.088	COMP3177	
+Ferrochelatase inhibitor	0.108	COMP3177	
+Fibrosis treatment	0.202	COMP3177	
+GABA C receptor agonist	0.166	COMP3177	
+GABA C receptor rho-1 antagonist	0.107	COMP3177	
+GABA C receptor rho-2 antagonist	0.147	COMP3177	
+GABA C receptor rho-3 antagonist	0.423	COMP3177	
+GABA aminotransferase inhibitor	0.076	COMP3177	
+GABA receptor agonist	0.099	COMP3177	
+Genotoxic	0.119	COMP3177	
+Glutamate decarboxylase inhibitor	0.087	COMP3177	
+Glutamate dehydrogenase inhibitor	0.070	COMP3177	
+Glutamate receptor antagonist	0.116	COMP3177	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.197	COMP3177	
+Gout treatment	0.243	COMP3177	
+Guanylate cyclase stimulant	0.167	COMP3177	
+HIV-1 integrase inhibitor	0.126	COMP3177	
+Heart failure treatment	0.518	COMP3177	
+Heat shock protein 70 antagonist	0.130	COMP3177	
+Heat shock protein 90 alpha antagonist	0.137	COMP3177	
+Heat shock protein 90 antagonist	0.193	COMP3177	
+Heat shock protein 90 beta antagonist	0.105	COMP3177	
+Hemostatic	0.311	COMP3177	
+Hepatic disorders treatment	0.288	COMP3177	
+Histamine release inhibitor	0.439	COMP3177	
+Histidine decarboxylase inhibitor	0.082	COMP3177	
+Huntington's disease treatment	0.705	COMP3177	
+ICAM1 expression inhibitor	0.326	COMP3177	
+Inflammatory Bowel disease treatment	0.409	COMP3177	
+Insulin sensitizer	0.189	COMP3177	
+Insulysin inhibitor	0.240	COMP3177	
+Interferon gamma antagonist	0.155	COMP3177	
+Lanosterol 14 alpha demethylase inhibitor	0.097	COMP3177	
+Leukotriene C antagonist	0.058	COMP3177	
+Leukotriene C4 antagonist	0.036	COMP3177	
+Leukotriene antagonist	0.060	COMP3177	
+Lipase inhibitor	0.068	COMP3177	
+Liver cirrhosis treatment	0.112	COMP3177	
+M18 aspartyl aminopeptidase inhibitor	0.210	COMP3177	
+MAP kinase kinase 7 inhibitor	0.092	COMP3177	
+MAP-kinase-activated kinase 5 inhibitor	0.286	COMP3177	
+MDM2 inhibitor	0.075	COMP3177	
+Macrophage migration inhibitory factor inhibitor	0.077	COMP3177	
+Male reproductive disfunction treatment	0.270	COMP3177	
+Menstruation disorders treatment	0.101	COMP3177	
+Metabolic disease treatment	0.192	COMP3177	
+Multiple sclerosis treatment	0.468	COMP3177	
+Myc inhibitor	0.073	COMP3177	
+Myeloperoxidase inhibitor	0.105	COMP3177	
+Myocardial ischemia treatment	0.174	COMP3177	
+NADH dehydrogenase inhibitor	0.113	COMP3177	
+NAT2 substrate	0.131	COMP3177	
+NMDA receptor antagonist	0.084	COMP3177	
+NMDA receptor subunit 3A antagonist	0.036	COMP3177	
+Neuraminidase (influenza) inhibitor	0.063	COMP3177	
+Nicotinic acid receptor 1 agonist	0.051	COMP3177	
+Nicotinic acid receptor 1 antagonist	0.028	COMP3177	
+Nicotinic acid receptor 2 agonist	0.046	COMP3177	
+Nicotinic acid receptor agonist	0.086	COMP3177	
+Nootropic	0.312	COMP3177	
+Peroxidase inhibitor	0.158	COMP3177	
+Phenylalanine 4-hydroxylase inhibitor	0.061	COMP3177	
+Phosphodiesterase 10A inhibitor	0.204	COMP3177	
+Phosphodiesterase 1A inhibitor	0.064	COMP3177	
+Phosphodiesterase 1B inhibitor	0.121	COMP3177	
+Phosphodiesterase 1C inhibitor	0.081	COMP3177	
+Phosphodiesterase 2A inhibitor	0.262	COMP3177	
+Phosphodiesterase 5A inhibitor	0.146	COMP3177	
+Phosphodiesterase 6B inhibitor	0.027	COMP3177	
+Phosphodiesterase 6C inhibitor	0.052	COMP3177	
+Phosphodiesterase 7B inhibitor	0.104	COMP3177	
+Phosphodiesterase I inhibitor	0.179	COMP3177	
+Phosphodiesterase II inhibitor	0.274	COMP3177	
+Phosphodiesterase IV inhibitor	0.079	COMP3177	
+Phosphodiesterase V inhibitor	0.138	COMP3177	
+Phosphodiesterase X inhibitor	0.204	COMP3177	
+Phosphodiesterase inhibitor	0.591	COMP3177	
+Phosphofructokinase-1 inhibitor	0.059	COMP3177	
+Phospholipase C inhibitor	0.160	COMP3177	
+Plasminogen activator inhibitor	0.063	COMP3177	
+Plasminogen activator inhibitor antagonist	0.091	COMP3177	
+Pneumotoxic	0.171	COMP3177	
+Porphobilinogen synthase inhibitor	0.125	COMP3177	
+Potassium channel (Ca-activated) activator	0.097	COMP3177	
+Proliferative diseases treatment	0.172	COMP3177	
+Protein kinase (CK2) alpha inhibitor	0.103	COMP3177	
+Protein kinase (CK2) inhibitor	0.091	COMP3177	
+Protein kinase stimulant	0.129	COMP3177	
+Protein-tyrosine phosphatase inhibitor	0.120	COMP3177	
+Protocollagen prolyl hydroxylase inhibitor	0.034	COMP3177	
+Psychosexual dysfunction treatment	0.405	COMP3177	
+Pulmonary hypertension treatment	0.286	COMP3177	
+Purinergic P2X1 antagonist	0.112	COMP3177	
+Purinergic P2X2 antagonist	0.098	COMP3177	
+Pyruvate kinase inhibitor	0.138	COMP3177	
+RNA-directed RNA polymerase inhibitor	0.031	COMP3177	
+Raynaud's phenomenon treatment	0.160	COMP3177	
+Renal disease treatment	0.657	COMP3177	
+Renal failure treatment	0.433	COMP3177	
+SULT1A2 substrate	0.088	COMP3177	
+SULT1A3 substrate	0.122	COMP3177	
+Sodium/bile acid cotransporter inhibitor	0.263	COMP3177	
+Stroke treatment	0.240	COMP3177	
+Succinate dehydrogenase inhibitor	0.164	COMP3177	
+Superoxide dismutase inhibitor	0.180	COMP3177	
+TRPA1 agonist	0.098	COMP3177	
+Thrombolytic	0.132	COMP3177	
+Thromboxane synthase inhibitor	0.052	COMP3177	
+Topoisomerase II beta inhibitor	0.047	COMP3177	
+Toxic. respiratory center	0.156	COMP3177	
+Triose-phosphate isomerase inhibitor	0.096	COMP3177	
+Tyrosine 3 hydroxylase inhibitor	0.209	COMP3177	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.087	COMP3177	
+UDP-glucose 4-epimerase inhibitor	0.084	COMP3177	
+UDP-glucuronosyltransferase substrate	0.187	COMP3177	
+UGT1A1 substrate	0.237	COMP3177	
+UGT1A4 substrate	0.175	COMP3177	
+UGT1A6 substrate	0.300	COMP3177	
+UGT1A9 substrate	0.304	COMP3177	
+UGT2B1 substrate	0.091	COMP3177	
+UGT2B15 substrate	0.166	COMP3177	
+UGT2B4 substrate	0.189	COMP3177	
+Ulceration	0.377	COMP3177	
+Urate transporter 1 inhibitor	0.047	COMP3177	
+Uric acid excretion stimulant	0.201	COMP3177	
+Urinary incontinence treatment	0.116	COMP3177	
+Urolithiasis treatment	0.375	COMP3177	
+Urologic disorders treatment	0.403	COMP3177	
+Vascular (periferal) disease treatment	0.463	COMP3177	
+Vasodilator. coronary	0.237	COMP3177	
+Vesicular glutamate transport inhibitor	0.016	COMP3177	
+Viral attachment inhibitor	0.081	COMP3177	
+Wound healing agent	0.165	COMP3177	
+Xanthine dehydrogenase inhibitor	0.088	COMP3177	
+Xanthine oxidase inhibitor	0.218	COMP3177	

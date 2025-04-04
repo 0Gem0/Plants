@@ -1,0 +1,24 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake inhibitor	0.148	COMP2476	(0.103 COMP2479) (0.079 COMP2470/COMP2471/COMP2472/COMP2477) (0.066 COMP2478)
+5 Hydroxytryptamine uptake stimulant	0.403	COMP2470/COMP2471/COMP2472/COMP2477	(0.359 COMP2479/COMP2480) (0.358 COMP2474) (0.356 COMP2478) (0.321 COMP2476) (0.302 COMP2475) (0.300 COMP2473)
+Adrenaline uptake inhibitor	0.103	COMP2478	(0.101 COMP2470/COMP2471/COMP2472/COMP2477) (0.098 COMP2476) (0.086 COMP2474) (0.071 COMP2479)
+Dopamine transporter inhibitor	0.161	COMP2476	(0.110 COMP2479) (0.103 COMP2478) (0.087 COMP2470/COMP2471/COMP2472/COMP2477) (0.055 COMP2474)
+Dopamine uptake inhibitor	0.060	COMP2476	
+Electron transport complex I inhibitor	0.108	COMP2474	
+Endocannabinoid uptake inhibitor	0.128	COMP2473	
+Excitatory amino acid transporter EAAC1 inhibitor	0.138	COMP2473	
+GABA transporter 3 inhibitor	0.040	COMP2473	
+GABA transporter inhibitor	0.023	COMP2473	
+GABA uptake inhibitor	0.041	COMP2473	
+Glycine transporter 2 inhibitor	0.058	COMP2473	
+Multidrug resistance-associated protein 1 inhibitor	0.207	COMP2470/COMP2471/COMP2472/COMP2477	(0.129 COMP2478) (0.118 COMP2473)
+Nucleoside transporters inhibitor	0.033	COMP2474	
+P-glycoprotein inhibitor	0.666	COMP2476	(0.663 COMP2479) (0.602 COMP2470/COMP2471/COMP2472/COMP2477) (0.558 COMP2478) (0.376 COMP2473) (0.200 COMP2474) (0.165 COMP2475)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.063	COMP2473	
+Sodium/bile acid cotransporter inhibitor	0.417	COMP2478	(0.375 COMP2470/COMP2471/COMP2472/COMP2477) (0.368 COMP2475) (0.354 COMP2480) (0.317 COMP2474) (0.299 COMP2473) (0.268 COMP2476) (0.212 COMP2479)
+Sodium/glucose cotransporter 1 inhibitor	0.024	COMP2474	
+Sodium/glucose cotransporter 2 inhibitor	0.028	COMP2474	
+Sodium/glucose cotransporter inhibitor	0.027	COMP2474	
+Sodium/hydrogen exchanger 5 inhibitor	0.106	COMP2479	(0.104 COMP2476)
+Vesicular acetylcholine transporter inhibitor	0.041	COMP2476	(0.035 COMP2479) (0.031 COMP2478)
+Vesicular glutamate transport inhibitor	0.018	COMP2473	

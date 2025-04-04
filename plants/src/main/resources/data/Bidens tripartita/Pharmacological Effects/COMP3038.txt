@@ -1,0 +1,148 @@
+0,841  0,006  Antineoplastic (breast cancer)
+0,815  0,007  Antineoplastic (lung cancer)
+0,811  0,006  Antineoplastic (colorectal cancer)
+0,810  0,006  Antineoplastic (colon cancer)
+0,802  0,004  Antimitotic
+0,800  0,004  Antineoplastic (glioma)
+0,805  0,016  Apoptosis agonist
+0,780  0,004  Antineoplastic (brain cancer)
+0,773  0,007  Antileukemic
+0,754  0,005  Cardiovascular analeptic
+0,753  0,022  Antiinflammatory
+0,727  0,005  Cardioprotectant
+0,720  0,008  Prostate cancer treatment
+0,692  0,012  Alzheimer's disease treatment
+0,660  0,008  Antioxidant
+0,658  0,009  Antineoplastic (cervical cancer)
+0,639  0,013  Antineoplastic (ovarian cancer)
+0,612  0,004  Diabetic nephropathy treatment
+0,575  0,007  Antineoplastic (glioblastoma multiforme)
+0,576  0,019  Antihypercholesterolemic
+0,573  0,023  Antiparkinsonian
+0,554  0,008  Vasodilator
+0,557  0,013  Antineoplastic (non-small cell lung cancer)
+0,551  0,018  Antineoplastic (melanoma)
+0,531  0,014  Antiprotozoal (Leishmania)
+0,531  0,017  Chemopreventive
+0,524  0,019  Antineoplastic (pancreatic cancer)
+0,515  0,010  Antidiabetic symptomatic
+0,484  0,023  Apoptosis antagonist
+0,459  0,008  Antineoplastic (squamous cell carcinoma)
+0,474  0,026  Hepatic disorders treatment
+0,471  0,034  Vasodilator, peripheral
+0,492  0,058  Antineoplastic (solid tumors)
+0,473  0,041  Antipruritic, allergic
+0,434  0,011  Hepatoprotectant
+0,444  0,021  Antipyretic
+0,431  0,013  Antineoplastic (sarcoma)
+0,433  0,017  Antineoplastic (renal cancer)
+0,433  0,024  Antiamyloidogenic
+0,435  0,028  Cytostatic
+0,418  0,012  Antineoplastic (carcinoma)
+0,420  0,029  Vasodilator, coronary
+0,449  0,067  Antidiabetic
+0,420  0,045  Antiallergic
+0,377  0,008  Antidiarrheal
+0,388  0,031  Proliferative diseases treatment
+0,368  0,023  Platelet aggregation inhibitor
+0,366  0,028  Antineoplastic (small cell lung cancer)
+0,365  0,034  Antineoplastic (lymphoma)
+0,351  0,020  Antimutagenic
+0,356  0,028  Antineoplastic (lymphocytic leukemia)
+0,383  0,056  Mood disorders treatment
+0,368  0,049  Antiischemic
+0,323  0,010  Antineoplastic (bone cancer)
+0,363  0,056  Antidepressant
+0,321  0,038  Psychostimulant
+0,326  0,051  Antineoplastic (multiple myeloma)
+0,318  0,044  Antineoplastic (liver cancer)
+0,284  0,016  Bipolar disorder treatment
+0,317  0,065  Analeptic
+0,277  0,027  Antipruritic, non-allergic
+0,280  0,038  Antihypotensive
+0,309  0,072  Respiratory analeptic
+0,250  0,026  Skin whitener
+0,252  0,034  Prostatic (benign) hyperplasia treatment
+0,274  0,061  Vascular (periferal) disease treatment
+0,243  0,031  Antineoplastic (gastric cancer)
+0,317  0,105  Immunosuppressant
+0,317  0,112  Antiprotozoal
+0,239  0,035  Acaricide
+0,206  0,009  Antineoplastic (uterine cancer)
+0,267  0,072  Radiosensitizer
+0,286  0,095  Antihypertensive
+0,224  0,034  Skeletal muscle relaxant
+0,242  0,054  Anesthetic general
+0,312  0,127  Antibacterial
+0,233  0,051  Antihelmintic
+0,205  0,023  Antitussive
+0,274  0,092  Antineoplastic (osteosarcoma)
+0,257  0,078  Chemoprotective
+0,242  0,064  Antiparasitic
+0,191  0,015  Mucolytic
+0,260  0,085  Antiosteoporotic
+0,191  0,022  Expectorant
+0,208  0,040  Antiparkinsonian, tremor relieving
+0,199  0,032  Antifungal enhancer
+0,254  0,089  Spasmolytic
+0,207  0,053  Muscle relaxant
+0,244  0,093  Antineurogenic pain
+0,231  0,085  Tumour necrosis factor alpha release inhibitor
+0,218  0,072  Antihypertriglyceridemic
+0,159  0,014  Antifungal (Pneumocystis)
+0,235  0,102  Antidiabetic (type 2)
+0,166  0,035  Antihemorrhagic
+0,186  0,057  Antirickettsial
+0,246  0,116  Bone diseases treatment
+0,260  0,135  Stroke treatment
+0,175  0,050  CNS active muscle relaxant
+0,154  0,034  Gastritis treatment
+0,170  0,063  Antianorexic
+0,150  0,045  Cholesterol synthesis inhibitor
+0,171  0,067  Antihelmintic (Nematodes)
+0,127  0,026  Paget's disease treatment
+0,130  0,034  Acetylcholine release stimulant
+0,195  0,098  Hypolipemic
+0,138  0,045  Contraceptive female
+0,140  0,049  Coagulant
+0,168  0,078  Phobic disorders treatment
+0,228  0,140  Angiogenesis inhibitor
+0,172  0,085  Antiviral (Hepatitis)
+0,103  0,017  Postmenopausal disorders treatment
+0,159  0,074  Uterine stimulant
+0,110  0,025  Keratolytic
+0,202  0,119  Antiprotozoal (Trypanosoma)
+0,202  0,121  Lipoprotein disorders treatment
+0,212  0,134  Antihypoxic
+0,116  0,040  Antineoplastic antibiotic
+0,118  0,046  Bronchodilator
+0,102  0,032  Antiviral (Hepatitis A)
+0,119  0,050  HDL-cholesterol increasing
+0,152  0,086  Prostate disorders treatment
+0,076  0,012  Anesthetic inhalation
+0,078  0,014  Postcoital contraceptive
+0,104  0,043  Actinic keratosis treatment
+0,169  0,108  Insulin sensitizer
+0,121  0,062  Constipation treatment
+0,124  0,066  Antiviral (Hepatitis B)
+0,170  0,114  Antiparkinsonian, rigidity relieving
+0,100  0,045  Antidote, mercury
+0,126  0,072  Allergic rhinitis treatment
+0,214  0,161  Antithrombotic
+0,092  0,043  Antiprotozoal activity enhancer
+0,187  0,142  DNA synthesis inhibitor
+0,100  0,058  Obsessive-compulsive disorder treatment
+0,083  0,042  Antidote, organophosphates
+0,101  0,061  Anabolic
+0,052  0,015  Hypogonadism treatment
+0,137  0,111  Antipruritic
+0,144  0,123  Non-steroidal antiinflammatory agent
+0,112  0,092  Contraceptive
+0,102  0,085  Photosensitizer
+0,109  0,094  Antiviral (Influenza B)
+0,073  0,059  Narcotic antagonist
+0,059  0,048  Antimycoplasmal
+0,167  0,157  Radioprotector
+0,155  0,146  Antineoplastic enhancer
+0,226  0,224  Antiarthritic
+

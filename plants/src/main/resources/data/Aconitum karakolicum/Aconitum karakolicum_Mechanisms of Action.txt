@@ -1,0 +1,831 @@
+Name	Activation_Prob	Compound	Another_Probs
+1.3-Beta-glucan synthase inhibitor	0.031	COMP206	(0.030 COMP203/COMP208/COMP209) (0.029 COMP201/COMP202/COMP207)
+11-Beta-hydroxysteroid dehydrogenase 1 inhibitor	0.331	COMP202	(0.276 COMP206) (0.187 COMP201)
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.602	COMP202	(0.217 COMP201) (0.042 COMP206)
+12-Lipoxygenase inhibitor	0.299	COMP199	
+15-Lipoxygenase inhibitor	0.301	COMP205	(0.286 COMP199)
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.080	COMP199	(0.055 COMP200)
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.050	COMP199	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.212	COMP207	(0.058 COMP205)
+3C-like protease (Human coronavirus) inhibitor	0.171	COMP199	
+5 Hydroxytryptamine 1E antagonist	0.273	COMP199	
+5 Hydroxytryptamine 2A agonist	0.071	COMP200	
+5 Hydroxytryptamine 2B agonist	0.036	COMP199	
+5 Hydroxytryptamine 2B antagonist	0.096	COMP199	
+5 Hydroxytryptamine 3 agonist	0.074	COMP199	
+5 Hydroxytryptamine 3A agonist	0.205	COMP199	
+5 Hydroxytryptamine 3E antagonist	0.266	COMP199	
+5 Hydroxytryptamine 5 antagonist	0.087	COMP199	
+5 Hydroxytryptamine 5A antagonist	0.095	COMP199	
+5 Hydroxytryptamine 6 agonist	0.033	COMP199	
+5 Hydroxytryptamine 6 antagonist	0.059	COMP199	
+5 Hydroxytryptamine 7 agonist	0.056	COMP199	
+5 Hydroxytryptamine release inhibitor	0.550	COMP207	(0.520 COMP199) (0.445 COMP205) (0.381 COMP200)
+5 Hydroxytryptamine release stimulant	0.458	COMP207	(0.451 COMP199)
+5 Hydroxytryptamine uptake stimulant	0.347	COMP199	(0.259 COMP205) (0.206 COMP200) (0.193 COMP204)
+5-Alpha-reductase 1 inhibitor	0.015	COMP200	
+5-Alpha-reductase inhibitor	0.072	COMP200	(0.045 COMP206) (0.036 COMP201/COMP202)
+5-Lipoxygenase inhibitor	0.142	COMP205	
+ABCA1 expression enhancer	0.116	COMP200	(0.095 COMP205) (0.090 COMP202)
+AICAR transformylase inhibitor	0.052	COMP199	
+ALK inhibitor	0.115	COMP199	
+AMP-activated protein kinase stimulant	0.504	COMP207	(0.135 COMP203) (0.100 COMP199) (0.098 COMP206) (0.092 COMP208/COMP209)
+ATPase (Vacuolar H+) inhibitor	0.131	COMP203	(0.128 COMP207/COMP208/COMP209) (0.108 COMP200) (0.085 COMP204)
+ATPase inhibitor	0.271	COMP207	(0.262 COMP208/COMP209) (0.232 COMP199) (0.218 COMP203) (0.146 COMP200)
+AXL receptor tyrosine kinase inhibitor	0.092	COMP199	
+Abl kinase inhibitor	0.192	COMP199	
+Acetyl-CoA transferase 2 inhibitor	0.091	COMP205	
+Acetylcholine M5 receptor agonist	0.067	COMP199	
+Acetylcholine nicotinic agonist	0.087	COMP199	
+Acetylcholine release stimulant	0.119	COMP199	
+Acetylcholinesterase inhibitor	0.302	COMP200	(0.168 COMP205) (0.163 COMP207) (0.157 COMP203) (0.112 COMP204) (0.104 COMP202)
+Acid ceramidase inhibitor	0.028	COMP199	
+Aconitate hydratase inhibitor	0.086	COMP199	
+Activin receptor-like kinase 2 inhibitor	0.201	COMP199	
+Activin receptor-like kinase 4 inhibitor	0.137	COMP199	
+Acyl-CoA dehydrogenase inhibitor	0.076	COMP199	
+Adenine nucleotide translocase inhibitor	0.061	COMP203	(0.058 COMP207) (0.052 COMP208/COMP209)
+Adenosine A1 receptor agonist	0.024	COMP207	
+Adenosine A3 receptor antagonist	0.073	COMP199	
+Adenosine deaminase inhibitor	0.059	COMP207	(0.047 COMP204)
+Adenosine kinase inhibitor	0.024	COMP199	
+Adenylate cyclase inhibitor	0.172	COMP206	(0.130 COMP199) (0.128 COMP207) (0.105 COMP208/COMP209) (0.101 COMP203)
+Adenylate cyclase stimulant	0.218	COMP206	(0.211 COMP201/COMP202) (0.159 COMP199) (0.154 COMP204) (0.137 COMP200) (0.129 COMP205) (0.128 COMP207) (0.122 COMP208/COMP209)
+Adenylate kinase inhibitor	0.172	COMP199	
+Adrenaline agonist	0.092	COMP199	
+Alcohol dehydrogenase inhibitor	0.167	COMP207	(0.122 COMP199) (0.106 COMP205)
+Alcohol oxidase inhibitor	0.135	COMP199	
+Aldehyde dehydrogenase inhibitor	0.493	COMP207	(0.134 COMP199)
+Aldehyde oxidase inhibitor	0.648	COMP199	(0.191 COMP200) (0.179 COMP207) (0.156 COMP205)
+Aldose reductase inhibitor	0.234	COMP207	(0.092 COMP203) (0.079 COMP208/COMP209)
+Aldosterone antagonist	0.064	COMP200	(0.062 COMP206) (0.053 COMP199)
+Alkaline phosphatase inhibitor	0.286	COMP207	(0.124 COMP199)
+Alkylator	0.575	COMP207	(0.231 COMP206) (0.198 COMP208/COMP209) (0.192 COMP203) (0.142 COMP199) (0.111 COMP204)
+Alpha 1d adrenoreceptor agonist	0.087	COMP199	
+Alpha 2 adrenoreceptor agonist	0.113	COMP199	
+Alpha 2 adrenoreceptor antagonist	0.098	COMP199	
+Alpha 2a adrenoreceptor agonist	0.068	COMP199	
+Alpha 2a adrenoreceptor antagonist	0.072	COMP199	
+Alpha 2b adrenoreceptor agonist	0.028	COMP199	
+Alpha 2b adrenoreceptor antagonist	0.107	COMP199	
+Alpha 2c adrenoreceptor agonist	0.033	COMP199	
+Alpha 2c adrenoreceptor antagonist	0.149	COMP199	(0.103 COMP205)
+Alpha adrenoreceptor agonist	0.081	COMP199	
+Alpha tubulin antagonist	0.049	COMP207	
+Alpha-N-acetylglucosaminidase inhibitor	0.332	COMP199	(0.295 COMP207) (0.230 COMP204) (0.147 COMP200) (0.126 COMP206) (0.120 COMP201/COMP202)
+Alpha-mannosidase inhibitor	0.134	COMP207	(0.070 COMP206) (0.063 COMP204) (0.060 COMP208/COMP209) (0.052 COMP199)
+Amidase inhibitor	0.064	COMP199	
+Aminoacyl-tRNA synthetase inhibitor	0.082	COMP207	
+Aminopeptidase B inhibitor	0.127	COMP199	
+Aminopeptidase I inhibitor	0.090	COMP199	
+Amylase inhibitor	0.856	COMP207	(0.718 COMP208/COMP209) (0.706 COMP203) (0.242 COMP204) (0.236 COMP205) (0.134 COMP199) (0.119 COMP200)
+Amyloid beta aggregation inhibitor	0.572	COMP207	(0.478 COMP203) (0.309 COMP208/COMP209) (0.189 COMP199)
+Amyloid beta precursor protein antagonist	0.130	COMP199	
+Anabolic	0.177	COMP206	(0.172 COMP201/COMP202) (0.154 COMP200) (0.135 COMP204) (0.105 COMP199) (0.095 COMP205) (0.091 COMP203)
+Analgesic	0.270	COMP206	(0.239 COMP200)
+Analgesic. opioid	0.115	COMP200	(0.075 COMP204) (0.067 COMP203)
+Androgen agonist	0.125	COMP202	(0.123 COMP206) (0.103 COMP201) (0.090 COMP205) (0.076 COMP200) (0.059 COMP199)
+Androgen antagonist	0.129	COMP206	(0.095 COMP202) (0.090 COMP200) (0.082 COMP205) (0.075 COMP199)
+Anesthetic general	0.378	COMP200	(0.343 COMP204) (0.319 COMP208/COMP209) (0.302 COMP199) (0.296 COMP203) (0.281 COMP207) (0.176 COMP201)
+Angiogenesis inhibitor	0.436	COMP199	(0.359 COMP207)
+Angiogenesis stimulant	0.712	COMP207	(0.578 COMP203) (0.510 COMP208/COMP209) (0.323 COMP201/COMP202) (0.244 COMP206) (0.214 COMP204) (0.153 COMP200)
+Angiotensin AT1 receptor antagonist	0.039	COMP199	
+Antiamyloidogenic	0.587	COMP207	(0.496 COMP203) (0.321 COMP205) (0.269 COMP199) (0.177 COMP208/COMP209)
+Antibacterial	0.727	COMP208/COMP209	(0.716 COMP207) (0.693 COMP203) (0.590 COMP206) (0.467 COMP205) (0.458 COMP204) (0.437 COMP202) (0.388 COMP201) (0.349 COMP200)
+Antibiotic Aminoglycoside-like	0.097	COMP207	(0.071 COMP208/COMP209) (0.059 COMP203) (0.033 COMP206)
+Antibiotic Anthracycline-like	0.037	COMP207	(0.025 COMP208/COMP209) (0.024 COMP204) (0.019 COMP203) (0.018 COMP200)
+Antibiotic Macrolide-like	0.019	COMP208/COMP209	(0.016 COMP203)
+Antiinflammatory	0.947	COMP206	(0.942 COMP202) (0.916 COMP201) (0.800 COMP207) (0.744 COMP208/COMP209) (0.737 COMP203) (0.684 COMP205) (0.395 COMP204) (0.292 COMP200)
+Antimitotic	0.464	COMP205	(0.285 COMP204) (0.273 COMP208/COMP209) (0.194 COMP199) (0.140 COMP207)
+Antineoplastic alkaloid	0.168	COMP202	(0.165 COMP206) (0.088 COMP205)
+Antineoplastic antibiotic	0.389	COMP206	(0.335 COMP207) (0.289 COMP208/COMP209) (0.222 COMP203) (0.211 COMP204) (0.167 COMP201) (0.165 COMP202) (0.110 COMP205) (0.108 COMP200)
+Antiobesity	0.307	COMP202	(0.255 COMP206)
+Antioxidant	0.862	COMP207	(0.740 COMP205) (0.673 COMP203/COMP206) (0.649 COMP208/COMP209) (0.393 COMP202) (0.342 COMP201) (0.307 COMP204) (0.275 COMP200)
+Antipruritic	0.260	COMP200	
+Antithrombotic	0.729	COMP203	(0.645 COMP207) (0.627 COMP208/COMP209) (0.285 COMP200) (0.211 COMP201/COMP202) (0.208 COMP204) (0.195 COMP199)
+Apolipoprotein B inhibitor	0.018	COMP199	
+Apoptosis agonist	0.906	COMP201	(0.888 COMP202) (0.848 COMP205) (0.838 COMP206) (0.821 COMP207) (0.744 COMP208/COMP209) (0.717 COMP203) (0.498 COMP204) (0.385 COMP200)
+Apoptosis antagonist	0.650	COMP207	(0.634 COMP206) (0.565 COMP202) (0.542 COMP203) (0.518 COMP208/COMP209) (0.459 COMP205) (0.428 COMP201) (0.238 COMP204)
+Arachidonic acid antagonist	0.231	COMP206	(0.211 COMP200) (0.207 COMP204) (0.204 COMP199) (0.197 COMP201/COMP202) (0.128 COMP205)
+Arginase inhibitor	0.068	COMP207	(0.040 COMP203)
+Argininosuccinate synthase inhibitor	0.078	COMP199	
+Aromatase inhibitor	0.080	COMP200	(0.062 COMP205) (0.058 COMP202)
+Aryl hydrocarbon receptor agonist	0.389	COMP199	(0.214 COMP207)
+Aryl hydrocarbon receptor antagonist	0.073	COMP199	(0.061 COMP207)
+Aurora-A kinase inhibitor	0.209	COMP199	
+Aurora-B kinase inhibitor	0.134	COMP199	
+Aurora-C kinase inhibitor	0.173	COMP199	
+Bcl-xL inhibitor	0.091	COMP200	(0.062 COMP204)
+Bcr-Abl kinase inhibitor	0.108	COMP199	
+Benzodiazepine antagonist	0.045	COMP199	
+Beta 1 adrenoreceptor agonist	0.021	COMP199	
+Beta 2 adrenoreceptor agonist	0.065	COMP199	(0.059 COMP204)
+Beta 2 adrenoreceptor antagonist	0.052	COMP199	
+Beta 3 adrenoreceptor antagonist	0.060	COMP199	
+Beta adrenoreceptor agonist	0.044	COMP199	
+Beta adrenoreceptor antagonist	0.064	COMP199	
+Beta amyloid protein antagonist	0.211	COMP205	(0.200 COMP199) (0.144 COMP207)
+Beta glucuronidase inhibitor	0.493	COMP207	(0.135 COMP203) (0.134 COMP199) (0.130 COMP208/COMP209) (0.111 COMP205)
+Biliverdin reductase inhibitor	0.112	COMP199	
+Botulinum neurotoxin type A inhibitor	0.058	COMP199	
+Breast cancer-resistant protein inhibitor	0.164	COMP207	(0.104 COMP199)
+Bromodomain-containing protein 2 inhibitor	0.143	COMP199	
+Bromodomain-containing protein 4 inhibitor	0.051	COMP199	
+Bronchodilator	0.264	COMP204	(0.114 COMP205)
+Bruton tyrosine kinase inhibitor	0.071	COMP199	
+CC chemokine 4 receptor antagonist	0.055	COMP199	
+CC chemokine 5 receptor agonist	0.096	COMP199	
+CC chemokine 6 receptor antagonist	0.179	COMP199	(0.127 COMP201/COMP202)
+CD45 antagonist	0.059	COMP199	
+CDC-like kinase 1 inhibitor	0.166	COMP199	
+CDC-like kinase 2 inhibitor	0.286	COMP199	
+CDC-like kinase 3 inhibitor	0.125	COMP199	
+CDC-like kinase 4 inhibitor	0.321	COMP199	
+CDC25A inhibitor	0.147	COMP201/COMP202	(0.084 COMP199) (0.073 COMP207)
+CDC25B inhibitor	0.121	COMP199	
+CDC7 inhibitor	0.090	COMP199	
+CDK1/cyclin B inhibitor	0.087	COMP199	
+CDK1/cyclin B1 inhibitor	0.073	COMP199	
+CDK2/cyclin A inhibitor	0.148	COMP199	
+CDK2/cyclin A3 inhibitor	0.020	COMP199	
+CDK2/cyclin E inhibitor	0.080	COMP199	
+CDK3/cyclin E inhibitor	0.122	COMP199	
+CDK4/cyclin D inhibitor	0.074	COMP199	
+CDK4/cyclin D1 inhibitor	0.072	COMP199	
+CDK4/cyclin D3 inhibitor	0.036	COMP199	
+CDK5/p25 inhibitor	0.068	COMP199	
+CDK6/cyclin D3 inhibitor	0.033	COMP199	
+CDK7/cyclin H inhibitor	0.051	COMP199	
+CDK9/cyclin T1 inhibitor	0.110	COMP199	
+CF transmembrane conductance regulator agonist	0.280	COMP207	(0.241 COMP199) (0.135 COMP204)
+CF transmembrane conductance regulator antagonist	0.039	COMP199	
+CXC chemokine 1 receptor antagonist	0.113	COMP199	
+CXC chemokine 2 receptor antagonist	0.036	COMP199	
+CYP24 inhibitor	0.031	COMP200	(0.025 COMP201/COMP202) (0.021 COMP204)
+CYP2A6 inhibitor	0.117	COMP199	
+Ca2+-transporting ATPase inhibitor	0.160	COMP199	(0.155 COMP200) (0.150 COMP204) (0.143 COMP206) (0.138 COMP205) (0.137 COMP207) (0.134 COMP203) (0.129 COMP208/COMP209)
+Ca2+/calmodulin-dependent kinase I alpha inhibitor	0.408	COMP199	
+Ca2+/calmodulin-dependent kinase II alpha inhibitor	0.371	COMP199	
+Ca2+/calmodulin-dependent kinase II beta inhibitor	0.360	COMP199	
+Ca2+/calmodulin-dependent kinase II delta inhibitor	0.257	COMP199	
+Ca2+/calmodulin-dependent kinase II gamma inhibitor	0.339	COMP199	
+Ca2+/calmodulin-dependent kinase IV inhibitor	0.311	COMP199	
+Ca2+/calmodulin-dependent protein kinase inhibitor	0.371	COMP199	
+Calcium antagonist	0.120	COMP199	
+Calcium channel L-type activator	0.375	COMP204	(0.370 COMP199) (0.292 COMP200)
+Calcium channel P-type blocker	0.064	COMP199	
+Calcium channel activator	0.411	COMP199	(0.286 COMP206) (0.266 COMP201/COMP202) (0.209 COMP200)
+Calcium-sensing receptor agonist	0.024	COMP199	
+Calpain 2 inhibitor	0.313	COMP199	
+Calpain inhibitor	0.221	COMP199	
+Cannabinoid CB1 receptor antagonist	0.070	COMP199	
+Cannabinoid receptor antagonist	0.065	COMP199	
+Carbonic anhydrase I inhibitor	0.047	COMP199	
+Carbonic anhydrase II inhibitor	0.049	COMP199	
+Carbonic anhydrase III inhibitor	0.374	COMP207	(0.147 COMP199)
+Carbonic anhydrase IV inhibitor	0.041	COMP199	
+Carbonic anhydrase IX inhibitor	0.063	COMP199	
+Carbonic anhydrase V inhibitor	0.068	COMP199	
+Carbonic anhydrase VA inhibitor	0.076	COMP199	
+Carbonic anhydrase VB inhibitor	0.064	COMP199	
+Carbonic anhydrase VI inhibitor	0.317	COMP207	(0.170 COMP203) (0.146 COMP208/COMP209) (0.114 COMP199)
+Carbonic anhydrase VII inhibitor	0.167	COMP207	(0.054 COMP205)
+Carbonic anhydrase XI inhibitor	0.013	COMP199	
+Carbonic anhydrase XII inhibitor	0.072	COMP207	(0.052 COMP199)
+Carbonic anhydrase XIII inhibitor	0.607	COMP207	(0.201 COMP205) (0.125 COMP203) (0.124 COMP208/COMP209) (0.091 COMP199)
+Carbonic anhydrase XIV inhibitor	0.177	COMP207	(0.087 COMP208/COMP209) (0.081 COMP203) (0.049 COMP199)
+Carbonic anhydrase XV inhibitor	0.175	COMP199	(0.103 COMP207) (0.094 COMP204) (0.090 COMP205)
+Carbonic anhydrase inhibitor	0.055	COMP199	
+Carbonic anhydrase stimulant	0.065	COMP199	
+Cardiotonic	0.269	COMP205	
+Caspase 3 inhibitor	0.128	COMP199	
+Caspase 3 stimulant	0.817	COMP205	(0.725 COMP207) (0.393 COMP208/COMP209) (0.335 COMP203) (0.316 COMP201/COMP202) (0.306 COMP206)
+Caspase 7 inhibitor	0.087	COMP199	
+Caspase 9 stimulant	0.928	COMP207	(0.778 COMP208/COMP209) (0.756 COMP202) (0.755 COMP203) (0.555 COMP204) (0.541 COMP199) (0.521 COMP206) (0.518 COMP201) (0.463 COMP200) (0.411 COMP205)
+Catalase inhibitor	0.115	COMP199	
+Cathepsin H inhibitor	0.193	COMP199	
+Cathepsin L2 inhibitor	0.059	COMP199	
+Cell adhesion inhibitor	0.201	COMP203	(0.165 COMP207) (0.164 COMP208/COMP209)
+Cell adhesion molecule inhibitor	0.086	COMP203	
+Cell wall synthesis inhibitor	0.266	COMP207	(0.121 COMP199)
+Check point kinase 1 inhibitor	0.089	COMP199	
+Check point kinase 2 inhibitor	0.225	COMP199	
+Chelator	0.145	COMP207	
+Cholesterol antagonist	0.836	COMP203	(0.815 COMP208/COMP209) (0.514 COMP207) (0.454 COMP204) (0.426 COMP206) (0.325 COMP201/COMP202) (0.291 COMP200) (0.284 COMP199)
+Cholesterol esterase inhibitor	0.043	COMP206	
+Cholesterol synthesis inhibitor	0.234	COMP206	(0.156 COMP201/COMP202) (0.127 COMP205) (0.114 COMP200/COMP204) (0.110 COMP207/COMP208/COMP209) (0.097 COMP203)
+Cholinergic	0.272	COMP200	(0.142 COMP205)
+Clk dual-specificity kinase inhibitor	0.315	COMP199	
+Complement factor 1r inhibitor	0.031	COMP199	
+Complement factor 1s inhibitor	0.032	COMP199	
+Complement factor D inhibitor	0.019	COMP199	
+Corticosteroid-like	0.044	COMP206	(0.031 COMP201/COMP202)
+Corticotropin releasing factor 2 receptor antagonist	0.077	COMP199	
+Creatine kinase inhibitor	0.164	COMP199	(0.139 COMP205) (0.097 COMP207) (0.092 COMP200)
+Cyclic AMP phosphodiesterase inhibitor	0.440	COMP207	(0.284 COMP199)
+Cyclin A inhibitor	0.063	COMP199	
+Cyclin A1 inhibitor	0.070	COMP199	
+Cyclin A2 inhibitor	0.067	COMP199	
+Cyclin B inhibitor	0.061	COMP199	
+Cyclin B1 inhibitor	0.069	COMP199	
+Cyclin B2 inhibitor	0.060	COMP199	
+Cyclin B3 inhibitor	0.123	COMP199	
+Cyclin D1 inhibitor	0.096	COMP199	
+Cyclin D2 inhibitor	0.018	COMP199	
+Cyclin D3 inhibitor	0.035	COMP199	
+Cyclin E2 inhibitor	0.037	COMP199	
+Cyclin H inhibitor	0.056	COMP199	
+Cyclin T1 inhibitor	0.018	COMP199	
+Cyclin-dependent kinase 1 inhibitor	0.148	COMP199	
+Cyclin-dependent kinase 2 inhibitor	0.136	COMP199	
+Cyclin-dependent kinase 3 inhibitor	0.246	COMP199	
+Cyclin-dependent kinase 4 inhibitor	0.070	COMP199	
+Cyclin-dependent kinase 5 inhibitor	0.134	COMP199	
+Cyclin-dependent kinase 6 inhibitor	0.073	COMP199	
+Cyclin-dependent kinase 7 inhibitor	0.160	COMP199	
+Cyclin-dependent kinase 8 inhibitor	0.187	COMP199	
+Cyclin-dependent kinase 9 inhibitor	0.135	COMP199	
+Cyclin-dependent kinase inhibitor	0.162	COMP199	
+Cyclooxygenase 1 inhibitor	0.229	COMP205	(0.145 COMP199) (0.114 COMP207)
+Cyclooxygenase 2 inhibitor	0.110	COMP199	(0.104 COMP205)
+Cyclooxygenase 3 inhibitor	0.493	COMP207	(0.192 COMP199) (0.131 COMP208/COMP209)
+Cyclooxygenase inhibitor	0.167	COMP205	(0.137 COMP199)
+Cyclophilin D inhibitor	0.805	COMP207	(0.739 COMP206) (0.700 COMP203) (0.618 COMP208/COMP209) (0.454 COMP202) (0.379 COMP205) (0.355 COMP204) (0.301 COMP201) (0.246 COMP200)
+Cystathionine beta-synthase inhibitor	0.614	COMP207	(0.248 COMP205) (0.166 COMP199) (0.149 COMP208/COMP209) (0.121 COMP203)
+Cytidine deaminase inhibitor	0.116	COMP199	
+Cytokine production inhibitor	0.163	COMP199	
+Cytokine production stimulant	0.048	COMP199	(0.046 COMP207)
+D-Ala-D-Ala ligase inhibitor	0.131	COMP199	
+DNA damaging	0.746	COMP207	(0.508 COMP203) (0.414 COMP208/COMP209) (0.339 COMP205) (0.301 COMP199) (0.182 COMP201)
+DNA directed RNA polymerase inhibitor	0.084	COMP199	
+DNA gyrase subunit A inhibitor	0.044	COMP207	
+DNA gyrase subunit B inhibitor	0.042	COMP199	
+DNA helicase inhibitor	0.052	COMP199	
+DNA intercalator	0.228	COMP207	(0.130 COMP208/COMP209)
+DNA methylase inhibitor	0.399	COMP207	(0.242 COMP199)
+DNA methyltransferase I inhibitor	0.363	COMP207	(0.252 COMP199)
+DNA polymerase I inhibitor	0.619	COMP206	(0.224 COMP202) (0.217 COMP207) (0.191 COMP203) (0.178 COMP201) (0.158 COMP208/COMP209) (0.096 COMP204)
+DNA polymerase III inhibitor	0.036	COMP199	
+DNA polymerase III polC-type inhibitor	0.015	COMP199	
+DNA repair enzyme inhibitor	0.434	COMP207	(0.134 COMP199)
+DNA synthesis inhibitor	0.545	COMP208/COMP209	(0.515 COMP203) (0.513 COMP207) (0.379 COMP204) (0.377 COMP202) (0.341 COMP201) (0.298 COMP200) (0.275 COMP206) (0.228 COMP199)
+DNA topoisomerase III inhibitor	0.022	COMP199	
+DOPA decarboxylase inhibitor	0.136	COMP199	(0.109 COMP200)
+Death-associated protein kinase 1 inhibitor	0.185	COMP199	
+Death-associated protein kinase 2 inhibitor	0.326	COMP199	
+Death-associated protein kinase 3 inhibitor	0.393	COMP199	
+Delayed rectifier potassium channel activator	0.048	COMP199	
+Diacylglycerol O-acyltransferase inhibitor	0.062	COMP199	
+Diamine oxidase inhibitor	0.054	COMP199	
+Dihydrofolate reductase inhibitor	0.050	COMP199	
+Dihydroorotase inhibitor	0.156	COMP199	
+Dihydroorotate dehydrogenase inhibitor	0.134	COMP199	
+Dihydroorotate oxidase inhibitor	0.097	COMP199	
+Dihydropteroate synthase inhibitor	0.055	COMP199	
+Diuretic	0.194	COMP200	(0.125 COMP199)
+Dopamine D5 agonist	0.065	COMP199	
+Dopamine beta hydroxylase inhibitor	0.051	COMP199	
+Dual specificity phosphatase 3 inhibitor	0.141	COMP207	
+Dual specificity phosphatase inhibitor	0.134	COMP207	
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.334	COMP199	
+Dual specificity tyrosine-phosphorylation regulated kinase 1B inhibitor	0.204	COMP199	
+Dual specificity tyrosine-phosphorylation-regulated kinase 4 inhibitor	0.338	COMP199	
+Dyrk kinase inhibitor	0.342	COMP199	
+Elastase 1 inhibitor	0.086	COMP199	
+Electrolyte absorption antagonist	0.177	COMP199	
+Electron transport complex I inhibitor	0.505	COMP205	(0.101 COMP207)
+Endothelial nitric-oxide synthase inhibitor	0.032	COMP199	
+EphA2 antagonist	0.243	COMP199	
+EphB2 antagonist	0.480	COMP199	
+EphB4 antagonist	0.078	COMP199	
+Ephrin antagonist	0.298	COMP199	
+Epidermal growth factor antagonist	0.269	COMP199	
+Epidermal growth factor receptor kinase inhibitor	0.337	COMP199	
+Epithelial sodium channel blocker	0.054	COMP199	
+Epoxide hydrolase 1 inhibitor	0.033	COMP199	
+ErbB-1 antagonist	0.609	COMP199	
+ErbB-2 antagonist	0.242	COMP199	
+ErbB-3 antagonist	0.175	COMP199	
+ErbB-4 antagonist	0.191	COMP199	
+Estrogen agonist	0.442	COMP205	(0.105 COMP207) (0.102 COMP202) (0.098 COMP206) (0.060 COMP201) (0.058 COMP203) (0.049 COMP208/COMP209)
+Estrogen antagonist	0.404	COMP205	(0.131 COMP203) (0.129 COMP207) (0.123 COMP200/COMP208/COMP209) (0.116 COMP202) (0.105 COMP204)
+Estrogen receptor alpha antagonist	0.398	COMP205	(0.087 COMP200) (0.070 COMP204)
+Estrogen receptor beta antagonist	0.398	COMP205	(0.098 COMP207) (0.097 COMP202) (0.096 COMP200)
+Estrogen-related receptor beta antagonist	0.045	COMP205	(0.031 COMP207)
+Estrogen-related receptor gamma antagonist	0.027	COMP199	
+Expectorant	0.498	COMP207	(0.389 COMP208/COMP209) (0.229 COMP203) (0.177 COMP204) (0.125 COMP200) (0.117 COMP201/COMP202) (0.092 COMP206)
+Factor III inhibitor	0.054	COMP203/COMP208/COMP209	(0.050 COMP207)
+Factor IXa inhibitor	0.060	COMP199	
+Factor XIII inhibitor	0.020	COMP199	
+Falcipain 2 inhibitor	0.083	COMP207	
+Falcipain 3 inhibitor	0.119	COMP199	
+Falcipain inhibitor	0.085	COMP207	
+Farnesoid X receptor agonist	0.070	COMP206	(0.052 COMP202) (0.047 COMP201)
+Farnesoid X receptor antagonist	0.311	COMP201/COMP202	(0.178 COMP206) (0.166 COMP205)
+Fatty acid synthase inhibitor	0.086	COMP207	(0.053 COMP199)
+Ferrochelatase inhibitor	0.297	COMP199	
+Fibroblast growth factor 1 antagonist	0.089	COMP199	
+Fibroblast growth factor 2 antagonist	0.085	COMP199	
+Fibroblast growth factor 3 antagonist	0.085	COMP199	
+Focal adhesion kinase 1 inhibitor	0.137	COMP199	
+Focal adhesion kinase 2 inhibitor	0.272	COMP199	
+Free fatty acid receptor 1 antagonist	0.040	COMP200	
+Free radical scavenger	0.813	COMP207	(0.609 COMP203) (0.587 COMP205) (0.568 COMP208/COMP209) (0.186 COMP202) (0.179 COMP200) (0.158 COMP204)
+Fructose-1.6-bisphosphatase 1 inhibitor	0.037	COMP199	
+Fructose-1.6-bisphosphatase inhibitor	0.090	COMP199	
+Fumarate hydratase inhibitor	0.034	COMP199	
+GABA B receptor agonist	0.099	COMP199	
+GABA B receptor antagonist	0.044	COMP199	
+GABA C receptor agonist	0.286	COMP199	(0.110 COMP200)
+GABA C receptor antagonist	0.206	COMP199	
+GABA C receptor rho-1 antagonist	0.182	COMP199	
+GABA C receptor rho-2 antagonist	0.246	COMP199	
+GABA C receptor rho-3 antagonist	0.563	COMP199	(0.265 COMP205)
+GABA aminotransferase inhibitor	0.085	COMP199	
+GABA uptake inhibitor	0.044	COMP199/COMP200	
+Gastric antisecretory	0.111	COMP199	(0.101 COMP204) (0.095 COMP205)
+Gastrin inhibitor	0.301	COMP199	
+Geranyltranstransferase inhibitor	0.055	COMP199	
+Glucocorticoid agonist	0.053	COMP206	(0.014 COMP201/COMP202)
+Glucocorticoid antagonist	0.066	COMP206	(0.037 COMP201/COMP202)
+Glucose-6-phosphate dehydrogenase inhibitor	0.051	COMP206	(0.047 COMP201/COMP202)
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.249	COMP199	
+Glucose-6-phosphate isomerase inhibitor	0.090	COMP207	(0.061 COMP204) (0.060 COMP199) (0.050 COMP208/COMP209) (0.046 COMP200) (0.045 COMP203)
+Glucose-6-phosphate translocase inhibitor	0.085	COMP207	(0.082 COMP208/COMP209) (0.076 COMP203)
+Glucosylceramidase inhibitor	0.078	COMP199	(0.050 COMP204)
+Glutamate (mGluR group III) agonist	0.050	COMP199	
+Glutamate (mGluR group III) antagonist	0.043	COMP199	
+Glutamate (mGluR1a) agonist	0.024	COMP199	
+Glutamate (mGluR3) agonist	0.030	COMP200	
+Glutamate (mGluR4) agonist	0.037	COMP199	
+Glutamate (mGluR4) antagonist	0.045	COMP199	
+Glutamate (mGluR6) antagonist	0.084	COMP199	(0.080 COMP200) (0.066 COMP204)
+Glutamate (mGluR7) antagonist	0.101	COMP199	
+Glutamate (mGluR8) agonist	0.045	COMP199	
+Glutamate decarboxylase inhibitor	0.094	COMP199	
+Glutamate dehydrogenase inhibitor	0.092	COMP199	
+Glutamate release inhibitor	0.114	COMP207	(0.110 COMP199)
+Glutathione S-transferase inhibitor	0.074	COMP199	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.454	COMP207	(0.310 COMP199) (0.160 COMP206) (0.155 COMP204)
+Glycine receptor agonist	0.107	COMP200	(0.086 COMP199) (0.074 COMP204)
+Glycine receptor antagonist	0.110	COMP199	(0.081 COMP206)
+Glycogen synthase kinase-3 alpha inhibitor	0.265	COMP199	
+Glycogen synthase kinase-3 beta inhibitor	0.192	COMP199	
+Glycogen synthase kinase-3 inhibitor	0.204	COMP199	
+Granulocyte macrophage colony stimulating factor agonist	0.132	COMP199	
+Granulocyte macrophage colony stimulating factor antagonist	0.138	COMP199	
+Growth factor agonist	0.215	COMP199	
+Growth factor antagonist	0.352	COMP199	
+Growth hormone agonist	0.523	COMP206	
+Guanylate cyclase inhibitor	0.061	COMP200	(0.048 COMP199)
+H+/K+-transporting ATPase inhibitor	0.065	COMP199	
+HIV-1 integrase (3'-Processing) inhibitor	0.116	COMP207	(0.115 COMP208/COMP209) (0.107 COMP203) (0.085 COMP205)
+HIV-1 integrase (Overall Integration) inhibitor	0.235	COMP199	(0.115 COMP200) (0.094 COMP204)
+HIV-1 integrase (Strand Transfer) inhibitor	0.110	COMP207	(0.109 COMP208/COMP209) (0.100 COMP203) (0.071 COMP205)
+HIV-1 integrase inhibitor	0.069	COMP203	(0.063 COMP208/COMP209)
+HMG CoA reductase inhibitor	0.039	COMP202/COMP206	(0.038 COMP201) (0.036 COMP203) (0.035 COMP204) (0.031 COMP208/COMP209)
+Heat shock protein 70 antagonist	0.238	COMP207	(0.156 COMP199) (0.143 COMP205)
+Heat shock protein 90 alpha antagonist	0.199	COMP199	
+Heat shock protein 90 antagonist	0.299	COMP205	(0.217 COMP200) (0.157 COMP199) (0.138 COMP204)
+Heat shock protein 90 beta antagonist	0.053	COMP199	
+Hedgehog signaling activator	0.037	COMP206	(0.032 COMP199)
+Hedgehog signaling inhibitor	0.174	COMP199	
+Heme oxygenase inhibitor	0.043	COMP199	
+Heme oxygenase stimulant	0.076	COMP206	(0.075 COMP201/COMP202)
+Hemostatic	0.431	COMP207	(0.131 COMP199)
+Heparanase inhibitor	0.100	COMP207	(0.066 COMP208/COMP209) (0.060 COMP203) (0.057 COMP199)
+Hepatoprotectant	0.742	COMP206	(0.614 COMP207) (0.490 COMP202) (0.473 COMP201) (0.446 COMP203) (0.415 COMP208/COMP209) (0.368 COMP205) (0.243 COMP204) (0.204 COMP200)
+Hexokinase inhibitor	0.406	COMP207	(0.261 COMP199)
+Histamine H1 receptor agonist	0.054	COMP199	
+Histamine H2 receptor agonist	0.048	COMP199	
+Histamine N-methyltransferase inhibitor	0.174	COMP199	
+Histamine release inhibitor	0.639	COMP207	(0.458 COMP199) (0.455 COMP205) (0.312 COMP200)
+Histidine decarboxylase inhibitor	0.102	COMP199	(0.072 COMP207)
+Histone acetyltransferase inhibitor	0.218	COMP199	
+Histone deacetylase 7 inhibitor	0.037	COMP199	
+Histone deacetylase 8 inhibitor	0.043	COMP199	
+Histone deacetylase 9 inhibitor	0.039	COMP199	
+Histone deacetylase SIRT1 stimulant	0.208	COMP207	(0.069 COMP205)
+Histone deacetylase SIRT2 inhibitor	0.109	COMP199	
+Histone deacetylase class I inhibitor	0.044	COMP199	
+Histone deacetylase class III inhibitor	0.138	COMP199	
+Histone deacetylase inhibitor	0.080	COMP199	
+Histone deacetylase stimulant	0.208	COMP207	(0.069 COMP205)
+Human herpes virus 5 capsid protein P40 inhibitor	0.014	COMP199	
+Hypoglycemic	0.751	COMP207	(0.602 COMP203) (0.571 COMP208/COMP209) (0.483 COMP205) (0.345 COMP206) (0.269 COMP200) (0.265 COMP204) (0.214 COMP202) (0.184 COMP201)
+Hypolipemic	0.522	COMP206	(0.384 COMP203) (0.292 COMP208/COMP209) (0.266 COMP202) (0.255 COMP204) (0.199 COMP201) (0.190 COMP200) (0.189 COMP205) (0.171 COMP207)
+Hypoxanthine phosphoribosyltransferase inhibitor	0.037	COMP199	
+I kappa B kinase 1 inhibitor	0.062	COMP199	
+I kappa B kinase 2 inhibitor	0.077	COMP199	
+I kappa B kinase epsilon inhibitor	0.258	COMP199	
+I kappa B kinase inhibitor	0.099	COMP199	
+Ileal bile acid transport inhibitor	0.020	COMP199	
+Imidazoline I1 receptor antagonist	0.046	COMP199	
+Imidazoline I2 receptor antagonist	0.031	COMP199	
+Immunoglobulin Fc receptor antagonist	0.083	COMP199	
+Immunomodulator	0.432	COMP207	(0.375 COMP203) (0.269 COMP208/COMP209) (0.188 COMP201)
+Immunostimulant	0.563	COMP207	(0.518 COMP203) (0.505 COMP208/COMP209) (0.347 COMP202) (0.333 COMP206) (0.318 COMP201) (0.193 COMP204) (0.157 COMP199)
+Immunosuppressant	0.612	COMP203	(0.603 COMP200) (0.552 COMP208/COMP209) (0.507 COMP204) (0.500 COMP202) (0.499 COMP206) (0.495 COMP207) (0.446 COMP201) (0.427 COMP205)
+Inducible nitric-oxide synthase inhibitor	0.075	COMP199	
+Inosine monophosphate dehydrogenase 2 inhibitor	0.026	COMP199	
+Inosine monophosphate dehydrogenase inhibitor	0.052	COMP199	
+Insulin growth factor antagonist	0.119	COMP199	
+Insulin like growth factor 1 antagonist	0.109	COMP199	
+Insulin receptor antagonist	0.131	COMP199	
+Insulin secretagoues	0.266	COMP207	(0.177 COMP203) (0.176 COMP208/COMP209) (0.117 COMP205)
+Insulin sensitizer	0.255	COMP203	(0.249 COMP207) (0.240 COMP206) (0.192 COMP208/COMP209) (0.181 COMP200) (0.155 COMP199) (0.148 COMP204)
+Insulysin inhibitor	0.276	COMP199	(0.184 COMP200)
+Integrin alpha2 antagonist	0.044	COMP199	
+Integrin alpha2beta1 antagonist	0.029	COMP199	
+Interferon agonist	0.158	COMP207	(0.088 COMP204) (0.079 COMP203) (0.071 COMP199)
+Interferon gamma antagonist	0.428	COMP203	(0.417 COMP201/COMP202) (0.416 COMP207) (0.383 COMP208/COMP209) (0.322 COMP206) (0.176 COMP199/COMP204) (0.153 COMP200)
+Interferon inducer	0.103	COMP207	(0.070 COMP204) (0.059 COMP203)
+Interleukin 1 antagonist	0.232	COMP199	(0.185 COMP203) (0.181 COMP208/COMP209) (0.140 COMP200)
+Interleukin 1 beta converting enzyme inhibitor	0.111	COMP199	
+Interleukin 12 antagonist	0.159	COMP207	(0.134 COMP203) (0.125 COMP199) (0.120 COMP208/COMP209)
+Interleukin 1b antagonist	0.293	COMP199	(0.198 COMP203) (0.180 COMP208/COMP209) (0.145 COMP200) (0.104 COMP207)
+Interleukin 2 agonist	0.469	COMP203	(0.438 COMP207) (0.399 COMP208/COMP209) (0.353 COMP204) (0.276 COMP206) (0.275 COMP201/COMP202) (0.217 COMP200)
+Interleukin 2 antagonist	0.102	COMP199	
+Interleukin 4 antagonist	0.315	COMP207	
+Interleukin 5 antagonist	0.138	COMP207	(0.106 COMP200) (0.093 COMP208/COMP209) (0.091 COMP203) (0.080 COMP204)
+Interleukin 6 antagonist	0.306	COMP208/COMP209	(0.272 COMP207) (0.227 COMP204) (0.208 COMP200) (0.199 COMP203) (0.159 COMP199) (0.157 COMP205)
+Interleukin 8 antagonist	0.214	COMP199	
+Interleukin agonist	0.393	COMP203	(0.389 COMP207) (0.338 COMP208/COMP209) (0.237 COMP199) (0.189 COMP204) (0.173 COMP201/COMP202)
+Interleukin antagonist	0.239	COMP203	(0.224 COMP208/COMP209) (0.204 COMP200) (0.180 COMP207) (0.175 COMP199)
+Interleukin-1 receptor-associated protein kinase 1 inhibitor	0.299	COMP199	
+Interleukin-1 receptor-associated protein kinase 4 inhibitor	0.113	COMP199	
+Janus tyrosine kinase 2 inhibitor	0.086	COMP199	
+Janus tyrosine kinase 3 inhibitor	0.090	COMP199	
+Kainate receptor 2 antagonist	0.033	COMP199	
+Kainate receptor agonist	0.046	COMP199	
+Kallikrein 1 inhibitor	0.051	COMP199	
+Kallikrein 7 inhibitor	0.065	COMP199	
+Keratolytic	0.147	COMP199	(0.104 COMP202) (0.102 COMP204) (0.087 COMP200) (0.082 COMP201) (0.078 COMP205) (0.071 COMP206)
+Kynurenine 3 monooxygenase inhibitor	0.024	COMP199	
+LIM domain kinase 1 inhibitor	0.265	COMP199	
+Lanosterol 14 alpha demethylase inhibitor	0.148	COMP199	
+Lck kinase inhibitor	0.330	COMP199	
+Leucine-rich repeat kinase 2 inhibitor	0.076	COMP199	
+Leukotriene B4 antagonist	0.072	COMP207	(0.049 COMP204)
+Leukotriene B4 receptor 1 antagonist	0.068	COMP204	
+Leukotriene B4 receptor 2 antagonist	0.066	COMP204	
+Leukotriene C antagonist	0.078	COMP205	(0.057 COMP199)
+Leukotriene antagonist	0.073	COMP205	(0.066 COMP204)
+Leukotriene synthesis inhibitor	0.247	COMP204	(0.097 COMP205)
+Lipase inhibitor	0.132	COMP205	(0.097 COMP207)
+Lipid peroxidase inhibitor	0.475	COMP207	(0.459 COMP205) (0.333 COMP203) (0.309 COMP208/COMP209) (0.204 COMP200) (0.188 COMP204) (0.137 COMP206)
+Lipocortins synthesis agonist	0.115	COMP206	(0.091 COMP201/COMP202) (0.066 COMP204) (0.061 COMP200/COMP208/COMP209) (0.059 COMP203) (0.056 COMP207)
+Lipocortins synthesis antagonist	0.481	COMP206	(0.350 COMP201/COMP202) (0.175 COMP200) (0.156 COMP204) (0.146 COMP199)
+Lipoxygenase inhibitor	0.418	COMP205	(0.252 COMP204) (0.222 COMP199) (0.207 COMP200) (0.187 COMP207)
+Liver X receptor alpha agonist	0.053	COMP199	(0.051 COMP202) (0.042 COMP201)
+Liver X receptor beta agonist	0.036	COMP199	
+Lysophosphatidic acid 2 receptor antagonist	0.028	COMP199	
+Lysophosphatidic acid 3 receptor antagonist	0.059	COMP199	
+M17 leucyl aminopeptidase inhibitor	0.107	COMP199	
+MAO A inhibitor	0.175	COMP207	
+MAO B inhibitor	0.177	COMP205	
+MAO inhibitor	0.305	COMP205	(0.138 COMP207)
+MAP kinase 1 inhibitor	0.433	COMP199	
+MAP kinase 10 inhibitor	0.181	COMP199	
+MAP kinase 11 inhibitor	0.135	COMP199	
+MAP kinase 12 inhibitor	0.208	COMP199	
+MAP kinase 13 inhibitor	0.208	COMP199	
+MAP kinase 14 inhibitor	0.197	COMP199	
+MAP kinase 3 inhibitor	0.207	COMP199	
+MAP kinase 7 inhibitor	0.074	COMP199	
+MAP kinase 8 inhibitor	0.182	COMP199	
+MAP kinase 9 inhibitor	0.146	COMP199	
+MAP kinase kinase 1 inhibitor	0.191	COMP199	
+MAP kinase kinase 2 inhibitor	0.404	COMP199	
+MAP kinase kinase 3 inhibitor	0.233	COMP199	
+MAP kinase kinase 4 inhibitor	0.133	COMP205	(0.131 COMP199)
+MAP kinase kinase 5 inhibitor	0.232	COMP199	
+MAP kinase kinase 6 inhibitor	0.464	COMP199	
+MAP kinase kinase 7 inhibitor	0.104	COMP199	(0.079 COMP204) (0.078 COMP200)
+MAP kinase kinase inhibitor	0.248	COMP199	
+MAP kinase kinase kinase inhibitor	0.219	COMP199	
+MAP-kinase-activated kinase 2 inhibitor	0.076	COMP199	
+MAP-kinase-activated kinase 5 inhibitor	0.317	COMP199	
+MAP-kinase-activated kinase inhibitor	0.094	COMP199	
+MAP3K5 inhibitor	0.035	COMP199	
+MAP3K7 inhibitor	0.087	COMP199	
+MAP3K8 inhibitor	0.071	COMP199	
+MAP3K9 inhibitor	0.170	COMP199	
+MDM2 inhibitor	0.071	COMP199	
+Macrophage colony-stimulating factor 1 receptor antagonist	0.147	COMP199	
+Macrophage migration inhibitory factor inhibitor	0.072	COMP199	
+Maillard reaction inhibitor	0.051	COMP207	
+Mannitol-1-phosphate 5-dehydrogenase inhibitor	0.090	COMP199	(0.081 COMP207) (0.054 COMP204)
+Mannose-6-phosphate isomerase inhibitor	0.289	COMP207	(0.227 COMP199)
+Mannosidase inhibitor	0.126	COMP207	(0.052 COMP206) (0.048 COMP204) (0.044 COMP208/COMP209) (0.041 COMP199)
+Mcl-1 antagonist	0.137	COMP200	
+Mediator release inhibitor	0.772	COMP207	(0.563 COMP208/COMP209) (0.470 COMP203) (0.090 COMP200)
+Melanin inhibitor	0.927	COMP207	(0.840 COMP205) (0.599 COMP208/COMP209) (0.498 COMP203) (0.180 COMP202) (0.158 COMP201) (0.156 COMP206) (0.155 COMP204) (0.148 COMP199) (0.137 COMP200)
+Melatonin 2 agonist	0.034	COMP207	
+Methionyl aminopeptidase 1 inhibitor	0.030	COMP199	
+Methionyl aminopeptidase 2 inhibitor	0.052	COMP199	
+Microtubule formation inhibitor	0.201	COMP204	(0.195 COMP208/COMP209) (0.178 COMP202) (0.149 COMP201) (0.142 COMP203) (0.138 COMP206) (0.110 COMP200) (0.108 COMP205) (0.103 COMP199/COMP207)
+Microtubule stabilization	0.064	COMP204	(0.063 COMP208/COMP209) (0.056 COMP202) (0.053 COMP201) (0.051 COMP203) (0.049 COMP206)
+Mineralocorticoid receptor antagonist	0.045	COMP205	
+Monophenol monooxygenase inhibitor	0.938	COMP207	(0.589 COMP208/COMP209) (0.541 COMP203) (0.535 COMP205) (0.091 COMP202)
+Mucolytic	0.221	COMP207	(0.194 COMP204) (0.172 COMP208/COMP209) (0.144 COMP200) (0.111 COMP199) (0.097 COMP203)
+Multidrug resistance-associated protein 1 inhibitor	0.180	COMP207	
+Myeloperoxidase inhibitor	0.122	COMP199	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.156	COMP207	(0.139 COMP205) (0.138 COMP199) (0.117 COMP204) (0.088 COMP200)
+NADH dehydrogenase inhibitor	0.287	COMP207	(0.144 COMP199) (0.114 COMP204) (0.092 COMP203) (0.085 COMP208/COMP209) (0.081 COMP200)
+NADPH oxidase inhibitor	0.288	COMP207	(0.154 COMP199)
+NMDA receptor agonist	0.118	COMP199	
+NMDA receptor glycine site agonist	0.128	COMP199	
+NMDA receptor glycine site antagonist	0.025	COMP199	
+NMDA receptor phencyclidine site antagonist	0.014	COMP199	
+NMDA receptor subunit 3B antagonist	0.039	COMP199	
+NOS3 expression enhancer	0.598	COMP207	(0.592 COMP205) (0.429 COMP203) (0.350 COMP208/COMP209)
+Na+ K+ transporting ATPase inhibitor	0.156	COMP206	(0.145 COMP202) (0.143 COMP207) (0.139 COMP201) (0.136 COMP208/COMP209) (0.124 COMP203) (0.106 COMP204) (0.101 COMP205) (0.085 COMP200) (0.072 COMP199)
+Nav1.5 sodium channel blocker	0.113	COMP199	
+Nav1.6 sodium channel blocker	0.136	COMP199	
+Nerve growth factor antagonist	0.056	COMP199	
+Neuraminidase (Influenza A) inhibitor	0.049	COMP207	
+Neuraminidase (influenza) inhibitor	0.225	COMP205	(0.119 COMP207)
+Neuraminidase inhibitor	0.285	COMP205	(0.105 COMP207)
+Neuropeptide Y antagonist	0.082	COMP199	
+Neuropeptide Y1 antagonist	0.162	COMP199	
+Neuropeptide Y2 antagonist	0.219	COMP199	
+Neuropeptide Y5 antagonist	0.044	COMP199	
+Neurotensin receptor agonist	0.181	COMP199	
+Neurotrophic factor	0.223	COMP200	(0.176 COMP203) (0.134 COMP208/COMP209) (0.133 COMP207) (0.123 COMP204)
+Neurotrophic factor enhancer	0.360	COMP207	(0.282 COMP204) (0.251 COMP200) (0.245 COMP205) (0.243 COMP199) (0.240 COMP201/COMP202) (0.237 COMP203) (0.230 COMP206) (0.198 COMP208/COMP209)
+Nicotinic acid receptor 1 antagonist	0.020	COMP199	
+Nicotinic acid receptor 2 antagonist	0.028	COMP199/COMP200	
+Nicotinic alpha3beta2 receptor antagonist	0.064	COMP199	
+Nicotinic alpha3beta4 receptor agonist	0.035	COMP199	
+Nicotinic alpha4beta2 receptor agonist	0.031	COMP199	
+Nicotinic alpha4beta2 receptor antagonist	0.092	COMP199	
+Nicotinic alpha7 receptor agonist	0.053	COMP199	
+Nicotinic neuronal receptor agonist	0.051	COMP199	
+Nitric oxide antagonist	0.867	COMP206	(0.861 COMP202) (0.840 COMP201) (0.646 COMP207) (0.645 COMP205) (0.544 COMP203) (0.496 COMP208/COMP209) (0.261 COMP204) (0.226 COMP200)
+Nitric oxide donor	0.078	COMP207	(0.068 COMP203/COMP208/COMP209)
+Nitric-oxide synthase inhibitor	0.114	COMP199	
+Nitric-oxide synthase stimulant	0.481	COMP207	(0.245 COMP199) (0.227 COMP205) (0.195 COMP204)
+Nociceptin (N/OFQ) receptor antagonist	0.037	COMP205	
+Non-steroidal antiinflammatory agent	0.510	COMP207	(0.241 COMP203) (0.235 COMP199) (0.176 COMP202) (0.149 COMP208/COMP209)
+Oleamide hydrolase inhibitor	0.047	COMP199	
+Opioid agonist	0.087	COMP200	(0.067 COMP204) (0.051 COMP205)
+Opioid antagonist	0.167	COMP200	(0.115 COMP205) (0.096 COMP204) (0.089 COMP203)
+Opioid delta receptor agonist	0.049	COMP200	(0.032 COMP204)
+Opioid delta receptor antagonist	0.139	COMP200	(0.060 COMP203)
+Opioid kappa receptor agonist	0.066	COMP205	
+Opioid kappa receptor antagonist	0.100	COMP200	(0.074 COMP207) (0.072 COMP205)
+Opioid mu receptor agonist	0.145	COMP200	(0.100 COMP204) (0.055 COMP203) (0.046 COMP208/COMP209)
+Opioid mu receptor antagonist	0.148	COMP200	(0.076 COMP204) (0.068 COMP203)
+Ornithine carbamoyltransferase inhibitor	0.050	COMP199	
+Ornithine decarboxylase inhibitor	0.155	COMP205	(0.092 COMP202) (0.087 COMP204)
+P-glycoprotein inhibitor	0.400	COMP207	(0.298 COMP203) (0.281 COMP208/COMP209) (0.219 COMP205) (0.202 COMP200) (0.143 COMP204)
+Parathyroid hormone antagonist	0.087	COMP201/COMP202	(0.057 COMP206)
+Peptidyltransferase inhibitor	0.376	COMP208/COMP209	(0.337 COMP207) (0.315 COMP203) (0.311 COMP204) (0.287 COMP200)
+Peroxidase inhibitor	0.541	COMP199	(0.160 COMP205) (0.145 COMP207)
+Phenylalanine 4-hydroxylase inhibitor	0.128	COMP199	
+Phosphodiesterase 1A inhibitor	0.058	COMP199	
+Phosphodiesterase 1C inhibitor	0.061	COMP199	
+Phosphodiesterase 3A inhibitor	0.136	COMP204	(0.099 COMP199)
+Phosphodiesterase 3B inhibitor	0.085	COMP204	
+Phosphodiesterase 4A inhibitor	0.052	COMP204	
+Phosphodiesterase 4B inhibitor	0.087	COMP199	
+Phosphodiesterase 4C inhibitor	0.054	COMP204	
+Phosphodiesterase 4D inhibitor	0.068	COMP205	
+Phosphodiesterase 6D inhibitor	0.167	COMP207	(0.116 COMP208/COMP209) (0.102 COMP199/COMP203)
+Phosphodiesterase 7B inhibitor	0.105	COMP199	
+Phosphodiesterase I inhibitor	0.082	COMP199	
+Phosphodiesterase III inhibitor	0.071	COMP204	
+Phosphodiesterase IV inhibitor	0.091	COMP199	
+Phosphodiesterase VI inhibitor	0.168	COMP207	
+Phosphofructokinase-1 inhibitor	0.181	COMP207	(0.096 COMP199/COMP204) (0.091 COMP208/COMP209) (0.060 COMP203)
+Phospholipase A2 inhibitor	0.226	COMP200	(0.173 COMP203) (0.124 COMP204)
+Phospholipase C inhibitor	0.186	COMP199	(0.179 COMP202) (0.164 COMP206) (0.155 COMP201) (0.138 COMP204)
+Phospholipase D inhibitor	0.094	COMP199	
+Phosphorylase inhibitor	0.129	COMP208/COMP209	(0.111 COMP203) (0.059 COMP207) (0.058 COMP199)
+Photosensitizer	0.385	COMP207	(0.298 COMP203) (0.264 COMP208/COMP209) (0.218 COMP204) (0.200 COMP200) (0.151 COMP199)
+Pim-1 kinase inhibitor	0.094	COMP199	
+Pim-2 kinase inhibitor	0.053	COMP199	
+Pim-3 kinase inhibitor	0.102	COMP199	
+Platelet activating factor alpha antagonist	0.123	COMP199	
+Platelet activating factor antagonist	0.147	COMP199	
+Platelet activating factor beta antagonist	0.229	COMP199	
+Platelet adhesion inhibitor	0.463	COMP207	(0.420 COMP203) (0.396 COMP208/COMP209) (0.212 COMP205) (0.201 COMP206) (0.173 COMP201/COMP202)
+Platelet aggregation inhibitor	0.165	COMP199	
+Platelet antagonist	0.284	COMP203	(0.197 COMP208/COMP209) (0.178 COMP207) (0.170 COMP200)
+Platelet growth factor antagonist	0.088	COMP199	
+Polo-like kinase-1 inhibitor	0.120	COMP199	
+Polo-like kinase-3 inhibitor	0.275	COMP199	
+Polo-like kinase-4 inhibitor	0.105	COMP199	
+Porphobilinogen synthase inhibitor	0.171	COMP199	
+Potassium channel (ATP-sensitive) activator	0.064	COMP199	
+Potassium channel (ATP-sensitive) blocker	0.105	COMP199	
+Potassium channel (Ca-activated) activator	0.212	COMP199	
+Potassium channel (Ca-activated) blocker	0.059	COMP199	
+Potassium channel (Inward rectifier) 1 blocker	0.028	COMP200	
+Potassium channel (Inward rectifier) activator	0.067	COMP199	
+Potassium channel (Inward rectifier) blocker	0.081	COMP199	
+Potassium channel (Voltage-sensitive) activator	0.120	COMP199	
+Potassium channel KCNQ activator	0.048	COMP199	
+Potassium channel Kv1.1 blocker	0.125	COMP199	
+Potassium channel Kv1.3 blocker	0.077	COMP205	
+Potassium channel activator	0.149	COMP199	
+Potassium channel intermediate-conductance Ca-activated blocker	0.070	COMP199	
+Potassium channel small-conductance Ca-activated activator	0.085	COMP199	
+Potassium channel small-conductance Ca-activated blocker	0.077	COMP199	
+Pregnane X receptor agonist	0.193	COMP202	(0.173 COMP201) (0.154 COMP199)
+Pregnane X receptor antagonist	0.062	COMP200	(0.058 COMP199)
+Progesterone agonist	0.020	COMP202	(0.016 COMP201/COMP206)
+Progesterone antagonist	0.042	COMP199	(0.037 COMP205)
+Progesterone receptor A antagonist	0.010	COMP199	
+Progesterone receptor B antagonist	0.027	COMP201/COMP202	(0.020 COMP200)
+Prolactin inhibitor	0.126	COMP199	(0.109 COMP205)
+Prostacyclin antagonist	0.034	COMP199	
+Prostaglandin D2 agonist	0.033	COMP200	(0.028 COMP204)
+Prostaglandin E2 agonist	0.029	COMP204	
+Prostaglandin EP2 agonist	0.053	COMP204	(0.042 COMP200)
+Prostaglandin EP2 antagonist	0.087	COMP203	(0.080 COMP208/COMP209)
+Prostaglandin F2 alpha agonist	0.032	COMP200	(0.025 COMP204)
+Prostaglandin F2 alpha antagonist	0.056	COMP200	
+Prostaglandin agonist	0.071	COMP204	(0.048 COMP200)
+Prostaglandin-E synthase inhibitor	0.091	COMP199	
+Protease (Human cytomegalovirus) inhibitor	0.033	COMP199	
+Protease 3C (Human rhinovirus) inhibitor	0.071	COMP199	
+Proteasome inhibitor	0.095	COMP200	
+Protein 30S ribosomal subunit inhibitor	0.092	COMP207	(0.049 COMP208/COMP209) (0.031 COMP203)
+Protein 50S ribosomal subunit inhibitor	0.133	COMP208/COMP209	(0.115 COMP203) (0.108 COMP207) (0.077 COMP204) (0.075 COMP200)
+Protein kinase (CK1) gamma 1 inhibitor	0.418	COMP199	
+Protein kinase (CK1) gamma 2 inhibitor	0.300	COMP199	
+Protein kinase (CK1) gamma 3 inhibitor	0.355	COMP199	
+Protein kinase (CK1) gamma inhibitor	0.378	COMP199	
+Protein kinase (CK1) inhibitor	0.150	COMP199	
+Protein kinase (CK2) alpha inhibitor	0.172	COMP199	
+Protein kinase (CK2) beta inhibitor	0.051	COMP199	
+Protein kinase (CK2) inhibitor	0.151	COMP199	
+Protein kinase (CaMK. MLCK. PhK. SNF. KIN. NIM1. MAPKAP. POLO. CHK. ULK. RSK-2nd domain) inhibitor	0.114	COMP199	
+Protein kinase (Mos. Mil/Raf. MEKK. RIPK. TESK. LIMK. IRAK. ILK. Activin/TGF-beta) inhibitor	0.200	COMP199	
+Protein kinase A inhibitor	0.100	COMP199	
+Protein kinase B gamma inhibitor	0.160	COMP199	
+Protein kinase C alpha inhibitor	0.133	COMP199	
+Protein kinase C beta I inhibitor	0.033	COMP207	
+Protein kinase C beta II inhibitor	0.058	COMP199	
+Protein kinase C beta inhibitor	0.118	COMP199	
+Protein kinase C delta inhibitor	0.182	COMP199	
+Protein kinase C epsilon inhibitor	0.052	COMP199	
+Protein kinase C eta inhibitor	0.069	COMP207	
+Protein kinase C gamma inhibitor	0.189	COMP199	
+Protein kinase C mu inhibitor	0.100	COMP199	
+Protein kinase C nu inhibitor	0.266	COMP199	
+Protein kinase C theta inhibitor	0.191	COMP199	
+Protein kinase C zeta inhibitor	0.149	COMP199	(0.103 COMP207)
+Protein kinase stimulant	0.580	COMP207	(0.538 COMP208/COMP209) (0.433 COMP203) (0.272 COMP205) (0.258 COMP204) (0.202 COMP201/COMP202) (0.184 COMP199) (0.166 COMP200) (0.141 COMP206)
+Protein-tyrosine kinase (PTK. not ETK. WZC) inhibitor	0.192	COMP199	
+Protein-tyrosine kinase Lyn inhibitor	0.350	COMP199	
+Protein-tyrosine phosphatase 1B inhibitor	0.587	COMP205	(0.221 COMP201) (0.191 COMP202) (0.175 COMP207) (0.140 COMP203) (0.133 COMP206) (0.108 COMP208/COMP209)
+Protein-tyrosine phosphatase inhibitor	0.570	COMP205	(0.206 COMP201) (0.195 COMP207) (0.190 COMP202) (0.159 COMP203) (0.158 COMP206) (0.128 COMP208/COMP209)
+Proto-oncogene tyrosine-protein kinase Fyn inhibitor	0.450	COMP199	
+Proto-oncogene tyrosine-protein kinase Kit inhibitor	0.092	COMP199	
+Proto-oncogene tyrosine-protein kinase Yes inhibitor	0.381	COMP199	
+Proto-oncogene tyrosine-protein kinase c-hck inhibitor	0.096	COMP199	
+Psychostimulant	0.171	COMP207	(0.137 COMP199)
+Purinergic P2X1 antagonist	0.122	COMP199	
+Purinergic P2X3 antagonist	0.039	COMP199	
+Purinergic P2X4 antagonist	0.062	COMP199	
+Purinergic P2Y antagonist	0.054	COMP199	
+Purinergic P2Y15 antagonist	0.033	COMP199	
+Purinergic P2Y2 agonist	0.010	COMP207	
+Purinergic P2Y2 antagonist	0.058	COMP199	
+Pyruvate kinase inhibitor	0.198	COMP199	(0.155 COMP207)
+RET inhibitor	0.219	COMP199	
+RNA-directed RNA polymerase stimulant	0.083	COMP206	(0.066 COMP201/COMP202)
+Raf kinase B inhibitor	0.109	COMP199	
+Raf kinase C inhibitor	0.145	COMP199	
+Raf kinase inhibitor	0.166	COMP199	
+Retinoic acid alpha receptor agonist	0.076	COMP205	(0.041 COMP200)
+Retinoic acid receptor agonist	0.023	COMP205	
+Retinoid X alpha receptor agonist	0.087	COMP200	(0.033 COMP199)
+Retinoid X alpha receptor antagonist	0.036	COMP200	
+Retinoid X beta receptor antagonist	0.020	COMP200	
+Retinoid X receptor agonist	0.079	COMP200	(0.058 COMP205)
+Retinoid X receptor antagonist	0.040	COMP200	(0.035 COMP199)
+Rho-associated kinase I inhibitor	0.099	COMP199	
+Rho-associated kinase II inhibitor	0.140	COMP199	
+Rho-associated kinase inhibitor	0.111	COMP199	
+Ribosomal protein S6 kinase inhibitor	0.144	COMP199	
+Ryanodine receptor antagonist	0.060	COMP199	
+S-adenosyl-L-methionine decarboxylase inhibitor	0.110	COMP199	
+Secretase beta inhibitor	0.100	COMP199	(0.088 COMP205)
+Selectin antagonist	0.368	COMP207	(0.313 COMP203) (0.307 COMP208/COMP209)
+Sigma receptor antagonist	0.063	COMP200	
+Sirtuin 2 inhibitor	0.089	COMP199	
+Smo receptor antagonist	0.042	COMP199	
+Sodium/bile acid cotransporter inhibitor	0.459	COMP206	(0.382 COMP201/COMP202) (0.247 COMP204) (0.221 COMP200)
+Sodium/glucose cotransporter 2 inhibitor	0.186	COMP207	(0.101 COMP203) (0.093 COMP208/COMP209) (0.070 COMP205) (0.058 COMP204) (0.028 COMP200)
+Sodium/glucose cotransporter inhibitor	0.245	COMP207	(0.098 COMP203) (0.091 COMP208/COMP209) (0.055 COMP204) (0.050 COMP205) (0.029 COMP200)
+Spasmolytic	0.584	COMP207	(0.461 COMP205) (0.302 COMP208/COMP209) (0.288 COMP203) (0.245 COMP200) (0.168 COMP204)
+Sphingomyelinase inhibitor	0.225	COMP207	(0.105 COMP199)
+Sphingosine 1-phosphate receptor 1 agonist	0.072	COMP200	
+Sphingosine 1-phosphate receptor 1 antagonist	0.055	COMP199	
+Sphingosine 1-phosphate receptor 2 antagonist	0.135	COMP199	
+Sphingosine 1-phosphate receptor 3 agonist	0.057	COMP200	
+Sphingosine 1-phosphate receptor 3 antagonist	0.066	COMP199	
+Sphingosine 1-phosphate receptor 4 agonist	0.106	COMP199	
+Sphingosine 1-phosphate receptor 4 antagonist	0.148	COMP199	
+Sphingosine 1-phosphate receptor 5 agonist	0.062	COMP200	
+Sphingosine 1-phosphate receptor 5 antagonist	0.169	COMP199	
+Sphingosine 1-phosphate receptor agonist	0.073	COMP200	
+Sphingosine 1-phosphate receptor antagonist	0.074	COMP199	
+Sphingosine kinase 1 inhibitor	0.050	COMP199	
+Sphingosine kinase 2 inhibitor	0.093	COMP199	
+Sphingosine kinase inhibitor	0.076	COMP199	
+Squalene epoxidase inhibitor	0.048	COMP199	
+Squalene synthetase inhibitor	0.072	COMP206	
+Src kinase inhibitor	0.477	COMP199	
+Stem cell growth factor agonist	0.120	COMP199	
+Streptokinase A inhibitor	0.207	COMP205	
+Succinate dehydrogenase inhibitor	0.369	COMP199	(0.175 COMP205) (0.168 COMP200)
+Superoxide dismutase inhibitor	0.306	COMP199	
+Syk tyrosine kinase inhibitor	0.085	COMP199	
+T cell inhibitor	0.098	COMP199	(0.097 COMP207) (0.086 COMP200) (0.083 COMP208/COMP209) (0.079 COMP204)
+TIE antagonist	0.109	COMP199	
+TIE-2 antagonist	0.101	COMP199	
+TRKA antagonist	0.126	COMP199	
+TRKC antagonist	0.213	COMP199	
+TRPA1 agonist	0.142	COMP199	(0.100 COMP207)
+TRPA1 antagonist	0.057	COMP199	
+Telomerase inhibitor	0.239	COMP199	(0.072 COMP207)
+Telomerase stimulant	0.046	COMP206	(0.029 COMP201/COMP202) (0.025 COMP207)
+Thiol protease inhibitor	0.154	COMP199	
+Thioredoxin inhibitor	0.205	COMP206	(0.204 COMP207) (0.131 COMP201) (0.126 COMP208/COMP209) (0.122 COMP203) (0.098 COMP202)
+Thioredoxin reductase inhibitor	0.097	COMP207	(0.086 COMP203) (0.085 COMP208/COMP209)
+Thrombolytic	0.227	COMP207	(0.174 COMP202) (0.162 COMP201) (0.159 COMP208/COMP209) (0.136 COMP203)
+Thrombopoietin agonist	0.015	COMP199	
+Thromboxane A2 antagonist	0.083	COMP200	
+Thromboxane agonist	0.020	COMP204	(0.010 COMP200)
+Thromboxane antagonist	0.093	COMP200	
+Thymidine kinase (Herpes simplex virus 1) inhibitor	0.036	COMP199	(0.030 COMP204) (0.025 COMP200)
+Thymidine kinase (Herpes simplex virus 2) inhibitor	0.033	COMP199	(0.021 COMP204)
+Thymidine kinase inhibitor	0.063	COMP199	(0.044 COMP204)
+Thymidine phosphorylase inhibitor	0.026	COMP199	
+Thymidylate synthase inhibitor	0.053	COMP199	
+Toll-Like receptor 2 antagonist	0.166	COMP199	(0.109 COMP207)
+Toll-Like receptor 4 agonist	0.033	COMP203	(0.032 COMP207) (0.030 COMP208/COMP209)
+Toll-Like receptor 4 antagonist	0.235	COMP207	(0.221 COMP203) (0.199 COMP208/COMP209)
+Toll-Like receptor 8 agonist	0.020	COMP199	
+Toll-Like receptor 9 antagonist	0.164	COMP199	
+Toll-Like receptor antagonist	0.112	COMP199	
+Topoisomerase I inhibitor	0.384	COMP207	(0.227 COMP205) (0.214 COMP208/COMP209) (0.184 COMP203) (0.135 COMP206) (0.125 COMP202) (0.095 COMP204)
+Topoisomerase II alpha inhibitor	0.349	COMP207	(0.211 COMP205) (0.127 COMP208/COMP209)
+Topoisomerase II beta inhibitor	0.119	COMP199	(0.048 COMP207)
+Topoisomerase II inhibitor	0.465	COMP207	(0.321 COMP205) (0.209 COMP208/COMP209) (0.132 COMP203) (0.103 COMP204)
+Transcortin receptor antagonist	0.008	COMP206	
+Transcription factor NF kappa B inhibitor	0.876	COMP203	(0.875 COMP207) (0.865 COMP208/COMP209) (0.823 COMP201) (0.820 COMP202) (0.819 COMP206) (0.724 COMP205) (0.360 COMP204) (0.350 COMP200) (0.226 COMP199)
+Transcription factor NF kappa B stimulant	0.228	COMP206	(0.214 COMP201/COMP202) (0.156 COMP207) (0.155 COMP203) (0.150 COMP208/COMP209) (0.112 COMP204)
+Transcription factor RelA inhibitor	0.077	COMP205	(0.074 COMP199)
+Transcription factor STAT inhibitor	0.280	COMP199	(0.234 COMP207)
+Transcription factor STAT3 inhibitor	0.210	COMP199	
+Transcription factor STAT6 inhibitor	0.165	COMP199	(0.108 COMP207)
+Transforming growth factor antagonist	0.085	COMP199	
+Transforming growth factor beta 1 antagonist	0.065	COMP199	
+Transforming growth factor beta 3 antagonist	0.088	COMP199	
+Triose-phosphate isomerase inhibitor	0.190	COMP207	(0.151 COMP199) (0.129 COMP204) (0.100 COMP200) (0.081 COMP208/COMP209)
+Tryptophan 5 hydroxylase inhibitor	0.041	COMP199	
+Tubulin agonist	0.082	COMP204	(0.054 COMP208/COMP209) (0.033 COMP206)
+Tubulin antagonist	0.189	COMP205	(0.142 COMP207)
+Tumour necrosis factor alpha release inhibitor	0.546	COMP207	(0.428 COMP203) (0.375 COMP206) (0.355 COMP208/COMP209) (0.296 COMP202) (0.260 COMP201) (0.196 COMP205)
+Tumour necrosis factor antagonist	0.206	COMP199	
+Tyk2 inhibitor	0.069	COMP199	
+Tyrosine 3 hydroxylase inhibitor	0.337	COMP199	(0.235 COMP200)
+Tyrosine kinase inhibitor	0.455	COMP199	
+Tyrosine-protein kinase EMT inhibitor	0.057	COMP199	
+Tyrosine-protein kinase receptor FLT3 inhibitor	0.096	COMP199	
+Tyrosine-protein kinase receptor antagonist	0.127	COMP199	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.169	COMP199	(0.108 COMP207) (0.104 COMP204)
+UDP-glucose 4-epimerase inhibitor	0.366	COMP207	(0.179 COMP199) (0.147 COMP204) (0.118 COMP208/COMP209) (0.108 COMP203) (0.096 COMP200)
+Urease inhibitor	0.118	COMP199	(0.111 COMP205)
+Uric acid excretion stimulant	0.224	COMP207	
+Uridine phosphorylase inhibitor	0.033	COMP207	
+Vanilloid 1 agonist	0.179	COMP207	(0.173 COMP203) (0.165 COMP208/COMP209) (0.121 COMP199) (0.120 COMP204) (0.118 COMP200)
+Vanilloid 1 antagonist	0.074	COMP199	
+Vanilloid 3 antagonist	0.037	COMP199	
+Vanilloid 4 agonist	0.083	COMP199	
+Vanilloid agonist	0.080	COMP203	
+Vanilloid antagonist	0.086	COMP199	
+Vascular adhesion protein 1 inhibitor	0.038	COMP199	
+Vascular endothelial growth factor 1 antagonist	0.315	COMP199	
+Vascular endothelial growth factor 2 antagonist	0.292	COMP199	
+Vascular endothelial growth factor 3 antagonist	0.217	COMP199	
+Vascular endothelial growth factor antagonist	0.319	COMP199	
+Vasodilator	0.484	COMP205	(0.441 COMP207) (0.366 COMP203) (0.306 COMP208/COMP209)
+Vasodilator. coronary	0.800	COMP207	(0.586 COMP203) (0.481 COMP208/COMP209) (0.355 COMP205) (0.297 COMP199) (0.271 COMP200) (0.205 COMP204)
+Vasodilator. peripheral	0.685	COMP203	(0.508 COMP208/COMP209) (0.395 COMP207) (0.363 COMP200) (0.263 COMP204) (0.247 COMP199) (0.189 COMP206)
+Vitamin D receptor agonist	0.018	COMP201/COMP202	(0.015 COMP204)
+Vitamin D receptor antagonist	0.049	COMP201/COMP202	(0.024 COMP206)
+Vitamin D-like	0.004	COMP201/COMP202	
+Xanthine dehydrogenase inhibitor	0.166	COMP207	
+Xanthine oxidase inhibitor	0.835	COMP207	(0.416 COMP203) (0.285 COMP208/COMP209) (0.094 COMP199/COMP205) (0.084 COMP204)
+ZAP-70 protein tyrosine kinase inhibitor	0.097	COMP199	
+c-Src kinase inhibitor	0.388	COMP199	
+mTOR complex 1 inhibitor	0.092	COMP200	
+mTOR complex 2 inhibitor	0.091	COMP199	
+p38 MAP kinase inhibitor	0.148	COMP199	

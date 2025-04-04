@@ -1,0 +1,19 @@
+Name	Activation_Prob	Compound	Another_Probs
+Abortion inducer	0.159	COMP1452	
+Carcinogenic	0.822	COMP1452	
+Carcinogenic. group 1	0.230	COMP1452	
+Carcinogenic. group 2A	0.241	COMP1452	
+Carcinogenic. group 2B	0.346	COMP1452	
+Carcinogenic. group 3	0.416	COMP1452	
+Cytotoxic	0.638	COMP1452	
+DNA damaging	0.674	COMP1452	
+Embryotoxic	0.763	COMP1452	
+Eye irritation. high	0.250	COMP1452	
+Genotoxic	0.956	COMP1452	
+Hypoglycemic	0.720	COMP1452	
+Mutagenic	0.912	COMP1452	
+Sedative	0.162	COMP1452	
+Sensitization	0.801	COMP1452	
+Skin irritative effect	0.126	COMP1452	
+Teratogen	0.796	COMP1452	
+Ulceration	0.553	COMP1452	

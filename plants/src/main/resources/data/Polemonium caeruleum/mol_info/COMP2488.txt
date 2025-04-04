@@ -1,0 +1,10 @@
+Betulinaldehyde
+(1R,3aS,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-9-hydroxy-5a,5b,8,8,11a-pentamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysene-3a-carbaldehyde
+CHEMBL512622
+99615
+None
+C30H48O2
+440.37
+InChI=1S/C30H48O2/c1-19(2)20-10-15-30(18-31)17-16-28(6)21(25(20)30)8-9-23-27(5)13-12-24(32)26(3,4)22(27)11-14-29(23,28)7/h18,20-25,32H,1,8-17H2,2-7H3/t20-,21+,22-,23+,24-,25+,27-,28+,29+,30+/m0/s1
+FELCJAPFJOPHSD-ROUWMTJPSA-N
+O=C[C@@]12CC[C@H]([C@@H]2[C@@H]2[C@](CC1)(C)[C@]1(C)CC[C@@H]3[C@]([C@H]1CC2)(C)CC[C@@H](C3(C)C)O)C(=C)C

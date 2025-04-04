@@ -1,0 +1,151 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.147	COMP318	
+Actinic keratosis treatment	0.092	COMP318	
+Acute respiratory distress syndrome (ARDS) treatment	0.209	COMP1434	
+Anabolic	0.183	COMP318	(0.112 COMP1434)
+Analeptic	0.734	COMP318	(0.693 COMP1434)
+Anesthetic general	0.202	COMP1434	
+Anesthetic inhalation	0.048	COMP318	
+Angiogenesis inhibitor	0.194	COMP1434	
+Angiogenesis stimulant	0.637	COMP1434	(0.226 COMP318)
+Antiacne	0.312	COMP318	(0.257 COMP1434)
+Antialcoholic	0.748	COMP1434	(0.311 COMP318)
+Antibacterial	0.770	COMP1434	(0.703 COMP318)
+Antibiotic	0.312	COMP1434	(0.227 COMP318)
+Antibiotic Aminoglycoside-like	0.095	COMP1434	
+Antibiotic Glycopeptide-like	0.165	COMP1434	
+Antibiotic Macrolide-like	0.024	COMP1434	(0.021 COMP318)
+Anticholelithogenic	0.064	COMP318	
+Antidiabetic	0.612	COMP1434	
+Antidiabetic (type 1)	0.150	COMP1434	(0.120 COMP318)
+Antidiabetic (type 2)	0.176	COMP1434	
+Antidiabetic symptomatic	0.246	COMP1434	
+Antidiarrheal	0.335	COMP1434	(0.226 COMP318)
+Antieczematic	0.159	COMP318	(0.154 COMP1434)
+Antifungal	0.613	COMP318	(0.580 COMP1434)
+Antifungal (Cryptococcus)	0.321	COMP318	(0.180 COMP1434)
+Antifungal enhancer	0.578	COMP1434	(0.342 COMP318)
+Antihelmintic	0.613	COMP1434	(0.372 COMP318)
+Antihemorrhagic	0.348	COMP1434	
+Antihypercholesterolemic	0.445	COMP1434	(0.152 COMP318)
+Antihypermotility	0.107	COMP318	
+Antihypertriglyceridemic	0.285	COMP1434	
+Antihypotensive	0.217	COMP1434	(0.172 COMP318)
+Antihypoxic	0.694	COMP1434	
+Antiinflammatory	0.962	COMP1434	(0.941 COMP318)
+Antileukemic	0.902	COMP1434	(0.839 COMP318)
+Antimutagenic	0.207	COMP1434	
+Antimycobacterial	0.331	COMP1434	(0.291 COMP318)
+Antimycoplasmal	0.109	COMP1434	(0.090 COMP318)
+Antineoplastic (bone cancer)	0.149	COMP1434	
+Antineoplastic (brain cancer)	0.554	COMP1434	(0.248 COMP318)
+Antineoplastic (breast cancer)	0.836	COMP1434	(0.782 COMP318)
+Antineoplastic (carcinoma)	0.707	COMP318	(0.634 COMP1434)
+Antineoplastic (cervical cancer)	0.517	COMP1434	(0.497 COMP318)
+Antineoplastic (colon cancer)	0.794	COMP1434	(0.646 COMP318)
+Antineoplastic (colorectal cancer)	0.805	COMP1434	(0.666 COMP318)
+Antineoplastic (endocrine cancer)	0.317	COMP1434	(0.230 COMP318)
+Antineoplastic (gastric cancer)	0.253	COMP1434	
+Antineoplastic (glioblastoma multiforme)	0.701	COMP1434	(0.386 COMP318)
+Antineoplastic (glioma)	0.738	COMP1434	(0.542 COMP318)
+Antineoplastic (liver cancer)	0.733	COMP1434	(0.563 COMP318)
+Antineoplastic (lung cancer)	0.858	COMP1434	(0.824 COMP318)
+Antineoplastic (lymphocytic leukemia)	0.430	COMP1434	
+Antineoplastic (lymphoma)	0.617	COMP1434	(0.484 COMP318)
+Antineoplastic (melanoma)	0.768	COMP1434	(0.551 COMP318)
+Antineoplastic (multiple myeloma)	0.654	COMP1434	(0.330 COMP318)
+Antineoplastic (myeloid leukemia)	0.365	COMP1434	
+Antineoplastic (non-small cell lung cancer)	0.592	COMP1434	(0.304 COMP318)
+Antineoplastic (osteosarcoma)	0.380	COMP1434	(0.315 COMP318)
+Antineoplastic (ovarian cancer)	0.779	COMP1434	(0.597 COMP318)
+Antineoplastic (pancreatic cancer)	0.748	COMP1434	(0.627 COMP318)
+Antineoplastic (renal cancer)	0.514	COMP1434	(0.259 COMP318)
+Antineoplastic (sarcoma)	0.641	COMP1434	(0.565 COMP318)
+Antineoplastic (small cell lung cancer)	0.303	COMP1434	
+Antineoplastic (squamous cell carcinoma)	0.663	COMP318	(0.549 COMP1434)
+Antineoplastic alkaloid	0.231	COMP318	
+Antineoplastic antibiotic	0.401	COMP1434	(0.358 COMP318)
+Antineoplastic enhancer	0.389	COMP1434	(0.336 COMP318)
+Antineoplastic. alkylator	0.193	COMP1434	
+Antiosteoporotic	0.478	COMP318	(0.296 COMP1434)
+Antioxidant	0.659	COMP1434	(0.566 COMP318)
+Antiparasitic	0.652	COMP1434	(0.428 COMP318)
+Antiprotozoal	0.758	COMP318	(0.542 COMP1434)
+Antiprotozoal (Coccidial)	0.144	COMP318	
+Antiprotozoal (Leishmania)	0.463	COMP1434	(0.300 COMP318)
+Antiprotozoal (Plasmodium)	0.711	COMP318	
+Antiprotozoal (Trypanosoma)	0.425	COMP1434	
+Antiprotozoal activity enhancer	0.086	COMP318	(0.075 COMP1434)
+Antipruritic. allergic	0.556	COMP318	(0.541 COMP1434)
+Antipruritic. non-allergic	0.433	COMP1434	(0.427 COMP318)
+Antipsoriatic	0.403	COMP318	
+Antipyretic	0.290	COMP1434	(0.185 COMP318)
+Antirickettsial	0.187	COMP318	(0.170 COMP1434)
+Antispirochetal	0.270	COMP1434	(0.123 COMP318)
+Antithrombotic	0.789	COMP1434	(0.392 COMP318)
+Antitreponemal	0.086	COMP1434	(0.083 COMP318)
+Antituberculosic	0.197	COMP318	
+Antitussive	0.144	COMP1434	(0.115 COMP318)
+Antiulcerative	0.532	COMP318	(0.476 COMP1434)
+Antiviral (Hepatitis B)	0.241	COMP1434	(0.103 COMP318)
+Antiviral (Hepatitis)	0.207	COMP1434	
+Antiviral (Herpes)	0.318	COMP1434	(0.171 COMP318)
+Antiviral (Influenza A)	0.470	COMP318	(0.355 COMP1434)
+Antiviral (Influenza B)	0.155	COMP1434	
+Antiviral (Influenza)	0.392	COMP318	(0.369 COMP1434)
+Antiviral (Trachoma)	0.093	COMP318	(0.085 COMP1434)
+Apoptosis agonist	0.943	COMP1434	(0.818 COMP318)
+Apoptosis antagonist	0.759	COMP1434	(0.636 COMP318)
+Bone diseases treatment	0.592	COMP318	(0.449 COMP1434)
+Bone formation stimulant	0.121	COMP318	
+Cardioprotectant	0.738	COMP1434	(0.398 COMP318)
+Cardiovascular analeptic	0.537	COMP318	
+Cell wall synthesis inhibitor	0.273	COMP1434	
+Chemopreventive	0.753	COMP1434	(0.415 COMP318)
+Chemoprotective	0.509	COMP1434	(0.257 COMP318)
+Choleretic	0.148	COMP1434	(0.129 COMP318)
+Cholesterol absorption inhibitor	0.100	COMP1434	
+Cholesterol synthesis inhibitor	0.182	COMP318	
+Contraceptive	0.386	COMP318	(0.221 COMP1434)
+Contraceptive female	0.153	COMP318	
+Contraceptive male	0.081	COMP318	
+Cytostatic	0.849	COMP1434	(0.814 COMP318)
+DNA synthesis inhibitor	0.634	COMP1434	(0.448 COMP318)
+Diabetic nephropathy treatment	0.411	COMP1434	
+Diuretic	0.160	COMP318	
+Expectorant	0.412	COMP1434	(0.169 COMP318)
+Growth stimulant	0.158	COMP1434	(0.148 COMP318)
+Hair growth stimulant	0.263	COMP318	(0.251 COMP1434)
+Hepatic disorders treatment	0.700	COMP1434	(0.590 COMP318)
+Hepatoprotectant	0.627	COMP1434	(0.472 COMP318)
+Hypercalcemia treatment	0.302	COMP318	(0.198 COMP1434)
+Hypolipemic	0.376	COMP318	(0.177 COMP1434)
+Immunomodulator	0.443	COMP1434	(0.203 COMP318)
+Immunostimulant	0.539	COMP1434	(0.212 COMP318)
+Immunosuppressant	0.711	COMP318	(0.605 COMP1434)
+Lipoprotein disorders treatment	0.472	COMP318	(0.260 COMP1434)
+Liver fibrosis treatment	0.394	COMP1434	
+Mucolytic	0.241	COMP1434	(0.152 COMP318)
+Narcotic antagonist	0.074	COMP1434	(0.071 COMP318)
+Non-steroidal antiinflammatory agent	0.255	COMP1434	
+Paget's disease treatment	0.124	COMP318	(0.093 COMP1434)
+Photosensitizer	0.113	COMP1434	
+Platelet antagonist	0.306	COMP318	(0.218 COMP1434)
+Postcoital contraceptive	0.078	COMP318	
+Proliferative diseases treatment	0.566	COMP1434	(0.354 COMP318)
+Prostate cancer treatment	0.687	COMP1434	(0.460 COMP318)
+Prostate disorders treatment	0.238	COMP318	(0.191 COMP1434)
+Radioprotector	0.489	COMP1434	(0.295 COMP318)
+Respiratory analeptic	0.678	COMP1434	(0.508 COMP318)
+Sepsis treatment	0.546	COMP1434	(0.469 COMP318)
+Septic shock treatment	0.568	COMP1434	(0.164 COMP318)
+Skin whitener	0.264	COMP1434	(0.111 COMP318)
+Spasmolytic	0.202	COMP1434	(0.158 COMP318)
+T cell inhibitor	0.514	COMP318	(0.271 COMP1434)
+Thrombolytic	0.141	COMP1434	
+Tumour necrosis factor alpha release inhibitor	0.734	COMP1434	(0.550 COMP318)
+Uterine stimulant	0.173	COMP318	
+Vascular (periferal) disease treatment	0.280	COMP1434	
+Vasodilator	0.254	COMP318	(0.248 COMP1434)
+Vasodilator. coronary	0.472	COMP1434	(0.251 COMP318)
+Vasodilator. peripheral	0.204	COMP318	(0.194 COMP1434)

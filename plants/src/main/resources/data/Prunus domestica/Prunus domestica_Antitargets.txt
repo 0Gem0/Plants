@@ -1,0 +1,32 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.843	COMP178	
+ATPase inhibitor	0.154	COMP0	
+Acetylcholinesterase inhibitor	0.113	COMP178	
+Adenosine A1 receptor agonist	0.034	COMP0	
+Adenosine deaminase inhibitor	0.066	COMP0	
+Adenylate cyclase inhibitor	0.109	COMP0	
+Adenylate kinase inhibitor	0.113	COMP0	
+Alcohol dehydrogenase inhibitor	0.096	COMP0	
+Aldosterone antagonist	0.117	COMP178	
+Alpha-mannosidase inhibitor	0.319	COMP0	
+Androgen agonist	0.130	COMP178	
+Androgen antagonist	0.119	COMP178	
+Ca2+-transporting ATPase inhibitor	0.157	COMP0	(0.141 COMP2496)
+Estrogen agonist	0.066	COMP178	
+GABA aminotransferase inhibitor	0.068	COMP0	
+GRP78 expression inhibitor	0.023	COMP0	
+Glucose-6-phosphate isomerase inhibitor	0.153	COMP0	
+Glutamate dehydrogenase inhibitor	0.065	COMP0	
+HMG CoA reductase inhibitor	0.045	COMP178	
+Hexokinase inhibitor	0.210	COMP0	
+Hypoxanthine phosphoribosyltransferase inhibitor	0.033	COMP0	
+Na+ K+ transporting ATPase inhibitor	0.151	COMP178	(0.139 COMP0) (0.126 COMP2496)
+Phosphofructokinase-1 inhibitor	0.280	COMP0	
+Phosphoglycerate kinase inhibitor	0.053	COMP0	
+Phospholipase A2 inhibitor	0.259	COMP178	
+Phospholipase C inhibitor	0.866	COMP178	(0.157 COMP0)
+Phosphorylase inhibitor	0.853	COMP178	(0.135 COMP0)
+Topoisomerase I inhibitor	0.234	COMP0	
+Topoisomerase II alpha inhibitor	0.076	COMP0	
+Triose-phosphate isomerase inhibitor	0.421	COMP0	
+UDP-glucose 4-epimerase inhibitor	0.488	COMP0	

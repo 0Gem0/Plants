@@ -1,0 +1,10 @@
+Lauroside B
+(4R,5S)-4-hydroxy-5-(hydroxymethyl)-3,3-dimethyl-4-[(E,3R)-3-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybut-1-enyl]cyclohexan-1-one
+CHEMBL1689070
+11223421
+CHEBI:69959
+C19H32O9
+404.2
+InChI=1S/C19H32O9/c1-10(27-17-16(25)15(24)14(23)13(9-21)28-17)4-5-19(26)11(8-20)6-12(22)7-18(19,2)3/h4-5,10-11,13-17,20-21,23-26H,6-9H2,1-3H3/b5-4+/t10-,11+,13-,14-,15+,16-,17-,19-/m1/s1
+HNFCTWJBJGEYGD-DZDMONCLSA-N
+OC[C@@H]1CC(=O)CC([C@@]1(O)/C=C/[C@H](O[C@@H]1O[C@H](CO)[C@H]([C@@H]([C@H]1O)O)O)C)(C)C

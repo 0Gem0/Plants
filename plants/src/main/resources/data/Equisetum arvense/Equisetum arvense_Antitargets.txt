@@ -1,0 +1,112 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.060	COMP452	(0.054 COMP2761) (0.026 COMP2918)
+5 Hydroxytryptamine 1A agonist	0.044	COMP2761	
+5 Hydroxytryptamine 1B agonist	0.063	COMP2761	
+5 Hydroxytryptamine 2A agonist	0.083	COMP2761	
+5 Hydroxytryptamine 2B agonist	0.059	COMP2761	
+5 Hydroxytryptamine 2C antagonist	0.210	COMP2761	
+5 Hydroxytryptamine 3 agonist	0.166	COMP2761	
+5 Hydroxytryptamine 3A agonist	0.240	COMP2761	(0.107 COMP2918)
+5 Hydroxytryptamine 4 agonist	0.025	COMP2917	
+ATPase inhibitor	0.241	COMP452	(0.235 COMP2917) (0.218 COMP2918)
+Acetylcholine M1 receptor agonist	0.276	COMP2761	(0.048 COMP2917)
+Acetylcholine M1 receptor antagonist	0.382	COMP2761	(0.213 COMP2917) (0.149 COMP2918)
+Acetylcholine M2 receptor agonist	0.057	COMP2761	
+Acetylcholine M2 receptor antagonist	0.202	COMP2761	(0.063 COMP2917)
+Acetylcholine M3 receptor agonist	0.095	COMP2761	
+Acetylcholine M3 receptor antagonist	0.118	COMP2761	(0.060 COMP2917)
+Aconitate hydratase inhibitor	0.784	COMP2918	(0.149 COMP2917)
+Acyl-CoA dehydrogenase inhibitor	0.245	COMP2918	(0.243 COMP2917)
+Adenosine deaminase inhibitor	0.111	COMP2917	(0.085 COMP2918)
+Adenylate cyclase inhibitor	0.235	COMP2918	(0.199 COMP452) (0.189 COMP2917)
+Adenylate kinase inhibitor	0.432	COMP2918	(0.358 COMP2917)
+Adrenaline uptake inhibitor	0.060	COMP2761	
+Alcohol dehydrogenase inhibitor	0.372	COMP2918	(0.345 COMP2917)
+Aldosterone antagonist	0.085	COMP452	(0.064 COMP2917) (0.057 COMP2918)
+Alkaline phosphatase inhibitor	0.129	COMP2917	(0.113 COMP2918)
+Alpha 1a adrenoreceptor antagonist	0.067	COMP2761	
+Alpha 1b adrenoreceptor antagonist	0.074	COMP2761	
+Alpha 2a adrenoreceptor antagonist	0.166	COMP2761	
+Alpha-mannosidase inhibitor	0.223	COMP2917	(0.137 COMP2918)
+Aminopeptidase A inhibitor	0.047	COMP2918	(0.015 COMP2917)
+Aminopeptidase N inhibitor	0.059	COMP2918	
+Androgen agonist	0.258	COMP452	(0.084 COMP2917) (0.080 COMP2918)
+Androgen antagonist	0.508	COMP452	(0.116 COMP2917) (0.094 COMP2918)
+Arginase inhibitor	0.127	COMP2918	(0.087 COMP2917)
+Argininosuccinate synthase inhibitor	0.329	COMP2918	(0.203 COMP2917)
+Beta 1 adrenoreceptor agonist	0.023	COMP2917	
+Beta 1 adrenoreceptor antagonist	0.100	COMP2917	(0.069 COMP2918)
+Beta 2 adrenoreceptor agonist	0.078	COMP2917	(0.066 COMP2918)
+Beta 2 adrenoreceptor antagonist	0.082	COMP2917	(0.061 COMP2918)
+CYP1A2 inhibitor	0.197	COMP2917	
+CYP2C9 inhibitor	0.353	COMP2761	(0.264 COMP2917) (0.217 COMP2918)
+CYP2D6 inhibitor	0.521	COMP2761	
+CYP3A4 inhibitor	0.471	COMP452	(0.417 COMP2761)
+Ca2+-transporting ATPase inhibitor	0.226	COMP2917	(0.225 COMP2918) (0.142 COMP2761)
+Calcium channel L-type blocker	0.082	COMP2917	
+Cannabinoid CB1 receptor antagonist	0.092	COMP2917	
+Cannabinoid CB2 receptor antagonist	0.133	COMP2917	
+Catalase inhibitor	0.419	COMP2918	(0.357 COMP2917)
+Cyclooxygenase 1 inhibitor	0.118	COMP2918	
+Cystathionine beta-synthase inhibitor	0.365	COMP2918	(0.189 COMP2917) (0.098 COMP2761)
+DOPA decarboxylase inhibitor	0.222	COMP2918	(0.154 COMP2917)
+Diamine oxidase inhibitor	0.049	COMP2917	
+Dihydrofolate reductase inhibitor	0.067	COMP2918	(0.045 COMP2917)
+Dipeptidyl peptidase IV inhibitor	0.041	COMP2761	
+Dopamine D2 agonist	0.232	COMP2761	(0.054 COMP2917)
+Dopamine D2 antagonist	0.144	COMP2761	
+Dopamine uptake inhibitor	0.094	COMP2761	
+Electron transport complex I inhibitor	0.317	COMP2917	(0.108 COMP2918)
+Endothelin A receptor antagonist	0.025	COMP2918	
+Estrogen agonist	0.230	COMP452	
+Excitatory amino acid transporter 2 inhibitor	0.103	COMP2918	
+Fumarate hydratase inhibitor	0.567	COMP2918	(0.075 COMP2917)
+GABA A receptor agonist	0.085	COMP2761	
+GABA aminotransferase inhibitor	0.323	COMP2918	(0.111 COMP2917)
+GABA transporter 1 inhibitor	0.023	COMP2918	(0.020 COMP2917)
+GRP78 expression inhibitor	0.043	COMP2918	(0.027 COMP2917)
+Glucocorticoid agonist	0.064	COMP452	
+Glucocorticoid antagonist	0.103	COMP452	
+Glucose-6-phosphate isomerase inhibitor	0.262	COMP2918	(0.173 COMP2917)
+Glutamate dehydrogenase inhibitor	0.628	COMP2918	(0.182 COMP2917)
+HERG channel blocker	0.476	COMP2761	
+HMG CoA reductase inhibitor	0.071	COMP2918	(0.038 COMP452) (0.034 COMP2917)
+Heat shock protein 70 antagonist	0.201	COMP2918	(0.157 COMP2917) (0.140 COMP2761)
+Hexokinase inhibitor	0.201	COMP2918	(0.172 COMP2917)
+Histamine H1 receptor agonist	0.059	COMP2761	(0.041 COMP2918) (0.040 COMP2917)
+Histamine H1 receptor antagonist	0.176	COMP2761	
+Histamine H2 receptor agonist	0.051	COMP2917	(0.048 COMP2918)
+Histamine H2 receptor antagonist	0.096	COMP2917	(0.090 COMP2761)
+Hypoxanthine phosphoribosyltransferase inhibitor	0.063	COMP2918	(0.061 COMP2917)
+Lysine carboxypeptidase inhibitor	0.153	COMP2918	(0.040 COMP2917)
+NMDA receptor agonist	0.275	COMP2918	(0.101 COMP2917)
+Na+ K+ transporting ATPase inhibitor	0.578	COMP452	(0.118 COMP2918) (0.117 COMP2917)
+Nav1.5 sodium channel blocker	0.112	COMP2761	
+Neuropeptide Y1 antagonist	0.136	COMP2918	
+Neutral endopeptidase inhibitor	0.063	COMP2918	
+Nicotinic alpha4 receptor agonist	0.239	COMP2761	
+Opioid delta receptor agonist	0.034	COMP2761	
+Opioid delta receptor antagonist	0.106	COMP2761	
+Opioid kappa receptor agonist	0.147	COMP452	(0.077 COMP2761)
+Opioid mu receptor agonist	0.070	COMP2761	
+Ornithine carbamoyltransferase inhibitor	0.370	COMP2917	(0.271 COMP2918)
+Peroxidase inhibitor	0.592	COMP2918	(0.528 COMP2917)
+Phenylalanine 4-hydroxylase inhibitor	0.363	COMP2918	(0.178 COMP2917)
+Phosphofructokinase-1 inhibitor	0.483	COMP2918	(0.310 COMP2917)
+Phosphoglycerate kinase inhibitor	0.121	COMP2917	(0.089 COMP2918)
+Phospholipase A2 inhibitor	0.331	COMP2917	(0.328 COMP2918)
+Phospholipase C inhibitor	0.524	COMP2918	(0.522 COMP2917) (0.207 COMP452)
+Phosphorylase inhibitor	0.077	COMP2918	(0.040 COMP2917)
+Prostaglandin F2 alpha agonist	0.084	COMP2918	(0.078 COMP2917)
+Pyruvate kinase inhibitor	0.237	COMP2918	
+Retinoic acid alpha receptor agonist	0.067	COMP2917	(0.061 COMP2918)
+Succinate dehydrogenase inhibitor	0.752	COMP2918	(0.686 COMP2917)
+Superoxide dismutase inhibitor	0.613	COMP2917	(0.544 COMP2918) (0.291 COMP2761)
+Thyroid hormone agonist	0.060	COMP2918	(0.032 COMP2917)
+Thyroid hormone alpha agonist	0.032	COMP2918	
+Thyroid hormone beta agonist	0.015	COMP2918	
+Topoisomerase I inhibitor	0.091	COMP2918	
+Topoisomerase II alpha inhibitor	0.070	COMP2918	
+Triose-phosphate isomerase inhibitor	0.593	COMP2918	(0.334 COMP2917)
+Tyrosine 3 hydroxylase inhibitor	0.600	COMP2918	(0.394 COMP2917) (0.290 COMP2761)
+UDP-glucose 4-epimerase inhibitor	0.312	COMP2917	(0.295 COMP2918)

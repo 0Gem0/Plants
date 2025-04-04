@@ -1,0 +1,38 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake inhibitor	0.080	COMP1757	
+5 Hydroxytryptamine uptake stimulant	0.437	COMP994	(0.421 COMP2318) (0.395 COMP2319) (0.304 COMP1757) (0.217 COMP891)
+Adrenaline uptake inhibitor	0.074	COMP1757	
+Dopamine transporter inhibitor	0.063	COMP1757	
+Dopamine uptake inhibitor	0.129	COMP1757	(0.071 COMP2318)
+Electron transport complex I inhibitor	0.192	COMP2319	(0.128 COMP2320) (0.120 COMP1562) (0.111 COMP1757)
+Endocannabinoid uptake inhibitor	0.094	COMP994	(0.089 COMP2318)
+Equilibrative nucleoside transport protein inhibitor	0.056	COMP1562	
+Excitatory amino acid transporter 1 inhibitor	0.031	COMP994	
+Excitatory amino acid transporter 2 inhibitor	0.068	COMP994	
+Excitatory amino acid transporter 3 inhibitor	0.032	COMP2318/COMP994	
+Excitatory amino acid transporter EAAC1 inhibitor	0.517	COMP994	(0.441 COMP2318)
+Folate transporter 1 inhibitor	0.020	COMP994	(0.009 COMP2318)
+GABA transporter 1 inhibitor	0.023	COMP994	(0.016 COMP2318)
+GABA transporter 2 inhibitor	0.110	COMP994	
+GABA transporter 3 inhibitor	0.083	COMP994	(0.042 COMP2318)
+GABA transporter inhibitor	0.040	COMP994	(0.023 COMP2318)
+GABA uptake inhibitor	0.087	COMP994	(0.065 COMP2318)
+Glycine transporter 2 inhibitor	0.058	COMP994	
+Ileal bile acid transport inhibitor	0.017	COMP994	
+Monocarboxylic acid transporter 1 inhibitor	0.030	COMP994	(0.022 COMP2319)
+Monocarboxylic acid transporter inhibitor	0.030	COMP994	(0.022 COMP2319)
+Multidrug resistance-associated protein 1 inhibitor	0.355	COMP2319	(0.165 COMP1562)
+Nucleoside transporters inhibitor	0.055	COMP2319	(0.045 COMP2318) (0.033 COMP994)
+P-glycoprotein inhibitor	0.666	COMP891	(0.648 COMP2319) (0.313 COMP2320) (0.268 COMP1562) (0.244 COMP1757) (0.171 COMP2314) (0.169 COMP2313)
+P2 nucleoside transporter inhibitor	0.004	COMP2318	
+Proline transporter inhibitor	0.018	COMP2318	
+Sodium-dependent vitamin C transporter 2 inhibitor	0.174	COMP994	(0.077 COMP2318)
+Sodium/bile acid cotransporter inhibitor	0.405	COMP994	(0.300 COMP891) (0.283 COMP2314) (0.275 COMP2313) (0.223 COMP2319) (0.205 COMP1757)
+Sodium/glucose cotransporter 1 inhibitor	0.219	COMP1562	
+Sodium/glucose cotransporter 2 inhibitor	0.219	COMP1562	(0.030 COMP2318)
+Sodium/glucose cotransporter inhibitor	0.304	COMP1562	(0.027 COMP2318)
+Sodium/hydrogen exchanger 5 inhibitor	0.082	COMP1757	
+Urate transporter 1 inhibitor	0.078	COMP994	(0.057 COMP2318)
+Vesicle monoamine transporter inhibitor	0.078	COMP1757	
+Vesicular acetylcholine transporter inhibitor	0.028	COMP1757	(0.027 COMP2318)
+Vesicular glutamate transport inhibitor	0.070	COMP2318	(0.050 COMP994)

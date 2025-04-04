@@ -1,0 +1,49 @@
+Name	Activation_Prob	Compound	Another_Probs
+11-Beta-hydroxysteroid dehydrogenase 2 inhibitor	0.057	COMP153	
+ATPase inhibitor	0.257	COMP155	(0.199 COMP153)
+Acetylcholinesterase inhibitor	0.251	COMP155	(0.181 COMP153) (0.146 COMP1973)
+Aconitate hydratase inhibitor	0.056	COMP155	(0.047 COMP1973)
+Adenylate kinase inhibitor	0.100	COMP1973	
+Aldosterone antagonist	0.058	COMP153	(0.053 COMP1973)
+Alkaline phosphatase inhibitor	0.215	COMP1973	
+Androgen agonist	0.091	COMP153	(0.070 COMP155) (0.058 COMP1973)
+Androgen antagonist	0.202	COMP1973	(0.138 COMP153) (0.135 COMP155)
+Argininosuccinate synthase inhibitor	0.051	COMP1973	
+Aryl hydrocarbon receptor agonist	0.249	COMP1973	
+Butyrylcholinesterase inhibitor	0.093	COMP1973	
+CYP1A2 inhibitor	0.403	COMP1973	
+CYP2C9 inhibitor	0.452	COMP1973	
+CYP2D6 inhibitor	0.184	COMP1973	
+CYP3A4 inhibitor	0.224	COMP153	(0.212 COMP1973)
+Ca2+-transporting ATPase inhibitor	0.187	COMP1973	(0.157 COMP155) (0.144 COMP153)
+Cannabinoid CB2 receptor antagonist	0.320	COMP153	
+Cyclooxygenase 1 inhibitor	0.457	COMP1973	
+Cyclooxygenase 2 inhibitor	0.184	COMP1973	
+Cyclooxygenase inhibitor	0.289	COMP1973	
+Cystathionine beta-synthase inhibitor	0.251	COMP1973	
+DOPA decarboxylase inhibitor	0.154	COMP1973	(0.093 COMP155)
+Electron transport complex I inhibitor	0.199	COMP1973	
+Estrogen agonist	0.087	COMP153	(0.081 COMP155) (0.072 COMP1973)
+Fumarate hydratase inhibitor	0.037	COMP1973	
+GABA A receptor agonist	0.112	COMP155	
+GABA aminotransferase inhibitor	0.120	COMP155	(0.070 COMP153)
+Glucocorticoid antagonist	0.043	COMP153	
+Glucose-6-phosphate isomerase inhibitor	0.050	COMP1973	(0.046 COMP155)
+Glutamate dehydrogenase inhibitor	0.068	COMP1973	(0.067 COMP155)
+MAO A inhibitor	0.265	COMP1973	
+MAO inhibitor	0.416	COMP1973	
+Na+ K+ transporting ATPase inhibitor	0.135	COMP153	(0.116 COMP1973) (0.107 COMP155)
+Peroxidase inhibitor	0.290	COMP1973	
+Phosphodiesterase 4D inhibitor	0.140	COMP1973	
+Phosphofructokinase-1 inhibitor	0.088	COMP1973	
+Phospholipase A2 inhibitor	0.386	COMP1973	
+Phospholipase C inhibitor	0.235	COMP1973	
+Prostaglandin F2 alpha agonist	0.029	COMP1973	
+Retinoic acid alpha receptor agonist	0.153	COMP155	(0.041 COMP1973) (0.039 COMP153)
+Succinate dehydrogenase inhibitor	0.231	COMP1973	(0.178 COMP155) (0.143 COMP153)
+Superoxide dismutase inhibitor	0.704	COMP1973	
+Topoisomerase I inhibitor	0.089	COMP1973	
+Topoisomerase II alpha inhibitor	0.176	COMP1973	
+Triose-phosphate isomerase inhibitor	0.088	COMP155	(0.081 COMP1973)
+Tyrosine 3 hydroxylase inhibitor	0.312	COMP1973	(0.222 COMP155)
+UDP-glucose 4-epimerase inhibitor	0.151	COMP1973	(0.096 COMP155)

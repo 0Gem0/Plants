@@ -1,0 +1,18 @@
+Name	Activation_Prob	Compound	Another_Probs
+Abortion inducer	0.422	COMP1995	(0.402 COMP1994)
+Carcinogenic	0.304	COMP1995	(0.187 COMP1994)
+Carcinogenic. group 1	0.267	COMP1995	(0.241 COMP1994)
+Carcinogenic. group 2A	0.117	COMP1995	(0.099 COMP1994)
+Carcinogenic. group 2B	0.082	COMP1995	
+Carcinogenic. group 3	0.181	COMP1995	(0.147 COMP1994)
+Cardiodepressant	0.147	COMP1995	
+Cytotoxic	0.284	COMP1995	(0.237 COMP1994)
+Embryotoxic	0.466	COMP1995	(0.381 COMP1994)
+Eye irritation. high	0.797	COMP1995	(0.728 COMP1994)
+Genotoxic	0.352	COMP1995	(0.220 COMP1994)
+Mutagenic	0.425	COMP1995	(0.272 COMP1994)
+Pneumotoxic	0.165	COMP1995	(0.150 COMP1994)
+Sedative	0.138	COMP1994	
+Sensitization	0.408	COMP1994	(0.374 COMP1995)
+Skin irritative effect	0.907	COMP1995	(0.861 COMP1994)
+Teratogen	0.444	COMP1995	(0.356 COMP1994)

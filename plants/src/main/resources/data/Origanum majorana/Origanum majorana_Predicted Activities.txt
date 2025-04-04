@@ -1,0 +1,605 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.710	COMP101	
+15-Lipoxygenase inhibitor	0.639	COMP101	
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.101	COMP101	
+3-Hydroxyanthranilate 3.4-dioxygenase inhibitor	0.045	COMP101	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.093	COMP101	
+5 Hydroxytryptamine 1E antagonist	0.316	COMP101	
+5 Hydroxytryptamine 2A agonist	0.071	COMP101	
+5 Hydroxytryptamine release inhibitor	0.351	COMP101	
+5 Hydroxytryptamine release stimulant	0.593	COMP101	
+5 Hydroxytryptamine uptake stimulant	0.518	COMP101	
+5-Alpha-reductase inhibitor	0.036	COMP101	
+5-Lipoxygenase inhibitor	0.316	COMP101	
+AMP-activated protein kinase stimulant	0.093	COMP101	
+AR expression inhibitor	0.557	COMP101	
+ATP citrate lysase inhibitor	0.034	COMP101	
+ATPase (Vacuolar H+) inhibitor	0.110	COMP101	
+ATPase inhibitor	0.224	COMP1740/COMP1741	(0.218 COMP101)
+Abortion inducer	0.320	COMP101	
+Acaricide	0.146	COMP101	
+Acetylcholine M1 receptor agonist	0.053	COMP1740/COMP1741	
+Acetylcholine M1 receptor antagonist	0.184	COMP1740/COMP1741	
+Acetylcholine M2 receptor agonist	0.085	COMP1740/COMP1741	
+Acetylcholine M2 receptor antagonist	0.256	COMP1740/COMP1741	
+Acetylcholine M3 receptor agonist	0.167	COMP1740/COMP1741	
+Acetylcholine M4 receptor agonist	0.045	COMP1740/COMP1741	
+Acetylcholine M4 receptor antagonist	0.093	COMP1740/COMP1741	
+Acetylcholine agonist	0.103	COMP1740/COMP1741	
+Acetylcholine antagonist	0.269	COMP1740/COMP1741	
+Acetylcholine muscarinic agonist	0.087	COMP1740/COMP1741	
+Acetylcholine muscarinic antagonist	0.222	COMP1740/COMP1741	
+Acetylcholine nicotinic antagonist	0.078	COMP1740/COMP1741	
+Acetylcholine release stimulant	0.119	COMP101	
+Acetylcholinesterase inhibitor	0.151	COMP101	
+Adenosine uptake inhibitor	0.033	COMP101	
+Adenylate cyclase 1 inhibitor	0.085	COMP101	
+Adenylate cyclase inhibitor	0.138	COMP101	
+Adenylate cyclase stimulant	0.250	COMP101	
+Adenylate kinase inhibitor	0.104	COMP101	
+Adrenaline agonist	0.121	COMP101	
+Alcohol dehydrogenase substrate	0.161	COMP101	
+Aldehyde dehydrogenase inhibitor	0.119	COMP101	
+Aldehyde dehydrogenase substrate	0.172	COMP101	
+Aldehyde oxidase inhibitor	0.561	COMP101	
+Aldehyde oxidase substrate	0.250	COMP101	
+Alkaline phosphatase inhibitor	0.247	COMP101	
+Alpha 2 adrenoreceptor agonist	0.097	COMP101	
+Alpha 2 adrenoreceptor antagonist	0.140	COMP1740/COMP1741	(0.121 COMP101)
+Alpha 2a adrenoreceptor antagonist	0.140	COMP1740/COMP1741	(0.114 COMP101)
+Alpha 2b adrenoreceptor agonist	0.026	COMP101	
+Alpha 2b adrenoreceptor antagonist	0.237	COMP1740/COMP1741	(0.197 COMP101)
+Alpha 2c adrenoreceptor agonist	0.019	COMP101	
+Alpha 2c adrenoreceptor antagonist	0.252	COMP1740/COMP1741	(0.170 COMP101)
+Alpha 2d adrenoreceptor antagonist	0.109	COMP101	
+Alpha adrenoreceptor agonist	0.095	COMP101	
+Alpha adrenoreceptor antagonist	0.119	COMP1740/COMP1741	
+Alpha tubulin antagonist	0.202	COMP101	
+Alpha-N-acetylglucosaminidase inhibitor	0.120	COMP101	
+Alpha-glucosidase inhibitor	0.507	COMP101	(0.265 COMP1740/COMP1741)
+Alzheimer's disease treatment	0.763	COMP1740/COMP1741	
+Amidase inhibitor	0.074	COMP101	
+Amylase inhibitor	0.362	COMP101	
+Amyloid beta aggregation inhibitor	0.434	COMP101	
+Amyloid beta precursor protein antagonist	0.170	COMP101	
+Anabolic	0.141	COMP101	
+Analeptic	0.576	COMP101	(0.208 COMP1740/COMP1741)
+Analgesic. opioid	0.082	COMP1740/COMP1741	
+Androgen agonist	0.063	COMP101	
+Androgen antagonist	0.115	COMP101	
+Anesthetic	0.289	COMP101	(0.218 COMP1740/COMP1741)
+Anesthetic general	0.695	COMP1740/COMP1741	(0.560 COMP101)
+Anesthetic inhalation	0.071	COMP101	
+Anesthetic local	0.259	COMP101	
+Angiogenesis inhibitor	0.403	COMP101	
+Angiogenesis stimulant	0.239	COMP101	
+Antiadrenergic	0.110	COMP1740/COMP1741	
+Antialcoholic	0.171	COMP101	
+Antiallergic	0.324	COMP101	
+Antiamyloidogenic	0.322	COMP101	
+Antianemic	0.148	COMP101	
+Antianorexic	0.133	COMP101	
+Antiarrhythmic	0.287	COMP1740/COMP1741	
+Antibacterial	0.375	COMP101	(0.334 COMP1740/COMP1741)
+Antibacterial (Helicobacter pylori)	0.150	COMP101	
+Antibiotic	0.069	COMP101	
+Antibiotic Anthracycline-like	0.019	COMP101	
+Antibiotic Trimethoprim-like	0.017	COMP101	
+Anticholelithogenic	0.066	COMP101	
+Antidiarrheal	0.148	COMP101	
+Antidote	0.184	COMP101	
+Antidote. heavy metal	0.069	COMP101	
+Antidote. mercury	0.092	COMP101	
+Antieczematic	0.175	COMP101	
+Antifungal	0.324	COMP101	(0.239 COMP1740/COMP1741)
+Antifungal (Aspergillus)	0.139	COMP101	
+Antifungal (Candida)	0.094	COMP101	
+Antifungal (Cryptococcus)	0.156	COMP101	
+Antifungal (Pneumocystis)	0.180	COMP101	
+Antifungal enhancer	0.237	COMP101	(0.134 COMP1740/COMP1741)
+Antiglaucomic	0.266	COMP101	
+Antihelmintic	0.266	COMP101	
+Antihelmintic (Fasciola)	0.107	COMP101	
+Antihelmintic (Nematodes)	0.185	COMP101	
+Antihelmintic (Trematoda)	0.143	COMP101	
+Antihemorrhagic	0.204	COMP101	
+Antihypercholesterolemic	0.503	COMP101	
+Antihyperlipoproteinemic	0.137	COMP101	
+Antihypertensive	0.365	COMP1740/COMP1741	
+Antihypertriglyceridemic	0.488	COMP101	
+Antihypotensive	0.415	COMP101	(0.205 COMP1740/COMP1741)
+Antihypoxic	0.381	COMP101	
+Antiinflammatory	0.655	COMP101	(0.395 COMP1740/COMP1741)
+Antiischemic	0.194	COMP101	
+Antileukemic	0.530	COMP101	
+Antimigraine	0.149	COMP1740/COMP1741	
+Antimitotic	0.362	COMP101	
+Antimutagenic	0.853	COMP101	
+Antimycoplasmal	0.093	COMP101	
+Antineoplastic (bladder cancer)	0.213	COMP101	
+Antineoplastic (bone cancer)	0.196	COMP101	
+Antineoplastic (brain cancer)	0.421	COMP101	(0.289 COMP1740/COMP1741)
+Antineoplastic (breast cancer)	0.565	COMP101	
+Antineoplastic (carcinoma)	0.274	COMP101	(0.109 COMP1740/COMP1741)
+Antineoplastic (cervical cancer)	0.406	COMP101	
+Antineoplastic (colon cancer)	0.446	COMP101	
+Antineoplastic (colorectal cancer)	0.455	COMP101	
+Antineoplastic (endocrine cancer)	0.364	COMP101	
+Antineoplastic (gastric cancer)	0.230	COMP101	
+Antineoplastic (glioblastoma multiforme)	0.415	COMP101	
+Antineoplastic (glioma)	0.433	COMP101	
+Antineoplastic (liver cancer)	0.328	COMP101	(0.295 COMP1740/COMP1741)
+Antineoplastic (lung cancer)	0.608	COMP101	(0.350 COMP1740/COMP1741)
+Antineoplastic (lymphocytic leukemia)	0.276	COMP101	
+Antineoplastic (lymphoma)	0.403	COMP101	
+Antineoplastic (melanoma)	0.531	COMP101	
+Antineoplastic (multiple myeloma)	0.435	COMP101	
+Antineoplastic (myeloid leukemia)	0.824	COMP1740/COMP1741	
+Antineoplastic (non-small cell lung cancer)	0.573	COMP101	
+Antineoplastic (osteosarcoma)	0.357	COMP101	
+Antineoplastic (ovarian cancer)	0.426	COMP101	
+Antineoplastic (pancreatic cancer)	0.386	COMP101	
+Antineoplastic (renal cancer)	0.365	COMP101	
+Antineoplastic (sarcoma)	0.309	COMP101	
+Antineoplastic (small cell lung cancer)	0.283	COMP101	
+Antineoplastic (solid tumors)	0.313	COMP101	
+Antineoplastic (squamous cell carcinoma)	0.254	COMP101	(0.122 COMP1740/COMP1741)
+Antineoplastic (uterine cancer)	0.144	COMP101	
+Antineoplastic alkaloid	0.187	COMP1740/COMP1741	(0.085 COMP101)
+Antineoplastic antibiotic	0.082	COMP1740/COMP1741	(0.075 COMP101)
+Antineoplastic enhancer	0.197	COMP101	
+Antiosteoporotic	0.268	COMP101	
+Antioxidant	0.628	COMP101	(0.225 COMP1740/COMP1741)
+Antiparasitic	0.307	COMP101	
+Antiparkinsonian	0.397	COMP1740/COMP1741	(0.291 COMP101)
+Antiprotozoal	0.480	COMP1740/COMP1741	(0.314 COMP101)
+Antiprotozoal (Amoeba)	0.137	COMP101	
+Antiprotozoal (Leishmania)	0.426	COMP101	
+Antiprotozoal (Plasmodium)	0.525	COMP1740/COMP1741	(0.224 COMP101)
+Antiprotozoal (Toxoplasma)	0.119	COMP101	
+Antiprotozoal (Trypanosoma)	0.310	COMP101	
+Antiprotozoal activity enhancer	0.155	COMP1740/COMP1741	(0.087 COMP101)
+Antipruritic. allergic	0.427	COMP101	
+Antipruritic. non-allergic	0.273	COMP101	
+Antipsychotic	0.272	COMP1740/COMP1741	
+Antipyretic	0.530	COMP101	
+Antirickettsial	0.185	COMP101	
+Antiseptic	0.640	COMP101	
+Antispirochetal	0.174	COMP101	
+Antithrombotic	0.397	COMP101	
+Antitreponemal	0.078	COMP101	
+Antitussive	0.111	COMP101	
+Antiulcerative	0.325	COMP101	
+Antiviral (Coronavirus)	0.159	COMP101	
+Antiviral (HIV)	0.187	COMP101	
+Antiviral (Hepatitis B)	0.148	COMP1740/COMP1741	
+Antiviral (Herpes)	0.155	COMP101	
+Antiviral (Influenza A)	0.145	COMP101	
+Antiviral (Influenza B)	0.116	COMP101	
+Antiviral (Influenza)	0.178	COMP101	
+Antiviral (Papilloma)	0.109	COMP101	
+Antiviral (SARS coronavirus)	0.159	COMP101	
+Antiviral (Trachoma)	0.086	COMP1740/COMP1741	
+Antiviral (West Nile virus)	0.240	COMP101	
+Apoptosis agonist	0.716	COMP101	(0.555 COMP1740/COMP1741)
+Apoptosis antagonist	0.356	COMP101	(0.319 COMP1740/COMP1741)
+Arachidonic acid antagonist	0.216	COMP101	
+Aromatase inhibitor	0.115	COMP101	
+Arylamine N-Acetyltransferase substrate	0.121	COMP101	
+Beta 1 adrenoreceptor antagonist	0.097	COMP101	
+Beta 2 adrenoreceptor agonist	0.066	COMP101	
+Beta 2 adrenoreceptor antagonist	0.090	COMP101	
+Beta 3 adrenoreceptor antagonist	0.133	COMP101	
+Beta adrenoreceptor agonist	0.045	COMP101	
+Beta adrenoreceptor antagonist	0.130	COMP101	
+Beta amyloid protein antagonist	0.150	COMP101	
+Beta glucuronidase inhibitor	0.146	COMP101	
+Beta tubulin antagonist	0.249	COMP101	
+Bile acid receptor antagonist	0.125	COMP101	
+Bone diseases treatment	0.313	COMP101	
+Bone formation stimulant	0.143	COMP101	
+Breast cancer-resistant protein inhibitor	0.233	COMP101	
+Bronchodilator	0.148	COMP101	
+Butyrylcholinesterase inhibitor	0.099	COMP101	
+CDC25A inhibitor	0.111	COMP101	
+CDC25B inhibitor	0.080	COMP101	
+CF transmembrane conductance regulator agonist	0.198	COMP101	
+CTGF expression inhibitor	0.561	COMP101	
+CYP1A2 inhibitor	0.413	COMP101	
+CYP1A2 substrate	0.707	COMP101	
+CYP2A6 inhibitor	0.093	COMP101	
+CYP2B6 inhibitor	0.330	COMP101	
+CYP2C19 inhibitor	0.472	COMP101	(0.248 COMP1740/COMP1741)
+CYP2C19 substrate	0.588	COMP101	
+CYP2C9 inhibitor	0.411	COMP1740/COMP1741	(0.363 COMP101)
+CYP2C9 substrate	0.680	COMP101	
+CYP2D6 inhibitor	0.539	COMP1740/COMP1741	(0.196 COMP101)
+CYP2D6 substrate	0.648	COMP101	
+CYP3A4 inhibitor	0.380	COMP1740/COMP1741	(0.329 COMP101)
+CYP3A4 substrate	0.502	COMP101	
+Ca(v)3.1 blocker	0.097	COMP101	
+Ca2+-transporting ATPase inhibitor	0.152	COMP101	
+Calcium antagonist	0.099	COMP101	
+Calcium channel L-type activator	0.470	COMP1740/COMP1741	(0.313 COMP101)
+Calcium channel L-type blocker	0.103	COMP1740/COMP1741	(0.073 COMP101)
+Calcium channel P-type blocker	0.088	COMP101	
+Calcium channel activator	0.390	COMP101	(0.263 COMP1740/COMP1741)
+Calcium channel blocker	0.201	COMP1740/COMP1741	
+Carbonic anhydrase III inhibitor	0.153	COMP101	
+Carbonic anhydrase V inhibitor	0.092	COMP101	
+Carbonic anhydrase VA inhibitor	0.094	COMP101	
+Carbonic anhydrase VB inhibitor	0.072	COMP101	
+Carbonic anhydrase VI inhibitor	0.146	COMP101	
+Carbonic anhydrase VII inhibitor	0.054	COMP101	
+Carbonic anhydrase XIII inhibitor	0.208	COMP101	
+Carbonic anhydrase XIV inhibitor	0.059	COMP101	
+Carbonic anhydrase XV inhibitor	0.151	COMP101	
+Carcinogenic	0.504	COMP101	
+Carcinogenic. group 1	0.317	COMP101	
+Carcinogenic. group 2A	0.198	COMP101	
+Carcinogenic. group 2B	0.492	COMP101	
+Carcinogenic. group 3	0.359	COMP101	
+Cardiodepressant	0.626	COMP101	
+Cardioprotectant	0.550	COMP1740/COMP1741	(0.473 COMP101)
+Cardiotonic	0.341	COMP1740/COMP1741	
+Cardiovascular analeptic	0.720	COMP101	
+Caspase 3 inhibitor	0.099	COMP101	
+Caspase 3 stimulant	0.634	COMP101	
+Caspase 9 stimulant	0.829	COMP101	
+Catechol O-methyltransferase inhibitor	0.079	COMP101	
+Cathepsin G inhibitor	0.065	COMP101	
+Cell adhesion inhibitor	0.103	COMP101	
+Chelator	0.163	COMP101	
+Chemopreventive	0.511	COMP101	(0.358 COMP1740/COMP1741)
+Chemoprotective	0.567	COMP101	
+Choleretic	0.233	COMP101	
+Cholesterol antagonist	0.506	COMP101	
+Cholesterol synthesis inhibitor	0.260	COMP101	
+Cholinergic	0.188	COMP1740/COMP1741	
+Cholinergic antagonist	0.271	COMP1740/COMP1741	
+Chronic obstructive bronchitis treatment	0.108	COMP101	
+Coagulant	0.198	COMP101	
+Cocaine dependence treatment	0.147	COMP101	
+Cognition disorders treatment	0.289	COMP1740/COMP1741	
+Contraceptive	0.102	COMP101	
+Contraceptive female	0.172	COMP101	
+Creatine kinase inhibitor	0.107	COMP101	
+Cyclic AMP phosphodiesterase inhibitor	0.243	COMP101	
+Cyclooxygenase 1 inhibitor	0.231	COMP101	
+Cyclooxygenase 2 inhibitor	0.122	COMP101	
+Cyclooxygenase 3 inhibitor	0.281	COMP101	
+Cyclooxygenase inhibitor	0.164	COMP101	
+Cystathionine beta-synthase inhibitor	0.288	COMP101	
+Cytidine deaminase inhibitor	0.146	COMP101	
+Cytostatic	0.431	COMP101	
+Cytotoxic	0.384	COMP101	
+D-Ala-D-Ala ligase inhibitor	0.087	COMP101	
+DNA damaging	0.438	COMP1740/COMP1741	(0.288 COMP101)
+DNA directed DNA polymerase inhibitor	0.339	COMP101	
+DNA methylase inhibitor	0.327	COMP101	
+DNA methyltransferase I inhibitor	0.335	COMP101	
+DNA polymerase I inhibitor	0.138	COMP101	
+DNA polymerase beta inhibitor	0.326	COMP101	
+DOPA decarboxylase inhibitor	0.179	COMP101	
+Dementia treatment	0.134	COMP101	
+Diamine oxidase inhibitor	0.040	COMP101	
+Dihydrofolate reductase inhibitor	0.058	COMP101	
+Dihydroorotate oxidase inhibitor	0.080	COMP101	
+Dihydropteroate synthase inhibitor	0.046	COMP101	
+Dopamine D1 agonist	0.029	COMP101	
+Dopamine D1 antagonist	0.105	COMP101	
+Dopamine D5 agonist	0.086	COMP101	
+Dopamine beta hydroxylase inhibitor	0.082	COMP101	
+Dopamine transporter inhibitor	0.050	COMP1740/COMP1741	
+Dual specificity phosphatase inhibitor	0.157	COMP101	
+Elastase 1 inhibitor	0.069	COMP101	
+Electron transport complex I inhibitor	0.193	COMP101	
+Embryotoxic	0.384	COMP101	
+Endocannabinoid uptake inhibitor	0.141	COMP101	
+Epidermal growth factor antagonist	0.093	COMP101	
+Epidermal growth factor receptor kinase inhibitor	0.157	COMP101	
+ErbB-1 antagonist	0.258	COMP101	
+ErbB-3 antagonist	0.079	COMP101	
+Estradiol 17 beta-dehydrogenase 1 inhibitor	0.040	COMP101	
+Estradiol 17 beta-dehydrogenase 3 inhibitor	0.056	COMP101	
+Estradiol 17 beta-dehydrogenase inhibitor	0.095	COMP101	
+Estrogen agonist	0.082	COMP101	
+Estrogen antagonist	0.165	COMP101	
+Estrogen receptor alpha agonist	0.057	COMP101	
+Estrogen receptor alpha antagonist	0.136	COMP101	
+Estrogen receptor beta agonist	0.070	COMP101	
+Estrogen receptor beta antagonist	0.145	COMP101	
+Estrogen-related receptor beta agonist	0.121	COMP101	
+Estrogen-related receptor beta antagonist	0.030	COMP101	
+Excitatory amino acid transporter EAAC1 inhibitor	0.092	COMP101	
+Expectorant	0.292	COMP101	
+Exportin-1 inhibitor	0.101	COMP101	
+Eye irritation. high	0.287	COMP101	
+FMO1 substrate	0.621	COMP101	
+FMO3 substrate	0.507	COMP101	
+Factor III inhibitor	0.079	COMP101	
+Falcipain 3 inhibitor	0.098	COMP101	
+Farnesoid X receptor antagonist	0.133	COMP101	
+Fatty acid synthase inhibitor	0.077	COMP101	
+Fibroblast growth factor 4 antagonist	0.068	COMP101	
+Flavin-containing monooxygenase substrate	0.423	COMP101	
+Free radical scavenger	0.610	COMP101	
+GABA B receptor agonist	0.095	COMP101	
+GABA C receptor agonist	0.127	COMP101	
+GABA C receptor antagonist	0.150	COMP101	
+GABA C receptor rho-1 antagonist	0.148	COMP101	
+GABA C receptor rho-2 antagonist	0.241	COMP101	
+GABA C receptor rho-3 antagonist	0.454	COMP101	
+GABA aminotransferase inhibitor	0.161	COMP101	
+GABA transporter 3 inhibitor	0.037	COMP101	
+GST A substrate	0.638	COMP101	
+GST M1-1 substrate	0.364	COMP101	
+GST P1-1 substrate	0.509	COMP101	
+GST T1-1 substrate	0.105	COMP101	
+Gastric antisecretory	0.088	COMP101	
+Gastritis treatment	0.177	COMP101	
+Genotoxic	0.841	COMP101	
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.514	COMP101	
+Glucose-6-phosphate isomerase inhibitor	0.044	COMP101	
+Glucose-6-phosphate translocase inhibitor	0.098	COMP101	
+Glutamate (mGluR3) agonist	0.030	COMP101	
+Glutamate (mGluR7) antagonist	0.064	COMP101	
+Glutamate (mGluR8) agonist	0.040	COMP101	
+Glutamate decarboxylase inhibitor	0.166	COMP101	
+Glutamate dehydrogenase inhibitor	0.069	COMP101	
+Glutathione S-transferase inhibitor	0.135	COMP101	
+Glutathione S-transferase substrate	0.273	COMP101	
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.231	COMP101	
+Glycine receptor agonist	0.127	COMP1740/COMP1741	(0.092 COMP101)
+Glycine receptor antagonist	0.171	COMP1740/COMP1741	(0.095 COMP101)
+Gout treatment	0.097	COMP101	
+Granulocyte macrophage colony stimulating factor agonist	0.125	COMP101	
+Growth hormone agonist	0.157	COMP101	
+HIV-1 integrase (3'-Processing) inhibitor	0.127	COMP101	
+HIV-1 integrase (Overall Integration) inhibitor	0.212	COMP101	
+HIV-1 integrase (Strand Transfer) inhibitor	0.114	COMP101	
+HIV-1 integrase inhibitor	0.097	COMP101	
+Hair growth stimulant	0.157	COMP101	
+Heat shock protein 70 antagonist	0.190	COMP101	
+Heat shock protein 90 alpha antagonist	0.167	COMP101	
+Heat shock protein 90 antagonist	0.173	COMP101	
+Heme oxygenase inhibitor	0.043	COMP101	
+Hemostatic	0.161	COMP101	
+Hepatoprotectant	0.273	COMP101	(0.213 COMP1740/COMP1741)
+Histamine release inhibitor	0.452	COMP101	
+Histidine decarboxylase inhibitor	0.142	COMP101	
+Histone acetyltransferase inhibitor	0.189	COMP101	
+Huntington's disease treatment	0.382	COMP1740/COMP1741	
+Hyperparathyroidism treatment	0.057	COMP101	
+Hypoglycemic	0.333	COMP101	
+Hypogonadism treatment	0.040	COMP1740/COMP1741	
+Hypolipemic	0.227	COMP101	
+Hypoxia-inducible factor 1 alpha inhibitor	0.434	COMP1740/COMP1741	(0.416 COMP101)
+I kappa B kinase epsilon inhibitor	0.235	COMP101	
+ICAM1 expression inhibitor	0.376	COMP101	(0.192 COMP1740/COMP1741)
+Imidazoline I1 receptor antagonist	0.020	COMP101	
+Immunostimulant	0.216	COMP101	
+Immunosuppressant	0.456	COMP101	(0.199 COMP1740/COMP1741)
+Inducible nitric-oxide synthase inhibitor	0.142	COMP101	
+Inosine monophosphate dehydrogenase 2 inhibitor	0.025	COMP101	
+Inosine monophosphate dehydrogenase inhibitor	0.054	COMP101	
+Insulin secretagoues	0.156	COMP101	
+Insulin sensitizer	0.260	COMP101	
+Insulysin inhibitor	0.321	COMP101	
+Interferon gamma antagonist	0.302	COMP101	
+Interleukin 1 antagonist	0.112	COMP101	
+Interleukin 1b antagonist	0.139	COMP101	
+Interleukin 4 antagonist	0.210	COMP101	
+Interleukin agonist	0.234	COMP101	
+Kainate receptor agonist	0.054	COMP101	
+Keratolytic	0.154	COMP101	
+LDLR expression enhancer	0.301	COMP101	
+Leukotriene B4 antagonist	0.141	COMP101	
+Leukotriene B4 receptor 1 antagonist	0.049	COMP101	
+Leukotriene C antagonist	0.061	COMP101	
+Leukotriene C4 antagonist	0.038	COMP101	
+Leukotriene antagonist	0.127	COMP101	
+Leukotriene synthesis inhibitor	0.123	COMP101	
+Lipase inhibitor	0.098	COMP101	
+Lipid peroxidase inhibitor	0.325	COMP101	
+Lipoprotein disorders treatment	0.264	COMP101	
+Lipoxygenase inhibitor	0.600	COMP101	
+Liver X receptor alpha agonist	0.040	COMP101	
+Lysophosphatidic acid 2 receptor antagonist	0.053	COMP101	
+Lysophosphatidic acid 3 receptor antagonist	0.072	COMP101	
+M18 aspartyl aminopeptidase inhibitor	0.214	COMP101	
+MAO A inhibitor	0.252	COMP101	
+MAO B inhibitor	0.130	COMP101	
+MAO inhibitor	0.220	COMP101	
+MAP kinase 1 inhibitor	0.251	COMP101	
+MAP kinase kinase 7 inhibitor	0.088	COMP101	
+Macrophage migration inhibitory factor inhibitor	0.168	COMP101	
+Mannose-6-phosphate isomerase inhibitor	0.137	COMP101	
+Mcl-1 antagonist	0.158	COMP101	
+Mediator release inhibitor	0.160	COMP101	
+Melanin inhibitor	0.526	COMP101	
+Melatonin 1 agonist	0.059	COMP101	
+Melatonin 2 agonist	0.104	COMP101	
+Melatonin agonist	0.079	COMP101	
+Melatonin receptor 1A agonist	0.048	COMP101	
+Microtubule formation inhibitor	0.265	COMP1740/COMP1741	(0.226 COMP101)
+Monophenol monooxygenase inhibitor	0.450	COMP101	
+Movement disorders treatment	0.148	COMP101	
+Mucolytic	0.260	COMP101	
+Multidrug resistance-associated protein 1 inhibitor	0.105	COMP101	
+Muscle relaxant	0.347	COMP101	
+Mutagenic	0.407	COMP101	
+Myasthenia Gravis treatment	0.100	COMP101	
+Myeloperoxidase inhibitor	0.093	COMP101	
+Myocardial infarction treatment	0.161	COMP1740/COMP1741	
+NAD(P)H dehydrogenase (quinone) inhibitor	0.112	COMP101	
+NADH dehydrogenase inhibitor	0.084	COMP101	
+NADPH oxidase inhibitor	0.238	COMP101	
+NOS2 expression inhibitor	0.694	COMP101	
+NOS3 expression enhancer	0.409	COMP101	
+NOS3 expression inhibitor	0.376	COMP101	
+Na+ K+ transporting ATPase inhibitor	0.096	COMP101	
+Narcotic antagonist	0.130	COMP101	(0.080 COMP1740/COMP1741)
+Neuraminidase (Influenza B) inhibitor	0.028	COMP101	
+Neuraminidase (influenza) inhibitor	0.079	COMP101	
+Neuraminidase inhibitor	0.089	COMP101	
+Neurotensin receptor agonist	0.206	COMP101	
+Neurotrophic factor	0.260	COMP101	
+Neurotrophic factor enhancer	0.350	COMP101	
+Nicotinic acid receptor 2 antagonist	0.025	COMP101	
+Nicotinic alpha3beta2 receptor antagonist	0.051	COMP101	
+Nicotinic alpha4beta2 receptor antagonist	0.086	COMP101	
+Nitric oxide antagonist	0.441	COMP101	(0.231 COMP1740/COMP1741)
+Nitric-oxide synthase inhibitor	0.109	COMP101	
+Nitric-oxide synthase stimulant	0.260	COMP101	
+Non-steroidal antiinflammatory agent	0.305	COMP101	
+Nucleoside transporters inhibitor	0.029	COMP101	
+Opioid kappa receptor agonist	0.042	COMP1740/COMP1741	
+Opioid kappa receptor antagonist	0.077	COMP1740/COMP1741	
+Ornithine decarboxylase inhibitor	0.134	COMP101	
+Oxytocin antagonist	0.040	COMP1740/COMP1741	
+P-glycoprotein inhibitor	0.259	COMP101	
+Papain-like protease (SARS coronavirus) inhibitor	0.222	COMP101	
+Peptidyltransferase inhibitor	0.236	COMP101	
+Peroxidase inhibitor	0.355	COMP101	
+Peroxisome proliferator-activated receptor delta agonist	0.035	COMP101	
+Peroxisome proliferator-activated receptor gamma agonist	0.060	COMP101	
+Peroxisome proliferator-activated receptor gamma antagonist	0.066	COMP101	
+Phenylalanine 4-hydroxylase inhibitor	0.160	COMP101	
+Phobic disorders treatment	0.159	COMP101	
+Phosphodiesterase 4B inhibitor	0.085	COMP101	
+Phosphodiesterase 4D inhibitor	0.231	COMP101	
+Phosphodiesterase 6D inhibitor	0.106	COMP101	
+Phosphodiesterase IV inhibitor	0.152	COMP101	
+Phosphodiesterase VI inhibitor	0.077	COMP101	
+Phosphofructokinase-1 inhibitor	0.096	COMP101	
+Phosphoglycerate kinase inhibitor	0.042	COMP101	
+Phospholipase A2 inhibitor	0.180	COMP101	
+Phospholipase C inhibitor	0.229	COMP101	
+Photosensitizer	0.145	COMP101	
+Platelet adhesion inhibitor	0.283	COMP101	(0.149 COMP1740/COMP1741)
+Platelet antagonist	0.189	COMP1740/COMP1741	
+Pneumotoxic	0.523	COMP101	
+Polo-like kinase-4 inhibitor	0.100	COMP1740/COMP1741	
+Porphobilinogen synthase inhibitor	0.081	COMP101	
+Postcoital contraceptive	0.097	COMP101	
+Postmenopausal disorders treatment	0.074	COMP101	
+Potassium channel Kv1.3 blocker	0.116	COMP101	
+Pregnane X receptor antagonist	0.074	COMP101	
+Progesterone antagonist	0.030	COMP101	
+Prolactin inhibitor	0.174	COMP101	
+Proliferative diseases treatment	0.440	COMP101	
+Prostaglandin EP2 antagonist	0.155	COMP101	
+Prostaglandin F2 alpha agonist	0.023	COMP101	
+Prostaglandin dehydrogenase inhibitor	0.318	COMP101	
+Prostate cancer treatment	0.461	COMP101	
+Prostate disorders treatment	0.165	COMP1740/COMP1741	
+Protease activated receptor 1 antagonist	0.038	COMP1740/COMP1741	
+Proteasome inhibitor	0.132	COMP101	
+Protein kinase stimulant	0.251	COMP101	
+Protein-tyrosine phosphatase 1B inhibitor	0.270	COMP101	
+Protein-tyrosine phosphatase inhibitor	0.304	COMP101	
+Psychostimulant	0.395	COMP1740/COMP1741	(0.292 COMP101)
+Purinergic P2X1 antagonist	0.059	COMP101	
+Pyruvate kinase inhibitor	0.361	COMP101	
+RNA-directed DNA polymerase inhibitor	0.226	COMP101	
+Radioprotector	0.605	COMP101	
+Radiosensitizer	0.325	COMP101	
+Respiratory analeptic	0.688	COMP101	(0.242 COMP1740/COMP1741)
+Retinoid X alpha receptor agonist	0.056	COMP101	
+Retinoid X receptor agonist	0.063	COMP101	
+Ryanodine receptor antagonist	0.090	COMP101	
+SULT1A1 substrate	0.248	COMP101	
+SULT1A2 substrate	0.122	COMP101	
+SULT1A3 substrate	0.284	COMP101	
+SULT1E1 substrate	0.089	COMP101	
+SULT2A1 substrate	0.087	COMP101	
+Sedative	0.545	COMP1740/COMP1741	(0.384 COMP101)
+Sensitization	0.614	COMP101	
+Septic shock treatment	0.189	COMP101	
+Shock treatment	0.119	COMP101	
+Sigma receptor agonist	0.344	COMP101	
+Skeletal muscle relaxant	0.311	COMP101	
+Skin irritative effect	0.452	COMP101	
+Skin whitener	0.481	COMP101	
+Sodium-dependent vitamin C transporter 2 inhibitor	0.038	COMP101	
+Sodium/bile acid cotransporter inhibitor	0.281	COMP101	
+Sodium/glucose cotransporter 2 inhibitor	0.030	COMP101	
+Sodium/glucose cotransporter inhibitor	0.025	COMP101	
+Spasmolytic	0.444	COMP101	(0.416 COMP1740/COMP1741)
+Sphingomyelinase inhibitor	0.158	COMP101	
+Sphingosine 1-phosphate receptor 2 antagonist	0.138	COMP101	
+Sphingosine kinase 2 inhibitor	0.100	COMP101	
+Sphingosine kinase inhibitor	0.078	COMP101	
+Squalene epoxidase inhibitor	0.049	COMP101	
+Squalene synthetase inhibitor	0.090	COMP101	
+Streptokinase A inhibitor	0.180	COMP101	
+Stroke treatment	0.309	COMP1740/COMP1741	
+Succinate dehydrogenase inhibitor	0.341	COMP101	
+Sulfotransferase substrate	0.633	COMP101	
+Superoxide dismutase inhibitor	0.678	COMP101	
+TNF expression inhibitor	0.633	COMP101	
+TRPA1 agonist	0.271	COMP101	
+TRPA1 antagonist	0.057	COMP101	
+TRPM8 blocker	0.055	COMP101	
+Teratogen	0.401	COMP101	
+Thiol protease inhibitor	0.123	COMP101	
+Thioredoxin inhibitor	0.109	COMP101	
+Thioredoxin reductase inhibitor	0.088	COMP101	
+Thrombolytic	0.119	COMP101	
+Thyroid hormone antagonist	0.204	COMP101	
+Thyroid hormone beta antagonist	0.190	COMP101	
+Tocolytic	0.106	COMP101	
+Toll-Like receptor 2 antagonist	0.266	COMP101	
+Toll-Like receptor 4 antagonist	0.165	COMP1740/COMP1741	(0.150 COMP101)
+Topoisomerase I inhibitor	0.121	COMP101	
+Topoisomerase II alpha inhibitor	0.143	COMP101	
+Topoisomerase II inhibitor	0.123	COMP101	
+Toxic. respiratory center	0.149	COMP101	
+Transcription factor NF kappa B inhibitor	0.680	COMP101	(0.362 COMP1740/COMP1741)
+Transcription factor NF kappa B stimulant	0.161	COMP101	
+Transcription factor RelA inhibitor	0.096	COMP101	
+Transcription factor STAT inhibitor	0.279	COMP101	
+Transcription factor STAT3 inhibitor	0.312	COMP101	
+Transcription factor inhibitor	0.311	COMP101	
+Triose-phosphate isomerase inhibitor	0.094	COMP101	
+Tubulin antagonist	0.454	COMP101	
+Tumour necrosis factor alpha release inhibitor	0.410	COMP101	
+Tumour necrosis factor antagonist	0.297	COMP101	
+Tyrosine 3 hydroxylase inhibitor	0.418	COMP101	
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.107	COMP101	
+UDP-glucose 4-epimerase inhibitor	0.091	COMP101	
+UDP-glucuronosyltransferase substrate	0.430	COMP101	
+UGT1A1 substrate	0.614	COMP101	
+UGT1A3 substrate	0.596	COMP101	
+UGT1A4 substrate	0.614	COMP101	
+UGT1A6 substrate	0.576	COMP101	
+UGT1A9 substrate	0.530	COMP101	
+UGT2B1 substrate	0.324	COMP101	
+UGT2B10 substrate	0.449	COMP101	
+UGT2B11 substrate	0.245	COMP101	
+UGT2B15 substrate	0.536	COMP101	
+UGT2B4 substrate	0.624	COMP101	
+UGT2B7 substrate	0.354	COMP101	
+UGT2B9 substrate	0.341	COMP101	
+Ulceration	0.472	COMP101	
+Urease inhibitor	0.150	COMP101	
+Uridine phosphorylase inhibitor	0.035	COMP101	
+Uterine stimulant	0.206	COMP101	
+VCAM antagonist	0.038	COMP101	
+VCAM-1 antagonist	0.039	COMP101	
+VCAM1 expression inhibitor	0.391	COMP101	
+VEGF expression inhibitor	0.215	COMP101	
+Vanilloid 1 agonist	0.445	COMP101	
+Vanilloid 2 agonist	0.032	COMP101	
+Vanilloid 2 antagonist	0.104	COMP101	
+Vanilloid 3 antagonist	0.045	COMP101	
+Vanilloid agonist	0.339	COMP101	
+Vascular (periferal) disease treatment	0.508	COMP1740/COMP1741	(0.198 COMP101)
+Vascular dementia treatment	0.128	COMP101	
+Vasodilator	0.623	COMP1740/COMP1741	(0.343 COMP101)
+Vasodilator. coronary	0.389	COMP101	
+Vasodilator. peripheral	0.675	COMP1740/COMP1741	(0.400 COMP101)
+Vesicle monoamine transporter inhibitor	0.049	COMP101	
+Xanthine dehydrogenase inhibitor	0.090	COMP101	
+Xanthine oxidase inhibitor	0.248	COMP101	

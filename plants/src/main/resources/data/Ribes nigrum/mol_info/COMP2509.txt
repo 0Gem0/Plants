@@ -1,0 +1,10 @@
+(2R,3S,4S,2'r,3'r)-2,2'-Bis-(3,4,5-Trihydroxy-Phenyl)-3,4,3',4'-Tetrahydro-2H,2'h-[4,8']Bichromenyl-3,5,7,3',5',7'-Hexaol
+(2R,3R)-2-(3,4,5-trihydroxyphenyl)-8-[(2R,3S,4S)-3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-4-yl]-3,4-dihydro-2H-chromene-3,5,7-triol
+CHEMBL349509
+442682
+CHEBI:5270
+C30H26O14
+610.13
+InChI=1S/C30H26O14/c31-11-5-14(33)22-21(6-11)43-29(10-3-18(37)26(41)19(38)4-10)27(42)24(22)23-15(34)8-13(32)12-7-20(39)28(44-30(12)23)9-1-16(35)25(40)17(36)2-9/h1-6,8,20,24,27-29,31-42H,7H2/t20-,24+,27+,28-,29-/m1/s1
+RTEDIEITOBJPNI-MMKMIGCXSA-N
+Oc1cc(O)c2c(c1)O[C@@H]([C@H]([C@@H]2c1c(O)cc(c2c1O[C@@H]([C@@H](C2)O)c1cc(O)c(c(c1)O)O)O)O)c1cc(O)c(c(c1)O)O

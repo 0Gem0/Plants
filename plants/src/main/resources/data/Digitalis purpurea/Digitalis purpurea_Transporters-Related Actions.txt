@@ -1,0 +1,25 @@
+Name	Activation_Prob	Compound	Another_Probs
+5 Hydroxytryptamine uptake stimulant	0.413	COMP389/COMP390	(0.356 COMP1984)
+Apical sodium codependent bile acid transporter inhibitor	0.026	COMP1346	(0.021 COMP1986) (0.019 COMP1347)
+Electron transport complex I inhibitor	0.220	COMP1984	
+Endocannabinoid uptake inhibitor	0.135	COMP389/COMP390	
+Equilibrative nucleoside transport protein inhibitor	0.061	COMP1530/COMP1979	(0.060 COMP1978) (0.059 COMP1977) (0.054 COMP1981) (0.053 COMP1983) (0.049 COMP1980) (0.048 COMP1982)
+Excitatory amino acid transporter EAAC1 inhibitor	0.249	COMP389/COMP390	
+GABA transporter 1 inhibitor	0.018	COMP389/COMP390	
+GABA transporter 2 inhibitor	0.059	COMP389/COMP390	
+GABA transporter 3 inhibitor	0.082	COMP389/COMP390	
+GABA transporter inhibitor	0.033	COMP389/COMP390	
+GABA uptake inhibitor	0.058	COMP389/COMP390	
+Glycine transporter 2 inhibitor	0.073	COMP389/COMP390	
+Monocarboxylic acid transporter 1 inhibitor	0.025	COMP389/COMP390	
+Monocarboxylic acid transporter inhibitor	0.025	COMP389/COMP390	
+Multidrug resistance-associated protein 1 inhibitor	0.142	COMP1984	
+P-glycoprotein inhibitor	0.542	COMP1985/COMP1991	(0.497 COMP1993) (0.493 COMP1989) (0.485 COMP1986) (0.482 COMP1346) (0.464 COMP1992) (0.461 COMP1988) (0.415 COMP1987) (0.395 COMP1347) (0.391 COMP1990) (0.377 COMP1984) (0.362 COMP1982) (0.361 COMP1977) (0.357 COMP1979) (0.333 COMP1981) (0.326 COMP1530/COMP1980) (0.323 COMP1983) (0.297 COMP1978) (0.293 COMP389/COMP390)
+Sodium-dependent vitamin C transporter 2 inhibitor	0.106	COMP389/COMP390	
+Sodium/bile acid cotransporter inhibitor	0.523	COMP1346	(0.507 COMP1986) (0.497 COMP1347) (0.465 COMP1988) (0.449 COMP1992) (0.436 COMP1990) (0.426 COMP1987) (0.414 COMP1985/COMP1991) (0.399 COMP1993) (0.353 COMP389/COMP390) (0.342 COMP1989)
+Sodium/calcium exchanger inhibitor	0.046	COMP1984	
+Sodium/glucose cotransporter 1 inhibitor	0.106	COMP1978	(0.085 COMP1983) (0.084 COMP1530) (0.070 COMP1979) (0.063 COMP1977) (0.051 COMP1981) (0.046 COMP1980) (0.039 COMP1982) (0.034 COMP1984) (0.029 COMP1987) (0.024 COMP1993)
+Sodium/glucose cotransporter 2 inhibitor	0.149	COMP1978	(0.144 COMP1530) (0.137 COMP1979) (0.135 COMP1983) (0.134 COMP1981) (0.133 COMP1977) (0.126 COMP1980) (0.116 COMP1982) (0.038 COMP1984) (0.028 COMP1987) (0.025 COMP1993) (0.024 COMP1989)
+Sodium/glucose cotransporter inhibitor	0.190	COMP1978	(0.173 COMP1530) (0.155 COMP1979) (0.151 COMP1983) (0.139 COMP1977) (0.138 COMP1981) (0.123 COMP1980) (0.102 COMP1982) (0.030 COMP1984/COMP1987) (0.027 COMP1993) (0.025 COMP1985/COMP1991)
+Urate transporter 1 inhibitor	0.041	COMP389/COMP390	
+Vesicular glutamate transport inhibitor	0.030	COMP389/COMP390	

@@ -1,0 +1,122 @@
+0,979  0,004  Analgesic
+0,941  0,002  Analgesic, opioid
+0,917  0,003  Psychostimulant
+0,867  0,002  Opioid agonist
+0,860  0,002  Opioid antagonist
+0,855  0,004  Spasmolytic
+0,844  0,001  Opioid mu receptor antagonist
+0,835  0,001  Opioid mu receptor agonist
+0,789  0,002  Opioid delta receptor antagonist
+0,777  0,003  Anesthetic general
+0,773  0,001  Opioid kappa receptor antagonist
+0,738  0,002  Opioid delta receptor agonist
+0,736  0,005  5 Hydroxytryptamine release stimulant
+0,661  0,001  Opioid kappa receptor agonist
+0,656  0,003  Sigma receptor agonist
+0,645  0,004  Sigma receptor antagonist
+0,619  0,004  Antipruritic
+0,561  0,004  Alpha 2 adrenoreceptor antagonist
+0,552  0,004  Alpha 2a adrenoreceptor antagonist
+0,519  0,041  Transcription factor NF kappa B inhibitor
+0,478  0,004  Acetylcholine M1 receptor antagonist
+0,442  0,002  Toll-Like receptor 4 antagonist
+0,431  0,004  Toll-Like receptor antagonist
+0,452  0,046  Immunosuppressant
+0,400  0,008  Cholinergic antagonist
+0,390  0,008  Acetylcholine antagonist
+0,476  0,098  Antiinflammatory
+0,382  0,038  Antioxidant
+0,343  0,033  Nitric oxide antagonist
+0,336  0,042  Free radical scavenger
+0,362  0,069  Vasodilator, peripheral
+0,322  0,035  5 Hydroxytryptamine uptake stimulant
+0,302  0,029  Hepatoprotectant
+0,277  0,022  Cholinergic
+0,265  0,012  Acetylcholine muscarinic antagonist
+0,283  0,032  P-glycoprotein inhibitor
+0,302  0,052  Hypoglycemic
+0,252  0,004  Prolactin inhibitor
+0,251  0,007  Dopamine agonist
+0,361  0,133  Apoptosis agonist
+0,302  0,077  Sodium/bile acid cotransporter inhibitor
+0,235  0,010  Acetylcholine nicotinic antagonist
+0,245  0,021  Alpha adrenoreceptor antagonist
+0,219  0,005  Dopamine D2 agonist
+0,264  0,062  Vasodilator
+0,212  0,018  Expectorant
+0,197  0,019  Nav1.1 sodium channel blocker
+0,275  0,104  Apoptosis antagonist
+0,217  0,047  Lipocortins synthesis antagonist
+0,187  0,017  Antineoplastic alkaloid
+0,261  0,092  Immunostimulant
+0,201  0,033  Acetylcholinesterase inhibitor
+0,266  0,099  Caspase 3 stimulant
+0,204  0,038  Interleukin 6 antagonist
+0,160  0,015  Acetylcholine M3 receptor agonist
+0,157  0,012  Neuronal nicotinic receptor antagonist
+0,136  0,003  Prolactin release inhibitor
+0,155  0,022  Breast cancer-resistant protein inhibitor
+0,161  0,033  Antiadrenergic
+0,178  0,051  Lipid peroxidase inhibitor
+0,138  0,013  Alpha 2d adrenoreceptor antagonist
+0,268  0,143  Histamine release inhibitor
+0,176  0,052  Protein kinase stimulant
+0,155  0,030  Alpha 2c adrenoreceptor antagonist
+0,138  0,017  Dopamine D1 antagonist
+0,214  0,097  Aldehyde oxidase inhibitor
+0,243  0,127  Interleukin 2 agonist
+0,124  0,011  Glycine receptor agonist
+0,120  0,008  Dopamine D5 antagonist
+0,168  0,057  NOS3 expression enhancer
+0,157  0,046  DNA polymerase I inhibitor
+0,302  0,192  Caspase 9 stimulant
+0,115  0,005  Nociceptin (N/OFQ) receptor antagonist
+0,148  0,049  Cyclooxygenase 3 inhibitor
+0,186  0,091  Neurotrophic factor enhancer
+0,125  0,037  Creatine kinase inhibitor
+0,140  0,052  Adenylate cyclase inhibitor
+0,241  0,158  Calcium channel activator
+0,122  0,043  Adrenaline antagonist
+0,142  0,065  Ca2+-transporting ATPase inhibitor
+0,124  0,049  Estrogen antagonist
+0,103  0,030  Glycine receptor antagonist
+0,138  0,065  Nav1.2 sodium channel blocker
+0,071  0,003  NMDA receptor phencyclidine site antagonist
+0,111  0,045  Estrogen receptor beta antagonist
+0,200  0,136  Tyrosine 3 hydroxylase inhibitor
+0,104  0,044  Acetylcholine agonist
+0,118  0,060  Alpha 2b adrenoreceptor antagonist
+0,100  0,047  Androgen antagonist
+0,093  0,041  Dopamine antagonist
+0,063  0,011  Nicotinic receptor beta4 subunit antagonist
+0,078  0,026  Dopamine uptake inhibitor
+0,069  0,020  Acetylcholine M2 receptor agonist
+0,086  0,037  Dopamine D2 antagonist
+0,053  0,004  Dopamine D1 agonist
+0,142  0,094  Growth hormone agonist
+0,118  0,072  M18 aspartyl aminopeptidase inhibitor
+0,093  0,049  Antineoplastic antibiotic
+0,065  0,024  Nicotinic receptor alpha7 subunit antagonist
+0,107  0,068  Electron transport complex I inhibitor
+0,222  0,185  Antiobesity
+0,056  0,025  Nicotinic receptor alpha4 subunit antagonist
+0,036  0,008  Nociceptin (N/OFQ) receptor agonist
+0,055  0,028  Dopamine transporter inhibitor
+0,078  0,052  Na+ K+ transporting ATPase inhibitor
+0,133  0,108  Melanin inhibitor
+0,058  0,041  Lipocortins synthesis agonist
+0,059  0,046  Adrenaline uptake inhibitor
+0,049  0,036  Estrogen agonist
+0,079  0,067  CC chemokine 5 receptor agonist
+0,090  0,079  Anabolic
+0,042  0,032  Nicotinic receptor alpha3 subunit antagonist
+0,041  0,032  Acetylcholine M1 receptor agonist
+0,044  0,036  11-Beta-hydroxysteroid dehydrogenase 1 inhibitor
+0,030  0,022  Acetylcholine M4 receptor agonist
+0,028  0,022  RNA-directed RNA polymerase stimulant
+0,123  0,118  Adenylate cyclase stimulant
+0,049  0,045  Acetylcholine muscarinic agonist
+0,063  0,059  NMDA 2 receptor antagonist
+0,032  0,030  Tubulin agonist
+0,035  0,034  Glucose-6-phosphate dehydrogenase inhibitor
+

@@ -1,0 +1,360 @@
+Name	Activation_Prob	Compound	Another_Probs
+12-Lipoxygenase inhibitor	0.866	COMP180	(0.857 COMP1974)
+15-Lipoxygenase inhibitor	0.855	COMP1974	(0.777 COMP180) (0.216 COMP1247)
+2.3-Oxidosqualene-lanosterol cyclase inhibitor	0.036	COMP1247	
+3(or 17)beta-hydroxysteroid dehydrogenase inhibitor	0.063	COMP1247	
+3-Oxoacyl-[acyl-carrier-protein] synthase inhibitor	0.390	COMP1974	(0.197 COMP180)
+3C-like protease (Human coronavirus) inhibitor	0.174	COMP1247	(0.140 COMP1974)
+4-Hydroxyphenylpyruvate dioxygenase inhibitor	0.026	COMP1247	
+5 Hydroxytryptamine 1E antagonist	0.185	COMP180	(0.183 COMP1974) (0.175 COMP1247)
+5 Hydroxytryptamine release inhibitor	0.535	COMP180	(0.519 COMP1974)
+5 Hydroxytryptamine release stimulant	0.367	COMP180	(0.279 COMP1247) (0.239 COMP1974)
+5 Hydroxytryptamine uptake stimulant	0.478	COMP1247	(0.450 COMP180) (0.410 COMP1974)
+5-Alpha-reductase 1 inhibitor	0.047	COMP1247	
+5-Alpha-reductase 2 inhibitor	0.019	COMP1247	
+5-Alpha-reductase inhibitor	0.211	COMP1247	
+5-Lipoxygenase inhibitor	0.405	COMP1974	(0.391 COMP180)
+ABCA1 expression enhancer	0.113	COMP1974	
+AMP-activated protein kinase stimulant	0.228	COMP1974	(0.184 COMP180) (0.120 COMP1247)
+ATP citrate lysase inhibitor	0.047	COMP1974	(0.029 COMP180)
+ATPase (Vacuolar H+) inhibitor	0.120	COMP1247	(0.086 COMP180)
+ATPase inhibitor	0.286	COMP1247	(0.149 COMP180) (0.140 COMP1974)
+Acetylcholine M1 receptor antagonist	0.134	COMP1247	
+Acetylcholine nicotinic antagonist	0.074	COMP1247	
+Acetylcholinesterase inhibitor	0.483	COMP180	(0.452 COMP1974)
+Adenosine A3 receptor antagonist	0.067	COMP1974	
+Adenosine deaminase inhibitor	0.053	COMP1974	
+Adenosine uptake inhibitor	0.046	COMP1247	
+Adenylate cyclase stimulant	0.162	COMP1974	(0.158 COMP1247) (0.156 COMP180)
+Adenylate kinase inhibitor	0.095	COMP1247	
+Alcohol dehydrogenase inhibitor	0.285	COMP1974	(0.115 COMP180)
+Alcohol oxidase inhibitor	0.051	COMP1974	
+Aldehyde dehydrogenase inhibitor	0.188	COMP1974	(0.137 COMP180)
+Aldehyde oxidase inhibitor	0.855	COMP1974	(0.789 COMP180) (0.153 COMP1247)
+Aldose reductase inhibitor	0.420	COMP180	(0.390 COMP1974)
+Aldosterone antagonist	0.087	COMP1247	
+Alkaline phosphatase inhibitor	0.355	COMP1974	(0.338 COMP180)
+Alkylator	0.234	COMP180	(0.226 COMP1974) (0.162 COMP1247)
+Alpha 2b adrenoreceptor agonist	0.028	COMP1247	
+Alpha 2c adrenoreceptor antagonist	0.087	COMP180	
+Alpha tubulin antagonist	0.530	COMP180	(0.434 COMP1974)
+Alpha-N-acetylglucosaminidase inhibitor	0.124	COMP1247	
+Amylase inhibitor	0.711	COMP1974	(0.620 COMP180)
+Amyloid beta aggregation inhibitor	0.785	COMP180	(0.769 COMP1974)
+Amyloid beta precursor protein antagonist	0.324	COMP1974	(0.320 COMP180)
+Anabolic	0.176	COMP1247	(0.106 COMP1974)
+Androgen agonist	0.080	COMP1247	
+Androgen antagonist	0.149	COMP1247	(0.145 COMP1974) (0.097 COMP180)
+Anesthetic general	0.162	COMP180	
+Angiogenesis inhibitor	0.310	COMP1974	(0.252 COMP180)
+Angiogenesis stimulant	0.385	COMP1974	(0.379 COMP1247) (0.315 COMP180)
+Antiamyloidogenic	0.604	COMP180	(0.548 COMP1974)
+Antibacterial	0.482	COMP1974	(0.423 COMP180) (0.391 COMP1247)
+Antiinflammatory	0.766	COMP1247	(0.690 COMP1974) (0.653 COMP180)
+Antimitotic	0.619	COMP180	(0.512 COMP1974) (0.229 COMP1247)
+Antineoplastic antibiotic	0.217	COMP1247	(0.192 COMP1974) (0.145 COMP180)
+Antioxidant	0.899	COMP1974	(0.872 COMP180) (0.367 COMP1247)
+Antithrombotic	0.347	COMP1974	(0.329 COMP180) (0.202 COMP1247)
+Apoptosis agonist	0.888	COMP180	(0.882 COMP1974) (0.769 COMP1247)
+Apoptosis antagonist	0.614	COMP1974	(0.531 COMP180) (0.199 COMP1247)
+Arachidonic acid antagonist	0.216	COMP1247	(0.182 COMP180) (0.181 COMP1974)
+Arginase inhibitor	0.080	COMP1974	(0.039 COMP180)
+Aromatase inhibitor	0.256	COMP1974	(0.189 COMP180) (0.059 COMP1247)
+Aryl hydrocarbon receptor agonist	0.774	COMP1974	(0.598 COMP180)
+Aryl hydrocarbon receptor antagonist	0.156	COMP1974	(0.080 COMP180)
+Beta 3 adrenoreceptor antagonist	0.065	COMP180	(0.060 COMP1974)
+Beta adrenoreceptor antagonist	0.062	COMP180	
+Beta amyloid protein antagonist	0.134	COMP180	
+Beta glucuronidase inhibitor	0.369	COMP180	(0.309 COMP1974)
+Beta tubulin antagonist	0.458	COMP180	(0.364 COMP1974)
+Biliverdin reductase inhibitor	0.057	COMP1247	
+Bone formation stimulant	0.278	COMP180	(0.224 COMP1974)
+Breast cancer-resistant protein inhibitor	0.703	COMP1974	(0.672 COMP180)
+Bronchodilator	0.127	COMP180	(0.087 COMP1974)
+Butyrylcholinesterase inhibitor	0.265	COMP180/COMP1974	
+CD45 antagonist	0.085	COMP1974	(0.054 COMP180)
+CDC25A inhibitor	0.237	COMP1974	(0.209 COMP180) (0.131 COMP1247)
+CDC25B inhibitor	0.160	COMP1974	(0.103 COMP180)
+CDK1/cyclin B1 inhibitor	0.062	COMP180	
+CDK2/cyclin A inhibitor	0.082	COMP1974	
+CDK4/cyclin D1 inhibitor	0.078	COMP1974	
+CF transmembrane conductance regulator agonist	0.192	COMP1974	(0.135 COMP180) (0.128 COMP1247)
+CXC chemokine 1 receptor antagonist	0.063	COMP1974	
+CYP2A6 inhibitor	0.229	COMP1247	
+Ca2+-transporting ATPase inhibitor	0.153	COMP1247	(0.135 COMP1974) (0.130 COMP180)
+Calcium antagonist	0.104	COMP180	
+Calcium channel L-type activator	0.372	COMP180	
+Calcium channel P-type blocker	0.079	COMP1247	
+Calcium channel activator	0.301	COMP1247	(0.297 COMP180)
+Carbonic anhydrase III inhibitor	0.620	COMP1974	(0.403 COMP180)
+Carbonic anhydrase IV inhibitor	0.042	COMP1974	
+Carbonic anhydrase V inhibitor	0.205	COMP1974	(0.122 COMP180)
+Carbonic anhydrase VA inhibitor	0.183	COMP1974	(0.114 COMP180)
+Carbonic anhydrase VB inhibitor	0.077	COMP1974	(0.060 COMP180)
+Carbonic anhydrase VI inhibitor	0.565	COMP1974	(0.382 COMP180)
+Carbonic anhydrase VII inhibitor	0.317	COMP1974	(0.229 COMP180)
+Carbonic anhydrase XII inhibitor	0.098	COMP1974	(0.047 COMP180)
+Carbonic anhydrase XIII inhibitor	0.693	COMP1974	(0.619 COMP180)
+Carbonic anhydrase XIV inhibitor	0.161	COMP1974	(0.093 COMP180)
+Carbonic anhydrase XV inhibitor	0.353	COMP1974	(0.235 COMP180)
+Carbonic anhydrase inhibitor	0.056	COMP1974	
+Caspase 3 stimulant	0.772	COMP180	(0.765 COMP1974) (0.325 COMP1247)
+Caspase 9 stimulant	0.916	COMP180	(0.909 COMP1974) (0.470 COMP1247)
+Chelator	0.434	COMP1974	(0.352 COMP180)
+Cholesterol antagonist	0.341	COMP1247	
+Cholesterol synthesis inhibitor	0.154	COMP1974	(0.123 COMP180) (0.106 COMP1247)
+Cholinergic	0.378	COMP180	(0.350 COMP1974)
+Creatine kinase inhibitor	0.643	COMP1974	(0.387 COMP180)
+Cyclic AMP phosphodiesterase inhibitor	0.314	COMP180	(0.284 COMP1974)
+Cyclin B inhibitor	0.073	COMP1974	
+Cyclin B1 inhibitor	0.089	COMP1974	
+Cyclin B2 inhibitor	0.085	COMP1974	
+Cyclin B3 inhibitor	0.234	COMP1974	(0.153 COMP180)
+Cyclin D1 inhibitor	0.059	COMP1974	
+Cyclooxygenase 1 inhibitor	0.252	COMP1974	(0.211 COMP180)
+Cyclooxygenase 2 inhibitor	0.201	COMP180/COMP1974	
+Cyclooxygenase 3 inhibitor	0.230	COMP1974	(0.191 COMP180)
+Cyclooxygenase inhibitor	0.235	COMP1974	(0.231 COMP180)
+Cyclophilin D inhibitor	0.327	COMP1974	(0.259 COMP180)
+Cystathionine beta-synthase inhibitor	0.928	COMP1974	(0.843 COMP180)
+Cytokine production inhibitor	0.226	COMP1974	
+D-Ala-D-Ala ligase inhibitor	0.323	COMP1974	(0.151 COMP180)
+DNA damaging	0.631	COMP180	(0.509 COMP1974)
+DNA directed DNA polymerase inhibitor	0.478	COMP1974	(0.461 COMP180)
+DNA directed RNA polymerase inhibitor	0.179	COMP1247	
+DNA gyrase subunit A inhibitor	0.043	COMP1974	
+DNA helicase inhibitor	0.059	COMP180	
+DNA intercalator	0.162	COMP180	(0.149 COMP1974)
+DNA methylase inhibitor	0.425	COMP1974	(0.361 COMP180)
+DNA methyltransferase I inhibitor	0.470	COMP1974	(0.411 COMP180)
+DNA polymerase I inhibitor	0.158	COMP180/COMP1974	
+DNA polymerase beta inhibitor	0.496	COMP180	(0.492 COMP1974)
+DNA repair enzyme inhibitor	0.174	COMP180	(0.153 COMP1974)
+DNA synthesis inhibitor	0.283	COMP1247	(0.184 COMP1974)
+DNA-dependent protein kinase inhibitor	0.066	COMP180	
+DOPA decarboxylase inhibitor	0.243	COMP1974	(0.224 COMP180)
+Dihydroorotate oxidase inhibitor	0.075	COMP1247	
+Dopamine D1 agonist	0.045	COMP180	(0.031 COMP1974)
+Dopamine D1 antagonist	0.092	COMP180	(0.077 COMP1974)
+Dopamine D2 agonist	0.040	COMP180	
+Dopamine D5 agonist	0.093	COMP180	(0.088 COMP1974)
+Dopamine D5 antagonist	0.065	COMP180	(0.036 COMP1974)
+Dopamine agonist	0.111	COMP180	(0.067 COMP1974)
+Dopamine beta hydroxylase inhibitor	0.045	COMP1247	
+Dual specificity phosphatase 3 inhibitor	0.488	COMP1974	(0.435 COMP180)
+Dual specificity phosphatase inhibitor	0.486	COMP1974	(0.439 COMP180)
+Dual specificity tyrosine-phosphorylation regulated kinase 1A inhibitor	0.386	COMP1974	(0.306 COMP180)
+Dyrk kinase inhibitor	0.349	COMP1974	(0.269 COMP180)
+Electron transport complex I inhibitor	0.275	COMP1974	(0.207 COMP180) (0.139 COMP1247)
+Estradiol 17 beta-dehydrogenase 1 inhibitor	0.122	COMP1974	(0.037 COMP180)
+Estrogen agonist	0.260	COMP1974	(0.111 COMP180) (0.081 COMP1247)
+Estrogen antagonist	0.345	COMP1974	(0.183 COMP180) (0.134 COMP1247)
+Estrogen receptor alpha antagonist	0.196	COMP1974	(0.132 COMP180) (0.094 COMP1247)
+Estrogen receptor beta antagonist	0.379	COMP1974	(0.179 COMP180) (0.124 COMP1247)
+Estrogen-related receptor alpha antagonist	0.029	COMP1974	
+Estrogen-related receptor beta antagonist	0.064	COMP1974	(0.044 COMP180)
+Estrone sulfatase inhibitor	0.026	COMP1974	(0.022 COMP180)
+Expectorant	0.473	COMP1247	(0.229 COMP180) (0.174 COMP1974)
+Farnesoid X receptor antagonist	0.160	COMP1247	(0.148 COMP1974)
+Fatty acid synthase inhibitor	0.264	COMP1974	(0.165 COMP180)
+Ferrochelatase inhibitor	0.156	COMP1247	
+Free radical scavenger	0.892	COMP1974	(0.883 COMP180) (0.320 COMP1247)
+GABA B receptor antagonist	0.135	COMP180	(0.070 COMP1974)
+GABA C receptor agonist	0.117	COMP1247	
+GABA C receptor antagonist	0.266	COMP1247	(0.178 COMP1974) (0.138 COMP180)
+GABA C receptor rho-1 antagonist	0.208	COMP1974	(0.166 COMP180) (0.108 COMP1247)
+GABA C receptor rho-2 antagonist	0.362	COMP1974	(0.308 COMP180) (0.138 COMP1247)
+GABA C receptor rho-3 antagonist	0.628	COMP1974	(0.552 COMP180) (0.376 COMP1247)
+GABA aminotransferase inhibitor	0.106	COMP1247	
+Gastrin inhibitor	0.186	COMP1247	
+Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase inhibitor	0.585	COMP1974	(0.569 COMP180)
+Glucose-6-phosphate translocase inhibitor	0.093	COMP180	(0.077 COMP1974)
+Glutamate (mGluR1) agonist	0.038	COMP1247	
+Glutamate (mGluR6) antagonist	0.075	COMP1247	
+Glutamate (mGluR7) antagonist	0.092	COMP1974	(0.075 COMP180)
+Glutamate decarboxylase inhibitor	0.081	COMP180	(0.079 COMP1974)
+Glutathione S-transferase inhibitor	0.104	COMP180	(0.091 COMP1974) (0.076 COMP1247)
+Glyceraldehyde-3-phosphate dehydrogenase inhibitor	0.560	COMP1974	(0.506 COMP180)
+Glycine receptor agonist	0.083	COMP1247	
+Glycine receptor antagonist	0.127	COMP1247	
+Glycogen synthase kinase-3 alpha inhibitor	0.142	COMP1974	
+Granulocyte macrophage colony stimulating factor agonist	0.109	COMP180	(0.096 COMP1974)
+Guanylate cyclase inhibitor	0.042	COMP1247	
+HIV-1 integrase (3'-Processing) inhibitor	0.423	COMP180	(0.390 COMP1974) (0.059 COMP1247)
+HIV-1 integrase (Overall Integration) inhibitor	0.132	COMP1974	(0.120 COMP180)
+HIV-1 integrase (Strand Transfer) inhibitor	0.386	COMP180	(0.369 COMP1974) (0.135 COMP1247)
+HIV-1 integrase inhibitor	0.194	COMP180	(0.170 COMP1974)
+Heat shock protein 70 antagonist	0.306	COMP1974	(0.189 COMP180)
+Heat shock protein 90 alpha antagonist	0.321	COMP1974	(0.135 COMP180)
+Heat shock protein 90 antagonist	0.327	COMP1974	(0.188 COMP180)
+Heat shock protein 90 beta antagonist	0.113	COMP1974	
+Hemostatic	0.306	COMP1974	(0.251 COMP180)
+Hepatoprotectant	0.510	COMP1974	(0.503 COMP180) (0.220 COMP1247)
+Hexokinase inhibitor	0.156	COMP1974	
+Histamine release inhibitor	0.707	COMP1974	(0.666 COMP180)
+Histidine decarboxylase inhibitor	0.379	COMP1974	(0.181 COMP180)
+Histone acetyltransferase inhibitor	0.198	COMP180	(0.146 COMP1974)
+Histone deacetylase SIRT1 stimulant	0.353	COMP1974	(0.224 COMP180)
+Histone deacetylase stimulant	0.353	COMP1974	(0.224 COMP180)
+Hypoglycemic	0.524	COMP1974	(0.422 COMP180) (0.162 COMP1247)
+I kappa B kinase epsilon inhibitor	0.157	COMP1974	(0.148 COMP180)
+Immunostimulant	0.213	COMP1247	(0.185 COMP180) (0.181 COMP1974)
+Immunosuppressant	0.542	COMP1247	(0.356 COMP1974) (0.275 COMP180)
+Inducible nitric-oxide synthase inhibitor	0.110	COMP1247	(0.083 COMP180)
+Insulin secretagoues	0.221	COMP1974	(0.186 COMP180)
+Insulin sensitizer	0.235	COMP1974	(0.205 COMP180)
+Insulysin inhibitor	0.255	COMP180	(0.214 COMP1974)
+Interferon gamma antagonist	0.209	COMP1247	(0.196 COMP180) (0.193 COMP1974)
+Interleukin 12 antagonist	0.141	COMP1974	(0.086 COMP180)
+Interleukin 4 antagonist	0.697	COMP1974	(0.373 COMP180)
+Interleukin 5 antagonist	0.135	COMP1974	(0.106 COMP180)
+Interleukin 6 antagonist	0.217	COMP180	(0.134 COMP1974)
+Interleukin agonist	0.214	COMP1247	
+Interleukin antagonist	0.295	COMP1974	(0.178 COMP180)
+Kainate receptor 2 antagonist	0.047	COMP1247	
+Kainate receptor agonist	0.071	COMP1247	
+Kainate receptor antagonist	0.058	COMP1247	
+Keratolytic	0.186	COMP1974	(0.145 COMP180)
+Leukotriene B4 antagonist	0.060	COMP1974	(0.049 COMP180)
+Leukotriene antagonist	0.075	COMP1974	(0.060 COMP180)
+Leukotriene synthesis inhibitor	0.099	COMP180	(0.088 COMP1974)
+Lipase inhibitor	0.140	COMP1974	(0.127 COMP180)
+Lipid peroxidase inhibitor	0.549	COMP1974	(0.507 COMP180)
+Lipocortins synthesis agonist	0.056	COMP1247	
+Lipoxygenase inhibitor	0.767	COMP180	(0.753 COMP1974)
+M17 leucyl aminopeptidase inhibitor	0.117	COMP1247	
+M18 aspartyl aminopeptidase inhibitor	0.436	COMP1974	(0.361 COMP180)
+MAO A inhibitor	0.608	COMP1974	(0.523 COMP180)
+MAO B inhibitor	0.353	COMP1974	(0.280 COMP180)
+MAO inhibitor	0.567	COMP1974	(0.520 COMP180)
+MAP kinase 1 inhibitor	0.273	COMP180	
+MAP-kinase-activated kinase 5 inhibitor	0.272	COMP1974	
+Macrophage migration inhibitory factor inhibitor	0.310	COMP1974	(0.200 COMP180)
+Maillard reaction inhibitor	0.094	COMP1974	(0.079 COMP180)
+Mannose-6-phosphate isomerase inhibitor	0.244	COMP180	(0.193 COMP1974)
+Mcl-1 antagonist	0.353	COMP180	(0.310 COMP1974)
+Mediator release inhibitor	0.264	COMP180	(0.137 COMP1974)
+Melanin inhibitor	0.569	COMP1974	(0.544 COMP180) (0.234 COMP1247)
+Microtubule formation inhibitor	0.245	COMP1247	(0.123 COMP180) (0.117 COMP1974)
+Microtubule stabilization	0.063	COMP1247	
+Monophenol monooxygenase inhibitor	0.707	COMP1974	(0.652 COMP180) (0.090 COMP1247)
+Mucolytic	0.275	COMP1247	(0.160 COMP180) (0.157 COMP1974)
+Multidrug resistance-associated protein 1 inhibitor	0.367	COMP1974	(0.357 COMP180)
+Myeloperoxidase inhibitor	0.241	COMP1974	(0.185 COMP180)
+NAD(P)H dehydrogenase (quinone) inhibitor	0.503	COMP1974	(0.297 COMP180)
+NADH dehydrogenase inhibitor	0.080	COMP1974	
+NADPH oxidase inhibitor	0.707	COMP1974	(0.698 COMP180) (0.105 COMP1247)
+NOS3 expression enhancer	0.641	COMP1974	(0.332 COMP180)
+Na+ K+ transporting ATPase inhibitor	0.119	COMP1247	(0.096 COMP1974) (0.085 COMP180)
+Nav1.5 sodium channel blocker	0.100	COMP1974	
+Neuraminidase (Influenza A) inhibitor	0.083	COMP180	(0.045 COMP1974)
+Neuraminidase (influenza) inhibitor	0.154	COMP180	(0.128 COMP1974)
+Neuraminidase inhibitor	0.133	COMP180	(0.125 COMP1974)
+Neurotensin receptor agonist	0.160	COMP1974	(0.141 COMP180)
+Neurotrophic factor	0.146	COMP1974	
+Neurotrophic factor enhancer	0.273	COMP180	(0.268 COMP1974) (0.170 COMP1247)
+Nitric oxide antagonist	0.601	COMP1974	(0.562 COMP180) (0.536 COMP1247)
+Nitric-oxide synthase stimulant	0.482	COMP1974	(0.380 COMP180)
+Non-steroidal antiinflammatory agent	0.395	COMP1974	(0.365 COMP180) (0.164 COMP1247)
+Ornithine decarboxylase inhibitor	0.114	COMP1974	(0.107 COMP180) (0.088 COMP1247)
+P-glycoprotein inhibitor	0.655	COMP180	(0.635 COMP1974)
+Peroxidase inhibitor	0.818	COMP1974	(0.653 COMP180)
+Phosphatidylinositol 3-kinase gamma inhibitor	0.068	COMP1974	
+Phosphodiesterase 1C inhibitor	0.072	COMP180	
+Phosphodiesterase 4D inhibitor	0.156	COMP1974	(0.116 COMP180)
+Phosphodiesterase I inhibitor	0.090	COMP180	
+Phosphodiesterase IV inhibitor	0.131	COMP180	(0.094 COMP1974)
+Phosphodiesterase VI inhibitor	0.083	COMP1974	
+Phosphofructokinase-1 inhibitor	0.062	COMP1247	
+Phospholipase A2 inhibitor	0.132	COMP1974	
+Phospholipase C inhibitor	0.160	COMP1974	(0.155 COMP1247)
+Photosensitizer	0.218	COMP1974	(0.118 COMP1247) (0.117 COMP180)
+Pim-1 kinase inhibitor	0.081	COMP1974	
+Platelet adhesion inhibitor	0.344	COMP180	(0.336 COMP1974) (0.280 COMP1247)
+Porphobilinogen synthase inhibitor	0.096	COMP1247	
+Potassium channel Kv1.3 blocker	0.078	COMP180	(0.049 COMP1974)
+Pregnane X receptor agonist	0.126	COMP1247	
+Pregnane X receptor antagonist	0.072	COMP1247	
+Prolactin inhibitor	0.104	COMP1974	(0.089 COMP1247)
+Prostaglandin F2 alpha agonist	0.021	COMP1247	
+Prostaglandin dehydrogenase inhibitor	0.541	COMP180	(0.511 COMP1974) (0.205 COMP1247)
+Protease activated receptor antagonist	0.092	COMP1974	(0.065 COMP180)
+Proteasome inhibitor	0.147	COMP1974	(0.098 COMP1247)
+Protein 50S ribosomal subunit inhibitor	0.058	COMP1247	
+Protein kinase (CK2) alpha inhibitor	0.325	COMP1974	(0.206 COMP180)
+Protein kinase (CK2) beta inhibitor	0.062	COMP1974	(0.032 COMP180)
+Protein kinase (CK2) inhibitor	0.214	COMP1974	(0.140 COMP180)
+Protein kinase C eta inhibitor	0.115	COMP180	(0.084 COMP1974)
+Protein kinase C mu inhibitor	0.094	COMP180	
+Protein kinase C zeta inhibitor	0.313	COMP180	(0.262 COMP1974)
+Protein kinase stimulant	0.464	COMP1974	(0.374 COMP180) (0.219 COMP1247)
+Protein-tyrosine phosphatase 1B inhibitor	0.307	COMP1974	(0.220 COMP180) (0.099 COMP1247)
+Protein-tyrosine phosphatase inhibitor	0.408	COMP1974	(0.295 COMP180)
+Proto-oncogene tyrosine-protein kinase Fyn inhibitor	0.220	COMP1974	(0.181 COMP180)
+Proto-oncogene tyrosine-protein kinase Yes inhibitor	0.442	COMP1974	(0.240 COMP180)
+Psychostimulant	0.702	COMP1247	(0.162 COMP1974)
+Pyruvate kinase inhibitor	0.572	COMP1974	(0.522 COMP180)
+Retinoic acid alpha receptor agonist	0.044	COMP1247	
+Retinoic acid gamma receptor agonist	0.022	COMP1247	
+Retinoic acid receptor agonist	0.028	COMP1247	
+Retinoid X alpha receptor agonist	0.043	COMP1247	
+Retinoid X beta receptor agonist	0.020	COMP1247	
+Retinoid X beta receptor antagonist	0.022	COMP1247	
+Retinoid X gamma receptor agonist	0.022	COMP1247	
+Retinoid X gamma receptor antagonist	0.028	COMP1247	
+Retinoid X receptor agonist	0.095	COMP1247	
+Ryanodine receptor antagonist	0.076	COMP1974	(0.075 COMP180) (0.058 COMP1247)
+Sigma receptor agonist	0.230	COMP1247	
+Sodium/bile acid cotransporter inhibitor	0.235	COMP180	(0.227 COMP1974)
+Spasmolytic	0.531	COMP1974	(0.523 COMP180) (0.273 COMP1247)
+Sphingomyelinase inhibitor	0.097	COMP1974	(0.093 COMP180)
+Sphingosine kinase inhibitor	0.060	COMP1974	
+Squalene epoxidase inhibitor	0.056	COMP1974	(0.050 COMP180)
+Src kinase inhibitor	0.120	COMP1974	
+Streptokinase A inhibitor	0.369	COMP1974	(0.214 COMP180)
+Succinate dehydrogenase inhibitor	0.262	COMP1974	(0.250 COMP1247) (0.242 COMP180)
+Superoxide dismutase inhibitor	0.669	COMP1974	(0.610 COMP180)
+T cell inhibitor	0.152	COMP1974	
+TRPA1 agonist	0.276	COMP1247	(0.103 COMP1974)
+TRPM8 blocker	0.064	COMP1247	
+Telomerase inhibitor	0.359	COMP1974	(0.320 COMP180)
+Thioredoxin inhibitor	0.165	COMP1974	(0.137 COMP180)
+Thioredoxin reductase inhibitor	0.189	COMP180	(0.156 COMP1974)
+Thyroid hormone antagonist	0.253	COMP1974	(0.185 COMP180)
+Thyroid hormone beta antagonist	0.243	COMP1974	(0.181 COMP180)
+Toll-Like receptor 2 antagonist	0.250	COMP180	(0.233 COMP1974)
+Toll-Like receptor 4 antagonist	0.144	COMP180	(0.136 COMP1974)
+Toll-Like receptor antagonist	0.120	COMP180	
+Topoisomerase I inhibitor	0.315	COMP180	(0.288 COMP1974)
+Topoisomerase II alpha inhibitor	0.491	COMP1974	(0.437 COMP180)
+Topoisomerase II beta inhibitor	0.177	COMP180	(0.101 COMP1974)
+Topoisomerase II inhibitor	0.575	COMP1974	(0.566 COMP180)
+Transcription factor AP-1 inhibitor	0.069	COMP1974	(0.057 COMP180)
+Transcription factor NF kappa B inhibitor	0.759	COMP180	(0.735 COMP1974) (0.537 COMP1247)
+Transcription factor NF kappa B stimulant	0.168	COMP1247	
+Transcription factor RelA inhibitor	0.130	COMP1974	(0.122 COMP180) (0.072 COMP1247)
+Transcription factor STAT inhibitor	0.399	COMP1974	(0.300 COMP180) (0.239 COMP1247)
+Transcription factor STAT3 inhibitor	0.253	COMP1247	(0.239 COMP180) (0.234 COMP1974)
+Transcription factor STAT6 inhibitor	0.222	COMP1974	(0.109 COMP180)
+Transcription factor inhibitor	0.226	COMP1974	(0.215 COMP1247)
+Triose-phosphate isomerase inhibitor	0.109	COMP1247	
+Tubulin agonist	0.064	COMP1247	(0.039 COMP180)
+Tubulin antagonist	0.768	COMP180	(0.661 COMP1974)
+Tumour necrosis factor alpha release inhibitor	0.567	COMP180	(0.537 COMP1974) (0.351 COMP1247)
+Tumour necrosis factor antagonist	0.395	COMP1974	(0.364 COMP180)
+Tyrosine 3 hydroxylase inhibitor	0.274	COMP180	(0.263 COMP1974) (0.233 COMP1247)
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	0.128	COMP1247	
+UDP-glucose 4-epimerase inhibitor	0.086	COMP1247	
+Urease inhibitor	0.237	COMP180	(0.231 COMP1974)
+Uric acid excretion stimulant	0.264	COMP1974	(0.240 COMP180)
+Vanilloid 1 agonist	0.189	COMP1247	(0.118 COMP1974)
+Vanilloid 2 antagonist	0.051	COMP1974	(0.050 COMP180)
+Vanilloid 3 antagonist	0.036	COMP1247	
+Vanilloid 4 agonist	0.116	COMP1247	
+Vanilloid agonist	0.511	COMP1247	
+Vasodilator	0.541	COMP180	(0.532 COMP1974) (0.326 COMP1247)
+Vasodilator. coronary	0.623	COMP180	(0.519 COMP1974)
+Vasodilator. peripheral	0.315	COMP1974	
+Xanthine dehydrogenase inhibitor	0.391	COMP1974	(0.369 COMP180)
+Xanthine oxidase inhibitor	0.699	COMP180	(0.696 COMP1974)
+mTOR complex 2 inhibitor	0.082	COMP1974	(0.081 COMP180)

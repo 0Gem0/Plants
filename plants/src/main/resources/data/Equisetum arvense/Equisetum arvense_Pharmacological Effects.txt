@@ -1,0 +1,312 @@
+Name	Activation_Prob	Compound	Another_Probs
+Acaricide	0.578	COMP2917	(0.373 COMP2918)
+Acetylcholine release stimulant	0.226	COMP2761	(0.192 COMP2917) (0.145 COMP2918)
+Actinic keratosis treatment	0.236	COMP2918	(0.175 COMP2917)
+Acute neurologic disorders treatment	0.461	COMP2918	(0.198 COMP2917)
+Acute respiratory distress syndrome (ARDS) treatment	0.231	COMP2918	(0.177 COMP2917) (0.136 COMP2761) (0.134 COMP452)
+Age-related macular degeneration treatment	0.261	COMP2918	(0.182 COMP2917)
+Allergic rhinitis treatment	0.450	COMP2918	(0.113 COMP2917)
+Alzheimer's disease treatment	0.604	COMP2761	
+Amyotrophic lateral sclerosis treatment	0.523	COMP2761	(0.206 COMP2918) (0.183 COMP2917)
+Anabolic	0.225	COMP452	(0.176 COMP2918) (0.167 COMP2917)
+Analeptic	0.935	COMP452	(0.647 COMP2761) (0.621 COMP2917) (0.573 COMP2918)
+Analgesic	0.659	COMP2761	
+Analgesic. non-opioid	0.512	COMP2761	
+Analgesic. opioid	0.142	COMP2761	
+Andropause treatment	0.067	COMP2917	
+Anesthetic	0.660	COMP452	(0.401 COMP2917) (0.220 COMP2918) (0.119 COMP2761)
+Anesthetic general	0.594	COMP452	(0.554 COMP2917) (0.513 COMP2918) (0.287 COMP2761)
+Anesthetic inhalation	0.357	COMP2917	(0.138 COMP2918) (0.052 COMP452)
+Anesthetic local	0.313	COMP2917	(0.122 COMP2761/COMP2918)
+Angiogenesis stimulant	0.562	COMP2918	(0.494 COMP2917) (0.316 COMP452)
+Antiacne	0.352	COMP2918	(0.309 COMP2917) (0.243 COMP452)
+Antialcoholic	0.448	COMP2761	(0.316 COMP2917) (0.292 COMP2918) (0.172 COMP452)
+Antiallergic	0.677	COMP2918	(0.427 COMP2917) (0.293 COMP452)
+Antiamyloidogenic	0.228	COMP2918	(0.223 COMP2917)
+Antianemic	0.312	COMP2918	(0.138 COMP2917)
+Antianginal	0.229	COMP2918	(0.205 COMP2917)
+Antianorexic	0.254	COMP2918	(0.215 COMP2917) (0.130 COMP2761)
+Antiarrhythmic	0.220	COMP452	
+Antiarthritic	0.626	COMP2918	(0.434 COMP2917)
+Antiasthmatic	0.499	COMP2918	(0.203 COMP2917)
+Antibacterial	0.385	COMP452	(0.382 COMP2917) (0.376 COMP2918)
+Antibiotic	0.103	COMP2918	(0.083 COMP2917) (0.074 COMP452)
+Antibiotic Anthracycline-like	0.026	COMP2918	(0.024 COMP2917)
+Antibiotic Glycopeptide-like	0.050	COMP2917	
+Antibiotic Quinolone-like	0.023	COMP2761	(0.022 COMP2918)
+Anticataract	0.208	COMP2918	(0.158 COMP2917)
+Anticholelithogenic	0.196	COMP2918	(0.154 COMP452) (0.135 COMP2917)
+Anticoagulant	0.340	COMP2918	
+Anticonvulsant	0.244	COMP2761	(0.221 COMP2918) (0.154 COMP2917)
+Antidepressant	0.491	COMP2761	
+Antidiabetic	0.741	COMP2918	(0.432 COMP2917) (0.266 COMP452)
+Antidiabetic (type 1)	0.440	COMP2918	(0.126 COMP2917)
+Antidiabetic (type 2)	0.600	COMP2918	(0.209 COMP2917)
+Antidiabetic symptomatic	0.575	COMP2918	(0.361 COMP2917)
+Antidiarrheal	0.419	COMP452	(0.195 COMP2917) (0.183 COMP2918) (0.153 COMP2761)
+Antidote	0.401	COMP2917	(0.378 COMP2918) (0.149 COMP2761)
+Antidote. heavy metal	0.256	COMP2917	(0.221 COMP2918)
+Antidote. mercury	0.307	COMP2918	(0.239 COMP2917) (0.087 COMP2761)
+Antidote. organophosphates	0.146	COMP2918	(0.143 COMP2761) (0.129 COMP2917)
+Antieczematic	0.365	COMP2918	(0.296 COMP2917) (0.189 COMP452)
+Antieczematic atopic	0.235	COMP2918	(0.186 COMP2917)
+Antiemetic	0.236	COMP2761	
+Antiemphysemic	0.100	COMP2918	
+Antiepileptic	0.218	COMP2918	(0.198 COMP2917)
+Antifungal	0.415	COMP2917	(0.414 COMP452) (0.322 COMP2918)
+Antifungal (Aspergillus)	0.111	COMP2918	(0.097 COMP2917)
+Antifungal (Candida)	0.139	COMP2918	(0.133 COMP2917)
+Antifungal (Cryptococcus)	0.296	COMP2918	(0.188 COMP2917) (0.148 COMP452)
+Antifungal (Pneumocystis)	0.249	COMP2918	(0.182 COMP2917)
+Antifungal enhancer	0.258	COMP2918	(0.233 COMP2917) (0.156 COMP452)
+Antiglaucomic	0.514	COMP2918	(0.492 COMP2917)
+Antihelmintic	0.305	COMP2917	(0.292 COMP452) (0.244 COMP2918)
+Antihelmintic (Fasciola)	0.207	COMP2918	(0.140 COMP2917)
+Antihelmintic (Nematodes)	0.370	COMP2917	(0.317 COMP2918)
+Antihelmintic (Trematoda)	0.191	COMP2918	(0.156 COMP2917)
+Antihemophilic	0.095	COMP2761	(0.079 COMP2918) (0.074 COMP2917)
+Antihemorrhagic	0.153	COMP2918	(0.128 COMP452) (0.125 COMP2917)
+Antihyperaldosteronism	0.094	COMP2761	
+Antihypercholesterolemic	0.605	COMP452	(0.594 COMP2917) (0.580 COMP2918)
+Antihyperlipoproteinemic	0.409	COMP2918	(0.299 COMP2917) (0.180 COMP452)
+Antihypermotility	0.158	COMP2917	(0.106 COMP2918)
+Antihypertensive	0.422	COMP2918	(0.413 COMP2917) (0.406 COMP452)
+Antihypertriglyceridemic	0.497	COMP2918	(0.354 COMP2917) (0.164 COMP452)
+Antihypotensive	0.349	COMP2917	(0.316 COMP2918) (0.171 COMP2761)
+Antihypoxic	0.526	COMP2918	(0.501 COMP2917) (0.429 COMP452) (0.276 COMP2761)
+Antiinfertility. female	0.238	COMP2917	(0.136 COMP452)
+Antiinflammatory	0.849	COMP452	(0.616 COMP2918) (0.465 COMP2917)
+Antiischemic	0.472	COMP2918	(0.299 COMP2917)
+Antiischemic. cerebral	0.281	COMP2918	(0.191 COMP2917)
+Antileprosy	0.159	COMP2918	(0.126 COMP2917) (0.090 COMP2761)
+Antileukemic	0.645	COMP452	
+Antimetabolite	0.152	COMP2918	(0.098 COMP2917)
+Antimigraine	0.379	COMP2761	
+Antimutagenic	0.651	COMP2918	(0.539 COMP2917)
+Antimycoplasmal	0.115	COMP2917	(0.113 COMP2918) (0.058 COMP2761)
+Antineoplastic (bone cancer)	0.254	COMP2917	(0.204 COMP2918)
+Antineoplastic (brain cancer)	0.531	COMP452	
+Antineoplastic (breast cancer)	0.848	COMP452	
+Antineoplastic (carcinoma)	0.250	COMP452	
+Antineoplastic (cervical cancer)	0.760	COMP452	
+Antineoplastic (colon cancer)	0.678	COMP452	
+Antineoplastic (colorectal cancer)	0.692	COMP452	
+Antineoplastic (endocrine cancer)	0.419	COMP452	(0.386 COMP2917) (0.324 COMP2918)
+Antineoplastic (glioblastoma multiforme)	0.528	COMP452	
+Antineoplastic (glioma)	0.700	COMP452	
+Antineoplastic (insulinoma)	0.013	COMP2917	
+Antineoplastic (liver cancer)	0.484	COMP452	(0.203 COMP2918) (0.181 COMP2917)
+Antineoplastic (lung cancer)	0.841	COMP452	
+Antineoplastic (lymphocytic leukemia)	0.395	COMP2918	(0.185 COMP452)
+Antineoplastic (lymphoma)	0.500	COMP452	
+Antineoplastic (melanoma)	0.758	COMP452	
+Antineoplastic (multiple myeloma)	0.332	COMP452	(0.210 COMP2917)
+Antineoplastic (myeloid leukemia)	0.315	COMP2761	
+Antineoplastic (non-Hodgkin's lymphoma)	0.298	COMP2761	(0.212 COMP2917)
+Antineoplastic (non-small cell lung cancer)	0.509	COMP452	
+Antineoplastic (osteosarcoma)	0.219	COMP452	(0.207 COMP2917)
+Antineoplastic (ovarian cancer)	0.786	COMP452	
+Antineoplastic (pancreatic cancer)	0.680	COMP452	
+Antineoplastic (renal cancer)	0.617	COMP452	(0.167 COMP2917)
+Antineoplastic (sarcoma)	0.674	COMP452	(0.231 COMP2918)
+Antineoplastic (small cell lung cancer)	0.254	COMP2918	(0.217 COMP2917)
+Antineoplastic (solid tumors)	0.317	COMP2917	
+Antineoplastic (squamous cell carcinoma)	0.351	COMP452	(0.107 COMP2917)
+Antineoplastic alkaloid	0.177	COMP452	(0.161 COMP2761) (0.113 COMP2918)
+Antineoplastic antibiotic	0.197	COMP452	
+Antineoplastic antimetabolite	0.391	COMP2918	(0.265 COMP2917)
+Antineoplastic enhancer	0.393	COMP452	
+Antineoplastic. alkylator	0.421	COMP2918	(0.283 COMP2917) (0.080 COMP2761)
+Antinephritic	0.186	COMP2761	
+Antineurogenic pain	0.234	COMP2918	(0.196 COMP2917) (0.185 COMP2761)
+Antiobesity	0.253	COMP2918	
+Antiosteoporotic	0.581	COMP2918	(0.509 COMP2917) (0.397 COMP452)
+Antioxidant	0.404	COMP2918	(0.397 COMP452) (0.299 COMP2917)
+Antiparasitic	0.346	COMP2917	(0.277 COMP452) (0.275 COMP2918)
+Antiparkinsonian	0.700	COMP2761	
+Antiparkinsonian. rigidity relieving	0.556	COMP2917	(0.424 COMP2761) (0.413 COMP2918)
+Antiparkinsonian. tremor relieving	0.419	COMP2917	(0.377 COMP2761) (0.310 COMP2918)
+Antiprotozoal (Amoeba)	0.185	COMP2917	(0.157 COMP2761) (0.122 COMP2918)
+Antiprotozoal (Babesia)	0.175	COMP2761	(0.156 COMP2918) (0.104 COMP2917)
+Antiprotozoal (Coccidial)	0.264	COMP2917	(0.224 COMP2918)
+Antiprotozoal (Leishmania)	0.290	COMP2917	(0.284 COMP452)
+Antiprotozoal (Toxoplasma)	0.138	COMP2918	(0.136 COMP2917)
+Antiprotozoal (Trichomonas)	0.323	COMP2917	(0.169 COMP2918) (0.119 COMP2761)
+Antiprotozoal (Trypanosoma)	0.230	COMP2917	(0.222 COMP2761)
+Antiprotozoal activity enhancer	0.157	COMP2761	(0.103 COMP2917) (0.094 COMP2918)
+Antipruritic	0.242	COMP452	(0.229 COMP2917/COMP2918) (0.183 COMP2761)
+Antipruritic. allergic	0.650	COMP2917	(0.630 COMP2918) (0.494 COMP452) (0.264 COMP2761)
+Antipruritic. non-allergic	0.483	COMP2917	(0.457 COMP2918) (0.397 COMP452)
+Antipsoriatic	0.452	COMP2917	(0.395 COMP2918)
+Antipsychotic	0.686	COMP2761	
+Antipyretic	0.531	COMP2918	(0.358 COMP2917)
+Antirickettsial	0.294	COMP2918	(0.268 COMP2917) (0.176 COMP452)
+Antischistosomal	0.260	COMP2918	(0.209 COMP2917)
+Antiseptic	0.718	COMP2917	(0.477 COMP2918)
+Antismoking	0.814	COMP2761	(0.151 COMP2917) (0.119 COMP2918)
+Antispirochetal	0.508	COMP2918	(0.347 COMP2917)
+Antithrombotic	0.570	COMP2918	(0.477 COMP2917) (0.221 COMP2761)
+Antitreponemal	0.112	COMP2918	(0.083 COMP2917)
+Antitussive	0.243	COMP2761	(0.147 COMP2917) (0.129 COMP2918)
+Antiulcerative	0.523	COMP2918	(0.389 COMP2917)
+Antiviral (Bovine viral diarrhea virus)	0.088	COMP2761	
+Antiviral (CMV)	0.162	COMP2917	(0.120 COMP2918)
+Antiviral (HIV)	0.223	COMP2918	(0.182 COMP2917)
+Antiviral (Hepatitis A)	0.119	COMP2917	(0.098 COMP2918)
+Antiviral (Hepatitis B)	0.209	COMP452	(0.126 COMP2917)
+Antiviral (Hepatitis C)	0.205	COMP2918	(0.169 COMP2917) (0.148 COMP2761)
+Antiviral (Hepatitis)	0.218	COMP2918	(0.190 COMP2917) (0.157 COMP2761) (0.155 COMP452)
+Antiviral (Herpes)	0.277	COMP452	(0.267 COMP2917) (0.142 COMP2918)
+Antiviral (Herpesvirus 3. Human)	0.160	COMP2917	(0.083 COMP2918)
+Antiviral (Influenza A)	0.291	COMP452	(0.197 COMP2917) (0.138 COMP2918)
+Antiviral (Influenza B)	0.219	COMP2917	(0.197 COMP2918)
+Antiviral (Influenza)	0.341	COMP452	(0.242 COMP2917) (0.198 COMP2918)
+Antiviral (Papilloma)	0.213	COMP2917	(0.176 COMP2918)
+Antiviral (Parainfluenza)	0.267	COMP2918	(0.264 COMP2917) (0.073 COMP2761)
+Antiviral (Poxvirus)	0.288	COMP2918	(0.281 COMP2917)
+Antiviral (RSV)	0.108	COMP2917	
+Antiviral (Rhinovirus)	0.140	COMP2917	(0.118 COMP2918)
+Anxiolytic	0.439	COMP2761	
+Apoptosis agonist	0.922	COMP452	(0.416 COMP2918) (0.380 COMP2917) (0.245 COMP2761)
+Apoptosis antagonist	0.653	COMP2918	(0.484 COMP452) (0.331 COMP2917)
+Atherosclerosis treatment	0.697	COMP2918	(0.475 COMP2917)
+Attention deficit/hyperactivity disorder treatment	0.174	COMP2761	
+Autism spectrum disorders treatment	0.120	COMP2917	(0.119 COMP2761) (0.106 COMP2918)
+Autoimmune disorders treatment	0.325	COMP2761	
+Bone diseases treatment	0.637	COMP2918	(0.565 COMP2917) (0.458 COMP452)
+Bone formation stimulant	0.415	COMP2918	(0.408 COMP2917) (0.144 COMP452)
+Bronchodilator	0.213	COMP2917	(0.094 COMP2918)
+Bulimia treatment	0.081	COMP2761	
+CNS active muscle relaxant	0.486	COMP2917	(0.366 COMP2918)
+Cardioprotectant	0.533	COMP2918	(0.442 COMP452) (0.306 COMP2917)
+Cardiotonic	0.918	COMP452	(0.236 COMP2917) (0.165 COMP2761)
+Cardiovascular analeptic	0.934	COMP2917	(0.663 COMP2918) (0.499 COMP2761) (0.271 COMP452)
+Cell adhesion inhibitor	0.505	COMP2918	(0.159 COMP452) (0.098 COMP2917)
+Cell adhesion molecule inhibitor	0.486	COMP2918	
+Cell wall synthesis inhibitor	0.276	COMP2918	(0.230 COMP2917)
+Chemopreventive	0.759	COMP452	(0.313 COMP2918) (0.254 COMP2917)
+Chemoprotective	0.545	COMP2918	(0.502 COMP452) (0.425 COMP2917)
+Choleretic	0.300	COMP452	(0.267 COMP2918) (0.225 COMP2917)
+Cholesterol absorption inhibitor	0.055	COMP2918	(0.052 COMP2917)
+Cholesterol synthesis inhibitor	0.343	COMP452	(0.308 COMP2918) (0.272 COMP2917)
+Chronic obstructive pulmonary disease treatment	0.186	COMP2918	
+Coagulant	0.329	COMP2918	(0.289 COMP2917)
+Cognition disorders treatment	0.747	COMP2761	
+Constipation treatment	0.189	COMP2761	(0.145 COMP452) (0.133 COMP2918) (0.130 COMP2917)
+Contraceptive	0.497	COMP452	(0.159 COMP2917) (0.123 COMP2918)
+Contraceptive female	0.208	COMP2918	(0.194 COMP2917) (0.185 COMP452)
+Contraceptive male	0.378	COMP452	(0.090 COMP2917)
+Corneal wound healing stimulator	0.350	COMP2918	(0.213 COMP2917)
+Cushing's syndrome treatment	0.133	COMP2761	
+Cystic fibrosis treatment	0.188	COMP2918	(0.156 COMP2917)
+Cytostatic	0.484	COMP2918	(0.429 COMP2917) (0.266 COMP452)
+DNA synthesis inhibitor	0.437	COMP2918	(0.408 COMP2917) (0.202 COMP452) (0.198 COMP2761)
+Dependence treatment	0.511	COMP2761	
+Diabetic nephropathy treatment	0.211	COMP2918	(0.156 COMP2917)
+Diabetic retinopathy treatment	0.394	COMP2917	(0.389 COMP2918)
+Diuretic	0.778	COMP452	(0.304 COMP2918) (0.221 COMP2917) (0.150 COMP2761)
+Dyspepsia treatment	0.116	COMP2917	
+Endometrios treatment	0.219	COMP452	
+Erectile dysfunction treatment	0.249	COMP2761	(0.140 COMP2917)
+Expectorant	0.292	COMP2918	(0.216 COMP2917) (0.109 COMP452)
+Female sexual dysfunction treatment	0.090	COMP2761	
+Fibrosis treatment	0.197	COMP2918	(0.153 COMP2761)
+Gastric antisecretory	0.190	COMP2917	(0.151 COMP2918)
+Gastritis treatment	0.145	COMP2918	(0.124 COMP2917) (0.122 COMP2761)
+Gastroesophageal reflux disease treatment	0.185	COMP2761	
+Gaucher disease treatment	0.192	COMP2917	(0.106 COMP2918)
+Gout treatment	0.269	COMP2918	(0.095 COMP2917)
+Growth stimulant	0.233	COMP2918	(0.193 COMP2917) (0.183 COMP452)
+HDL-cholesterol increasing	0.179	COMP2918	(0.161 COMP2917)
+Hair growth stimulant	0.424	COMP2917	(0.361 COMP2918) (0.316 COMP452) (0.109 COMP2761)
+Heart failure treatment	0.826	COMP452	(0.198 COMP2918)
+Hematopoietic	0.333	COMP2918	(0.092 COMP2917)
+Hemostatic	0.246	COMP2918	(0.186 COMP2917)
+Hepatic disorders treatment	0.629	COMP452	(0.501 COMP2918) (0.258 COMP2917)
+Hepatoprotectant	0.458	COMP452	(0.341 COMP2918) (0.214 COMP2917)
+Huntington's disease treatment	0.428	COMP2761	
+Hypercalcemia treatment	0.134	COMP2917	(0.092 COMP2918)
+Hyperparathyroidism treatment	0.158	COMP2917	(0.150 COMP2918)
+Hypogonadism treatment	0.047	COMP2917	(0.040 COMP452)
+Hypolipemic	0.552	COMP2918	(0.487 COMP2917) (0.228 COMP452)
+Immunomodulator	0.597	COMP2917	(0.505 COMP2918)
+Immunostimulant	0.429	COMP2917	(0.418 COMP2918) (0.344 COMP452)
+Immunosuppressant	0.620	COMP452	(0.553 COMP2917) (0.531 COMP2918) (0.220 COMP2761)
+Inflammatory Bowel disease treatment	0.321	COMP2918	(0.247 COMP2761)
+Insulin sensitizer	0.336	COMP2918	(0.281 COMP2917)
+Irritable Bowel syndrome treatment	0.120	COMP2761	
+Keratolytic	0.224	COMP2918	(0.216 COMP2917)
+Leukotriene synthesis inhibitor	0.231	COMP2918	(0.114 COMP2917)
+Lipoprotein disorders treatment	0.648	COMP2918	(0.542 COMP2917) (0.365 COMP452)
+Liver cirrhosis treatment	0.116	COMP452	
+Liver fibrosis treatment	0.300	COMP2918	(0.201 COMP452) (0.169 COMP2917)
+Macular degeneration treatment	0.143	COMP2918	
+Male reproductive disfunction treatment	0.255	COMP2761	(0.197 COMP2917)
+Menstruation disorders treatment	0.170	COMP2918	(0.141 COMP2761) (0.138 COMP2917)
+Mental retardation treatment	0.166	COMP2761	(0.127 COMP2918) (0.123 COMP2917)
+Metabolic disease treatment	0.323	COMP2918	(0.230 COMP452)
+Mood disorders treatment	0.494	COMP2761	
+Movement disorders treatment	0.222	COMP2761	(0.209 COMP2918) (0.176 COMP2917)
+Mucolytic	0.261	COMP2918	(0.213 COMP2917)
+Muscle relaxant	0.470	COMP2917	(0.429 COMP452) (0.424 COMP2761) (0.360 COMP2918)
+Muscular dystrophy treatment	0.310	COMP2917	(0.285 COMP2918)
+Myasthenia Gravis treatment	0.227	COMP2918	(0.213 COMP2761) (0.140 COMP2917)
+Myocardial infarction treatment	0.541	COMP2918	(0.282 COMP452) (0.268 COMP2917)
+Myocardial ischemia treatment	0.189	COMP2917	(0.179 COMP2918)
+Narcolepsy treatment	0.096	COMP2761	(0.092 COMP2917) (0.072 COMP2918)
+Narcotic antagonist	0.142	COMP2918	(0.129 COMP2761) (0.115 COMP2917)
+Neuropathy treatment	0.270	COMP2761	(0.208 COMP2917) (0.201 COMP2918)
+Non-steroidal antiinflammatory agent	0.367	COMP2918	(0.307 COMP2917)
+Nootropic	0.536	COMP2761	
+Obsessive-compulsive disorder treatment	0.134	COMP2761	
+Paget's disease treatment	0.267	COMP2917	(0.194 COMP2918) (0.083 COMP452)
+Pancreatic disorders treatment	0.457	COMP2918	(0.198 COMP2917)
+Phobic disorders treatment	0.228	COMP2918	(0.184 COMP2917) (0.147 COMP2761)
+Photosensitizer	0.356	COMP2918	(0.321 COMP2917)
+Platelet aggregation inhibitor	0.665	COMP2918	(0.331 COMP2917)
+Platelet antagonist	0.864	COMP2918	(0.418 COMP2917)
+Postcoital contraceptive	0.100	COMP452	(0.080 COMP2917) (0.073 COMP2918)
+Postmenopausal disorders treatment	0.182	COMP452	
+Posttraumatic stress disorder treatment	0.121	COMP2918	(0.095 COMP2761) (0.085 COMP2917)
+Proliferative diseases treatment	0.731	COMP452	(0.407 COMP2918) (0.355 COMP2917)
+Prostate cancer treatment	0.822	COMP452	
+Prostate disorders treatment	0.427	COMP452	(0.355 COMP2918) (0.212 COMP2917)
+Prostatic (benign) hyperplasia treatment	0.362	COMP452	(0.292 COMP2918) (0.149 COMP2917)
+Psychosexual dysfunction treatment	0.162	COMP2918	(0.131 COMP2917) (0.118 COMP452)
+Psychostimulant	0.540	COMP2761	(0.468 COMP2917) (0.445 COMP2918)
+Pulmonary hypertension treatment	0.246	COMP2918	(0.170 COMP2917) (0.158 COMP2761)
+Radioprotector	0.563	COMP2918	(0.515 COMP2917) (0.320 COMP452) (0.218 COMP2761)
+Radiosensitizer	0.492	COMP2917	(0.486 COMP2918) (0.252 COMP2761)
+Raynaud's phenomenon treatment	0.293	COMP2918	(0.256 COMP2917) (0.125 COMP2761)
+Renal disease treatment	0.335	COMP2918	(0.223 COMP2917)
+Renal failure treatment	0.330	COMP2918	(0.169 COMP2917)
+Respiratory analeptic	0.984	COMP452	(0.718 COMP2761) (0.568 COMP2917) (0.529 COMP2918)
+Restenosis treatment	0.381	COMP2918	(0.117 COMP2917)
+Restless leg syndrome treatment	0.209	COMP2918	(0.140 COMP2917) (0.138 COMP2761)
+Retinoprotector	0.224	COMP2918	(0.194 COMP2917)
+Rheumatoid arthritis treatment	0.314	COMP2761	
+Rhinitis treatment	0.294	COMP2918	
+Sepsis treatment	0.257	COMP2918	(0.223 COMP2761) (0.190 COMP2917)
+Septic shock treatment	0.409	COMP2918	(0.311 COMP2917)
+Shock treatment	0.223	COMP2917	(0.187 COMP2918)
+Skeletal muscle relaxant	0.491	COMP2917	(0.454 COMP2761) (0.363 COMP2918) (0.330 COMP452)
+Skin whitener	0.246	COMP452	(0.199 COMP2917) (0.183 COMP2918)
+Sleep apnea treatment	0.089	COMP2761	(0.088 COMP2918) (0.079 COMP2917)
+Sleep disorders treatment	0.298	COMP2761	
+Spasmolytic	0.449	COMP2761	(0.411 COMP2917) (0.343 COMP2918) (0.283 COMP452)
+Stroke treatment	0.623	COMP2918	(0.340 COMP2917)
+T cell inhibitor	0.097	COMP2918	
+Thrombolytic	0.469	COMP2918	(0.266 COMP2917)
+Tocolytic	0.138	COMP2761	(0.130 COMP2918) (0.128 COMP2917)
+Tourette's syndrome treatment	0.165	COMP2918	(0.144 COMP2761) (0.141 COMP2917)
+Tumour necrosis factor alpha release inhibitor	0.344	COMP452	(0.199 COMP2761) (0.195 COMP2917)
+Uric acid excretion stimulant	0.218	COMP2918	(0.098 COMP2917)
+Urolithiasis treatment	0.240	COMP2918	
+Uterine relaxant	0.109	COMP2761	(0.094 COMP2918) (0.089 COMP2917)
+Uterine stimulant	0.282	COMP2918	(0.267 COMP2917) (0.209 COMP2761)
+Vascular (periferal) disease treatment	0.427	COMP2918	(0.293 COMP2917)
+Vasculitis treatment	0.133	COMP2761	
+Vasodilator	0.401	COMP2918	(0.400 COMP2917) (0.261 COMP2761) (0.224 COMP452)
+Vasodilator. coronary	0.476	COMP2917	(0.370 COMP2918)
+Vasodilator. peripheral	0.636	COMP2918	(0.584 COMP2917) (0.529 COMP2761)
+Wound healing agent	0.489	COMP2918	(0.421 COMP2917) (0.158 COMP452)

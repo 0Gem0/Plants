@@ -1,0 +1,10 @@
+(1R,10R,13R,15S)-9,9,13-Trimethyl-5-pentyl-8,14-dioxatetracyclo[8.5.0.02,7.013,15]pentadeca-2,4,6-trien-3-ol
+(1R,10R,13R,15S)-9,9,13-trimethyl-5-pentyl-8,14-dioxatetracyclo[8.5.0.02,7.013,15]pentadeca-2,4,6-trien-3-ol
+CHEMBL3586109
+122180087
+None
+C21H30O3
+330.22
+InChI=1S/C21H30O3/c1-5-6-7-8-13-11-15(22)18-16(12-13)23-20(2,3)14-9-10-21(4)19(24-21)17(14)18/h11-12,14,17,19,22H,5-10H2,1-4H3/t14-,17-,19+,21-/m1/s1
+VSQGBNUBIDZRPJ-BWZSVYRMSA-N
+CCCCCc1cc(O)c2c(c1)OC([C@H]1[C@H]2[C@@H]2O[C@@]2(CC1)C)(C)C
