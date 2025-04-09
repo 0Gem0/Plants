@@ -7,7 +7,7 @@ import lombok.Setter;
 
 public class Antitargets extends Property {
     public Antitargets(Property property) {
-        super(property.name,property.activationProb,property.compound,property.AnotherProbs); // Передаем имя в конструктор Property
+        super(property.name,property.activationProb,property.compound,property.getAnotherProbsParcered()); // Передаем имя в конструктор Property
     }
 
     public Antitargets() {

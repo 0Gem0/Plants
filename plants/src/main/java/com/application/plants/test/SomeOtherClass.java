@@ -1,14 +1,15 @@
 package com.application.plants.test;
 
+import com.application.plants.Parcing.Compound;
 import com.application.plants.Parcing.Parcer;
 import com.application.plants.Parcing.Plant;
-import com.application.plants.test.InternalRequestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
+import java.util.Base64;
 
 @Component
 public class SomeOtherClass {
@@ -26,17 +27,20 @@ public class SomeOtherClass {
         String property = "Mechanisms of Action";
         String plantName = "Bergenia crassifolia";
         Plant plant = new Plant(plantName);
-        parcer.getInfo(plant,plantName,property); // Create a Plant object
+        parcer.getInfo(plant, plantName, property);
+
         String compName = "Kinidilin";
 
-        ResponseEntity<byte[]> response = internalRequestService.makeInternalPostRequest(plant, compName);
+        ImageWithComponentDTO result = internalRequestService.makeInternalPostRequest(plant.getRealCompsNames(), plantName, compName);
 
-        if (response.getStatusCode() == HttpStatus.OK) {
-            byte[] imageBytes = response.getBody();
-            // Process the imageBytes
-            System.out.println("Received image with length: " + imageBytes.length);
-        } else {
-            System.err.println("Request failed with status code: " + response.getStatusCode());
+        Compound compound = result.getCompound();
+        String base64 = result.getImageBase64();
+
+        if (base64 != null && !base64.isEmpty()) {
+            byte[] imageBytes = Base64.getDecoder().decode(base64);
+            System.out.println("Image length: " + imageBytes.length);
         }
+
+        System.out.println("Component info: " + compound);
     }
 }

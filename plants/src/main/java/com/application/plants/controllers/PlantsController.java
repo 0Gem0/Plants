@@ -1,6 +1,7 @@
 package com.application.plants.controllers;
 
 
+import com.application.plants.Parcing.Compound;
 import com.application.plants.Parcing.Parcer;
 import com.application.plants.Parcing.Plant;
 
@@ -14,7 +15,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.io.IOException;
+import java.util.Base64;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/api")
@@ -40,10 +44,9 @@ public class PlantsController {
     }
 
     @PostMapping("/plants/property")
-    public ResponseEntity<?> showComp(@RequestBody Plant plant, @RequestParam(value = "comp_name") String compName) {
-        System.out.println(plant.getGeneExpressions());
+    public ResponseEntity<?> showComp(@RequestBody Map<String,String> realCompsNames, @RequestParam(value = "plant_name") String plantName,@RequestParam(value = "comp_name") String compName) {
         try {
-            byte[] bytes = parcer.imageComp(compName, plant);
+            byte[] bytes = parcer.imageComp(compName,plantName ,realCompsNames);
             if (bytes == null) {
                 return ResponseEntity
                         .status(HttpStatus.NOT_FOUND)
@@ -51,11 +54,17 @@ public class PlantsController {
                         .body("Изображение не найдено для компонента: " + compName);
             }
 
-            HttpHeaders headers = new HttpHeaders();
-            headers.setContentType(MediaType.IMAGE_PNG);
-            headers.setContentLength(bytes.length);
+            // допустим, ты как-то получаешь объект Component
+            Compound component = parcer.getCompoundWrapper(realCompsNames,plantName,compName);
 
-            return new ResponseEntity<>(bytes, headers, HttpStatus.OK);
+            // кодируем картинку
+            String base64Image = Base64.getEncoder().encodeToString(bytes);
+
+            Map<String, Object> response = new HashMap<>();
+            response.put("compound", component);
+            response.put("imageBase64", base64Image);
+            return ResponseEntity.ok(response);
+
         } catch (IOException e) {
             return ResponseEntity
                     .status(HttpStatus.INTERNAL_SERVER_ERROR)

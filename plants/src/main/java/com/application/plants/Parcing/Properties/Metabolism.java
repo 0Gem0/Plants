@@ -7,7 +7,7 @@ import lombok.Setter;
 @Setter
 public class Metabolism extends Property{
     public Metabolism(Property property) {
-        super(property.name,property.activationProb,property.compound,property.AnotherProbs); // Передаем имя в конструктор Property
+        super(property.name,property.activationProb,property.compound,property.getAnotherProbsParcered()); // Передаем имя в конструктор Property
     }
 
     public Metabolism() {

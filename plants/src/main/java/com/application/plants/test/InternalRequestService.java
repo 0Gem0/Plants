@@ -1,19 +1,21 @@
 package com.application.plants.test;
 
-import com.application.plants.Parcing.Plant;
+import com.application.plants.test.ImageWithComponentDTO;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
-import com.fasterxml.jackson.databind.ObjectMapper; // Add Jackson for JSON conversion
+
 import java.io.IOException;
+import java.util.Map;
 
 @Service
 public class InternalRequestService {
 
     private final RestTemplate restTemplate;
-    private final ObjectMapper objectMapper;  // Inject ObjectMapper
+    private final ObjectMapper objectMapper;
 
     @Autowired
     public InternalRequestService(RestTemplateBuilder restTemplateBuilder, ObjectMapper objectMapper) {
@@ -21,15 +23,21 @@ public class InternalRequestService {
         this.objectMapper = objectMapper;
     }
 
-    public ResponseEntity<byte[]> makeInternalPostRequest(Plant plant, String compName) throws IOException {
-        String url = "http://localhost:8080/api/plants/property?comp_name=" + compName; // Add query param
+    public ImageWithComponentDTO makeInternalPostRequest(Map<String, String> realCompsNames, String plantName, String compName) throws IOException {
+        String url = "http://localhost:8080/api/plants/property?plant_name=" + plantName + "&comp_name=" + compName;
+
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
 
-        String requestBody = objectMapper.writeValueAsString(plant); // Convert Plant to JSON
-
+        String requestBody = objectMapper.writeValueAsString(realCompsNames);
         HttpEntity<String> request = new HttpEntity<>(requestBody, headers);
 
-        return restTemplate.postForEntity(url, request, byte[].class); // Expecting byte array in response
+        ResponseEntity<String> response = restTemplate.postForEntity(url, request, String.class);
+
+        if (response.getStatusCode() == HttpStatus.OK) {
+            return objectMapper.readValue(response.getBody(), ImageWithComponentDTO.class);
+        } else {
+            throw new IOException("Request failed with status code: " + response.getStatusCode());
+        }
     }
 }

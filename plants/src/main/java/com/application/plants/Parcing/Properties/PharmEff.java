@@ -9,7 +9,7 @@ import lombok.Setter;
 public class PharmEff extends Property{
 
     public PharmEff(Property property) {
-        super(property.name,property.activationProb,property.compound,property.AnotherProbs); // Передаем имя в конструктор Property
+        super(property.name,property.activationProb,property.compound,property.getAnotherProbsParcered()); // Передаем имя в конструктор Property
     }
 
     public PharmEff() {

@@ -12,7 +12,6 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 //"D:/Проект/data/data"
 
@@ -80,6 +79,19 @@ public class Parcer {
         }
     }
 
+    public List<Compound> parcAnotherProbs(String anotherProbs){
+        Pattern pattern = Pattern.compile("(\\d\\.\\d{3})\\s(.+?)(\\).\\(|.$)");
+        Matcher matcher = pattern.matcher(anotherProbs);
+        List<Compound> compounds = new ArrayList<>();
+
+        while (matcher.find()) {
+            String value = matcher.group(1);
+            String name = matcher.group(2);
+            compounds.add(new Compound(value,name));
+        }
+        return compounds;
+    }
+
     public void processPlant(String propertyName, Plant plant, Path path, Path folder) throws IOException {
         List<Property> properties = new ArrayList<>();
         BufferedReader reader = new BufferedReader(new InputStreamReader(Files.newInputStream(path)));
@@ -106,6 +118,10 @@ public class Parcer {
         }
 
         List<Property> newProperties = changeComps(plant,properties);
+        for (Property property : newProperties) {
+            property.setAnotherProbsParcered(parcAnotherProbs(property.getAnotherProbs()));
+            System.out.println(property.getAnotherProbs());
+        }
         switch (propertyName) {
             case "Antitargets":
                 List<Antitargets> antitargets = new ArrayList<>();
@@ -216,15 +232,14 @@ public class Parcer {
         }
     }
 
-    public byte[] imageComp(String compName, Plant plant) throws IOException {
-        Map<String,String> comps = plant.getRealCompsNames();
+    public byte[] imageComp(String compName, String plantName, Map<String,String> realCompsNames) throws IOException {
         String name = null;
-        for (String compNamee : comps.keySet()){
-            if (compName.equals(comps.get(compNamee))){
-                name = compNamee;
+        for (String comp : realCompsNames.keySet()){
+            if (compName.equals(realCompsNames.get(comp))){
+                name = comp;
             }
         }
-        String folder = "data/" + plant.getName() + "/img";
+        String folder = "data/" + plantName + "/img";
         ClassLoader classLoader = getClass().getClassLoader();
         URL resource = classLoader.getResource(folder);
         Path folderPath = null;
@@ -238,7 +253,7 @@ public class Parcer {
                             .filter(path -> path.toString().contains(finalName))
                             .map(path -> {
                                 try {
-                                    return compImg(plant, compName, path);
+                                    return compImg(realCompsNames, compName, path);
                                 } catch (IOException e) {
                                     throw new RuntimeException(e); // Преобразуем checked exception в runtime
                                 }
@@ -254,15 +269,65 @@ public class Parcer {
         return null;
     }
 
-    public byte[] compImg(Plant plant, String compName, Path path) throws IOException {
-        Map<String, String> compNames = plant.getRealCompsNames();
+    public byte[] compImg( Map<String, String> realCompsNames, String compName, Path path) throws IOException {
         byte[] bytes = Files.readAllBytes(path);
-        for (Map.Entry<String,String> entry : compNames.entrySet()){
+        for (Map.Entry<String,String> entry : realCompsNames.entrySet()){
             if (path.toString().contains(entry.getKey()) && compName.equals(entry.getValue())){
                 return bytes;
             }
         }
         return bytes;
+    }
+
+    public Compound getCompoundWrapper(Map<String, String> realCompsNames, String plantName, String compName){
+        String name = null;
+        for (String comp : realCompsNames.keySet()){
+            if (compName.equals(realCompsNames.get(comp))){
+                name = comp;
+            }
+        }
+        String folder = "data/" + plantName + "/mol_info";
+        ClassLoader classLoader = getClass().getClassLoader();
+        URL resource = classLoader.getResource(folder);
+        Path folderPath = null;
+        try {
+            if (resource != null) {
+                folderPath = Paths.get(resource.toURI());
+                try (Stream<Path> files = Files.list(folderPath)) {
+                    String finalName = name;
+                    Optional<Compound> result = files.filter(Files::isRegularFile)
+                            .filter(path -> path.toString().endsWith(".txt"))
+                            .filter(path -> path.toString().contains(finalName))
+                            .map(path -> {
+                                try {
+                                    return getCompound(path);
+                                } catch (IOException e) {
+                                    throw new RuntimeException(e); // Преобразуем checked exception в runtime
+                                }
+                            })
+                            .findFirst();
+                    return result.orElse(null);
+                }
+            }
+        } catch (URISyntaxException | IOException e) {
+            throw new RuntimeException(e);
+        }
+        return null;
+    }
+    public Compound getCompound(Path path) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(Files.newInputStream(path)));
+        Compound compound = new Compound();
+        compound.setName(reader.readLine());
+        compound.setUIPACName(reader.readLine());
+        compound.setCHEMBLId(reader.readLine());
+        compound.setPubChemCID(reader.readLine());
+        compound.setCHEBI(reader.readLine());
+        compound.setMolecularFormula(reader.readLine());
+        compound.setMolecularWeight(reader.readLine());
+        compound.setStandardInChI(reader.readLine());
+        compound.setStandardInChIKey(reader.readLine());
+        compound.setSMILES(reader.readLine());
+        return compound;
     }
 
     public void fillNameComps(Plant plant, String comp, Path path, List<Property> properties) throws IOException {

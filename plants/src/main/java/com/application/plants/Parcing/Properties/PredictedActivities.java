@@ -9,8 +9,9 @@ import lombok.Setter;
 public class PredictedActivities extends Property{
 
     public PredictedActivities(Property property) {
-        super(property.name,property.activationProb,property.compound,property.AnotherProbs); // Передаем имя в конструктор Property
+        super(property.name,property.activationProb,property.compound,property.getAnotherProbsParcered()); // Передаем имя в конструктор Property
     }
+
 
     public PredictedActivities() {
     }
