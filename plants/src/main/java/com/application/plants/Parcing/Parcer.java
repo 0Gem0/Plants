@@ -1,11 +1,13 @@
 package com.application.plants.Parcing;
 
 import com.application.plants.Parcing.Properties.*;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ArrayNode;
+import com.fasterxml.jackson.databind.node.ObjectNode;
 import org.springframework.stereotype.Service;
-
+import org.springframework.beans.factory.annotation.Value;
 import java.io.*;
-import java.net.URISyntaxException;
-import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -17,18 +19,15 @@ import java.util.stream.Stream;
 
 @Service
 public class Parcer {
+
+    @Value("${data.folder}")
+    private String dataFolderPath;
 //    public static String plantName = "Achillea millefolium";
 //    public static Plant plant = new Plant();
-    private URL resource = getClass().getClassLoader().getResource("data");
+
     public List<String> getNames(){
         List<String> names = new ArrayList<>();
-        Path dataFolder;
-        try {
-            assert resource != null;
-            dataFolder = Paths.get(resource.toURI());
-        } catch (URISyntaxException e) {
-            throw new IllegalArgumentException("Invalid URI for data folder!", e);
-        }
+        Path dataFolder = Paths.get(dataFolderPath);
         try (Stream<Path> subFolders = Files.list(dataFolder)) { // Получаем список элементов в data
             subFolders.filter(Files::isDirectory)
                     .forEach(path -> names.add(path.getFileName().toString()));
@@ -37,29 +36,78 @@ public class Parcer {
         }
         return names;
     }
-    public void getInfo(Plant plant, String plantName, String propertyName) {
-        Path dataFolder;
-        System.out.println(resource);
-        try {
-            assert resource != null;
-            dataFolder = Paths.get(resource.toURI());
-        } catch (URISyntaxException e) {
-            throw new IllegalArgumentException("Invalid URI for data folder!", e);
-        }
-        try (Stream<Path> subFolders = Files.list(dataFolder)) { // Получаем список элементов в data
-            Optional<Path> filteredPath = subFolders.filter(Files::isDirectory)
+    public Optional<JsonNode> getInfo(Plant plant, String plantName, String propertyName) {
+        Path dataFolder = Paths.get(dataFolderPath);
+        try (Stream<Path> subFolders = Files.list(dataFolder)) {
+            Optional<Path> filteredPath = subFolders
+                    .filter(Files::isDirectory)
                     .filter(path -> path.getFileName().toString().equals(plantName))
                     .findFirst();
+
             if (filteredPath.isPresent()) {
                 Path foundPath = filteredPath.get();
-                processTxtFiles(foundPath, plant, propertyName);
-//                changeComps(plant,foundPath);
+                Optional<JsonNode> json = processJsonFiles(foundPath, propertyName);
+                if (json.isPresent()) {
+                    return json; // если есть JSON — вернём
+                } else {
+                    processTxtFiles(foundPath, plant, propertyName); // иначе обрабатываем TXT
+                }
             } else {
                 System.out.println("Папка с именем '" + plantName + "' не найдена.");
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
+        return Optional.empty(); // ничего не нашли — пусть вернётся пусто
+    }
+
+    public Optional<JsonNode> processJsonFiles(Path folder, String propertyName) {
+        ObjectMapper objectMapper = new ObjectMapper();
+
+        try (Stream<Path> files = Files.list(folder)) {
+            return files
+                    .filter(Files::isRegularFile)
+                    .filter(path -> path.toString().endsWith(".json"))
+                    .filter(path -> path.toString().contains(propertyName))
+                    .findFirst()
+                    .map(path -> {
+                        try {
+                            ArrayNode originalArray = (ArrayNode) objectMapper.readTree(path.toFile());
+                            ArrayNode formattedArray = objectMapper.createArrayNode();
+
+                            for (JsonNode item : originalArray) {
+                                ObjectNode newItem = objectMapper.createObjectNode();
+                                newItem.put("name", item.path("Name").asText());
+                                newItem.put("activationProb", item.path("Activation_Prob").asText());
+                                newItem.put("compound", item.path("Compound").asText());
+
+                                ArrayNode anotherProbs = objectMapper.createArrayNode();
+                                for (JsonNode prob : item.path("Another_Probs")) {
+                                    ObjectNode newProb = objectMapper.createObjectNode();
+                                    newProb.put("activation", prob.path("value").asText());
+                                    newProb.put("name", prob.path("compound").asText());
+                                    anotherProbs.add(newProb);
+                                }
+
+                                newItem.set("anotherProbsParcered", anotherProbs);
+                                formattedArray.add(newItem);
+                            }
+
+                            ObjectNode root = objectMapper.createObjectNode();
+                            root.set(propertyName, formattedArray); // <-- ключ берется из запроса
+                            return root;
+
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    });
+        } catch (IOException e) {
+            e.printStackTrace();
+            return Optional.empty();
+        }
+    }
+    private void processPlantJson(String propertyName, Plant plant, Path path, Path folder) {
+
     }
 
     private void processTxtFiles(Path folder, Plant plant, String propertyName) {
@@ -120,7 +168,6 @@ public class Parcer {
         List<Property> newProperties = changeComps(plant,properties);
         for (Property property : newProperties) {
             property.setAnotherProbsParcered(parcAnotherProbs(property.getAnotherProbs()));
-            System.out.println(property.getAnotherProbs());
         }
         switch (propertyName) {
             case "Antitargets":
@@ -184,32 +231,20 @@ public class Parcer {
     }
 
     public List<Property> changeComps(Plant plant, List<Property> properties){
-        String folder = "data/" + plant.getName() + "/mol_info";
-        ClassLoader classLoader = getClass().getClassLoader();
-        URL resource = classLoader.getResource(folder);
-//        System.out.println(folder);
-//        System.out.println(resource);
-        try {
-            if (resource != null) {
-                Path folderPath = Paths.get(resource.toURI());
-                try (Stream<Path> files = Files.list(folderPath)) {
-                    files.filter(Files::isRegularFile)
-                            .filter(path -> path.toString().endsWith(".txt"))
-                            .forEach(path -> {
-                                try {
-                                    fillNameComps(plant, path.getFileName().toString(), path, properties);
-                                    changeCompsNames(plant,properties);
-                                } catch (IOException e) {
-                                    throw new RuntimeException(e);
-                                }
-                            });
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-                return properties;
-            }
-        } catch (URISyntaxException e) {
-            throw new RuntimeException(e);
+        Path folderPath = Paths.get(dataFolderPath, plant.getName(), "mol_info");
+        try (Stream<Path> files = Files.list(folderPath)) {
+            files.filter(Files::isRegularFile)
+                    .filter(path -> path.toString().endsWith(".txt"))
+                    .forEach(path -> {
+                        try {
+                            fillNameComps(plant, path.getFileName().toString(), path, properties);
+                            changeCompsNames(plant,properties);
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    });
+        } catch (IOException e) {
+            e.printStackTrace();
         }
         return properties;
     }
@@ -239,34 +274,23 @@ public class Parcer {
                 name = comp;
             }
         }
-        String folder = "data/" + plantName + "/img";
-        ClassLoader classLoader = getClass().getClassLoader();
-        URL resource = classLoader.getResource(folder);
-        Path folderPath = null;
-        try {
-            if (resource != null) {
-                folderPath = Paths.get(resource.toURI());
-                try (Stream<Path> files = Files.list(folderPath)) {
-                    String finalName = name;
-                    Optional<byte[]> result = files.filter(Files::isRegularFile)
-                            .filter(path -> path.toString().endsWith(".png"))
-                            .filter(path -> path.toString().contains(finalName))
-                            .map(path -> {
-                                try {
-                                    return compImg(realCompsNames, compName, path);
-                                } catch (IOException e) {
-                                    throw new RuntimeException(e); // Преобразуем checked exception в runtime
-                                }
-                            })
-                            .filter(bytes -> bytes != null && bytes.length > 0) // Фильтруем null и пустые массивы
-                            .findFirst();
-                    return result.orElse(null);
-                }
+        Path folderPath = Paths.get(dataFolderPath, plantName, "img");
+            try (Stream<Path> files = Files.list(folderPath)) {
+                String finalName = name;
+                Optional<byte[]> result = files.filter(Files::isRegularFile)
+                        .filter(path -> path.toString().endsWith(".png"))
+                        .filter(path -> path.toString().contains(finalName))
+                        .map(path -> {
+                            try {
+                                return compImg(realCompsNames, compName, path);
+                            } catch (IOException e) {
+                                throw new RuntimeException(e); // Преобразуем checked exception в runtime
+                            }
+                        })
+                        .filter(bytes -> bytes != null && bytes.length > 0) // Фильтруем null и пустые массивы
+                        .findFirst();
+                return result.orElse(null);
             }
-        } catch (URISyntaxException e) {
-            throw new RuntimeException(e);
-        }
-        return null;
     }
 
     public byte[] compImg( Map<String, String> realCompsNames, String compName, Path path) throws IOException {
@@ -279,40 +303,29 @@ public class Parcer {
         return bytes;
     }
 
-    public Compound getCompoundWrapper(Map<String, String> realCompsNames, String plantName, String compName){
+    public Compound getCompoundWrapper(Map<String, String> realCompsNames, String plantName, String compName) throws IOException {
         String name = null;
         for (String comp : realCompsNames.keySet()){
             if (compName.equals(realCompsNames.get(comp))){
                 name = comp;
             }
         }
-        String folder = "data/" + plantName + "/mol_info";
-        ClassLoader classLoader = getClass().getClassLoader();
-        URL resource = classLoader.getResource(folder);
-        Path folderPath = null;
-        try {
-            if (resource != null) {
-                folderPath = Paths.get(resource.toURI());
-                try (Stream<Path> files = Files.list(folderPath)) {
-                    String finalName = name;
-                    Optional<Compound> result = files.filter(Files::isRegularFile)
-                            .filter(path -> path.toString().endsWith(".txt"))
-                            .filter(path -> path.toString().contains(finalName))
-                            .map(path -> {
-                                try {
-                                    return getCompound(path);
-                                } catch (IOException e) {
-                                    throw new RuntimeException(e); // Преобразуем checked exception в runtime
-                                }
-                            })
-                            .findFirst();
-                    return result.orElse(null);
-                }
-            }
-        } catch (URISyntaxException | IOException e) {
-            throw new RuntimeException(e);
+        Path folderPath = Paths.get(dataFolderPath, plantName, "mol_info");
+        try (Stream<Path> files = Files.list(folderPath)) {
+            String finalName = name;
+            Optional<Compound> result = files.filter(Files::isRegularFile)
+                    .filter(path -> path.toString().endsWith(".txt"))
+                    .filter(path -> path.toString().contains(finalName))
+                    .map(path -> {
+                        try {
+                            return getCompound(path);
+                        } catch (IOException e) {
+                            throw new RuntimeException(e); // Преобразуем checked exception в runtime
+                        }
+                    })
+                    .findFirst();
+            return result.orElse(null);
         }
-        return null;
     }
     public Compound getCompound(Path path) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(Files.newInputStream(path)));

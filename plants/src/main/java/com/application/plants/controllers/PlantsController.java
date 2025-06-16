@@ -7,18 +7,15 @@ import com.application.plants.Parcing.Plant;
 
 
 import com.application.plants.test.SomeOtherClass;
+import com.fasterxml.jackson.databind.JsonNode;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.io.IOException;
-import java.util.Base64;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 @RestController
 @RequestMapping("/api")
@@ -33,15 +30,22 @@ public class PlantsController {
     }
 
     @GetMapping("/plants")
-    public Plant showPlant(@RequestParam(value = "plant_name") String plantName, @RequestParam(value = "property") String property){
+    public ResponseEntity<Object> showPlant(@RequestParam(value = "plant_name") String plantName,
+                                            @RequestParam(value = "property") String property) {
         Plant plant = new Plant(plantName);
-        parcer.getInfo(plant,plantName,property);
-        return plant;
+        Optional<JsonNode> json = parcer.getInfo(plant, plantName, property);
+        return json.<ResponseEntity<Object>>map(ResponseEntity::ok)
+                .orElseGet(() -> ResponseEntity.ok(plant));
     }
     @GetMapping("/plants/names")
     public List<String> showPlants(){
         return parcer.getNames();
     }
+
+//    @GetMapping("/plants/deleteAll")
+//    public List<String> deletePlants(){
+//        return ;
+//    }
 
     @PostMapping("/plants/property")
     public ResponseEntity<?> showComp(@RequestBody Map<String,String> realCompsNames, @RequestParam(value = "plant_name") String plantName,@RequestParam(value = "comp_name") String compName) {

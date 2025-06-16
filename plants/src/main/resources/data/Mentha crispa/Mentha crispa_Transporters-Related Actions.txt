@@ -1,8 +1,0 @@
-Name	Activation_Prob	Compound	Another_Probs
-5 Hydroxytryptamine uptake stimulant	0.296	COMP1973	(0.280 COMP155) (0.261 COMP153)
-Electron transport complex I inhibitor	0.199	COMP1973	
-Excitatory amino acid transporter EAAC1 inhibitor	0.112	COMP155	
-GABA uptake inhibitor	0.054	COMP155	(0.044 COMP153) (0.037 COMP1973)
-P-glycoprotein inhibitor	0.308	COMP1973	(0.230 COMP155) (0.189 COMP153)
-Sodium-dependent vitamin C transporter 2 inhibitor	0.037	COMP1973	
-Sodium/glucose cotransporter 2 inhibitor	0.026	COMP1973	

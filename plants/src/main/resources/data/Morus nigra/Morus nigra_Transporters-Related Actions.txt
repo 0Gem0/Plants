@@ -1,6 +1,0 @@
-Name	Activation_Prob	Compound	Another_Probs
-5 Hydroxytryptamine uptake stimulant	0.210	COMP3121	
-Electron transport complex I inhibitor	0.432	COMP3118	(0.294 COMP3119) (0.214 COMP3121) (0.207 COMP3122) (0.180 COMP3120) (0.136 COMP3123)
-Multidrug resistance-associated protein 1 inhibitor	0.164	COMP3121	(0.138 COMP3119) (0.100 COMP3118)
-P-glycoprotein inhibitor	0.481	COMP3121	(0.351 COMP3119) (0.263 COMP3118) (0.242 COMP3120) (0.234 COMP3123) (0.180 COMP3122)
-Sodium/bile acid cotransporter inhibitor	0.223	COMP3121	

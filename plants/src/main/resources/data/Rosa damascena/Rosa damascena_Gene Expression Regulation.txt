@@ -1,9 +1,0 @@
-Name	Activation_Prob	Compound	Another_Probs
-AR expression inhibitor	0.706	COMP524	
-CTGF expression inhibitor	0.302	COMP524	
-ICAM1 expression inhibitor	0.340	COMP524	
-LDLR expression enhancer	0.273	COMP524	
-NOS2 expression inhibitor	0.640	COMP524	
-NOS3 expression inhibitor	0.384	COMP524	
-TNF expression inhibitor	0.887	COMP524	
-VCAM1 expression inhibitor	0.401	COMP524	

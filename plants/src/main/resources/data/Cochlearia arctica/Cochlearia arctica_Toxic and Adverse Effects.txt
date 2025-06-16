@@ -1,9 +1,0 @@
-Name	Activation_Prob	Compound	Another_Probs
-Abortion inducer	0.205	COMP1707	
-Cytotoxic	0.240	COMP1707	(0.210 COMP1708)
-Embryotoxic	0.215	COMP1707	
-Mutagenic	0.159	COMP1708	
-Pneumotoxic	0.167	COMP1707	
-Sensitization	0.240	COMP1707	(0.150 COMP1708)
-Skin irritative effect	0.113	COMP1707	
-Teratogen	0.236	COMP1707	
