@@ -42,11 +42,6 @@ public class PlantsController {
         return parcer.getNames();
     }
 
-//    @GetMapping("/plants/deleteAll")
-//    public List<String> deletePlants(){
-//        return ;
-//    }
-
     @PostMapping("/plants/property")
     public ResponseEntity<?> showComp(@RequestBody Map<String,String> realCompsNames, @RequestParam(value = "plant_name") String plantName,@RequestParam(value = "comp_name") String compName) {
         try {
@@ -58,10 +53,8 @@ public class PlantsController {
                         .body("Изображение не найдено для компонента: " + compName);
             }
 
-            // допустим, ты как-то получаешь объект Component
             Compound component = parcer.getCompoundWrapper(realCompsNames,plantName,compName);
 
-            // кодируем картинку
             String base64Image = Base64.getEncoder().encodeToString(bytes);
 
             Map<String, Object> response = new HashMap<>();
