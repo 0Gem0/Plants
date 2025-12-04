@@ -15,20 +15,18 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
-//"D:/Проект/data/data"
+
 
 @Service
 public class Parcer {
 
     @Value("${data.folder}")
     private String dataFolderPath;
-//    public static String plantName = "Achillea millefolium";
-//    public static Plant plant = new Plant();
 
     public List<String> getNames(){
         List<String> names = new ArrayList<>();
         Path dataFolder = Paths.get(dataFolderPath);
-        try (Stream<Path> subFolders = Files.list(dataFolder)) { // Получаем список элементов в data
+        try (Stream<Path> subFolders = Files.list(dataFolder)) { 
             subFolders.filter(Files::isDirectory)
                     .forEach(path -> names.add(path.getFileName().toString()));
         } catch (IOException e) {
@@ -94,7 +92,7 @@ public class Parcer {
                             }
 
                             ObjectNode root = objectMapper.createObjectNode();
-                            root.set(propertyName, formattedArray); // <-- ключ берется из запроса
+                            root.set(propertyName, formattedArray); // ключ берется из запроса
                             return root;
 
                         } catch (IOException e) {
