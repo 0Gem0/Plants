@@ -20,8 +20,8 @@ import java.util.*;
 @RestController
 @RequestMapping("/api")
 public class PlantsController {
-    private SomeOtherClass someOtherClass;
-    private Parcer parcer;
+    private final SomeOtherClass someOtherClass;
+    private final Parcer parcer;
 
     @Autowired
     public PlantsController(SomeOtherClass someOtherClass, Parcer parcer) {
